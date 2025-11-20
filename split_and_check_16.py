@@ -19,6 +19,7 @@ DNS_TIMEOUT = 2
 DELETE_COUNTER_FILE = os.path.join(DIST_DIR, "delete_counter.bin")
 NOT_WRITTEN_FILE = os.path.join(DIST_DIR, "not_written_counter.bin")
 RETRY_FILE = os.path.join(DIST_DIR, "retry_rules.txt")
+MASTER_RULE = os.path.join(DIST_DIR, "merged_rules.txt")
 DELETE_THRESHOLD = 4
 DNS_BATCH_SIZE = 540
 WRITE_COUNTER_MAX = 6
