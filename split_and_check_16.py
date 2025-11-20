@@ -222,7 +222,7 @@ def update_not_written_counter(part_num, tmp_rules, validated_rules):
 # ===============================
 def download_all_sources():
     """
-    下载所有规则源，合并规则，并生成 merged_rules.txt 文件
+    下载所有规则源，合并规则，过滤并更新删除计数
     """
     if not os.path.exists(URLS_TXT):
         print("❌ urls.txt 不存在")
@@ -247,7 +247,7 @@ def download_all_sources():
     print(f"✅ 合并 {len(merged)} 条规则")
     with open(MASTER_RULE, "w", encoding="utf-8") as f:
         f.write("\n".join(sorted(merged)))
-
+    
     # 过滤和更新删除计数 >=7 的规则
     filtered_rules, updated_delete_counter, skipped_count = filter_and_update_high_delete_count_rules(merged)
     save_bin(DELETE_COUNTER_FILE, updated_delete_counter)
@@ -256,8 +256,9 @@ def download_all_sources():
 
     # 切分规则
     split_parts(filtered_rules)
-
+    
     return True
+
 # ===============================
 # 函数定义区
 # ===============================
