@@ -220,7 +220,6 @@ def update_not_written_counter(part_num, tmp_rules, validated_rules):
 # ===============================
 # 下载并合并规则源
 # ===============================
-# 定义下载规则并合并规则的函数
 def download_all_sources():
     """
     下载所有规则源，合并规则，并生成 merged_rules.txt 文件
@@ -248,7 +247,7 @@ def download_all_sources():
     print(f"✅ 合并 {len(merged)} 条规则")
     with open(MASTER_RULE, "w", encoding="utf-8") as f:
         f.write("\n".join(sorted(merged)))
-    
+
     # 过滤和更新删除计数 >=7 的规则
     filtered_rules, updated_delete_counter, skipped_count = filter_and_update_high_delete_count_rules(merged)
     save_bin(DELETE_COUNTER_FILE, updated_delete_counter)
@@ -257,7 +256,7 @@ def download_all_sources():
 
     # 切分规则
     split_parts(filtered_rules)
-    
+
     return True
 # ===============================
 # 函数定义区
@@ -420,20 +419,32 @@ def process_part(part_num):
 
     # 读取当前分片的规则文件
     part_file = os.path.join(TMP_DIR, f"part_{part_num}.txt")
-    tmp_rules = set(open(part_file, "r", encoding="utf-8").read().splitlines()) if os.path.exists(part_file) else set()
+    if os.path.exists(part_file):
+        with open(part_file, "r", encoding="utf-8") as f:
+            tmp_rules = set(f.read().splitlines())
+    else:
+        tmp_rules = set()
 
     # 读取合并规则文件
-    with open(MASTER_RULE, "r", encoding="utf-8") as f:
-        merged_rules = set(f.read().splitlines())
+    try:
+        with open(MASTER_RULE, "r", encoding="utf-8") as f:
+            merged_rules = set(f.read().splitlines())
+    except FileNotFoundError:
+        print(f"⚠ {MASTER_RULE} 文件缺失")
+        merged_rules = set()
 
     # 获取当前已验证的规则
     validated_file = os.path.join(DIST_DIR, f"{part_key}.txt")
-    validated_rules = set(open(validated_file, "r", encoding="utf-8").read().splitlines()) if os.path.exists(validated_file) else set()
+    if os.path.exists(validated_file):
+        with open(validated_file, "r", encoding="utf-8") as f:
+            validated_rules = set(f.read().splitlines())
+    else:
+        validated_rules = set()
 
-    # 更新 `not_written_counter.bin`
+    # 更新 `not_written_counter.bin` 计数器
     to_retry = update_not_written_counter(part_num, tmp_rules, validated_rules)
 
-    # 使用并行化处理
+    # 使用并行化处理 `write_counter <= 0` 的规则
     retry_rules = process_write_counter_zero_parallel(to_retry, validated_rules, part_num, merged_rules)
 
     # 返回重试规则
@@ -444,20 +455,30 @@ for part_num in range(1, PARTS + 1):
     retry_rules = process_part(part_num)
     if retry_rules:
         print(f"🔥 {len(retry_rules)} 条规则需要重试，写入 {RETRY_FILE}")
+        with open(RETRY_FILE, "a", encoding="utf-8") as rf:
+            rf.write("\n".join(retry_rules) + "\n")
 
 # ===============================
 # 主入口
 # ===============================
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--part", help="验证指定分片 1~16")
+    parser = argparse.ArgumentParser(description="处理 DNS 规则的分片")
+    parser.add_argument("--part", type=int, help="验证指定分片 1~16")
     parser.add_argument("--force-update", action="store_true", help="强制重新下载规则源并切片")
     args = parser.parse_args()
 
     if args.force_update:
+        print("⚠ 强制更新中，正在下载并切片规则...")
         download_all_sources()
+
+    # 检查 merged_rules.txt 和分片文件是否存在，若不存在则自动拉取
     if not os.path.exists(MASTER_RULE) or not os.path.exists(os.path.join(TMP_DIR, "part_01.txt")):
-        print("⚠ 缺少规则或分片，自动拉取")
+        print("⚠ 缺少规则或分片，自动拉取...")
         download_all_sources()
+
+    # 如果指定了 --part 参数，验证指定的分片
     if args.part:
-        process_part(args.part)
+        if 1 <= args.part <= 16:
+            process_part(args.part)
+        else:
+            print("⚠ 错误：分片号必须在 1 到 16 之间！")
