@@ -63,10 +63,14 @@ def load_bin(path):
                     print(f"⚠ 警告：{path} 内容不是字典类型，已重置为空字典")
                     data = {}
             return data
+        except msgpack.exceptions.ExtraData as e:
+            print(f"⚠ {path} 读取错误: {e}. 重新初始化该文件为空字典。")
+            return {}  # 如果有额外数据，返回空字典
         except Exception as e:
             print(f"⚠ 读取 {path} 错误: {e}")
             return {}
     return {}
+
 
 # ================================
 # 二进制读写（msgpack）
