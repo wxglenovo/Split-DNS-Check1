@@ -302,6 +302,8 @@ def load_balance_failed_rules(part_buckets, counter):
     return part_buckets
 
 
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
 # ===============================
 # DNS 验证
 # ===============================
@@ -341,7 +343,7 @@ def dns_validate(rules, part):
 def update_not_written_counter(part_num):
     part_key = f"validated_part_{part_num}"
     counter = load_bin(NOT_WRITTEN_FILE)
-    
+
     # 初始化每个 part 的计数器
     for i in range(1, PARTS + 1):
         counter.setdefault(f"validated_part_{i}", {})
@@ -358,14 +360,14 @@ def update_not_written_counter(part_num):
     # 将新验证的规则的 write_counter 设置为最大值
     for r in tmp_rules:
         part_counter[r] = WRITE_COUNTER_MAX
-    
+
     # 递减已验证但未出现在新规则中的规则的 write_counter，并确保不超过最大值
     for r in existing_rules - tmp_rules:
         part_counter[r] = max(part_counter.get(r, WRITE_COUNTER_MAX) - 1, 0)  # 确保不小于 0 且不超过 WRITE_COUNTER_MAX
     
     # 找出 write_counter <= 0 的规则，准备重试
     to_retry = [r for r in existing_rules if part_counter.get(r, 0) <= 0]
-    
+
     # 如果有规则需要重试，将它们写入 retry_rules.txt
     if to_retry:
         with open(RETRY_FILE, "a", encoding="utf-8") as rf:
@@ -401,17 +403,23 @@ def process_part(part):
     if not os.path.exists(part_file):
         print("❌ 分片仍不存在，终止")
         return
+
     lines = [l.strip() for l in open(part_file, "r", encoding="utf-8").read().splitlines()]
     print(f"⏱ 验证分片 {part}, 共 {len(lines)} 条规则")
+
     out_file = os.path.join(DIST_DIR, f"validated_part_{part}.txt")
     old_rules = set(open(out_file, "r", encoding="utf-8").read().splitlines()) if os.path.exists(out_file) else set()
+
     delete_counter = load_bin(DELETE_COUNTER_FILE)
     rules_to_validate = [r for r in lines if int(delete_counter.get(r, 4)) < 7]
+
     for r in lines:
         if int(delete_counter.get(r, 4)) >= 7:
             delete_counter[r] = int(delete_counter.get(r, 4)) + 1
+
     final_rules = set(old_rules)
     valid = dns_validate(rules_to_validate, part)
+
     added_count = 0
     failure_counts = {}
     for r in rules_to_validate:
@@ -425,7 +433,9 @@ def process_part(part):
             failure_counts[fc] = failure_counts.get(fc, 0) + 1
             if delete_counter[r] >= DELETE_THRESHOLD:
                 final_rules.discard(r)
+
     save_bin(DELETE_COUNTER_FILE, delete_counter)
+
     deleted_validated = update_not_written_counter(part)
     total_count = len(final_rules)
 
