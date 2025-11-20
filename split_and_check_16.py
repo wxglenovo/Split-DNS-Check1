@@ -220,11 +220,10 @@ def update_not_written_counter(part_num, tmp_rules, validated_rules):
 # ===============================
 # 下载并合并规则源
 # ===============================
-import requests
-
+# 定义下载规则并合并规则的函数
 def download_all_sources():
     """
-    下载所有规则源，合并规则，过滤并更新删除计数
+    下载所有规则源，合并规则，并生成 merged_rules.txt 文件
     """
     if not os.path.exists(URLS_TXT):
         print("❌ urls.txt 不存在")
@@ -260,7 +259,6 @@ def download_all_sources():
     split_parts(filtered_rules)
     
     return True
-
 # ===============================
 # 函数定义区
 # ===============================
