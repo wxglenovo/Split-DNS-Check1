@@ -317,7 +317,7 @@ def dns_validate(rules, part):
     if retry_rules:
         with open(RETRY_FILE, "w", encoding="utf-8") as f:
             f.write("")
-        print(f"🔁 将 {len(retry_rules)} 条 retry_rules 插入分片顶部并清空 {RETRY_FILE}")
+
     valid_rules = []
     total_rules = len(combined_rules)
     with ThreadPoolExecutor(max_workers=DNS_THREADS) as executor:
