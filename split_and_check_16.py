@@ -218,6 +218,7 @@ def update_not_written_counter(part_num, tmp_rules, validated_rules):
     # 返回需要重试的规则
     return to_retry
 
+
 # ===============================
 # 下载所有规则源并生成合并规则
 # ===============================
@@ -259,7 +260,6 @@ def download_all_sources():
     split_parts(filtered_rules)
     
     return True
-    
 # ===============================
 # 函数定义区
 # ===============================
