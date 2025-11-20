@@ -220,6 +220,8 @@ def update_not_written_counter(part_num, tmp_rules, validated_rules):
 # ===============================
 # 下载并合并规则源
 # ===============================
+import requests
+
 def download_all_sources():
     """
     下载所有规则源，合并规则，过滤并更新删除计数
