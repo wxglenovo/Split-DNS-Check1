@@ -4,11 +4,14 @@ $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 &zoneid=*&ad_$popup
 *videoclick*
 -468x80.
+-adrevenue.appsflyersdk.com^
 -consent-banner-
 -consent-banner.
 -facebook-share.
 -social-panel/
 -sprite-social-
+-ulog-*.kwaipros.com^
+.3.n.2.2.l30.js
 .468x60/
 .adserver.
 .alcmpn.com/
@@ -566,6 +569,7 @@ $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 3prn.com##.w-spots
 404media.co##.promo-unit
 404media.co#?#.post__content > p:has-text(This segment is a paid ad)
+45.82.68.79^
 48hills.org##.hills-adlabel
 4rfv.co.uk##a[href][onclick^="tAjax"]
 51.ca##.a-list-carousel-d-box
@@ -607,10 +611,13 @@ $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 ://plausible.*/api/event|
 :800*/sc/*n=$script,third-party
 :8888/js/cctv.js
+<!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="2gQFDaflBTlCMQpJsDZn1GFcEf44SbTuPBpsjpcIV+raLFmX16CORS9zgIzFBPa/vGd+djhKzk9+tzSOC3S8pg==" />
 <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="ZD2p2GGYZVl0g5z71ySSBhfdaSpP9G0+WCLsRQLzfTSj41k9UipfY1H+BLqV2tb5I9s/indmkXE7y/5l86ZsgA==" />
 </a>          </div>
 </a>    <tool-tip id="tooltip-849b6dcc-ac0e-4811-9d79-615b1b7f8b20" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</button><tool-tip id="tooltip-179f290e-291f-4018-9ea8-f2e91347c4c4" for="icon-button-d7e6566c-c4eb-4a41-8090-05a721bb4ca7" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 </button><tool-tip id="tooltip-6c49fcda-082b-4dca-bed3-6db05dc27078" for="action-menu-ac426551-38d0-4b81-89ac-d4866515fb52-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-7f3333ce-28c7-4e26-82cd-c7826e5fcb5c" for="action-menu-618eb2ac-0781-480f-907e-e7fbd60fce69-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 </button><tool-tip id="tooltip-c3661134-1dbe-400d-a394-a700affd6ad3" for="icon-button-1f0f3366-deb4-4c56-b36e-5c9b598e28f6" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 </button><tool-tip id="tooltip-f7bb00d9-b257-4ad2-a001-c9c213904537" for="icon-button-f4d8f44a-37df-40db-8a1a-0a3e3da7d67b" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 </qbsearch-input>
@@ -627,6 +634,7 @@ $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 <a href="/privacy-protection-tools/anti-AD/forks" data-view-component="true" class="Link Link--muted"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
 <a href="https://github.com/scripthunter7" class="Link--primary no-underline flex-self-center">
 <a id="wiki-tab" href="/cjx82630/cjxlist/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /cjx82630/cjxlist/wiki" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g w" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Wiki&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+<a tabindex="-1" id="item-d010344f-40af-4aa2-9b4e-30a4dd65d118" href="/privacy-protection-tools/anti-AD" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <button autofocus class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
 <button id="action-menu-5a8b104f-3aba-4a4d-8a12-58a051c193f9-button" popovertarget="action-menu-5a8b104f-3aba-4a4d-8a12-58a051c193f9-overlay" aria-controls="action-menu-5a8b104f-3aba-4a4d-8a12-58a051c193f9-list" aria-haspopup="true" aria-labelledby="tooltip-aa0a1225-4c91-45e6-870a-e095f0020fff" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
 <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 pt-2 pt-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 dropdown-menu-wide">
@@ -638,17 +646,23 @@ $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 <div class="mb-2">
 <div class="my-3">
 <div data-target="react-partial.reactRoot"> <!-- --> <!-- --> <div class="OverviewContent-module__Box--uNd1J"><div class="OverviewHeader-module__Box--fFKf5"></div><div class="OverviewContent-module__Box_1--RhaEy"><div class="OverviewContent-module__Box_2--uHewD"><div class="OverviewContent-module__Box_3--NEYWl"><button type="button" aria-haspopup="true" aria-expanded="false" tabindex="0" style="min-width:0" aria-label="master branch" data-testid="anchor-button" class="prc-Button-ButtonBase-c50BI overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn--D34zl" data-loading="false" data-size="medium" data-variant="default" aria-describedby="ref-picker-repos-header-ref-selector-loading-announcement" id="ref-picker-repos-header-ref-selector"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="text" class="prc-Button-Label-pTQ3x"><div class="RefSelectorAnchoredOverlay-module__RefSelectorOverlayContainer--mCbv8"><div class="RefSelectorAnchoredOverlay-module__RefSelectorOverlayHeader--D4cnZ"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-branch" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path></svg></div><div class="ref-selector-button-text-container RefSelectorAnchoredOverlay-module__RefSelectorBtnTextContainer--yO402"><span class="RefSelectorAnchoredOverlay-module__RefSelectorText--bxVhQ"> <!-- -->master</span></div></div></span><span data-component="trailingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></span></button><button hidden="" data-testid="ref-selector-hotkey-button" data-hotkey-scope="read-only-cursor-text-area"></button></div><div class="OverviewContent-module__Box_4--rOz8J"><a type="button" href="/cjx82630/cjxlist/branches" class="prc-Button-ButtonBase-c50BI OverviewContent-module__Button--MDoYP" data-loading="false" data-size="medium" data-variant="invisible" aria-describedby=":Rclab:-loading-announcement"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="leadingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-branch" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path></svg></span><span data-component="text" class="prc-Button-Label-pTQ3x">Branches</span></span></a><a type="button" href="/cjx82630/cjxlist/tags" class="prc-Button-ButtonBase-c50BI OverviewContent-module__Button--MDoYP" data-loading="false" data-size="medium" data-variant="invisible" aria-describedby=":Rklab:-loading-announcement"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="leadingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-tag" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"></path></svg></span><span data-component="text" class="prc-Button-Label-pTQ3x">Tags</span></span></a></div><div class="OverviewContent-module__Box_5--PPbL1"><a type="button" aria-label="Go to Branches page" href="/cjx82630/cjxlist/branches" class="prc-Button-ButtonBase-c50BI OverviewContent-module__Button_1--_1Ng2" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="invisible" aria-describedby=":Relab:-loading-announcement"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-branch" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path></svg></a><a type="button" aria-label="Go to Tags page" href="/cjx82630/cjxlist/tags" class="prc-Button-ButtonBase-c50BI OverviewContent-module__Button_1--_1Ng2" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="invisible" aria-describedby=":Rmlab:-loading-announcement"><svg aria-hidden="true" focusable="false" class="octicon octicon-tag" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"></path></svg></a></div></div><div class="OverviewContent-module__Box_6--wV7Tw"><div class="OverviewContent-module__Box_7--SbxdI"><div class="OverviewContent-module__Box_8--oumpR"><!--$--><div class="Box-sc-62in7e-0 OverviewContent-module__FileResultsList--irMg6"><span class="TextInput__StyledTextInput-sc-ttxlvl-0 d-flex FileResultsList-module__FilesSearchBox--fSAh3 TextInput-wrapper prc-components-TextInputWrapper-i1ofR prc-components-TextInputBaseWrapper-ueK9q" data-leading-visual="true" data-trailing-visual="true" aria-busy="false"><span class="TextInput-icon" id=":R535ab:" aria-hidden="true"><svg aria-hidden="true" focusable="false" class="octicon octicon-search" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path></svg></span><input type="text" aria-label="Go to file" role="combobox" aria-controls="file-results-list" aria-expanded="false" aria-haspopup="dialog" autoCorrect="off" spellcheck="false" placeholder="Go to file" aria-describedby=":R535ab: :R535abH1:" data-component="input" class="prc-components-Input-Ic-y8" value=""/><span class="TextInput-icon" id=":R535abH1:" aria-hidden="true"></span></span></div><!--/$--></div><div class="OverviewContent-module__Box_9--mQYON"><button type="button" class="prc-Button-ButtonBase-c50BI" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-describedby=":R1j5ab:-loading-announcement"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="text" class="prc-Button-Label-pTQ3x">Go to file</span></span></button></div></div><button type="button" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-c50BI" data-loading="false" data-size="medium" data-variant="primary" aria-describedby=":R75ab:-loading-announcement" id=":R75ab:"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="leadingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-code hide-sm" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></span><span data-component="text" class="prc-Button-Label-pTQ3x">Code</span><span data-component="trailingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></span></button><div class="OverviewContent-module__Box_10--ULKAG"><button data-component="IconButton" type="button" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-c50BI prc-Button-IconButton-szpyj" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-describedby=":R95ab:-loading-announcement" aria-labelledby=":R7p5ab:" id=":R95ab:"><svg aria-hidden="true" focusable="false" class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-cYMVY" data-direction="n" aria-hidden="true" id=":R7p5ab:">Open more actions menu</span></div></div></div><div class="OverviewContent-module__Box_11--Tqhu2"><div data-hpc="true"><button hidden="" data-testid="focus-next-element-button" data-hotkey="j"></button><button hidden="" data-testid="focus-previous-element-button" data-hotkey="k"></button><h2 class="sr-only ScreenReaderHeading-module__userSelectNone--vlUbc prc-Heading-Heading-6CmGO" data-testid="screen-reader-heading" id="folders-and-files">Folders and files</h2><table class="Table-module__Box--KyMHK" aria-labelledby="folders-and-files"><thead class="DirectoryContent-module__OverviewHeaderRow--FlrUZ Table-module__Box_1--DkRqs"><tr class="Table-module__Box_2--l1wjV"><th colSpan="2" class="DirectoryContent-module__Box--y3Nvf"><span class="text-bold">Name</span></th><th colSpan="1" class="DirectoryContent-module__Box_1--xeAhp"><span class="text-bold">Name</span></th><th class="hide-sm"><div class="width-fit prc-Truncate-Truncate-A9Wn6" data-inline="true" title="Last commit message" style="--truncate-max-width:125px"><span class="text-bold">Last commit message</span></div></th><th colSpan="1" class="DirectoryContent-module__Box_2--h912w"><div class="width-fit prc-Truncate-Truncate-A9Wn6" data-inline="true" title="Last commit date" style="--truncate-max-width:125px"><span class="text-bold">Last commit date</span></div></th></tr></thead><tbody><tr class="DirectoryContent-module__Box_3--zI0N1"><td colSpan="3" class="bgColor-muted p-1 rounded-top-2"><div class="LatestCommit-module__Box--Fimpo"><h2 class="sr-only ScreenReaderHeading-module__userSelectNone--vlUbc prc-Heading-Heading-6CmGO" data-testid="screen-reader-heading">Latest commit</h2><div style="width:120px" class="Skeleton Skeleton--text" data-testid="loading"> </div><div class="d-flex flex-shrink-0 gap-2"><div data-testid="latest-commit-details" class="d-none d-sm-flex flex-items-center"></div><div class="d-flex gap-2"><h2 class="sr-only ScreenReaderHeading-module__userSelectNone--vlUbc prc-Heading-Heading-6CmGO" data-testid="screen-reader-heading">History</h2><a href="/cjx82630/cjxlist/commits/master/" class="prc-Button-ButtonBase-c50BI d-none d-lg-flex LinkButton-module__code-view-link-button--thtqc flex-items-center fgColor-default" data-loading="false" data-size="small" data-variant="invisible" aria-describedby=":Raqj8pab:-loading-announcement"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="leadingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-history" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path></svg></span><span data-component="text" class="prc-Button-Label-pTQ3x"><span class="fgColor-default">1,104 Commits</span></span></span></a><div class="d-sm-none"></div><div class="d-flex d-lg-none"><span role="tooltip" aria-label="1,104 Commits" id="history-icon-button-tooltip" class="prc-Tooltip-Tooltip--1XZX prc-Tooltip-Tooltip--n-BOOzB tooltipped-n"><a aria-label="View commit history for this file." href="/cjx82630/cjxlist/commits/master/" class="prc-Button-ButtonBase-c50BI LinkButton-module__code-view-link-button--thtqc flex-items-center fgColor-default" data-loading="false" data-size="small" data-variant="invisible" aria-describedby=":R1iqj8pab:-loading-announcement history-icon-button-tooltip"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="leadingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-history" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path></svg></span></span></a></span></div></div></div></div></td></tr><tr class="react-directory-row undefined" id="folder-row-0"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title=".gitattributes" aria-label=".gitattributes, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/.gitattributes" data-discover="true">.gitattributes</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title=".gitattributes" aria-label=".gitattributes, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/.gitattributes" data-discover="true">.gitattributes</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-1"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title=".gitignore" aria-label=".gitignore, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/.gitignore" data-discover="true">.gitignore</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title=".gitignore" aria-label=".gitignore, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/.gitignore" data-discover="true">.gitignore</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-2"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="LICENSE" aria-label="LICENSE, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/LICENSE" data-discover="true">LICENSE</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="LICENSE" aria-label="LICENSE, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/LICENSE" data-discover="true">LICENSE</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-3"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="README.md" aria-label="README.md, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/README.md" data-discover="true">README.md</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="README.md" aria-label="README.md, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/README.md" data-discover="true">README.md</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-4"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="cjx-annoyance.txt" aria-label="cjx-annoyance.txt, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/cjx-annoyance.txt" data-discover="true">cjx-annoyance.txt</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="cjx-annoyance.txt" aria-label="cjx-annoyance.txt, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/cjx-annoyance.txt" data-discover="true">cjx-annoyance.txt</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-5"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="cjx-ublock.txt" aria-label="cjx-ublock.txt, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/cjx-ublock.txt" data-discover="true">cjx-ublock.txt</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="cjx-ublock.txt" aria-label="cjx-ublock.txt, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/cjx-ublock.txt" data-discover="true">cjx-ublock.txt</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-6"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="cjxlist.txt" aria-label="cjxlist.txt, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/cjxlist.txt" data-discover="true">cjxlist.txt</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="cjxlist.txt" aria-label="cjxlist.txt, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/cjxlist.txt" data-discover="true">cjxlist.txt</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-7"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="issue_template.md" aria-label="issue_template.md, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/issue_template.md" data-discover="true">issue_template.md</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="issue_template.md" aria-label="issue_template.md, (File)" class="Link--primary" href="/cjx82630/cjxlist/blob/master/issue_template.md" data-discover="true">issue_template.md</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="d-none DirectoryContent-module__Box_4--QyUbd" data-testid="view-all-files-row"><td colSpan="3" class="DirectoryContent-module__Box_5--OJZQU"><div><button class="prc-Link-Link-85e08">View all files</button></div></td></tr></tbody></table></div><div class="OverviewRepoFiles-module__Box_1--xSt0T"><div class="OverviewRepoFiles-module__Box_2--yIjMp"><div itemscope="" itemType="https://schema.org/abstract" class="OverviewRepoFiles-module__Box_3--Bi2jM"><h2 class="prc-src-InternalVisuallyHidden-nlR9R">Repository files navigation</h2><nav class="prc-components-UnderlineWrapper-oOh5J OverviewRepoFiles-module__UnderlineNav--BHfFi" aria-label="Repository files" data-variant="inset"><ul class="prc-components-UnderlineItemList-b23Hf" role="list"><li class="prc-UnderlineNav-UnderlineNavItem--xDk1"><a href="#" aria-current="page" class="prc-components-UnderlineItem-lJsg-"><span data-component="icon"><svg aria-hidden="true" focusable="false" class="octicon octicon-book" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path></svg></span><span data-component="text" data-content="README">README</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem--xDk1"><a href="#" class="prc-components-UnderlineItem-lJsg-"><span data-component="icon"><svg aria-hidden="true" focusable="false" class="octicon octicon-law" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8.75.75V2h.985c.304 0 .603.08.867.231l1.29.736c.038.022.08.033.124.033h2.234a.75.75 0 0 1 0 1.5h-.427l2.111 4.692a.75.75 0 0 1-.154.838l-.53-.53.529.531-.001.002-.002.002-.006.006-.006.005-.01.01-.045.04c-.21.176-.441.327-.686.45C14.556 10.78 13.88 11 13 11a4.498 4.498 0 0 1-2.023-.454 3.544 3.544 0 0 1-.686-.45l-.045-.04-.016-.015-.006-.006-.004-.004v-.001a.75.75 0 0 1-.154-.838L12.178 4.5h-.162c-.305 0-.604-.079-.868-.231l-1.29-.736a.245.245 0 0 0-.124-.033H8.75V13h2.5a.75.75 0 0 1 0 1.5h-6.5a.75.75 0 0 1 0-1.5h2.5V3.5h-.984a.245.245 0 0 0-.124.033l-1.289.737c-.265.15-.564.23-.869.23h-.162l2.112 4.692a.75.75 0 0 1-.154.838l-.53-.53.529.531-.001.002-.002.002-.006.006-.016.015-.045.04c-.21.176-.441.327-.686.45C4.556 10.78 3.88 11 3 11a4.498 4.498 0 0 1-2.023-.454 3.544 3.544 0 0 1-.686-.45l-.045-.04-.016-.015-.006-.006-.004-.004v-.001a.75.75 0 0 1-.154-.838L2.178 4.5H1.75a.75.75 0 0 1 0-1.5h2.234a.249.249 0 0 0 .125-.033l1.288-.737c.265-.15.564-.23.869-.23h.984V.75a.75.75 0 0 1 1.5 0Zm2.945 8.477c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327Zm-10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327Z"></path></svg></span><span data-component="text" data-content="LGPL-3.0 license">LGPL-3.0 license</span></a></li></ul></nav><button type="button" aria-label="Outline" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-c50BI OverviewRepoFiles-module__ActionMenu_Button--xB9DS" data-loading="false" data-size="medium" data-variant="invisible" aria-describedby=":Rr9ab:-loading-announcement" id=":Rr9ab:"><svg aria-hidden="true" focusable="false" class="octicon octicon-list-unordered" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M5.75 2.5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5ZM2 14a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm1-6a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM2 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg></button></div><div class="Box-sc-62in7e-0 js-snippet-clipboard-copy-unpositioned DirectoryRichtextContent-module__SharedMarkdownContent--BTKsc" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><strong>cjxlist说明</strong><br></h2><a id="user-content-cjxlist说明" class="anchor" aria-label="Permalink: cjxlist说明" href="#cjxlist说明"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div data-target="react-partial.reactRoot"> <!-- --> <!-- --> <div class="OverviewContent-module__Box--uNd1J"><div class="OverviewHeader-module__Box--fFKf5"></div><div class="OverviewContent-module__Box_1--RhaEy"><div class="OverviewContent-module__Box_2--uHewD"><div class="OverviewContent-module__Box_3--NEYWl"><button type="button" aria-haspopup="true" aria-expanded="false" tabindex="0" style="min-width:0" aria-label="master branch" data-testid="anchor-button" class="prc-Button-ButtonBase-c50BI overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn--D34zl" data-loading="false" data-size="medium" data-variant="default" aria-describedby="ref-picker-repos-header-ref-selector-loading-announcement" id="ref-picker-repos-header-ref-selector"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="text" class="prc-Button-Label-pTQ3x"><div class="RefSelectorAnchoredOverlay-module__RefSelectorOverlayContainer--mCbv8"><div class="RefSelectorAnchoredOverlay-module__RefSelectorOverlayHeader--D4cnZ"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-branch" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path></svg></div><div class="ref-selector-button-text-container RefSelectorAnchoredOverlay-module__RefSelectorBtnTextContainer--yO402"><span class="RefSelectorAnchoredOverlay-module__RefSelectorText--bxVhQ"> <!-- -->master</span></div></div></span><span data-component="trailingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></span></button><button hidden="" data-testid="ref-selector-hotkey-button" data-hotkey-scope="read-only-cursor-text-area"></button></div><div class="OverviewContent-module__Box_4--rOz8J"><a type="button" href="/privacy-protection-tools/anti-AD/branches" class="prc-Button-ButtonBase-c50BI OverviewContent-module__Button--MDoYP" data-loading="false" data-size="medium" data-variant="invisible" aria-describedby=":Rclab:-loading-announcement"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="leadingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-branch" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path></svg></span><span data-component="text" class="prc-Button-Label-pTQ3x">Branches</span></span></a><a type="button" href="/privacy-protection-tools/anti-AD/tags" class="prc-Button-ButtonBase-c50BI OverviewContent-module__Button--MDoYP" data-loading="false" data-size="medium" data-variant="invisible" aria-describedby=":Rklab:-loading-announcement"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="leadingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-tag" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"></path></svg></span><span data-component="text" class="prc-Button-Label-pTQ3x">Tags</span></span></a></div><div class="OverviewContent-module__Box_5--PPbL1"><a type="button" aria-label="Go to Branches page" href="/privacy-protection-tools/anti-AD/branches" class="prc-Button-ButtonBase-c50BI OverviewContent-module__Button_1--_1Ng2" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="invisible" aria-describedby=":Relab:-loading-announcement"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-branch" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path></svg></a><a type="button" aria-label="Go to Tags page" href="/privacy-protection-tools/anti-AD/tags" class="prc-Button-ButtonBase-c50BI OverviewContent-module__Button_1--_1Ng2" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="invisible" aria-describedby=":Rmlab:-loading-announcement"><svg aria-hidden="true" focusable="false" class="octicon octicon-tag" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"></path></svg></a></div></div><div class="OverviewContent-module__Box_6--wV7Tw"><div class="OverviewContent-module__Box_7--SbxdI"><div class="OverviewContent-module__Box_8--oumpR"><!--$--><div class="Box-sc-62in7e-0 OverviewContent-module__FileResultsList--irMg6"><span class="TextInput__StyledTextInput-sc-ttxlvl-0 d-flex FileResultsList-module__FilesSearchBox--fSAh3 TextInput-wrapper prc-components-TextInputWrapper-i1ofR prc-components-TextInputBaseWrapper-ueK9q" data-leading-visual="true" data-trailing-visual="true" aria-busy="false"><span class="TextInput-icon" id=":R535ab:" aria-hidden="true"><svg aria-hidden="true" focusable="false" class="octicon octicon-search" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path></svg></span><input type="text" aria-label="Go to file" role="combobox" aria-controls="file-results-list" aria-expanded="false" aria-haspopup="dialog" autoCorrect="off" spellcheck="false" placeholder="Go to file" aria-describedby=":R535ab: :R535abH1:" data-component="input" class="prc-components-Input-Ic-y8" value=""/><span class="TextInput-icon" id=":R535abH1:" aria-hidden="true"></span></span></div><!--/$--></div><div class="OverviewContent-module__Box_9--mQYON"><button type="button" class="prc-Button-ButtonBase-c50BI" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-describedby=":R1j5ab:-loading-announcement"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="text" class="prc-Button-Label-pTQ3x">Go to file</span></span></button></div></div><button type="button" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-c50BI" data-loading="false" data-size="medium" data-variant="primary" aria-describedby=":R75ab:-loading-announcement" id=":R75ab:"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="leadingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-code hide-sm" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></span><span data-component="text" class="prc-Button-Label-pTQ3x">Code</span><span data-component="trailingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></span></button><div class="OverviewContent-module__Box_10--ULKAG"><button data-component="IconButton" type="button" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-c50BI prc-Button-IconButton-szpyj" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-describedby=":R95ab:-loading-announcement" aria-labelledby=":R7p5ab:" id=":R95ab:"><svg aria-hidden="true" focusable="false" class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-cYMVY" data-direction="n" aria-hidden="true" id=":R7p5ab:">Open more actions menu</span></div></div></div><div class="OverviewContent-module__Box_11--Tqhu2"><div data-hpc="true"><button hidden="" data-testid="focus-next-element-button" data-hotkey="j"></button><button hidden="" data-testid="focus-previous-element-button" data-hotkey="k"></button><h2 class="sr-only ScreenReaderHeading-module__userSelectNone--vlUbc prc-Heading-Heading-6CmGO" data-testid="screen-reader-heading" id="folders-and-files">Folders and files</h2><table class="Table-module__Box--KyMHK" aria-labelledby="folders-and-files"><thead class="DirectoryContent-module__OverviewHeaderRow--FlrUZ Table-module__Box_1--DkRqs"><tr class="Table-module__Box_2--l1wjV"><th colSpan="2" class="DirectoryContent-module__Box--y3Nvf"><span class="text-bold">Name</span></th><th colSpan="1" class="DirectoryContent-module__Box_1--xeAhp"><span class="text-bold">Name</span></th><th class="hide-sm"><div class="width-fit prc-Truncate-Truncate-A9Wn6" data-inline="true" title="Last commit message" style="--truncate-max-width:125px"><span class="text-bold">Last commit message</span></div></th><th colSpan="1" class="DirectoryContent-module__Box_2--h912w"><div class="width-fit prc-Truncate-Truncate-A9Wn6" data-inline="true" title="Last commit date" style="--truncate-max-width:125px"><span class="text-bold">Last commit date</span></div></th></tr></thead><tbody><tr class="DirectoryContent-module__Box_3--zI0N1"><td colSpan="3" class="bgColor-muted p-1 rounded-top-2"><div class="LatestCommit-module__Box--Fimpo"><h2 class="sr-only ScreenReaderHeading-module__userSelectNone--vlUbc prc-Heading-Heading-6CmGO" data-testid="screen-reader-heading">Latest commit</h2><div style="width:120px" class="Skeleton Skeleton--text" data-testid="loading"> </div><div class="d-flex flex-shrink-0 gap-2"><div data-testid="latest-commit-details" class="d-none d-sm-flex flex-items-center"></div><div class="d-flex gap-2"><h2 class="sr-only ScreenReaderHeading-module__userSelectNone--vlUbc prc-Heading-Heading-6CmGO" data-testid="screen-reader-heading">History</h2><a href="/privacy-protection-tools/anti-AD/commits/master/" class="prc-Button-ButtonBase-c50BI d-none d-lg-flex LinkButton-module__code-view-link-button--thtqc flex-items-center fgColor-default" data-loading="false" data-size="small" data-variant="invisible" aria-describedby=":Raqj8pab:-loading-announcement"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="leadingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-history" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path></svg></span><span data-component="text" class="prc-Button-Label-pTQ3x"><span class="fgColor-default">2,082 Commits</span></span></span></a><div class="d-sm-none"></div><div class="d-flex d-lg-none"><span role="tooltip" aria-label="2,082 Commits" id="history-icon-button-tooltip" class="prc-Tooltip-Tooltip--1XZX prc-Tooltip-Tooltip--n-BOOzB tooltipped-n"><a aria-label="View commit history for this file." href="/privacy-protection-tools/anti-AD/commits/master/" class="prc-Button-ButtonBase-c50BI LinkButton-module__code-view-link-button--thtqc flex-items-center fgColor-default" data-loading="false" data-size="small" data-variant="invisible" aria-describedby=":R1iqj8pab:-loading-announcement history-icon-button-tooltip"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="leadingVisual" class="prc-Button-Visual-2epfX prc-Button-VisualWrap-Db-eB"><svg aria-hidden="true" focusable="false" class="octicon octicon-history" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path></svg></span></span></a></span></div></div></div></div></td></tr><tr class="react-directory-row undefined" id="folder-row-0"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-directory-fill icon-directory" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title=".github" aria-label=".github, (Directory)" class="Link--primary" href="/privacy-protection-tools/anti-AD/tree/master/.github" data-discover="true">.github</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-directory-fill icon-directory" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title=".github" aria-label=".github, (Directory)" class="Link--primary" href="/privacy-protection-tools/anti-AD/tree/master/.github" data-discover="true">.github</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-1"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-directory-fill icon-directory" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="discretion" aria-label="discretion, (Directory)" class="Link--primary" href="/privacy-protection-tools/anti-AD/tree/master/discretion" data-discover="true">discretion</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-directory-fill icon-directory" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="discretion" aria-label="discretion, (Directory)" class="Link--primary" href="/privacy-protection-tools/anti-AD/tree/master/discretion" data-discover="true">discretion</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-2"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-directory-fill icon-directory" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="others" aria-label="others, (Directory)" class="Link--primary" href="/privacy-protection-tools/anti-AD/tree/master/others" data-discover="true">others</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-directory-fill icon-directory" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="others" aria-label="others, (Directory)" class="Link--primary" href="/privacy-protection-tools/anti-AD/tree/master/others" data-discover="true">others</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-3"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title=".gitignore" aria-label=".gitignore, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/.gitignore" data-discover="true">.gitignore</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title=".gitignore" aria-label=".gitignore, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/.gitignore" data-discover="true">.gitignore</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-4"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="CODE_OF_CONDUCT.md" aria-label="CODE_OF_CONDUCT.md, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/CODE_OF_CONDUCT.md" data-discover="true">CODE_OF_CONDUCT.md</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="CODE_OF_CONDUCT.md" aria-label="CODE_OF_CONDUCT.md, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/CODE_OF_CONDUCT.md" data-discover="true">CODE_OF_CONDUCT.md</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-5"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="LICENSE" aria-label="LICENSE, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/LICENSE" data-discover="true">LICENSE</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="LICENSE" aria-label="LICENSE, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/LICENSE" data-discover="true">LICENSE</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-6"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="README.md" aria-label="README.md, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/README.md" data-discover="true">README.md</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="README.md" aria-label="README.md, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/README.md" data-discover="true">README.md</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-7"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="adblock-for-dnsmasq.conf" aria-label="adblock-for-dnsmasq.conf, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/adblock-for-dnsmasq.conf" data-discover="true">adblock-for-dnsmasq.conf</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="adblock-for-dnsmasq.conf" aria-label="adblock-for-dnsmasq.conf, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/adblock-for-dnsmasq.conf" data-discover="true">adblock-for-dnsmasq.conf</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-8"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-adguard.txt" aria-label="anti-ad-adguard.txt, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-adguard.txt" data-discover="true">anti-ad-adguard.txt</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-adguard.txt" aria-label="anti-ad-adguard.txt, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-adguard.txt" data-discover="true">anti-ad-adguard.txt</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row undefined" id="folder-row-9"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-adguard.txt.md5" aria-label="anti-ad-adguard.txt.md5, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-adguard.txt.md5" data-discover="true">anti-ad-adguard.txt.md5</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-adguard.txt.md5" aria-label="anti-ad-adguard.txt.md5, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-adguard.txt.md5" data-discover="true">anti-ad-adguard.txt.md5</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row truncate-for-mobile" id="folder-row-10"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-clash.yaml" aria-label="anti-ad-clash.yaml, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-clash.yaml" data-discover="true">anti-ad-clash.yaml</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-clash.yaml" aria-label="anti-ad-clash.yaml, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-clash.yaml" data-discover="true">anti-ad-clash.yaml</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row truncate-for-mobile" id="folder-row-11"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-domains.txt" aria-label="anti-ad-domains.txt, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-domains.txt" data-discover="true">anti-ad-domains.txt</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-domains.txt" aria-label="anti-ad-domains.txt, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-domains.txt" data-discover="true">anti-ad-domains.txt</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row truncate-for-mobile" id="folder-row-12"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-easylist.txt" aria-label="anti-ad-easylist.txt, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-easylist.txt" data-discover="true">anti-ad-easylist.txt</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-easylist.txt" aria-label="anti-ad-easylist.txt, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-easylist.txt" data-discover="true">anti-ad-easylist.txt</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row truncate-for-mobile" id="folder-row-13"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-easylist.txt.md5" aria-label="anti-ad-easylist.txt.md5, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-easylist.txt.md5" data-discover="true">anti-ad-easylist.txt.md5</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-easylist.txt.md5" aria-label="anti-ad-easylist.txt.md5, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-easylist.txt.md5" data-discover="true">anti-ad-easylist.txt.md5</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row truncate-for-mobile" id="folder-row-14"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-quanx.txt" aria-label="anti-ad-quanx.txt, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-quanx.txt" data-discover="true">anti-ad-quanx.txt</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-quanx.txt" aria-label="anti-ad-quanx.txt, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-quanx.txt" data-discover="true">anti-ad-quanx.txt</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row truncate-for-mobile" id="folder-row-15"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-smartdns.conf" aria-label="anti-ad-smartdns.conf, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-smartdns.conf" data-discover="true">anti-ad-smartdns.conf</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-smartdns.conf" aria-label="anti-ad-smartdns.conf, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-smartdns.conf" data-discover="true">anti-ad-smartdns.conf</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row truncate-for-mobile" id="folder-row-16"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-surge.txt" aria-label="anti-ad-surge.txt, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-surge.txt" data-discover="true">anti-ad-surge.txt</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-surge.txt" aria-label="anti-ad-surge.txt, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-surge.txt" data-discover="true">anti-ad-surge.txt</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row truncate-for-mobile" id="folder-row-17"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-surge2.txt" aria-label="anti-ad-surge2.txt, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-surge2.txt" data-discover="true">anti-ad-surge2.txt</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="anti-ad-surge2.txt" aria-label="anti-ad-surge2.txt, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/anti-ad-surge2.txt" data-discover="true">anti-ad-surge2.txt</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="react-directory-row truncate-for-mobile" id="folder-row-18"><td class="react-directory-row-name-cell-small-screen" colSpan="2"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="changelog.md" aria-label="changelog.md, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/changelog.md" data-discover="true">changelog.md</a></div></div></div></div></td><td class="react-directory-row-name-cell-large-screen" colSpan="1"><div class="react-directory-filename-column"><svg aria-hidden="true" focusable="false" class="octicon octicon-file color-fg-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg><div class="overflow-hidden"><div class="react-directory-filename-cell"><div class="react-directory-truncate"><a title="changelog.md" aria-label="changelog.md, (File)" class="Link--primary" href="/privacy-protection-tools/anti-AD/blob/master/changelog.md" data-discover="true">changelog.md</a></div></div></div></div></td><td class="react-directory-row-commit-cell"><div class="Skeleton Skeleton--text"> </div></td><td><div class="Skeleton Skeleton--text"> </div></td></tr><tr class="show-for-mobile DirectoryContent-module__Box_4--QyUbd" data-testid="view-all-files-row"><td colSpan="3" class="DirectoryContent-module__Box_5--OJZQU"><div><button class="prc-Link-Link-85e08">View all files</button></div></td></tr></tbody></table></div><div class="OverviewRepoFiles-module__Box_1--xSt0T"><div class="OverviewRepoFiles-module__Box_2--yIjMp"><div itemscope="" itemType="https://schema.org/abstract" class="OverviewRepoFiles-module__Box_3--Bi2jM"><h2 class="prc-src-InternalVisuallyHidden-nlR9R">Repository files navigation</h2><nav class="prc-components-UnderlineWrapper-oOh5J OverviewRepoFiles-module__UnderlineNav--BHfFi" aria-label="Repository files" data-variant="inset"><ul class="prc-components-UnderlineItemList-b23Hf" role="list"><li class="prc-UnderlineNav-UnderlineNavItem--xDk1"><a href="#" aria-current="page" class="prc-components-UnderlineItem-lJsg-"><span data-component="icon"><svg aria-hidden="true" focusable="false" class="octicon octicon-book" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path></svg></span><span data-component="text" data-content="README">README</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem--xDk1"><a href="#" class="prc-components-UnderlineItem-lJsg-"><span data-component="icon"><svg aria-hidden="true" focusable="false" class="octicon octicon-code-of-conduct" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8.048 2.241c.964-.709 2.079-1.238 3.325-1.241a4.616 4.616 0 0 1 3.282 1.355c.41.408.757.86.996 1.428.238.568.348 1.206.347 1.968 0 2.193-1.505 4.254-3.081 5.862-1.496 1.526-3.213 2.796-4.249 3.563l-.22.163a.749.749 0 0 1-.895 0l-.221-.163c-1.036-.767-2.753-2.037-4.249-3.563C1.51 10.008.007 7.952.002 5.762a4.614 4.614 0 0 1 1.353-3.407C3.123.585 6.223.537 8.048 2.24Zm-1.153.983c-1.25-1.033-3.321-.967-4.48.191a3.115 3.115 0 0 0-.913 2.335c0 1.556 1.109 3.24 2.652 4.813C5.463 11.898 6.96 13.032 8 13.805c.353-.262.758-.565 1.191-.905l-1.326-1.223a.75.75 0 0 1 1.018-1.102l1.48 1.366c.328-.281.659-.577.984-.887L9.99 9.802a.75.75 0 1 1 1.019-1.103l1.384 1.28c.295-.329.566-.661.81-.995L12.92 8.7l-1.167-1.168c-.674-.671-1.78-.664-2.474.03-.268.269-.538.537-.802.797-.893.882-2.319.843-3.185-.032-.346-.35-.693-.697-1.043-1.047a.75.75 0 0 1-.04-1.016c.162-.191.336-.401.52-.623.62-.748 1.356-1.637 2.166-2.417Zm7.112 4.442c.313-.65.491-1.293.491-1.916v-.001c0-.614-.088-1.045-.23-1.385-.143-.339-.357-.633-.673-.949a3.111 3.111 0 0 0-2.218-.915c-1.092.003-2.165.627-3.226 1.602-.823.755-1.554 1.637-2.228 2.45l-.127.154.562.566a.755.755 0 0 0 1.066.02l.794-.79c1.258-1.258 3.312-1.31 4.594-.032.396.394.792.791 1.173 1.173Z"></path></svg></span><span data-component="text" data-content="Code of conduct">Code of conduct</span></a></li><li class="prc-UnderlineNav-UnderlineNavItem--xDk1"><a href="#" class="prc-components-UnderlineItem-lJsg-"><span data-component="icon"><svg aria-hidden="true" focusable="false" class="octicon octicon-law" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8.75.75V2h.985c.304 0 .603.08.867.231l1.29.736c.038.022.08.033.124.033h2.234a.75.75 0 0 1 0 1.5h-.427l2.111 4.692a.75.75 0 0 1-.154.838l-.53-.53.529.531-.001.002-.002.002-.006.006-.006.005-.01.01-.045.04c-.21.176-.441.327-.686.45C14.556 10.78 13.88 11 13 11a4.498 4.498 0 0 1-2.023-.454 3.544 3.544 0 0 1-.686-.45l-.045-.04-.016-.015-.006-.006-.004-.004v-.001a.75.75 0 0 1-.154-.838L12.178 4.5h-.162c-.305 0-.604-.079-.868-.231l-1.29-.736a.245.245 0 0 0-.124-.033H8.75V13h2.5a.75.75 0 0 1 0 1.5h-6.5a.75.75 0 0 1 0-1.5h2.5V3.5h-.984a.245.245 0 0 0-.124.033l-1.289.737c-.265.15-.564.23-.869.23h-.162l2.112 4.692a.75.75 0 0 1-.154.838l-.53-.53.529.531-.001.002-.002.002-.006.006-.016.015-.045.04c-.21.176-.441.327-.686.45C4.556 10.78 3.88 11 3 11a4.498 4.498 0 0 1-2.023-.454 3.544 3.544 0 0 1-.686-.45l-.045-.04-.016-.015-.006-.006-.004-.004v-.001a.75.75 0 0 1-.154-.838L2.178 4.5H1.75a.75.75 0 0 1 0-1.5h2.234a.249.249 0 0 0 .125-.033l1.288-.737c.265-.15.564-.23.869-.23h.984V.75a.75.75 0 0 1 1.5 0Zm2.945 8.477c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327Zm-10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327Z"></path></svg></span><span data-component="text" data-content="MIT license">MIT license</span></a></li></ul></nav><button type="button" aria-label="Outline" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-c50BI OverviewRepoFiles-module__ActionMenu_Button--xB9DS" data-loading="false" data-size="medium" data-variant="invisible" aria-describedby=":Rr9ab:-loading-announcement" id=":Rr9ab:"><svg aria-hidden="true" focusable="false" class="octicon octicon-list-unordered" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M5.75 2.5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5ZM2 14a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm1-6a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM2 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg></button></div><div class="Box-sc-62in7e-0 js-snippet-clipboard-copy-unpositioned DirectoryRichtextContent-module__SharedMarkdownContent--BTKsc" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">anti-AD</h1><a id="user-content-anti-ad" class="anchor" aria-label="Permalink: anti-AD" href="#anti-ad"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="3xT8iIrCedKgX+DCvsxRwN02lCwiaPR3Lek2u2zueHnczurTBlufM2zRrY8dOwBHp1fHkJMdTq0gXF4geSZGEw==" />
 <div id="repository-details-container" class="flex-shrink-0" data-turbo-replace style="max-width: 70%;">
 <h1 class="Overlay-title " id="custom-scopes-dialog-title">
 <img src="https://avatars.githubusercontent.com/u/1243610?s=64&amp;v=4" alt="@gentlyxu" size="32" height="32" width="32" data-view-component="true" class="avatar circle" />
+<include-fragment src="/cjx82630/cjxlist/hovercards/citation/sidebar_partial?tree_name=master" data-nonce="v2:21752cef-4dc2-9ed2-85e0-cf0db73a2f43" data-view-component="true">
+<include-fragment src="/cjx82630/cjxlist/used_by_list" accept="text/fragment+html" data-nonce="v2:21752cef-4dc2-9ed2-85e0-cf0db73a2f43" data-view-component="true">
+<input type="hidden" data-csrf="true" value="1axaKNmwA9oP5/gcSqlDmUmyYE0mPtdS0oui+reW9Y5yZcC1fF6IlbjBGObycYlIBMcj98SjsJ6un8lth0epwQ==" />
 <input type="hidden" data-csrf="true" value="bMX4umIFuRf3KvYyN6aB+ONJ1CctLOXK7UsliA4hu2mjXd5f+XSast1kYW5YGpR76rNZCl7WO7oAeAD0LJQbdA==" />
 <input type="hidden" data-csrf="true" value="htaLA1JuQCNXFB8/9hB73BUHdITjRlkhKSJQkOFU+APIzzUCAlMLEmb5NeQ3xKJJcd23d5lGC2lamrja0XKyOQ==" />
+<input type="hidden" data-csrf="true" value="i7nta9XlAAIpp4uaIqra3U8/UMkyc595maTBn9E1daCpbxtl15Sndj13M8M5mYwHrnB9WcMXyThHuZbhQHL1ig==" />
 <li class="mb-2 d-flex">
 <li>重构工具<code>easylist-extend.php</code>，优化提升3倍执行效率</li>
 <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
 <meta name="description" content="A blocklist to protect users against untrustworthy sites. - durablenapkin/scamblocklist">
 <meta name="theme-color" content="#1e2327">
+<meta name="twitter:image" content="https://opengraph.githubassets.com/3e75985a9b081b1bfff704aa688baf9faa51644cfdfc95cbf928f5fb982e8358/privacy-protection-tools/anti-AD" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="GitHub - privacy-protection-tools/anti-AD: 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式" /><meta name="twitter:description" content="致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式 - privacy-protection-tools/anti-AD" />
 <nav aria-label="Footer">
 <p dir="auto"><strong>一、在电脑过滤广告的快速指引</strong><br></p>
 <p dir="auto">Special shoutout to <code>www.ikiha.com</code> for inspiring the creation of this project (included in this blocklist). All I wanted was the chubby seal plushie.</p>
@@ -673,6 +687,7 @@ $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-mark-github">
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 <ul aria-labelledby="action-menu-ac426551-38d0-4b81-89ac-d4866515fb52-button" id="action-menu-ac426551-38d0-4b81-89ac-d4866515fb52-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+<ul aria-labelledby="action-menu-eb7bd5c4-d667-43d4-ae55-a28e240ea60c-button" id="action-menu-eb7bd5c4-d667-43d4-ae55-a28e240ea60c-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
 <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 =ad_top_slider&
 ?frm=*&ct=*&dit=$third-party
@@ -685,6 +700,8 @@ $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 @@/log/report/*$script,domain=bilibili.com
 @@/wp-content/plugins/wp-minify/min/?*,wp-content$script,stylesheet,~third-party
 @@://localhost:$generichide
+@@|adsterra.com^|
+@@|help-advertisers.adsterra.com^|
 @@||114la.com/|
 @@||117.60.146.16:8089/images/
 @@||126.net/images/blank.gif
@@ -739,6 +756,7 @@ $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 @@||click.simba.taobao.com^
 @@||cloudflare.net^$script,domain=colamanga.com
 @@||cloudinary.com/perimeterx/$image,domain=perimeterx.com
+@@||cmp.inmobi.com^|
 @@||cnprint.org^$generichide
 @@||config.aps.amazon-adsystem.com^$script,domain=newsweek.com
 @@||content.s8bbs.com/ad/bbs/*.jpg
@@ -768,6 +786,7 @@ $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 @@||github.com/gorhill/uBlock/*/src/web_accessible_resources/fingerprint2.js$~third-party
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at|teddyfood.com|xxl.se
 @@||google.pl/translate_$media,third-party,xmlhttprequest
+@@||goto.target.com^|
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
 @@||hc360.com/ad/*.css
 @@||hlidacstatu.cz/scripts/highcharts-6/modules/heatmap.js
@@ -819,6 +838,7 @@ $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 @@||qq.com/web201602/js/ad.js
 @@||quapp.1122dh.com/shudan^$app=com.biquge.ebook.app
 @@||radio24.ilsole24ore.com/plugins/cordova-plugin-onetrust-cmp/www/OneTrust.js$script,~third-party
+@@||redir.tradedoubler.com^|
 @@||redirect.appmetrica.yandex.net^
 @@||res.yyets.com/ads/mediav-250.js
 @@||riverside.fm^$generichide
@@ -853,6 +873,7 @@ $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 @@||thaiairways.com/static/common/js/wt_js/webtrends.min.js$~third-party
 @@||thegay.com/upd/*/static/js/*.js|$domain=thegay.com
 @@||tianxun.com/min/f=
+@@||track.rutarget.ru^|
 @@||tracker.namitiyu.com^
 @@||tripcdn.com/modules/ibu/online-flight/common-cookie-banner.$domain=trip.com
 @@||tt1069.com/dfp.
@@ -1295,6 +1316,7 @@ dailytarheel.com##.modal-backdrop
 dailyuploads.net##a[href="https://aptoze.com/"]
 dallasnews.com##.xl_right-rail
 dashlane.com##.privacy-consent-enter-done
+data-hovercard-type="user" data-hovercard-url="/users/DandelionSprout/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self"
 data-ssr="true"
 dcmais.com.br##.whatsapp-ch
 ddooo.com##.gs_list
@@ -1630,6 +1652,7 @@ hentai2read.com##div[data-type="leaderboard-top"]
 hentaiasmr.moe###delayed-ad
 hentaicomics.pro##.single-portfolio:has(.xxx-banner)
 hentaicovid.com##div[class^="banner-"]
+hentaiforce.net##.hf-btn-special
 herbiesheadshop.com##.vue-disclaimer-popup
 hero-wars.com##.overlay--cookie_banner_without_icons
 herz-fuer-tiere.de##.footer__sharing
@@ -3450,6 +3473,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |aim4media.com^
 |aimblissy.click^
 |aip-pflege.de##.mod_cms_accept_tags
+|airplanecoffee.com^
 |airpush.com^
 |airwaymedix.net^
 |aiscvn.cc^
@@ -3896,6 +3920,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |beacon.clickequations.net^
 |beacon.krxd.net^
 |beacon.livefyre.com^
+|beacon.netflix.com^
 |beacon.searchlinks.com^
 |beacons.mediamelon.com^
 |bearbrick-audio.com^
@@ -5129,6 +5154,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |expira.de##.wt-cli-cookie-bar-container
 |expiredsession.com^
 |explo.hu###marketingConsent
+|exportdialog.com^
 |expresscash.pl^
 |exputer.com##.mailpoet_form
 |extremeaudio.de##+js(set-cookie, cookie-preference, 1)
@@ -5353,6 +5379,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |freebiesms.co.uk^
 |freecamsexposed.com^
 |freecharge.demdex.net^
+|freedomgrail.com^
 |freedon.fr^
 |freegiftcode.com^
 |freeminecraftgiftcode.net^
@@ -5653,6 +5680,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |groovelife.com###ps__widget_container
 |groupthen.digitalsking.com^
 |growlr.adsbynimbus.com^
+|growthrx.in^
 |gruenewiese-shop.de##body,html:style(overflow: auto !important; position: initial !important;)
 |grupolarabida.org##.scroll-top
 |grx4.top^
@@ -5677,6 +5705,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |gumenadom.si##.cookies
 |gumgum.com^
 |gumtree.com###mpu
+|gumyfui.com^
 |gunggo.com^
 |gupamau.com^
 |guru3d.us.intellitxt.com^
@@ -6428,6 +6457,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |lawtv.com.cn##.ad
 |lax-1-xcp.go.sonobi.com^
 |lax1-ib.adnxs.com^
+|lazybumblebee.com^
 |lb49.s400.meetrics.net^
 |lb79.s400.meetrics.net^
 |lb90.s400.meetrics.net^
@@ -7504,6 +7534,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |popcornflix.pl^
 |popcrush.com##.social-links
 |popcrush.com##.social-share
+|popmixradio.com^
 |popomh.com###bottom_ads
 |popplantation.com^
 |popunder.adsrevenue.net^
@@ -7684,6 +7715,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |pyxis.iad.appboy.com^
 |q2shop.it###cookies
 |q985.fm##.social-share
+|qa-analytics.com^
 |qastack.com.de##.modal-backdrop
 |qavariotraderapp.com^
 |qazyna.online^
@@ -7866,6 +7898,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |repozarex-app.net^
 |repsol-investment-platform.com^
 |repuccllica.pro^
+|rescuerhino.com^
 |resetcibc-logincibc.com^
 |resilience8.online^
 |resizer.mantisadnetwork.com^
@@ -7949,6 +7982,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |rrepublicca.pro^
 |rrtsch.com^
 |rs.search.etargetnet.com^
+|rsc-ads.vidaahub.com^
 |rshb.ru##.bottom-0.right-0
 |rss.com##.cookies
 |rt.gsspat.jp^
@@ -11901,6 +11935,8 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 |zyvrontracegpt.org^
 ||*.ip6.arpa^
 ||*/jd/a.ashx
+||*launches.appsflyersdk.com^
+||*register.appsflyersdk.com^
 ||0------------0-------------0.0n-line.info^
 ||0-0-0-birkart-clws-ifs-globalmn.homepointfinancial.tt.omtrdc.net^
 ||0-0-0-birkart-clws-ifs-globalmn.tatasiaairlinesltd.tt.omtrdc.net^
@@ -13030,6 +13066,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||2226668ad1.top^
 ||222c0mehere12012.tk^
 ||223.sub-75-198-250.myvzw.com^
+||2233488aa7.shop^
 ||224.6.189.109.customer.cdi.no^
 ||2240.api.swrve.com^
 ||226-97.kg.ftth.internl.net^
@@ -13346,6 +13383,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||3086.api.swrve.com^
 ||309.bitterstrawberry.com^
 ||30dominos.com^
+||30e36072705b7d958f672f6e3d64b7c6.us^
 ||30ea3091fb.com^
 ||30f7833815.83b016defa.com^
 ||30jungemenschen.de^
@@ -13923,6 +13961,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||536004310.collect.igodigital.com^
 ||536xnecc.xyz^
 ||537images1.com^
+||538gmail.com^
 ||5398362632.icu^
 ||53d89e43fe.6ab90bcccc.com^
 ||54-ironbound-plowman.com^
@@ -14138,6 +14177,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||66-215-203-53.dhcp.rvsd.ca.charter.com^
 ||66-215-93-135.dhcp.psdn.ca.charter.com^
 ||66-81-178-94.pool.ukrtel.net^
+||66.228.52.30^
 ||66.83.50.84.nw.nuvox.net^
 ||6615089.fls.doubleclick.net^
 ||6615338.cn^
@@ -14198,6 +14238,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||6dtxgqam4crv6rr6.onion.cab^
 ||6e2f1d2ae033.com^
 ||6e5e20f3c0.com^
+||6e9081863d18c2.click^
 ||6fikt.voluumtrk.com^
 ||6fish.info^
 ||6ftlady.com^
@@ -14271,6 +14312,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||72-24-148-47.cpe.cableone.net^
 ||72-4-52-248.customers.cinergycom.net^
 ||72-48-193-152.dyn.grandenetworks.net^
+||7205b05a18b4d8.click^
 ||72075223.xyz^$document,popup
 ||7209235.collect.igodigital.com^
 ||72123581.xyz^
@@ -14529,6 +14571,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||82.213.188.16.dyn.user.ono.com^
 ||82077102.adoric-om.com^
 ||824093proxy.tk^
+||82460.v.fwmrm.net^
 ||8259400.fls.doubleclick.net^
 ||828-alh-889.mktoresp.com^
 ||8283309678547.usercash.com^
@@ -14597,6 +14640,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||84.127.63.63.dyn.user.ono.com^
 ||84055600.xyz^
 ||84302764.xyz^
+||84888417aa4fd2dd62e3c8720cd41f10e903490daf80e85f24841cddaba29f8.link^
 ||84a15bc0e3.com^
 ||85-131-16-150.bb.dnainternet.fi^
 ||85-89-40-11.tt.ee^
@@ -14888,6 +14932,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||95.209.188.220.bredband.tre.se^
 ||95.209.46.58.bredband.tre.se^
 ||95.209.63.6.bredband.tre.se^
+||95.211.125.226^
 ||95.66.8.67.cfl.res.rr.com^
 ||95533aj.com^
 ||9565553955733.usercash.com^
@@ -14952,6 +14997,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||9c0zypxf.myutilitydomain.com^
 ||9cf9c.v.fwmrm.net^
 ||9d2e-b86b-fae0-c687.reporo.net^
+||9e963b0dcfbd958e89dc5b43c8eac33becdef2d8f3b95763bc7ed78a0b2b4d5.link^
 ||9f23ab605837.com^
 ||9f3a7c1e5b2d4e8c0a7f1d3b9e2c4a6.xyz^
 ||9f4tkera5f-clients-netflix.info^
@@ -16130,6 +16176,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||acys100.neoplus.adsl.tpnet.pl^
 ||acyv57.neoplus.adsl.tpnet.pl^
 ||acyw66.neoplus.adsl.tpnet.pl^
+||ad*.ettoday.net^
 ||ad-analyze.jp^
 ||ad-api-log.colopl.jp^
 ||ad-blaster.com^
@@ -16195,6 +16242,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||ad-splash-tracking.hktvmall.com^
 ||ad-thd-east.tagdelivery.com^
 ||ad-track.jp^$third-party
+||ad.*.doubleclick.net^
 ||ad.24h.com.vn^
 ||ad.3322.net^
 ||ad.3dpop.kr^
@@ -17297,6 +17345,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||admin.testandtarget.omniture.com^
 ||admin1.notifysrv.com^
 ||admin22.moonfruit.com^
+||administration-dgccrf.fr^
 ||administrativesupportservices.com^
 ||administrators-apac-cfw-c2s-01-n6x026.net.daraz.com^
 ||adminmailer0936.000webhostapp.com^
@@ -17317,6 +17366,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||admserverbt.is-leet.com^
 ||admtpmp123.com^
 ||admtpmp127.adsk2.co^
+||admulti.
 ||admz47.neoplus.adsl.tpnet.pl^
 ||admzsg.home.pl^
 ||adn-collector.voodoo-tech.io^
@@ -17417,6 +17467,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||adrspain.go2cloud.org^
 ||adrta.com^
 ||adruletafortuna.info^
+||ads*-normal*.zijieapi.com^
 ||ads-2005279979.us-west-2.elb.amazonaws.com^
 ||ads-3711.kxcdn.com^
 ||ads-admin.hubs.vn^
@@ -18061,6 +18112,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||adventurenorthresort.com^
 ||adversecreditremortg.tk^
 ||adversityequalsopportunity.com^
+||advert*.livesportmedia.eu^
 ||advert.mediaswiss.rs^
 ||advert219.hpg.com.br^
 ||advert240.hpg.com.br^
@@ -18103,6 +18155,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||advs.tatecheck.sytes.net^
 ||advseo2016.tumblr.com^
 ||advstat5.win^
+||advx.esprimo.com^
 ||adw.ero-advertising.com^
 ||adw.sapo.pt^
 ||adware-removal-spyware-tool.com^
@@ -20473,6 +20526,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||alo7r0le3k.neliver.com^
 ||alodollar.com^
 ||alogs.umeng.com^
+||alohamakeke.com^
 ||alonlimitanlockacconet.cf^
 ||alonsoai.net^
 ||aloprint.com^
@@ -20637,6 +20691,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||amazon-gutscheine.net^
 ||amazon-india-customer-care.com^
 ||amazon-kala.com^
+||amazon-mbx.info^
 ||amazon-paymentid.com^
 ||amazon-slots.icu^
 ||amazon-ssl.com^
@@ -20748,6 +20803,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||amniotomy.us^
 ||amnisopes.com^
 ||amok.am^
+||amoncasinoonline.fr^
 ||amooy.com^
 ||amoravela.com.sapo.pt^
 ||amoretanoenntrodano38.com^
@@ -20890,6 +20946,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||analytics.freedom.com^
 ||analytics.gebhardt-group.com^
 ||analytics.gentselegance.com^
+||analytics.ghdhair.com^
 ||analytics.gismart.xyz^
 ||analytics.grillgrate.com^
 ||analytics.hatech.dev^
@@ -21154,6 +21211,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||animalwelfareinc.org^
 ||animating.stream^
 ||anime-update6.life^
+||animeguideh.info^
 ||animeloundry.com^
 ||animeok.co.il^
 ||animeshoppers.com^
@@ -21861,6 +21919,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||app4com.thereadyforsafestub.icu^
 ||appalbarry.ca^
 ||appalled.stream^
+||appanalysis*.banggood.com^
 ||apparelimposter.com^
 ||appaumehak.help^
 ||appbomber.g2afse.com^
@@ -21891,6 +21950,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||appino2q.beget.tech^
 ||appinthestore.com/click/
 ||appl3confirmationwebmaster-invoid.com^
+||apple-*.le.com^
 ||apple-activation.serveirc.com^
 ||apple-aid.ru^
 ||apple-alien.com^
@@ -22472,6 +22532,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||asadventure.demdex.net^
 ||asadventure.tt.omtrdc.net^
 ||asalshop.tbuy.biz^
+||asameto.com^
 ||asandoosh.com^
 ||asapmarketlinks.com^
 ||asaririnav.pro^
@@ -23307,6 +23368,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||azulrose.com^
 ||azure-baboonfig.com^
 ||azure-cloud-agent.com^
+||azure-guidance.com^
 ||azureedge.net/sdrive/zero-tracking.js
 ||azurelane.online^
 ||azurf.com^
@@ -23550,6 +23612,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||bafkreihcrg5hlrf26ulzhyxiu4bkpl7oarxwkwhybed26uvlub6mzrksey.ipfs.dweb.link^
 ||bafsems.edu.bd^
 ||bafybeibhxrbzibzqwm6ldtknrf55uqvgpwmnhte2gk27s3f5tc32dmcsau.ipfs.w3s.link^
+||bafybeibuwfhwff3k2elnn7kglo2tdxiy2awbn7z26qyqyaqrwwoffjukpi.ipfs.dweb.link^
 ||bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link^
 ||bafybeifxd5myenhu2bs4pj5hnq27pybdl6omuixtywfqtpyhs4ncfcansi.ipfs.dweb.link^
 ||bafybeigxo6j2qcjguovcon5c3yycehh7qxajgh6wsiih3btdomgpldkfxa.ipfs.dweb.link^
@@ -23597,6 +23660,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||baivooheephufub.net^
 ||baiwb.com^
 ||baixar-facebook-gratis.com^
+||baji-live.click^
 ||bajki.org^
 ||bajkowestokrotki.cba.pl^
 ||bajnl.espclicks.appsflyer.com^
@@ -23739,6 +23803,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||bankvn1s.com^
 ||banleong.com^
 ||bannedyoutubevideos.com^
+||banner*.kinogo.by^
 ||banner.101xp.com^
 ||banner.1and1.co.uk^
 ||banner.50megs.com^
@@ -24496,6 +24561,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||bestwomen-now1.com^
 ||bestyellownow-hacksurfs.tk^
 ||besucherstatistiken.de^
+||bet.championat.com^$important
 ||bet1234.net^
 ||beta-sitecatalyst.omniture.com^
 ||beta.coremetrics.com^
@@ -26932,6 +26998,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||c61a46717389.com^
 ||c6d41b05d8.com^
 ||c74vr.voluumtrk.com^
+||c7fbe947ec0540af1df83bfeb3c1315ed6ed7392acbe20ea18797868039d14e.link^
 ||c7licktrend.online^
 ||c7rd.nuclearlytu.info^
 ||c8.paradeabend.ru^
@@ -27338,6 +27405,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||carheadrestvid.blogspot.com^
 ||caribbeancuisine.mobi^
 ||caribbeanguestservices.com^
+||caribisheld.com^
 ||carieglum.stream^
 ||caringpast.com^
 ||caringplanners.com^
@@ -27590,6 +27658,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||cc1139083-a.ensch1.ov.home.nl^
 ||cc1203174-a.assen1.dr.home.nl^
 ||cc2411.dotomi.com^
+||cc3ceb4c792829514b1b5e0f43f61d522834478ae5a2ea3bd8971c1edddf675.link^
 ||cc77nr43hxvhr7g844xmtmwc3.cfd^
 ||cc9.ne.jp^
 ||ccardsconf.122.2o7.net^
@@ -27630,6 +27699,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||cd66388.tw1.ru^
 ||cd7kicsxk2xlzli-direct-netflix.info^
 ||cd828.com^
+||cd86660878.com^
 ||cda-zalukaj.prv.pl^
 ||cda.0-shiny.com^
 ||cda.thecardservicescenter.com^
@@ -28452,6 +28522,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||chippewavalleysportsmedicine.com^
 ||chirked.stream^
 ||chirosolutions.info^
+||chirphost.com^
 ||chirpyjerboa.pro^
 ||chitika.com^
 ||chito.se^
@@ -28731,6 +28802,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||claim-reward.m215efao.top^
 ||claim-reward.n9jvhlig.top^
 ||claim-reward.rfxc4p.top^
+||claims-bullish.xyz^
 ||claimurproxy.com^
 ||claimyour-bonus.com^
 ||claimyour-prizebox1.life^
@@ -28817,6 +28889,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||cleanvpn.info^
 ||clearac.com^
 ||clearadsprinting.com.ph^
+||clearb2boffice.info^
 ||clearhost.ddns.net^
 ||clearpeak-corebit.net^
 ||clears.mypen.is^
@@ -29371,6 +29444,8 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||cngoldres.com/libs/jtams/
 ||cnheagletribune.112.2o7.net^
 ||cnhinewsservicedev.122.2o7.net^
+||cnic-probe-aws-north-america-oregon-live-1763598002.online^
+||cnic-probe-aws-north-america-vir-live-1763592601.xyz^
 ||cnimokuty9.top^
 ||cniplc.com^
 ||cnmo.com/oddjs/
@@ -29397,6 +29472,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||cnt.iol.it^
 ||cnt.rate.ru^
 ||cnt.sup.com^
+||cnt.vivatube.
 ||cnt7.com^
 ||cntccc.publicrec.com^
 ||cnter2.com^
@@ -29969,6 +30045,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||compliance.mohegansuncasino.com^
 ||complicatedcircumstances.info^
 ||compnet.us.intellitxt.com^
+||compomhariolkifdsts.com^
 ||components.technologymindz.com^
 ||composedmom.com^
 ||comprafans.com^
@@ -32478,6 +32555,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||datedate.today^
 ||datefunclub.com^
 ||dateingame.com^
+||datemefast.com^
 ||datemetoday.000webhostapp.com^
 ||daten.youngfashionmind.de^
 ||datenschutz-grundverordnung-sicherheit-page.top^
@@ -32586,6 +32664,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||db6sch102090410.wns.windows.com^
 ||db6sch102090512.wns.windows.com^
 ||db6sch102091508.wns.windows.com^
+||db949af447.top^
 ||dbabyshop.com^
 ||dbbl5opdni.neliver.com^
 ||dbckmoswears.review^
@@ -32718,6 +32797,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||de-timocom.com^
 ||de-vijf.nl^
 ||de.coremetrics.com^
+||de.itdmail.com^
 ||de.lkci1.ru^
 ||de.marketo.com^
 ||de.ssl-paypalservice.com^
@@ -32922,6 +33002,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||delightfulplatypus.pro^
 ||delisalee.calendarbookie.com^
 ||deliver.ads3.iid.jp^
+||delivery-davis.online^
 ||delivery-dhlmanage.web.app^
 ||delivery-vpc-a.vidible.tv^
 ||delivery.a.switchadhub.com^
@@ -32936,6 +33017,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||deliveryengine.cox.adswizz.com^
 ||deliveryengine.di.adswizz.com^
 ||deliveryorder.info^
+||deliverywwenxt.shop^
 ||deliwery-olx-pl.info^
 ||delkainnovo.com^
 ||dell-computers.info^
@@ -33028,6 +33110,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||denizdenhediyemiz.com^
 ||dennegaraccees0.odoo.com^
 ||denniscarpenter.evergage.com^
+||denor-trylok-vyrin.pages.dev^
 ||denri-84lopan.digital^
 ||densepromissory.info^
 ||dentacarebazaar.com^
@@ -33400,6 +33483,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||dictonary.com^
 ||did.li^
 ||didacticdingo.pro^
+||didfooddelivery.xyz^
 ||didoqao1.pro^
 ||didthecardswin.com^
 ||die-motorradnomaden.de^
@@ -34789,6 +34873,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||du8783wkf05yr.cloudfront.net^
 ||duaforlovemarriagesloution.wordpress.com^
 ||dual-hash.com^
+||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dubaicitytour.online^
 ||dubhpreme.pro^
 ||dubous.com^
@@ -35101,6 +35186,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||e46fa8d94b17745ac277-ae524ab82d83e9108c081b44b53c4ff2.r94.cf2.rackcdn.com^
 ||e487a41ae0.com^
 ||e488.macombdaily.com^
+||e49fd2ae1c1e.space^
 ||e4aacrwu7q.neliver.com^
 ||e4r6k9l.ru^
 ||e4vdtz.top^
@@ -35615,6 +35701,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||eiaohulsknackwurst.review^
 ||eibnxewuoq.neliver.com^
 ||eic-ngfts.lge.com.edgekey.net^
+||eiche.dis-5-h-7-gien.ru^
 ||eidos.org.ua^
 ||eightproxl.tk^
 ||eijiasmfb0.neliver.com^
@@ -37493,6 +37580,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||euigqa.usa.cc^
 ||euler-baskaya-formula.net^
 ||eulerian.structube.com^
+||eum*.instana.io^
 ||eum-orange-saas.instana.io^
 ||eumundi-style.com^
 ||euoptout.mookie1.com^
@@ -37916,6 +38004,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||ezyproxy.cn^
 ||f-a-s-t-p-y.tk^
 ||f-lens.ru^
+||f-log-*.grammarly.io^
 ||f-qui-quia-enim.top^
 ||f.admicro.vn^
 ||f.blogads.com^
@@ -39429,6 +39518,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||fla5h.2-fyzog-201-e.ru^
 ||flag.lab.amplitude.com^
 ||flagcounter.com^
+||flagman-amazon-3.ru^
 ||flagonanomaly.icu^
 ||flagras-bbb11.beepworld.it^
 ||flags.es^$third-party
@@ -39545,6 +39635,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||floruits.us^
 ||flossiegorcrow.com^
 ||flow04error.today^
+||flowb2boffice.info^
 ||flowcapitalapp.com^
 ||flower-ads.com^
 ||flowerycreature.com^
@@ -39565,6 +39656,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||flukenetworksjapanprod.122.2o7.net^
 ||flungitaway.tk^
 ||flunkeys.us^
+||flurry.agentportal-*.yahoodns.net^
 ||flushed-towels.000webhostapp.com^
 ||flushingat.tk^
 ||fluss.nickelweide.ru^
@@ -39601,6 +39693,8 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||flytrolixfinance.net^
 ||fmei.wang^
 ||fmfrht.icu^
+||fmi-google-device.live^
+||fmi-google-device.today^
 ||fmi-location-support.com^
 ||fmi-verify-support.com^
 ||fmkfzc.com^
@@ -40084,6 +40178,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||frascinvig.pro^
 ||frashinfotoday.com^
 ||frastiven.wiki^
+||frateinvog.digital^
 ||fratelliubezio.it^
 ||fraud-managpaymentverifyc.info^
 ||fraud-view.ru^
@@ -40545,6 +40640,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||frontaccessholdnls.tk^
 ||frontbackrock.tk^
 ||frontend-na.collective.kochava.com^
+||frontiersupport0.weebly.com^
 ||frontlinerproxy.tk^
 ||froo.com^
 ||frope.info^
@@ -41437,6 +41533,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||geoip.inquirer.net^
 ||geoip.taskforce.is^
 ||geokhi1.geokhi.ru^
+||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc.hurriyet.com.tr^
 ||geoloc15.geovisite.com^
 ||geoloc30.geovisite.com^
@@ -41945,6 +42042,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||glngcrtseyp.info^
 ||glo-rs.com^
 ||glob7alcloudconnect.space^
+||globacone.xyz^
 ||global-bo1t.online^
 ||global-unlocker.info^
 ||global.allegrovip.fit^
@@ -42560,6 +42658,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||goldenstatebuilding.info^
 ||goldensurfing.tk^
 ||goldentrout.pro^
+||goldenvalleylend.com^
 ||goldfame.com.hk^
 ||goldfans.ml^
 ||goldguides.info^
@@ -42665,6 +42764,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||google-meet-com.fyi^
 ||google-reviews-redirect.com^
 ||google-ssh.com^
+||google-tiktoknow.com^
 ||google.com-update.session8738974983749734879ad9awd0dasd34wdawdaad.cafeask.com^
 ||google.com/favicon.ico$popup
 ||google.com/gsi/log?
@@ -43149,6 +43249,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||grownrate.tk^
 ||grownupachievementawards.com^
 ||growth-channel.net^
+||growth.shop^
 ||growth9.com^
 ||growthhsuplemments.site^
 ||growthsinc.com^
@@ -43687,6 +43788,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||hamweather.112.2o7.net^
 ||han-nya.com^
 ||hanawater-lb.com^
+||hanbayjewellery.com^
 ||hanbosston.000webhostapp.com^
 ||hand-luggage.tk^
 ||handanzhize.com^
@@ -44931,6 +45033,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||hospital-sitko.com^
 ||hospitalregionalcoyhaique.cl^
 ||hospitalsinksister.com^
+||host*.rigbyandpeller.com^
 ||host-091-097-212-219.ewe-ip-backbone.de^
 ||host-12-150-224-20.watvc.com^
 ||host-141-171.cybees.com^
@@ -45511,6 +45614,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||hyourweatherinfonow.com^
 ||hyoxfrt982.host^
 ||hyperactivate.com^
+||hyperad.tech^
 ||hyperbanner.net^
 ||hyperbolic.tk^
 ||hypercloak.com^
@@ -47031,6 +47135,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||innertwitter.com^
 ||innerwheeldist.in^
 ||innesota.rus-shine.ru^
+||innledning.weebly.com^
 ||inno-leader.com^
 ||innogenap.com^
 ||innovads-server.poster.appsinnova.com^
@@ -48007,6 +48112,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||italianlifestyle.co.za^
 ||italianproxy.info^
 ||italredditopro-app.com^
+||italy-post-buy.top^
 ||italycook.com^
 ||italymail.espotting.com^
 ||italysfinestdesign.it^
@@ -49266,6 +49372,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||karargy.com^
 ||karatemushroom.live^
 ||karbkhcx.beget.tech^
+||karbondengeleme.com^
 ||kardelentekstil.com.tr^
 ||karditsa.org^
 ||karekinudin.gitbook.io^
@@ -49732,6 +49839,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||kkkkdm.com/js/comic-
 ||kklmqzti.medicalcaremart.ru^
 ||kkmtech.pl^
+||kkvkefbspmsiu.website^
 ||klansmen.info^
 ||klar-design.de^
 ||klarinsights.net^
@@ -50506,6 +50614,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||lawdexchange.com^
 ||lawmarketingqueensny.com^
 ||lawmaster.co.cc^
+||lawnladys.com^
 ||lawnmarket.parachute.digital^
 ||lawsuitmesothelioma.club^
 ||lawsupportjobs.com^
@@ -50729,6 +50838,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||legitworks.com^
 ||leglenone.stream^
 ||legoland-com-my.b.appier.net^
+||legrlive-secure-en-us.pages.dev^
 ||leguide.com^
 ||leica-microsystems5.actonsoftware.com^
 ||leiden.nu^
@@ -51093,6 +51203,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||lindgrenfinancial.com^
 ||lindsay.com.au^
 ||lindyjordan.com^
+||line-office.ru^
 ||lineaelly.com^
 ||lineapichi2023.webcindario.com^
 ||linebackerzx.info^
@@ -51302,6 +51413,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||linksdefots05.com.sapo.pt^
 ||linkseo6.mehmetkucukgoz.com^
 ||linksprf.com^
+||linksprf.com^$badfilter
 ||linksprf.com^$document
 ||linkspy.cc/js/fullPageScript.min.js
 ||linksquad.cn^
@@ -52947,6 +53059,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||magictoday.info^
 ||magimg.com/random?$third-party
 ||magistr.ru^
+||magiuscasino1.fr^
 ||magmamovies.com^
 ||magnametal.in^
 ||magnetic.domdex.com^
@@ -53629,6 +53742,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||marketnews.pw^
 ||marketosupportservices.com^
 ||marketpd4.top^
+||marketplace-*.hyprmx.com^
 ||marketplace-items-8236236458.hstn.me^
 ||marketplace.accountmes.com^
 ||marketsboostsource.xyz^
@@ -53866,6 +53980,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||maxadserver.media^
 ||maxantispyware.com^
 ||maxato.com^
+||maxb2boffice.info^
 ||maxbuilder.digital^
 ||maxcpv.com^
 ||maxesupport.com^
@@ -53996,6 +54111,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||mcquaidtyres.ie^
 ||mcro2018.online^
 ||mcrsftai108visionapp.com^
+||mcs-*.lemon8-app.us^
 ||mcssl.com^*/track.ashx?
 ||mctd22d-xfy4kdg18w8cmd9bvhsq.device.marketingcloudapis.com^
 ||mctechsupport.com^
@@ -54284,6 +54400,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||melen.net^
 ||melhorplano.net/scripts/tracker/
 ||melissakiss.com^
+||meliwso.cfd^
 ||meller.000webhostapp.com^
 ||melodious.pbphgwbr.in^
 ||melodyshortfilm.com^
@@ -54600,6 +54717,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||metroparkinn.com^
 ||metroshell.info^
 ||metrosite.info^
+||mettamaxklogin.gitbook.io^
 ||mettlertoledointernational.demdex.net^
 ||mettrecompte.tk^
 ||mettremoyen.tk^
@@ -55025,6 +55143,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||ministryorder.net^
 ||ministurbo.pro^
 ||minitalya.com^
+||minitds-*.info^
 ||miniunblock.info^
 ||minixiazai.com/statics/js/soft/index.js
 ||minizapz.faith^
@@ -55122,6 +55241,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||mistryengineering.com^
 ||mistseepco.tk^
 ||misturafinamirantered.com^
+||mistyishyst.com^
 ||misura.com^
 ||miswalker.com^
 ||miszwaojrn.com^
@@ -57506,6 +57626,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||naujiasurfs.tk^
 ||naujiavpnas.tk^
 ||navagrahapuja.in^
+||naver-stove.com^
 ||naver.com/jackpotlog/
 ||naverpa-phinf.pstatic.net^
 ||navi.gd.chinamobile.com^
@@ -57638,6 +57759,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||nelami-wusoga.pics^
 ||nelavortrader96.net^
 ||nellforgery.com^
+||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 ||nelreports.net^
 ||nelsonbaytiles.com^
 ||nelumbos.pw^
@@ -58261,6 +58383,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||niagaralodge-b41c4.web.app^
 ||nianfeng58.com^
 ||nibblebit.com/assets/media/adverts.php
+||nibulas.network^
 ||nicaceasusa.tk^
 ||nicatethebene.info^
 ||nice-hack.gid.pw^
@@ -59406,6 +59529,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||offerwall.s3.amazonaws.com^
 ||offhand.pbphgwbr.in^
 ||officce365-e63c9.web.app^
+||office-anres.com^
 ||office-ealestates.tk^
 ||office-hotshields.cf^
 ||office-information-24.com^
@@ -61095,6 +61219,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||ozcelikgrup.com^
 ||ozdollars.com.au^
 ||ozelakvaryumlar.com^
+||ozelcelikkapi.com^
 ||ozelproje.com.tr^
 ||ozelsaglikhastanesi.net^
 ||ozelvefadislab.com^
@@ -62747,6 +62872,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||phen375.com^
 ||phentermine-online.iscool.nl^
 ||pheriperal.co.cc^
+||phf-live.com^
 ||phfuhedbph.com^
 ||phg.hitbox.com^
 ||phiambczsg.com^
@@ -62895,6 +63021,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||pigsneyepigene.cyou^
 ||pihyfeu6.pro^
 ||piilvhtu.cn^
+||pijama.*.elasticbeanstalk.com^
 ||pikadil2day.com^
 ||pikiblurb.cfd^
 ||pikorettas.com^
@@ -62992,6 +63119,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||pixanalytics2.pixnet.net^
 ||pixbduooqbddq.website^
 ||pixbests7proxys.tk^
+||pixel-*.convertagain.net^
 ||pixel-apc.adsymptotic.com^
 ||pixel-gateway.businesschat.io^
 ||pixel-orbit.ru^
@@ -64008,6 +64136,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||pos-kupang.com^
 ||poscaazotine.click^
 ||poseyhumane.org^
+||poshalim.
 ||poshtibanweb.site^
 ||positioned.aa.am^
 ||positionwas.tk^
@@ -64534,6 +64663,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||prodams.ru^
 ||prodcraft.click^
 ||prodrivers.ie^
+||produbaanco.com^
 ||produbanco2024.webcindario.com^
 ||product-price-list.000webhostapp.com^
 ||product.adtima.vn^
@@ -64546,6 +64676,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||produirejour.tk^
 ||produktdoo.com^
 ||produkty.interplast.net.pl^
+||produnetacesoriasenlinea.iceiy.com^
 ||proeasy.info^
 ||prof-travel.ru^
 ||prof.estat.com^
@@ -65865,6 +65996,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||pzu.zenravel.com^
 ||pzxa.com^
 ||pzynk.com^
+||q*-publick.club^
 ||q.112adfdae.tk^
 ||q.easebar.com^
 ||q.embustech.net^
@@ -70041,6 +70173,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||security-attack.com^
 ||security-cleaner.com^
 ||security-explorations.com^
+||security-google.ru^
 ||security-issue-notice6ar08.stream^
 ||security-issue-notice7an01.stream^
 ||security-issue-notice8v1.stream^
@@ -70718,6 +70851,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||sgtm.dhgate.com.cdngtm.com^
 ||sgtm.expert.nl^
 ||sgtm.familiar.com.py^
+||sgtm.fattureincloud.it^
 ||sgtm.frenchfitness.com^
 ||sgtm.fundednext.com^
 ||sgtm.henryschein.com^
@@ -71137,6 +71271,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||shuseinagaoka.com^
 ||shuthanging.cn^
 ||shvcrua.cn^
+||shy-website-579629.framer.app^
 ||shy-years-687432.framer.app^
 ||shy.dk-9-a-6.ru^
 ||shyfull.stream^
@@ -71439,6 +71574,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||sitealyse.de^
 ||siteapps.com^$third-party
 ||siteauikozph.download^
+||siteconsultarvaloresreceberonline2025.vercel.app^
 ||siteground.com/img/affiliate/
 ||siteground.dynamicyield.com^
 ||siteikj.ru^
@@ -73281,6 +73417,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||stable-index-profit.com^
 ||stableclub.su^
 ||stablecoinoffice.xyz^
+||stableofficer.xyz^
 ||stableproxy.ml^
 ||stachedstimaa.com^
 ||stack2-members.tk^
@@ -74197,6 +74334,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||subteen.stream^
 ||subtextnine.us^
 ||subtleip.info^
+||subtleretortspat.com^
 ||subtrade.pro^
 ||subtraxion.com^
 ||subus.in^
@@ -76479,7 +76617,9 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||telelcgram.cc^
 ||telelmop.quest^
 ||telelzbtwh.monster^
+||telemetry*.transcend.io^
 ||telemetry.density.io^
+||telemetry.dotnet.contrastsecurity.com^
 ||telemetry.oliverwyman.com^
 ||telemetry.penpot.app^
 ||telemetry.reembed.com^
@@ -77589,6 +77729,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||tmqhw.us^
 ||tmqqm.smartrike.com.au^
 ||tmrjmp.com^
+||tms-st.cdn.ngenix.net
 ||tms.capitalone.com^
 ||tms.delta.com^
 ||tms.kone.com^
@@ -80379,6 +80520,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||us.xapads.com^
 ||us.y.atwola.com^
 ||us4unlimited-proxy.tk^
+||us831649-coinbase.com^
 ||us856carinsur.webzone51.tk^
 ||usa-car-shop.co.cc^
 ||usa-proxy-serverweb.tk^
@@ -80424,6 +80566,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||uscis-help.com^
 ||usdbbx.mmartan.com.br^
 ||usdeinvest-app.net^
+||use-workspace-cloud-rg2.s3.us-west-1.amazonaws.com^
 ||use.backtrace.io^
 ||use.freeddns.com^
 ||usebunk.000webhostapp.com^
@@ -81316,6 +81459,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||vhealth.info^
 ||vhguyeu.ml^
 ||vhp559p76.online^
+||vhqyfzxfr9t9x3.rest^
 ||vhrbxb.vidaxl.nl^
 ||vi-key.ru^
 ||vi.celebjihad.live^
@@ -82345,6 +82489,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||votara.5gbfree.com^
 ||votealone.tk^
 ||voteforcool.com^
+||voting-moonshot.xyz^
 ||votos-u.webcindario.com^
 ||votre-pickup-www.com^
 ||voucher.confirmprize.com^
@@ -83716,6 +83861,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||whatsapp-down.date^
 ||whatsapp-gr.com^
 ||whatsapp-hack.online^
+||whatsapp-invite.su^
 ||whatsapp-m.com^
 ||whatsapp-message.com^
 ||whatsapp-qter.ink^
@@ -83973,6 +84119,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||win7dl.com^
 ||win8.ipv6.microsoft.com^
 ||winaulamaster.com^
+||winbir.help^
 ||winboxs.com^
 ||winbrowse.info^
 ||winchecker.net^
@@ -95849,6 +95996,7 @@ zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
 ||www.mandy-healey.com^
 ||www.manglam.com^
 ||www.mango.anazet.es^
+||www.mangosz.net^
 ||www.mangwanaandpartners.com^
 ||www.maniffatoretraiteur.com^
 ||www.maniladigital.com^
