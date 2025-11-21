@@ -633,7 +633,9 @@ $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=xpshuku.c
 <a href="/topics/hosts" title="Topic: hosts" data-view-component="true" class="topic-tag topic-tag-link">
 <a href="/topics/pihole-blocklists" title="Topic: pihole-blocklists" data-view-component="true" class="topic-tag topic-tag-link">
 <a href="https://filters.adtidy.org/extension/ublock/filters/220.txt" rel="nofollow">https://filters.adtidy.org/extension/ublock/filters/220.txt</a><br></p>
+<a tabindex="-1" id="item-71fa0f90-f0cf-4a21-b402-b62297eb22c0" href="/durablenapkin/scamblocklist/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <a tabindex="-1" id="item-c482a02e-b37a-423e-af15-901ccb889ca4" href="/privacy-protection-tools/anti-AD/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+<button id="icon-button-df0a1a22-9fd3-49d3-a4e3-be9a44f429b8" aria-labelledby="tooltip-ae819544-72c9-43b2-8c12-973d9c455dc4" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
 <div class="AppHeader-appearanceSettings">
 <div class="HeaderMenu-wrapper d-flex flex-column flex-self-start flex-lg-row flex-auto rounded rounded-lg-0">
 <div class="QueryBuilder-InputWrapper">
@@ -646,6 +648,7 @@ $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=xpshuku.c
 <div class="text-small color-fg-muted">No releases published</div>
 <div class="zeroclipboard-container position-absolute right-0 top-0">
 <div data-view-component="true" class="Overlay Overlay--size-auto">
+<div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="mBuLLCpTAd0sVK0Wx/Nk1fXFBxIVFaAluIxGytvggBi6snw82M3ln49wAxZMvx+srR2le51/Z9FvklfUmjfkag==" />
 <div data-view-component="true">
 <div data-view-component="true">        <div class="search-suggestions position-fixed width-full color-shadow-large border color-fg-default color-bg-default overflow-hidden d-flex flex-column query-builder-container"
 <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
@@ -663,6 +666,7 @@ $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=xpshuku.c
 <li>项目代码切换到PHP 8，不完全兼容旧版本PHP</li>
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-6dcb16809e76.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/notifications-subscriptions-menu.933100a30c03fd4e8ae4.module.css" />
+<meta name="fetch-nonce" content="v2:ec0c855e-33d5-bff1-3f80-c322ef4154a2">
 <meta name="go-import" content="github.com/durablenapkin/scamblocklist git https://github.com/durablenapkin/scamblocklist.git">
 <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
 <meta name="octolytics-dimension-user_id" content="9707241" /><meta name="octolytics-dimension-user_login" content="cjx82630" /><meta name="octolytics-dimension-repository_id" content="26562123" /><meta name="octolytics-dimension-repository_nwo" content="cjx82630/cjxlist" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="26562123" /><meta name="octolytics-dimension-repository_network_root_nwo" content="cjx82630/cjxlist" />
@@ -15216,6 +15220,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||9563.hittail.com^
 ||956caa7f77.com^
 ||9599aa66.com^
+||95c36f2381734d6ab49727a4ba5927e0.panangthaserv.net^
 ||95c8e51571.top^
 ||95d127d868.com^
 ||95mortgagesonline.co.uk^
@@ -23934,6 +23939,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||bafkreihbm4bofvjkr2thuw5a6vhyaiyrt5ach373yz3akobcfnhtya4lqi.ipfs.dweb.link^
 ||bafkreihfwke2lephfuh4rbh4n55ojjjsrbeanjletkpnpvi5suqcj5gute.ipfs.dweb.link^
 ||bafkreihhqmsab3s2vhiyta2er32smfqnzp4sqd7g67a6s5cg6xm77wbgdm.ipfs.dweb.link^
+||bafkreihpec5h3lagmctlyyobawh3wffvtpk44srberrpyspxntqteq53qq.ipfs.dweb.link^
 ||bafybeialhrwzqxqwwecyjmub6gn4ehoajt64dcpsaxtu6b5ier4zowx3de.ipfs.dweb.link^
 ||bafybeibednalgwbl72zf6kml3rrbyabnk2k2nxm6j3szad2lemlagypcda.ipfs.dweb.link^
 ||bafybeibioduijf64fdmpxpbynru7ruinmi6rwnkfbrbdgqbt32exyxprmu.ipfs.dweb.link^
@@ -31437,6 +31443,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||cpyrltela.pw^
 ||cq.io^
 ||cq04288.tmweb.ru^
+||cq210804-wordpress-h7agx.tw1.ru^
 ||cq53up.icu^
 ||cqcounter.com^
 ||cqcpgsvcsd.com^
@@ -34681,6 +34688,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||dovo.vpeopleconsulting.com^
 ||dovonexvisionapp.com^
 ||dow.luokeby.com^
+||dowlpeccant.cyou^
 ||down.818wy.com^
 ||down.ancamera.co.kr^
 ||down.cdnxiazai.pw^
@@ -39894,11 +39902,13 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||flflvlidboners.xyz^
 ||flh1acj010.hkd.mesh.ad.jp^
 ||flickerbridge.com^
+||flickering-brick.pro^
 ||flights2orlando.com^
 ||flightszoom.supportno.com^
 ||fling.com^
 ||flingtrainer.com^
 ||flinstock.tk^
+||flip-trade.com^
 ||flipdish-cookie-consent.s3-eu-west-1.amazonaws.com^
 ||flipflapflo.
 ||flipinthenet.tk^
@@ -40225,6 +40235,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||formalpromdresses.cn^
 ||formanaplus.pl^
 ||former-vice.tk^
+||formhsoft.chirphost.com^
 ||formmuse.pl^
 ||formob-cf1e8.firebaseapp.com^
 ||formova.net^
@@ -42116,6 +42127,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||gisortoadoux.net^
 ||gitam.1host.co.il^
 ||gitam.co.il^
+||gitflow.click^
 ||github-devicelogin.com^
 ||github-up.com^
 ||gitipiace.info^
@@ -48696,6 +48708,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||jaleco.com^
 ||jalegud.000webhostapp.com^
 ||jalowicehodowlane.pl^
+||jalven-dryxil-krymor.pages.dev^
 ||jalveronitexuq49p.cfd^
 ||jamaicaham.org^
 ||jamajkazorawy.pl^
@@ -49309,6 +49322,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||jrji.qufewec.yi.org^
 ||jrlatimer.com^
 ||jrmianban.com/img/images/g-g/
+||jrolyrlabymrb.top^
 ||jrrea.eddiebauer.ca^
 ||jrrmwjybfaztct.com^
 ||jrstonedesigninc.com^
@@ -50186,6 +50200,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||kirkersoft.myteamtoolbar.com^
 ||kirklandsinc.tt.omtrdc.net^
 ||kirsanovsky-detdom.ru^
+||kirtasiyebiga.com^
 ||kirvano.top^
 ||kisaeropsader.de^
 ||kishenent.com^
@@ -51156,6 +51171,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||led-ge-login.pages.dev^
 ||led22.ru^
 ||ledclub.ml^
+||ledger-cdn-auth.pages.dev^
 ||ledger-securitycheck.com^
 ||ledger-web-wallet.net^
 ||ledgerproai-app.com^
@@ -52033,6 +52049,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||ljm9kvgf-site.1tempurl.com^
 ||ljnjvsfoulasy.online^
 ||ljqjjhduntckb.site^
+||ljvmokwyrolyj.top^
 ||ljybybyerzoev.top^
 ||lk.ha7e.ru^
 ||lkaumkxmzefa.com^
@@ -56574,6 +56591,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||monitorsail.tk^
 ||monkeyed.pw^
 ||monklands.co.uk^
+||monkmanagementtuesday.com^
 ||monkproxy.co.cc^
 ||monktest.webengage.com^
 ||monlheure.web.app^
@@ -57649,6 +57667,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||nacht.cedarsteg.ru^
 ||nacional1.webcindario.com^
 ||nacn.info^
+||nacresxosplit.chordia.ai^
 ||nada.co^
 ||nadarthirumanam.com^
 ||nadidekizyurdu.com^
@@ -58499,6 +58518,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||nextendrr.tk^
 ||nextfinancial.net^
 ||nextflow.buzz^
+||nextgaz1ta.top^
 ||nextgenbanners.com^
 ||nextgencomputeracademy.com^
 ||nextia.d1.sc.omtrdc.net^
@@ -66154,6 +66174,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||pxlsrv.com^
 ||pxmhwn.wellstore.it^
 ||pxnmeo.mugsyjeans.com^
+||pxpcxpmhu.com^
 ||pxproxydes.tk^
 ||pxqukd4lo9.perimeterx.net^
 ||pxwqvvumecpsd.world^
@@ -68377,6 +68398,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||ronsautobradenton.com^
 ||ronvexumapp.pro^
 ||roobetaffiliates.com^$popup
+||roodlesnoblify.help^
 ||roofadvertisements.com^
 ||roofingsantarosaca.com^
 ||roofinmobiliaria.com^
@@ -70086,6 +70108,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||seclore.com^
 ||secmetrics.schaefer-shop.de^
 ||secnewmsgwellsfargoclient.com^
+||secnorthstar.weebly.com^
 ||secondcom.familymediachannel.com^
 ||secondout.tk^
 ||secre2018.000webhostapp.com^
@@ -70134,6 +70157,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||secure-login.intl.service-costumer-account.xyz^
 ||secure-manage-account-locked-information.com^
 ||secure-mob-001.date^
+||secure-nda-xx-io.pages.dev^
 ||secure-page-2023.start.page^
 ||secure-pay-pal-support.netne.net^
 ||secure-pc-check-up.xyz^
@@ -70575,6 +70599,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||seowhy.com/ask/img/*gg
 ||seoyoperseduc.org^
 ||sepahanegg.ir^
+||separatequestiontrip.com^
 ||separatesurf.tk^
 ||sepcsq.org^
 ||seplbusservice.com^
@@ -82429,6 +82454,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||vivad.advertising.com^
 ||vivakz.com^
 ||vivalavidaonline-com-br.umbler.net^
+||vivano-warszawa.pl^
 ||vivarrq324.mama92901.com^
 ||vivaurban.lat^
 ||vivermease.com^
@@ -84515,6 +84541,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||wolffram.homepage.t-online.de^
 ||wolfmedia.vn^
 ||wolfstatic.douyu.com/api^
+||wolke.gu5hnatr3mb.ru^
 ||wolm.info^
 ||wolmaransstad.za.net^
 ||wolverhamptonpsych.eu.qualtrics.com^
@@ -104795,7 +104822,12 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||www.warnlng-n0tice-sd0.gdn^
 ||www.warnlng-n0tice-sl0.gdn^
 ||www.warnlng-n0tice-ss0.gdn^
+||www.warnlng-n0tice-tp0.gdn^
+||www.warnlng-n0tice-tz0.gdn^
+||www.warnlng-n0tice-u21.gdn^
+||www.warnlng-n0tice-ut0.gdn^
 ||www.warnlng-n0tice-vi0.gdn^
+||www.warnlng-n0tice-vm0.gdn^
 ||www.warnlng-n0tice-wo0.gdn^
 ||www.warnlng-n0tice-wx0.gdn^
 ||www.warnlng-n0tice-wy0.gdn^
