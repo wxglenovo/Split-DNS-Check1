@@ -92,6 +92,7 @@ cad.youku.com
 |aax-fe.amazon-adsystem.com^
 |abadass.com^
 |abcstats.com^
+|abgundem.net^
 |aboutharrypotter.fasthost.tv^
 |above.com^
 |abprod.112.2o7.net^
@@ -1596,6 +1597,7 @@ cad.youku.com
 |lunexora-app.net^
 |lunorochainofficial.com^
 |lupexismax-app.net^
+|lupexismax-pro.com^
 |luronixtrader-17.com^
 |luvirixar-tech.com^
 |luvver.pl^
@@ -1644,6 +1646,7 @@ cad.youku.com
 |media2.popmarker.com^
 |media4.popmarker.com^
 |media5.popmarker.com^
+|media6degrees.com^
 |mediabistrocom.112.2o7.net^
 |mediamatters.112.2o7.net^
 |mediaz.angloinfo.com^
@@ -1895,6 +1898,8 @@ cad.youku.com
 |ph-ad06.focalink.com^
 |pharmacyrxone.com^
 |phentermine.3.p2l.info^
+|philleto-profits-solution.com^
+|php4you.biz^
 |phpadsnew.wn.com^
 |phukienthoitranggiare.com^
 |pin-up-casino-zsg.top^
@@ -1955,6 +1960,7 @@ cad.youku.com
 |post.update.fbsbx.com^
 |postagazetesi.net^
 |pouryedge-ai-tech.com^
+|pouryedgeai-app.com^
 |power-trades-app-ai.com^
 |powerapptradesoft.com^
 |powerlytix.net^
@@ -1964,8 +1970,10 @@ cad.youku.com
 |praize19791.duckdns.org^
 |prawdziwyrozwoj.pl^
 |prd1.revid.centech.glulive.com^
+|prebid.ad.smaato.net^
 |prejoinra.com^
 |preligions.com^
+|prescription-drugs.easy-find.net^
 |presentationtracking.netflix.com^
 |prestige-flowbitnex.net^
 |preview.liftoff-creatives.io^
@@ -1992,6 +2000,8 @@ cad.youku.com
 |propreviewauthority.top^
 |protection.bypolice.com^
 |protection.lvpolice.com^
+|protection.mapolice.com^
+|protection.mdpolice.com^
 |protection.topolice.com^
 |protraffic.com^
 |proxette.cc^
@@ -2045,6 +2055,7 @@ cad.youku.com
 |quatro4x4.com^
 |quendex-engine.com^
 |queronixtrader29nova.net^
+|quik2link.com^
 |quinst.com^
 |r.3gl.net^
 |r.reklama.biz^
@@ -2058,10 +2069,15 @@ cad.youku.com
 |raspbspopp.pro^
 |raveinytpro-solution.com^
 |ravtovaultreview.com^
+|raynex-app.com^
 |reactx.com^
 |realcastmedia.com^
+|realclever.com^
 |rec.admicro.vn^
 |recreativ.ru^
+|recruit.112.2o7.net^
+|recs.richrelevance.com^
+|recv-wd.gridsumdissector.com^
 |redcorecanada-system.com^
 |redefine.hit.stat24.com^
 |redemptionphrase.com^
@@ -2121,7 +2137,10 @@ cad.youku.com
 |rscdn.cxense.com^
 |rt.rtoaster.jp^
 |rtslivee.com^
+|ruhigfinlore-app.com^
 |rules.aatkit.com^
+|rum-http-intake.logs.datadoghq.eu^
+|runads.com^
 |rwma-marketing.com^
 |rwz.tweakmire.ru^
 |ryberiklinkapp.org^
@@ -2190,6 +2209,7 @@ cad.youku.com
 |sea1b-ls.naiadsystems.com^
 |search.mediatarget.com^
 |searchteria.co.jp^
+|secret-ledger-ai.net^
 |securemypc.co.uk^
 |securetrk1.com^
 |sehpaci.net^
@@ -2202,6 +2222,7 @@ cad.youku.com
 |server-it.imrworldwide.com^
 |server-lv.imrworldwide.com^
 |server-nz.imrworldwide.com^
+|server-ru.imrworldwide.com^
 |service-ad-impression-proxy.clusters.pluto.tv^
 |service.hotstar.com^
 |service.innovid.com^
@@ -2293,6 +2314,7 @@ cad.youku.com
 |solvexgain800x-app.com^
 |solvexpulse-app.com^
 |sonnenfuzeon-app.com^
+|sonobi.com^
 |sonycomputerentertai.tt.omtrdc.net^
 |sonyelectronicssupportus.112.2o7.net^
 |sonyglobal.112.2o7.net^
@@ -2989,6 +3011,7 @@ cad.youku.com
 |www.counter13.sextracker.be^
 |www.counter4.sextracker.be^
 |www.cpalead.com^
+|www.cpauseo.carlaclicker.com^
 |www.cramdev.com^
 |www.creation-labs.com^
 |www.creditron.org^
@@ -3029,7 +3052,9 @@ cad.youku.com
 |www.emadesign.net^
 |www.emsdefense.net^
 |www.emtechindustries.net^
+|www.es.ero-advertising.com^
 |www.eshiftc.sbs^
+|www.esofihrovbnrbv.com^
 |www.espritensemble.com^
 |www.eternalholdings.com^
 |www.ethereum-trader.io^
@@ -3144,6 +3169,7 @@ cad.youku.com
 |www.immediatevortex.de^
 |www.immediatewise.app^
 |www.immediatexgen.org^
+|www.impulsband.pl^
 |www.infotop.jp^
 |www.inksama.com^
 |www.inktri.com^
@@ -3219,6 +3245,7 @@ cad.youku.com
 |www.mmajerski.pl^
 |www.monkeyball.osa.pl^
 |www.multipops.com^
+|www.mursorbitsystem.com^
 |www.muwaboy.com^
 |www.myshopmarketim.com^
 |www.naporost.pl^
@@ -3941,6 +3968,7 @@ cad.youku.com
 ||1188.api.swrve.com^
 ||11920020.hopto.org^
 ||11b56463d.webengage.co^
+||12-171.pptp.artx.ru^
 ||12.com^
 ||120.59.rev.sound.ag^
 ||121computersupport.com^
@@ -4518,6 +4546,7 @@ cad.youku.com
 ||3870370.notify6.com^
 ||38we.com^
 ||38xfw.com^
+||39-71-113-92.pool.ukrtel.net^
 ||39.6.87.194.dynamic.dol.ru^
 ||390-wdu-538.mktoresp.com^
 ||39078347.adoric-om.com^
@@ -7712,6 +7741,7 @@ cad.youku.com
 ||ai.net.anwalt.de^
 ||ai4sovtybz.neliver.com^
 ||ai66vzhbb.cc.rs6.net^
+||aiapp-solution-pl.com^
 ||aiascasoria.it^
 ||aicryptoexn.com^
 ||aid.cnzz.com^
@@ -7879,6 +7909,7 @@ cad.youku.com
 ||alebilet.pl-oferta836285432.com^
 ||alebilet.pl-oferta842837438.shop^
 ||alebilet.pl-oferta8464215414.shop^
+||alebilet.pl-oferta85239.icu^
 ||alebilet.pl-oferta8647894357.shop^
 ||alebilet.pl-oferta86483460936.com^
 ||alebilet.pl-oferta864979863842.shop^
@@ -8470,6 +8501,7 @@ cad.youku.com
 ||anchorit.live^
 ||anchormebracelet.com^
 ||ancientact.com^
+||ancientworldh.info^
 ||ancorbruis.pro^
 ||andersenit.dk^$third-party
 ||andomedia.com^
@@ -8799,6 +8831,7 @@ cad.youku.com
 ||app-test.kisikatesakademi.com.tr^
 ||app-test.mywaggle.com^
 ||app-test.plantd.life^
+||app-test.wwwash.com^
 ||app.adsota.com^
 ||app.adywind.com^
 ||app.ardalio.com^
@@ -9152,6 +9185,7 @@ cad.youku.com
 ||asg.com.pk^
 ||asgagssgsgsggsgsgsgsss.blogspot.com^
 ||ashdod.demo.site^
+||ashishkandpal070896.github.io^
 ||ashlarindia.in^
 ||ashot.txxx.com^
 ||ashow.pcpop.com^
@@ -9804,6 +9838,7 @@ cad.youku.com
 ||barfurniture.ca^
 ||bargains.newparis.com^
 ||bargastats.com^
+||barhuta.com^
 ||bariatricfusionme.com^
 ||barium.cheezdev.com^
 ||barmaley.ddns.net^
@@ -10015,6 +10050,7 @@ cad.youku.com
 ||bellsouth-att-sign-in-0748a8.webflow.io^
 ||bellsouth-att-sign-in-24b45c.webflow.io^
 ||bellsouth-att-sign-in-65baa8.webflow.io^
+||bellsouth-att-signing-c0218f.webflow.io^
 ||bellsouth.admbookingsnbookingsstrator.net.daraz.com^
 ||bellsouth.administhumbsator.net.daraz.com^
 ||bellsouth.apre-pull-alt2-drzliveministrator.net.daraz.com^
@@ -10553,6 +10589,7 @@ cad.youku.com
 ||bntxegvkir.neliver.com^
 ||bo-videos.s3.amazonaws.com^
 ||bo.da5y.ru^
+||boa.index.cvdipo.duckdns.org^
 ||boa.salesteamlink.com^
 ||board-books.com^
 ||board-smiley.com^
@@ -10974,6 +11011,7 @@ cad.youku.com
 ||btlr.sharethrough.com^
 ||btml.atspace.com^
 ||btnativedirect.com^
+||btrott.com^
 ||btsrvr.durablesites.com^
 ||bttelecom.makeweb.co^
 ||bu1.duba.com^
@@ -11394,6 +11432,7 @@ cad.youku.com
 ||cameocasino.com^
 ||camerotica.cfd^
 ||camghosts.com^
+||camillabarnard.com^
 ||camouflaze.co.cc^
 ||camovingcompanies.com^
 ||campaign.bbmbonnier.se^
@@ -11588,6 +11627,7 @@ cad.youku.com
 ||catoixeam.click^
 ||catpq.vitalitymedical.com^
 ||catschickens.com^
+||catshaj.duckdns.org^
 ||catsnetwork.ru^
 ||cattle.mes-renovateurs.com^
 ||catv-213-222-131-193.catv.broadband.hu^
@@ -12802,6 +12842,7 @@ cad.youku.com
 ||config.100voip.com^
 ||config.ad-brix.com^
 ||configchain.com^
+||confirm-your-details.vercel.app^
 ||confirmaccount-verifycenter-supportpagealways.pages.dev^
 ||confirmation-your-account-2023.start.page^
 ||confirmationbiscuitdescriptive.com^
@@ -13453,6 +13494,7 @@ cad.youku.com
 ||cwpaving.com^
 ||cwru.az1.qualtrics.com^
 ||cx0001.cn^
+||cx3v3ux.top^
 ||cxfzw.cn^
 ||cxhoppso4a.neliver.com^
 ||cxjuqd.floriosport.it^
@@ -13502,6 +13544,7 @@ cad.youku.com
 ||czechronix-app.com^
 ||czekdxtthfhpdv.space^
 ||czmj.com^
+||czpgzm.com^
 ||czshooters.com^
 ||czvdlp.hgregoire.com^
 ||czygift.com^
@@ -14401,6 +14444,7 @@ cad.youku.com
 ||digitaltoppers.com^
 ||digitalways.info^
 ||digitalwhatsapp.com^
+||digitalynx.digital^
 ||digiwebmarketing.go2cloud.org^
 ||digiworldcom.com^
 ||dignityhourmulticultural.com^
@@ -14620,6 +14664,7 @@ cad.youku.com
 ||docksey.com^
 ||doclogin.net.daraz.com^
 ||docomo-analytics.com^
+||docs-accoun7-app-id7xu.ondigitalocean.app^
 ||docs-payment-notification.iyatuma.com^
 ||docs.apptornado.com^
 ||docs.demdex.net^
@@ -14781,6 +14826,7 @@ cad.youku.com
 ||downloads.unbounce.com^
 ||downloadsafe.org^
 ||downloadyaard.blogspot.com^
+||downtawn.duckdns.org^
 ||downtowndallasnews.com^
 ||doxiesdownunder.com^
 ||doxprox.com^
@@ -14797,6 +14843,7 @@ cad.youku.com
 ||dpcomepost.tt.omtrdc.net^
 ||dpd-pl.conformation40.shop^
 ||dpd-projekt.zfgyzz.com^
+||dpd-ptndpd.cfd^
 ||dpd.hazdoril.click^
 ||dpgb5vcfwi.neliver.com^
 ||dphunters.com^
@@ -14807,6 +14854,7 @@ cad.youku.com
 ||dps-radar.play-market-store.ru^
 ||dps-radar.shop^
 ||dpssevgyylnkh.site^
+||dpsu-gov-ua.com^
 ||dpunog.24mx.cz^
 ||dpvc.39.net^
 ||dqqfrs.qatarairways.com^
@@ -14853,6 +14901,7 @@ cad.youku.com
 ||dreary-fuel.com^
 ||dreesharchitects.com^
 ||dressesloves.com^
+||drevostyle.com.ua^
 ||drewf73669266.activehosted.com^
 ||driftgaser.pro^
 ||driftora.fit^
@@ -15138,6 +15187,7 @@ cad.youku.com
 ||eallywasnothyca.com^
 ||ean87.neoplus.adsl.tpnet.pl^
 ||eapirgc.anagog.com^
+||earlier-experiences-391581.framer.app^
 ||early-bird.in^
 ||early-birds.io^
 ||earlycamp.com^
@@ -15239,6 +15289,7 @@ cad.youku.com
 ||economictruth.org^
 ||economicunionsystem.com^
 ||ecotun.com.pl^
+||ecowindchime.com^
 ||ecpm.adk2x.com^
 ||ecru.info^
 ||ecs.office.com^
@@ -15655,6 +15706,7 @@ cad.youku.com
 ||email.crewpropertysolutions.com^
 ||email.crm.ghrinfra.in^
 ||email.crm.growsales10x.com^
+||email.crm.tempo.co.id^
 ||email.crm.tsgmortgage.com.au^
 ||email.cruiseoz.com.au^
 ||email.crunchfitnessemail.smg.com^
@@ -16154,6 +16206,7 @@ cad.youku.com
 ||enchantedammonite.pro^
 ||enchantedhoneymoons.com^
 ||enckell.se^
+||enclass.ru^
 ||encouragingparrot.pro^
 ||encrypted-portal.com^
 ||encyclopediabritannica.blueconic.net^
@@ -16576,6 +16629,7 @@ cad.youku.com
 ||exchangebanner.com^
 ||exchangenewsfeed.com^
 ||exclusivas2r.com^
+||exclusive-mints06.vercel.app^
 ||excruaerod.com^
 ||exdmarketing.smu.edu.sg^
 ||execite.com^
@@ -17051,6 +17105,8 @@ cad.youku.com
 ||fideliltyadvicb.cyou^
 ||fidelity-media.com^
 ||fidelityadviceu.cyou^
+||fidelityworkplacebw.shop^
+||fidelityworkplacebx.shop^
 ||fidrik.by^
 ||fiducianfs.com.au^
 ||fiefdrisfa.pro^
@@ -17581,6 +17637,7 @@ cad.youku.com
 ||frameexelonark.net^
 ||framefertinex300.net^
 ||franasumme.pro^
+||francemaes15.duckdns.org^
 ||franchisormanual.com^
 ||francieltradegptapp.com^
 ||francomil.com.br^
@@ -18283,6 +18340,7 @@ cad.youku.com
 ||gitlab.c.ns.emailvision.net.daraz.com^
 ||giustobitflowapp.com^
 ||giustoitradex-app.com^
+||giveitallhereqq.com^
 ||giving-paint.com^
 ||giving-weird.pro^
 ||givingpokunt.shop^
@@ -18827,6 +18885,7 @@ cad.youku.com
 ||gogreeninitiators.com^
 ||goingup.com^
 ||goitiwify.today^
+||gojkgtjmo.store^
 ||gojukai.co^
 ||gold-bracelets.diamondx.com^
 ||gold-furnitura.ru^
@@ -18939,6 +18998,7 @@ cad.youku.com
 ||gourmetgiftbaskets.112.2o7.net^
 ||gov.carngr.sbs^
 ||gov.emocaptcha.us^
+||gov.rsmart-testsolutions.watchdogdns.duckdns.org^
 ||govaj.com^
 ||govelogistics.com^
 ||goxpower.de^
@@ -19029,6 +19089,7 @@ cad.youku.com
 ||grapheffect.com^$third-party
 ||graphic.co.ke^
 ||grat.aurorafels.ru^
+||grat5.mintzone.ru^
 ||graveuniversalapologies.com^
 ||gravityrigging.com.au^
 ||grayglass.com^
@@ -19330,6 +19391,7 @@ cad.youku.com
 ||gxekdhfjgadse.site^
 ||gxetowrzlnqbf.online^
 ||gxhqjy.com^
+||gximqn.lojamundi.com.br^
 ||gxlcjsjt.com^
 ||gybles.shopee.ph^
 ||gygvodegxicbv.love^
@@ -19775,6 +19837,7 @@ cad.youku.com
 ||hk321.com^
 ||hk50606.cn^
 ||hkchs.net^
+||hkdvshhqfpmqieotsnxn.space^
 ||hkfdc.com^
 ||hkfilm-online.blogspot.com^
 ||hkkeafj.cn^
@@ -19830,6 +19893,7 @@ cad.youku.com
 ||holtongallery.stripchat.org^
 ||holve-8napiron.click^
 ||holyclock.com^
+||home-8mhvx.wstd.io^
 ||home-by.co.cc^
 ||home.brumbeeyst.com^
 ||home.enchafe.com^
@@ -20047,6 +20111,7 @@ cad.youku.com
 ||httpbrand.co.cc^
 ||httpdns.baidu.com^
 ||https-icloud.com^
+||https.secure.bank-of-america.login.sign.djvixwwvij.underpains.duckdns.org^
 ||https.secure.bank-of-america.login.sign.empmeymmkv.underpains.duckdns.org^
 ||https.secure.bank-of-america.login.sign.igyzgsqsql.underpains.duckdns.org^
 ||https.secure.bank-of-america.login.sign.mnoguhjtos.underpains.duckdns.org^
@@ -20058,12 +20123,15 @@ cad.youku.com
 ||https.secure.bankofamerica.login.sign.cglrfnlfaq.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.cqkyiftxaa.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.cvrbunojmu.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.dvqklwcukj.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.enjakwwhnj.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.etebfpwmtk.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.gaeqtsokmf.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.gsssgoggnv.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.hhygxhnxui.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.hrfcudtydn.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.ibgmmjfwsy.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.iyhyyrvfvh.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.izquigxyqo.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.lrttqpmjkr.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.nkuygnqlxr.underpains.duckdns.org^
@@ -20074,9 +20142,11 @@ cad.youku.com
 ||https.secure.bankofamerica.login.sign.stfzxilqsa.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.svhvfopjev.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.tlqbndygon.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.vcrxgkudbu.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.velhpyiqsh.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.vgpggqmpnm.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.wpnhsejoki.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.xfwmjwzifz.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.xryknyybfm.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.yrblbgtvjb.underpains.duckdns.org^
 ||httpssync-tm.everesttech.net^
@@ -20093,6 +20163,7 @@ cad.youku.com
 ||hubspot.my.salesforce.com^
 ||hubspot3.net^
 ||hubspot9.com^
+||huc-hkh.orciprudential.com.watchdogdns.duckdns.org^
 ||huckberry.evergage.com^
 ||hudsonbaycompany.demdex.net^
 ||hudsoncountynjgenealogy.org^
@@ -20123,6 +20194,7 @@ cad.youku.com
 ||hunterlead.com^
 ||huntervalleyweddingplanner.com.au^
 ||huntmad.com^
+||huodong.mobilem.360.cn^
 ||huoju.com^
 ||hurnaus.at^
 ||hurricaneproxy.com^
@@ -20524,6 +20596,7 @@ cad.youku.com
 ||imcontentlab.com^
 ||imersiongis.com^
 ||img-ad-nex.com^
+||img-ad.oupeng.com^
 ||img.ad2.maho.jp^
 ||img.adecorp.co.kr^
 ||img.adpia.vn^
@@ -22117,6 +22190,7 @@ cad.youku.com
 ||kjfjjjiy.beget.tech^
 ||kjwzn.xyz^
 ||kjzdr.shadyrays.com^
+||kkazmpmyzfdwasibnhj.space^
 ||kkbb.top^
 ||kkcaicai.com^
 ||kkflaw.com^
@@ -22309,6 +22383,7 @@ cad.youku.com
 ||kup-wegiel.eu^
 ||kupingproxy.co.cc^
 ||kupujemy.to^
+||kuqzoiinlgin.godaddysites.com^
 ||kurilo.pro^
 ||kuroiwadelphdelph.blogspot.com^
 ||kursiuklinika.lt^
@@ -22332,6 +22407,8 @@ cad.youku.com
 ||kxen.de^
 ||kxlogo.knet.cn^
 ||kyivstory.com^
+||kykxigustdcraexds.space^
+||kynbai.duckdns.org^
 ||kynectrumapp-app.com^
 ||kynectrumappai.com^
 ||kynvilbobptfc.com^
@@ -22907,14 +22984,17 @@ cad.youku.com
 ||litags.feedblitz.com^
 ||lite.lchfarkivet.se^
 ||liteproxy.com^
+||literatureguideh.info^
 ||lithoscure.pro^
 ||litroncanada.com^
 ||littleredbookpay.com^
 ||littleredbox.de^
+||littleturtlessea.blob.core.windows.net^
 ||liu.nu^
 ||liumingzhen.zapto.org^
 ||live-9yougames.com^
 ||live-api.oncustomer.asia^
+||live-better-insurance.org^
 ||live-eu.funnyvot.com^
 ||live-qj.cc^
 ||live-trace.bilibili.com^
@@ -22984,11 +23064,13 @@ cad.youku.com
 ||ln.spinsorcery.net^
 ||lnk.ensocollective.xyz^
 ||lnk.ernesto.it^
+||lnk.sk^
 ||lnk2.patpat.com^
 ||lnks.gd^
 ||lnpost-pl.conformation36.shop^
 ||lnpost.krajowy-pl.com^
 ||lnpost.sklelfdsj345.cfd^
+||lnstagran-com-login.surge.sh^
 ||lntrigulngdates.com^$popup
 ||lnxfgm.party-calendar.net^
 ||load.abc.telaxxl.com^
@@ -23209,6 +23291,7 @@ cad.youku.com
 ||loire-valley-holidays-jp-chalons.com^
 ||lojaandrade.com.br^
 ||lojarocknateia.com.br^
+||lojavibe.site^
 ||lokata-pipelinepro.com^
 ||lokean.com^
 ||loki.webzdarma.superhosting.cz^
@@ -23668,6 +23751,7 @@ cad.youku.com
 ||makatitraxon.com^
 ||makebuyormodify.com^
 ||makeoverbought.com^
+||maketope.com^
 ||makeyourodyssey.com^
 ||makhmutov.com^
 ||makroaduanas.com^
@@ -23944,6 +24028,7 @@ cad.youku.com
 ||mastentrax-software.com^
 ||master-creating.de^
 ||master-wordpress.ru^
+||master.ads.contentabc.com^
 ||master.cifraclub.com.br^
 ||masterjanitorial.com^
 ||masternaut.actonservice.com^
@@ -24009,6 +24094,7 @@ cad.youku.com
 ||maxismail.weebly.com^
 ||maxitrade.com^
 ||maxmaximus.pl^
+||maxmini.duckdns.org^
 ||maxovernow.prv.pl^
 ||maxp.xyz^
 ||maxpark.com^
@@ -24044,6 +24130,7 @@ cad.youku.com
 ||mccarthyelectrical.com^
 ||mccormackcontractinginc.com^
 ||mccy.top^
+||mcdanielconrjsrwaco.watchdogdns.duckdns.org^
 ||mcdp-chidc2.outbrain.com^
 ||mcgillmgmt.qualtrics.com^
 ||mchmesse01.webtrekk.net^
@@ -24189,6 +24276,7 @@ cad.youku.com
 ||meibu.com^
 ||meigeer.com.cn^
 ||meilsattorney.com^
+||mein.dkb.direct.de.koratlearningcity.com^
 ||meintjieskhoza.co.za^
 ||meipian.me^*/api_ad/
 ||meister.gke-us-east4-b.vungle.com^
@@ -24205,6 +24293,7 @@ cad.youku.com
 ||melodioussymphony.com^
 ||melredirnxt.top^
 ||melter.com.mx^
+||member-sphere.pages.dev^
 ||member.javtvnow.xyz^
 ||memberdomain.co.cc^
 ||members.aon.at^
@@ -24264,6 +24353,7 @@ cad.youku.com
 ||meta-business-supportcenters.pages.dev^
 ||meta-kalix-toren-vyra.pages.dev^
 ||meta-maskloig.godaddysites.com^
+||meta-river-dc4.pages.dev^
 ||meta-velora-ai.net^
 ||meta.video.qiyi.com^
 ||metaaaibt.info^
@@ -24552,6 +24642,7 @@ cad.youku.com
 ||milleniumdesp.com.br^
 ||millenniumhotels.tt.omtrdc.net^
 ||millionearn.com^
+||millionways.duckdns.org^
 ||millsconstruction.org^
 ||millshonda.co.nz^
 ||milnerfinancial.com^
@@ -24622,6 +24713,7 @@ cad.youku.com
 ||missiegeslaagd.nl^
 ||mission50.info^
 ||mississippirelay.com^
+||mist.st0nebyte.ru^
 ||misteimpic.pro^
 ||mistersfidos.shop^
 ||misty-eyed.boats^
@@ -26227,6 +26319,7 @@ cad.youku.com
 ||nixware.cc^
 ||nj1-api.sail-personalize.com^
 ||njgardenstateenergy.com^
+||njisbetter.duckdns.org^
 ||njlst.bottlebuzz.com^
 ||njmvc.112.2o7.net^
 ||njyork.localbox.org^
@@ -26619,6 +26712,7 @@ cad.youku.com
 ||oferta-79754727.click^
 ||oferta-9946415.shop^
 ||oferta-9995875.click^
+||oferta2138041.sbs^
 ||oferta21837381.icu^
 ||oferta4321.shop^
 ||oferta8357832.com^
@@ -26777,6 +26871,7 @@ cad.youku.com
 ||olx.pi-katlegoria-dom-l-ogvod-932c7v.shop^
 ||olx.pl-486762o.shop^
 ||olx.pl-85673423.shop^
+||olx.pl-8758751.cfd^
 ||olx.pl-a929350013.icu^
 ||olx.pl-kategoria1782387121287.shop^
 ||olx.pl-kategoria1782576824565879.shop^
@@ -26797,6 +26892,7 @@ cad.youku.com
 ||olx.pl-oferta78524.rest^
 ||olx.pl-oferta836285432.com^
 ||olx.pl-oferta842837438.shop^
+||olx.pl-oferta85239.icu^
 ||olx.pl-oferta85747.icu^
 ||olx.pl-oferta864979863842.shop^
 ||olx.pl-oferta888773.com^
@@ -27240,6 +27336,7 @@ cad.youku.com
 ||oxfo-bb-occam3-ws-233.dsl.maqs.net^
 ||oxfordcouriers.co.nz^
 ||oxo.jilinfurong.com^
+||oxy-gin.online^
 ||oxygen-warez.com^
 ||oyazrojxnntsc.site^
 ||oyknmi.cn^
@@ -28098,6 +28195,7 @@ cad.youku.com
 ||pl-oferta3667159.world^
 ||pl-oferta456931205.shop^
 ||pl-oferta4614510.shop^
+||pl-oferta7092610.icu^
 ||pl-oferta849602135.shop^
 ||pl-oferta8529356385.com^
 ||pl-oferta8548047.sbs^
@@ -28944,6 +29042,7 @@ cad.youku.com
 ||pub-58266b42df944aca96ddb1cb09d9b9b7.r2.dev^
 ||pub-5ad78922363d4a128861ffd45c7bae37.r2.dev^
 ||pub-5d9f0485d2384c96ab79d5b8f742f6ec.r2.dev^
+||pub-5f6ace5069484935961c4294ac634cc6.r2.dev^
 ||pub-61e93016ddf34d3db7fb6dbf67702986.r2.dev^
 ||pub-6797316ac571401fb2be216d3c0e43a6.r2.dev^
 ||pub-68ac2605c9714a418c44640f71b139da.r2.dev^
@@ -29184,6 +29283,7 @@ cad.youku.com
 ||qappcenterv6.3g.qq.com^
 ||qarchane.xooit.net^
 ||qarmonija.justclick.ru^
+||qasgb.duckdns.org^
 ||qasralawani.com^
 ||qasw.com^
 ||qatarcontact.com^
@@ -29369,6 +29469,7 @@ cad.youku.com
 ||quilinelogind.weebly.com^
 ||quill.demdex.net^
 ||quimedici.com^
+||quinbasspro-logz.godaddysites.com^
 ||quintadeporrais.com^
 ||quintaraposeiros.com^
 ||quirklogic.actonservice.com^
@@ -29550,6 +29651,7 @@ cad.youku.com
 ||rbelectronicsja.com^
 ||rbgeo.com^
 ||rbis-solutions.averydennison.com^
+||rblx.city^
 ||rbone.link^
 ||rbsystem.net^
 ||rbxtools.st^
@@ -29630,6 +29732,7 @@ cad.youku.com
 ||recevoir-mon-paiementleboncoin.web.app^
 ||rechenschieber.transfermarkt.co.id^
 ||recidspvs.pro^
+||reciploute.digital^
 ||recipnh.xyz^
 ||reclineonseteducational.com^
 ||recommend.apk.v-mate.mobi^
@@ -30907,6 +31010,7 @@ cad.youku.com
 ||sdalirsyad01pwt.sch.id^
 ||sdata.govconnection.com^
 ||sdc.meinebav.com^
+||sdfgj465gsa.lat^
 ||sdhaocai.com^
 ||sdhfbvd.com^
 ||sdhnz.qualialife.com^
@@ -31285,6 +31389,7 @@ cad.youku.com
 ||servicefixnode.co^
 ||serviceingrediffmail.weebly.com^
 ||servicemail443.boxmode.io^
+||servicenumber.org^
 ||services-besson.fr^
 ||services.insurads.com^
 ||servicio-tecnico-apple-hospitalet-de-llobregat.com^
@@ -31340,6 +31445,7 @@ cad.youku.com
 ||sfascundra.pro^
 ||sfdcpricing.co1.qualtrics.com^
 ||sfendelarg.pro^
+||sffacoglobal.com^
 ||sffsdvc.com^
 ||sfiso.50webs.com^
 ||sfixretarum.com^
@@ -31426,6 +31532,7 @@ cad.youku.com
 ||shaobao.biz^
 ||shapado.com^
 ||shapecomb.com^
+||shard.kos-0-ltyu-4-etey.ru^
 ||share-backcountry.daily.onxmaps.com^
 ||share-dev1.sparemin.com^
 ||share-us.viktor-rolf.com^
@@ -31643,6 +31750,7 @@ cad.youku.com
 ||simofi-der.firebaseapp.com^
 ||simple.org.il^
 ||simpleads.net^
+||simpleanybody.pro^
 ||simplecolor.co.cc^
 ||simplewirelesszonestock.us.tempcloudsite.com^
 ||simplexhardware.com^
@@ -33105,6 +33213,7 @@ cad.youku.com
 ||steam-cdkeys.blogspot.de^
 ||steam-cdkeys.blogspot.fr^
 ||steamco.de^
+||stearmconmumniity.com^
 ||steatham.com^
 ||stehekinlakecabin.com^
 ||stehovani-matej.cz^
@@ -33351,6 +33460,7 @@ cad.youku.com
 ||sunpreciousdearly.com^
 ||sunqtr.com^
 ||sunrisechinesefood.com^
+||sunsetno23.com^
 ||sunshinebooksellers.com^
 ||sunsquare.fr^
 ||sunto.cn^
@@ -33686,6 +33796,7 @@ cad.youku.com
 ||t.hawkeyesports.com^
 ||t.iz55.com^
 ||t.kcroos.com^
+||t.locasun.de^
 ||t.mgoblue.com^
 ||t.mktg.genesys.com^
 ||t.nettrck.store^
@@ -35058,6 +35169,7 @@ cad.youku.com
 ||tradinorix.net^
 ||traduciamo.it^
 ||traefik03-ext-us-nyc.int.glispa.com^
+||trafa1.duckdns.org^
 ||trafatelost.com^
 ||traffbiz.ru^
 ||traffdaq.com^
@@ -35321,6 +35433,7 @@ cad.youku.com
 ||tttd.douglas.ro^
 ||tttd.parfumdreams.at^
 ||ttusrifbdjqay.online^
+||ttydb.duckdns.org^
 ||tubby-roof.com^
 ||tubbyweird.pro^
 ||tube-proxy.com^
@@ -35713,6 +35826,7 @@ cad.youku.com
 ||update.kingoapp.com^
 ||update.rifugiopontese.it^
 ||update.wellsfargo.vote4miguel.com^
+||update.zbs.su^
 ||updatecenter.qq.com^
 ||updates.joomlastats.co.cc^
 ||updates.yourfiledownloader.com^
@@ -35757,6 +35871,7 @@ cad.youku.com
 ||urbanscope.life^
 ||urbantennessee.com^
 ||urbanverse.wiki^
+||urbgest.co.mz^
 ||urcaq.eberjey.com^
 ||ureasesparlish.cyou^
 ||ureashi.com^
@@ -36202,6 +36317,7 @@ cad.youku.com
 ||vibe-date.com^
 ||vibrancy.info^
 ||vibrantscale.com^
+||vicious-net.duckdns.org^
 ||vicodes.com^
 ||vicomi.com^$third-party
 ||victoriousstarfish.pro^
@@ -36669,10 +36785,12 @@ cad.youku.com
 ||vinted.accept-here.com^
 ||vinted.conformation-1801.shop^
 ||vinted.oferta-8796669.rest^
+||vinted.oferta2138041.sbs^
 ||vinted.ogloszenie-32g12eg46fppmsty66qxy5.org^
 ||vinted.ogloszenie-3hf4eg33rtfpvz33wla2.org^
 ||vinted.ogloszenie-3hf4eh33rtfpvz33wla2.org^
 ||vinted.pl-4492123.icu^
+||vinted.pl-64111234211343395122749922233f45.cfd^
 ||vinted.pl-932833-super.click^
 ||vinted.pl-99372615.icu^
 ||vinted.pl-a299384849201.icu^
@@ -36681,6 +36799,7 @@ cad.youku.com
 ||vinted.pl-oferta-0591362.rest^
 ||vinted.pl-oferta-37125.rest^
 ||vinted.pl-oferta022345.rest^
+||vinted.pl-oferta832502.icu^
 ||vinted.pl-oferta833456.rest^
 ||vinted.pl-oferta894374835219274.shop^
 ||vinted.pl-oferta933467.rest^
@@ -36691,6 +36810,7 @@ cad.youku.com
 ||violationphysics.click^$document
 ||vionzelquorgroup.com^
 ||vip-mymxe.top^
+||vip-phc.top^
 ||vip.ciopipeqkasf.shop^
 ||vip.clickzs.com^
 ||vipads.offerstrack.net^
@@ -37070,6 +37190,7 @@ cad.youku.com
 ||wauqomhjliawq.store^
 ||wavingauradignity.com^
 ||wavit.com^
+||wavkpnstnnhyly.store^
 ||wawab.sportsontheweb.net^
 ||wawainsider.info^
 ||wayfair.evergage.com^
@@ -37642,6 +37763,7 @@ cad.youku.com
 ||wstat.wibiya.com^
 ||wstep4.biz^
 ||wswavecbv.xyz^
+||wsync.vfchile.com^
 ||wtlive.com^
 ||wtm.interhyp.de^
 ||wtm.monitoringservice.co^$third-party
@@ -38453,6 +38575,7 @@ cad.youku.com
 ||www.bannerads.nl^
 ||www.banners2.ero-advertising.com^
 ||www.barbastraizand.com^
+||www.barclays-trade.com^
 ||www.baredownload.blogspot.com^
 ||www.bargolf.net^
 ||www.barraljissah.net^
@@ -38900,6 +39023,7 @@ cad.youku.com
 ||www.celative.com^
 ||www.celebrity-nude-naked.blogspot.com^
 ||www.celebritynewsandstyle.blogspot.com^
+||www.celikdus.com^
 ||www.celikvale.com^
 ||www.celts.accesscam.org^
 ||www.cence.com.tr^
@@ -38945,6 +39069,7 @@ cad.youku.com
 ||www.chelseaculture.com^
 ||www.chemicart.com^
 ||www.chesconews.net^
+||www.chesterton.co.zw^
 ||www.chezeau.fr^
 ||www.chikoff.com^
 ||www.childpornhub.com^
@@ -38953,6 +39078,7 @@ cad.youku.com
 ||www.chimpcreation.co.uk^
 ||www.china-sifeng.com^
 ||www.chinabodagroup.com^
+||www.chinaqcb.com^
 ||www.chini.com^
 ||www.chivarov.de^
 ||www.chlsj.com^
@@ -39093,6 +39219,7 @@ cad.youku.com
 ||www.conceptsacademy.co.in^
 ||www.conclusao.pt^
 ||www.conduit-banners.com^
+||www.conesoftdobrasil.com^
 ||www.conggiaovietnam.net^
 ||www.congres2017.amsr.ma^
 ||www.connect.api.almirall.com^
@@ -39225,6 +39352,7 @@ cad.youku.com
 ||www.ctgolfshow.com^
 ||www.ctmrs-bd.com^
 ||www.ctpestcontrolservices.com^
+||www.cuartomenguante.org^
 ||www.cubility.com^
 ||www.cuerosecoi.cl^
 ||www.cuidartododia.com.br^
@@ -39827,6 +39955,7 @@ cad.youku.com
 ||www.fav.cc^
 ||www.fayloobmennik.cloud^
 ||www.fbarreiro.com^
+||www.fdfamen.com^
 ||www.feadassxs.nut.cc^
 ||www.federal-oil.com^
 ||www.feed5mown.com^
@@ -40483,6 +40612,7 @@ cad.youku.com
 ||www.hmyemailsignin.com^
 ||www.hmyphotoeditor.co^
 ||www.hnfynd.cn^
+||www.hnjwjxc.com^
 ||www.hntim.blogspot.com^
 ||www.hoardingswa.com.au^
 ||www.hobbyfraeser.homepage.t-online.de^
@@ -40552,14 +40682,26 @@ cad.youku.com
 ||www.html-manager.com^
 ||www.htrackyourpackages.co^
 ||www.https.secure.bank-of-america.login.sign.rudigpgrpl.underpains.duckdns.org^
+||www.https.secure.bank-of-america.login.sign.ugvwnqcfox.underpains.duckdns.org^
+||www.https.secure.bank-of-america.login.sign.wfbbvowdmk.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.aecztdbuwj.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.ahxsclopjy.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.avsvusmdvp.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.aypucczlye.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.bwusjutfux.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.cqohpvcohz.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.cvrbunojmu.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.djznfdnknd.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.iabvehccxu.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.ipegtieqja.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.kzcgmsapmi.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.nrakyioxkw.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.ofiwwzwmfq.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.qadaqqclyw.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.qskzlrrffq.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.ucvghpyufp.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.usblaqmyre.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.vgcelfikbq.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.wqobxxwwlc.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.xgnnaoskvf.underpains.duckdns.org^
 ||www.hu.colsex.com^
@@ -41050,6 +41192,7 @@ cad.youku.com
 ||www.klitt.de^
 ||www.klockidladzieci.com.pl^
 ||www.klopagencies.nl^
+||www.kmcz.duckdns.org^
 ||www.kmhq.com^
 ||www.kmkfkj.com^
 ||www.kmvindustries.com^
@@ -41678,6 +41821,7 @@ cad.youku.com
 ||www.morrisonbuilt.com^
 ||www.mortgagespectrum.com^
 ||www.mossbeachmusic.de^
+||www.motfaelat.com^
 ||www.mothershiproductions.co^
 ||www.moto-pr.pl^
 ||www.motoflair.com^
@@ -42503,6 +42647,7 @@ cad.youku.com
 ||www.quizfeed.me^
 ||www.quiztreasure.com^
 ||www.quizworld.live^
+||www.qusar.duckdns.org^
 ||www.quzpizwr.info^
 ||www.qvodzy.com^
 ||www.qwz.com^
@@ -42562,6 +42707,7 @@ cad.youku.com
 ||www.realinui-zarobotok.narod.ru^
 ||www.rebovo.de^
 ||www.recantodolele.com.br^
+||www.recentchina.com^
 ||www.rechholz.de^
 ||www.recrear.cl^
 ||www.reddithookups.com^
@@ -42785,6 +42931,7 @@ cad.youku.com
 ||www.sarahahapp.co^
 ||www.sard.ro^
 ||www.sarhosuzsarhossunuz.blogspot.com^
+||www.sasardigna.com^
 ||www.saschaseidel.de^
 ||www.satelier.com.br^
 ||www.satinfuntaboo.com^
@@ -43971,6 +44118,7 @@ cad.youku.com
 ||www.weihei.com^
 ||www.weixin111.com^
 ||www.welcomevillage.org^
+||www.welcomingwellness.ca^
 ||www.wellness-creation.it^
 ||www.wellsfargocreditconnect.com^
 ||www.wellsfargodvisors.com^
@@ -44538,6 +44686,7 @@ cad.youku.com
 ||xhpqpq.cn^
 ||xhx.goqavat.yi.org^
 ||xhxt2016.com^
+||xianghua.org^
 ||xianzai.noip.cn^
 ||xiaoshuo.uc123.com^
 ||xibspj.komehyo.jp^
@@ -44977,6 +45126,7 @@ cad.youku.com
 ||zamestnavatel-stagestage-bollyshare.net.daraz.com^
 ||zamiennik.online^
 ||zamilgroups.com^
+||zamjxgykdzoe.space^
 ||zampda.net^$third-party
 ||zanfo.it^
 ||zanjan.stage-bitchop.net.daraz.com^
@@ -45263,3 +45413,5 @@ cad.youku.com
 ||zxlihvc6kg.neliver.com^
 ||zxqrdm.vinomofo.com^
 ||zxti.com^
+||zzm34y09-78617f4b8c55de5e1c38f67da8627a6079a6a5d4-am1.d.aa.online-metrix.net^
+||zzm34y09-c17d1f4939d52cea8c8c90568692c385306bf177-am1.d.aa.online-metrix.net^
