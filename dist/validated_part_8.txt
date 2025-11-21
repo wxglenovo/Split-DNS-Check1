@@ -601,7 +601,9 @@ $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkit
 :8888/zhu/wap_
 :8898/ads_
 <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="wLnlUqKG5uWtO013xmEzzkn7uIOcr1RNPJ5de7B+V+RmzYbWgUHnhrSn/RFxz9MahUkCX0GdlANDrGM/nG7TMQ==" />
+</a>    <tool-tip id="tooltip-3a6e3948-94e9-4e2d-b132-387dac555869" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 </article></div></div></div></div></div> <!-- --> <!-- --> <script type="application/json" id="__PRIMER_DATA_:R0:__">{"resolvedServerColorMode":"day"}</script></div>
+</button><tool-tip id="tooltip-a1756d7f-05d3-4113-ab21-a6196941e2a4" for="icon-button-41b06bc8-6561-423f-95ee-e4a97a236fcc" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 </div>    </div>
 </span>    </li>
 </template>
@@ -612,12 +614,17 @@ $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkit
 <a href="/privacy-protection-tools/anti-AD/custom-properties" data-view-component="true" class="Link Link--muted"><svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-note mr-2">
 <a href="/topics/pi-hole" title="Topic: pi-hole" data-view-component="true" class="topic-tag topic-tag-link">
 <a href="https://easylist-downloads.adblockplus.org/easyprivacy.txt" rel="nofollow">https://easylist-downloads.adblockplus.org/easyprivacy.txt</a><br></p>
+<a href="https://github.com/DandelionSprout" class="Link--primary no-underline flex-self-center">
 <a href="https://github.com/cjx82630" class="Link--primary no-underline flex-self-center">
+<a href="https://github.com/durablenapkin"
 <a id="issues-tab" href="/cjx82630/cjxlist/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /cjx82630/cjxlist/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
 <a id="pull-requests-tab" href="/privacy-protection-tools/anti-AD/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /privacy-protection-tools/anti-AD/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
 <a id="security-tab" href="/privacy-protection-tools/anti-AD/security" data-tab-item="i4security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /privacy-protection-tools/anti-AD/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+<a tabindex="-1" id="item-bcb98942-43bd-4fce-afdd-638b84bd404e" href="/privacy-protection-tools/anti-AD/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+<a tabindex="-1" id="item-c0d31c6e-3c1c-47f1-a7bb-8532e5f08109" href="/durablenapkin/scamblocklist/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <a tabindex="-1" id="item-ce1533e2-b633-45a0-86af-d81813d24265" href="/privacy-protection-tools/anti-AD/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1243610/73809320-de535780-480d-11ea-82f5-15d4c3ccb0c0.png"><img src="https://user-images.githubusercontent.com/1243610/73809320-de535780-480d-11ea-82f5-15d4c3ccb0c0.png" alt="716981535" style="max-width: 100%;"></a></p>
+<anchored-position data-target="action-menu.overlay" id="action-menu-21982b10-5d2b-441d-8092-bc9487c2a206-overlay" anchor="action-menu-21982b10-5d2b-441d-8092-bc9487c2a206-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
 <button data-target="react-partial-anchor.anchor" id="icon-button-158a5c97-4610-48db-8fbb-1599ade1846d" aria-labelledby="tooltip-df5a3ddb-a5dc-48a8-9944-3a7aa3f177eb" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
 <button form="code-search-feedback-form" data-action="click:qbsearch-input#submitFeedback" type="submit" data-view-component="true" class="btn-primary btn">    Submit feedback
 <button id="icon-button-9f22089a-c5dc-4b26-a46f-4b183f76e2e9" aria-labelledby="tooltip-35c37e45-69b0-46c1-895e-78a9ed3e0cd3" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
@@ -636,8 +643,11 @@ $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkit
 <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
 <head>
 <img src="https://avatars.githubusercontent.com/u/81752398?s=64&amp;v=4" alt="@MkQtS" size="32" height="32" width="32" data-view-component="true" class="avatar circle" />
+<include-fragment src="/cjx82630/cjxlist/security/overall-count" accept="text/fragment+html" data-nonce="v2:05e3e02a-b0f0-dae8-5da0-d33f8a83dcf1" data-view-component="true">
 <include-fragment src="/cjx82630/cjxlist/used_by_list" accept="text/fragment+html" data-nonce="v2:23b0a03b-2525-f2d5-719d-8d034e9762d2" data-view-component="true">
 <include-fragment src="/durablenapkin/scamblocklist/security/overall-count" accept="text/fragment+html" data-nonce="v2:48752c05-360f-663c-706f-ec1b32ad7af3" data-view-component="true">
+<include-fragment src="/privacy-protection-tools/anti-AD/security/overall-count" accept="text/fragment+html" data-nonce="v2:a33f7d0a-9308-5d1c-6daf-8e4ec4532ba1" data-view-component="true">
+<input type="hidden" data-csrf="true" value="+H9j9wVdF4AYbsXQ+DCMh7P58CB0fIvVObCZoUDXtunWY2lrnUSziKAMu0nL2oYb9yR5WlcAYc5L2mZekFI8vw==" />
 <input type="hidden" data-csrf="true" value="rGfZaPzTWRNwIAmLPuvuDZulPatzp5/Rtcnepuo3ZirPQoJgTtyTrvcsx6uRD9p9rpBCIFVGmUppmE+sUI0WgQ==" />
 <label for="include_email" style="font-weight: normal">Include my email address so I can be contacted</label>
 <li data-view-component="true" class="d-inline-flex">
@@ -669,9 +679,11 @@ $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkit
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-035a922c194f.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/primer-react-1d943c070f89.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/repositories-88b6972ea88f.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-3af600d495cb.js" defer="defer"></script>
 <script type="application/json" data-target="react-partial.embeddedData">{"props":{"initialPayload":{"allShortcutsEnabled":false,"path":"/","repo":{"id":218568420,"defaultBranch":"master","name":"scamblocklist","ownerLogin":"durablenapkin","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2019-10-30T16:08:04.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/57188837?v=4","public":true,"private":false,"isOrgOwned":false},"currentUser":null,"refInfo":{"name":"master","listCacheKey":"v0:1572451686.0","canEdit":false,"refType":"branch","currentOid":"dd00d2de0c846527e9ca2f0876b179916b6a0890"},"tree":{"items":[{"name":".github/ISSUE_TEMPLATE","path":".github/ISSUE_TEMPLATE","contentType":"directory","hasSimplifiedPath":true},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"adguard.txt","path":"adguard.txt","contentType":"file"},{"name":"hosts.txt","path":"hosts.txt","contentType":"file"},{"name":"raw.txt","path":"raw.txt","contentType":"file"}],"templateDirectorySuggestionUrl":null,"readme":null,"totalCount":6,"showBranchInfobar":false},"fileTree":null,"fileTreeProcessingTime":null,"foldersToFetch":[],"treeExpanded":false,"symbolsExpanded":false,"copilotSWEAgentEnabled":false,"isOverview":true,"overview":{"banners":{"shouldRecommendReadme":false,"isPersonalRepo":false,"showUseActionBanner":false,"actionSlug":null,"actionId":null,"showProtectBranchBanner":false,"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_repo","releasePath":"/durablenapkin/scamblocklist/releases/new?marketplace=true","showPublishActionBanner":false},"interactionLimitBanner":null,"showInvitationBanner":false,"inviterName":null,"actionsMigrationBannerInfo":{"releaseTags":[],"showImmutableActionsMigrationBanner":false,"initialMigrationStatus":null},"showDeployBanner":false,"detectedStack":{"framework":null,"packageManager":null}},"codeButton":{"contactPath":"/contact","isEnterprise":false,"local":{"protocolInfo":{"httpAvailable":true,"sshAvailable":null,"httpUrl":"https://github.com/durablenapkin/scamblocklist.git","showCloneWarning":null,"sshUrl":null,"sshCertificatesRequired":null,"sshCertificatesAvailable":null,"ghCliUrl":"gh repo clone durablenapkin/scamblocklist","defaultProtocol":"http","newSshKeyUrl":"/settings/ssh/new","setProtocolPath":"/users/set_protocol"},"platformInfo":{"cloneUrl":"https://desktop.github.com","showVisualStudioCloneButton":false,"visualStudioCloneUrl":"https://windows.github.com","showXcodeCloneButton":false,"xcodeCloneUrl":"xcode://clone?repo=https%3A%2F%2Fgithub.com%2Fdurablenapkin%2Fscamblocklist","zipballUrl":"/durablenapkin/scamblocklist/archive/refs/heads/master.zip"}},"newCodespacePath":"/codespaces/new?hide_repo_select=true\u0026repo=218568420"},"popovers":{"rename":null,"renamedParentRepo":null},"commitCount":"2,102","overviewFiles":[{"displayName":"README.md","repoName":"scamblocklist","refName":"master","path":"README.md","preferredFileType":"readme","tabName":"README","richText":"\u003carticle class=\"markdown-body entry-content container-lg\" itemprop=\"text\"\u003e\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch1 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eScam Blocklist\u003c/h1\u003e\u003ca id=\"user-content-scam-blocklist\" class=\"anchor\" aria-label=\"Permalink: Scam Blocklist\" href=\"#scam-blocklist\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003eA blocklist to protect users against untrustworthy sites.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eNightly updates with dead/invalid domains removed.\u003c/p\u003e\n\u003cul dir=\"auto\"\u003e\n\u003cli\u003e\u003cstrong\u003eScam Blocklist (HOSTS format): \u003ca href=\"https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt\" rel=\"nofollow\"\u003ehttps://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt\u003c/a\u003e\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eScam Blocklist (Adblock Plus (ABP) format): \u003ca href=\"https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt\" rel=\"nofollow\"\u003ehttps://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt\u003c/a\u003e\u003c/strong\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp dir=\"auto\"\u003eSpecial shoutout to \u003ccode\u003ewww.ikiha.com\u003c/code\u003e for inspiring the creation of this project (included in this blocklist). All I wanted was the chubby seal plushie.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eContribute: \u003ca href=\"https://github.com/durablenapkin/scamblocklist/issues\"\u003ehttps://github.com/durablenapkin/scamblocklist/issues\u003c/a\u003e\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eHow to Use:\u003c/h2\u003e\u003ca id=\"user-content-how-to-use\" class=\"anchor\" aria-label=\"Permalink: How to Use:\" href=\"#how-to-use\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003eThe Scam Blocklist can easily be added as another list in adblockers. In uBlock Origin (\u003ca href=\"https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/\" rel=\"nofollow\"\u003eFirefox\u003c/a\u003e | \u003ca href=\"https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm\" rel=\"nofollow\"\u003eChrome\u003c/a\u003e) you can add \u003ccode\u003ehttps://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt\u003c/code\u003e as a \u003ccode\u003eCustom Filter List\u003c/code\u003e under the \u003ccode\u003eFilter lists\u003c/code\u003e tab.\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eFeatured in:\u003c/h2\u003e\u003ca id=\"user-content-featured-in\" class=\"anchor\" aria-label=\"Permalink: Featured in:\" href=\"#featured-in\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cul dir=\"auto\"\u003e\n\u003cli\u003e\u003ca href=\"https://adguard-dns.io/\" rel=\"nofollow\"\u003eAdGuard DNS\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://github.com/hagezi/dns-blocklists\"\u003eHaGeZi's DNS Blocklists\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://github.com/notracking/hosts-blocklists\"\u003eNoTracking Blocklist\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://oisd.nl/\" rel=\"nofollow\"\u003eOISD Blocklist\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp dir=\"auto\"\u003eEveryone is welcome to integrate this blocklist into their project! If you do, feel free to open an issue or pull request and I'll add your project here!\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eResources:\u003c/h2\u003e\u003ca id=\"user-content-resources\" class=\"anchor\" aria-label=\"Permalink: Resources:\" href=\"#resources\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cul dir=\"auto\"\u003e\n\u003cli\u003e\u003ca href=\"https://www.trustpilot.com/\" rel=\"nofollow\"\u003ehttps://www.trustpilot.com/\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://old.reddit.com/r/Scams/\" rel=\"nofollow\"\u003ehttps://old.reddit.com/r/Scams/\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://www.facebook.com/ValarStore/\" rel=\"nofollow\"\u003ehttps://www.facebook.com/ValarStore/\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://www.google.com/search?q=%22Every+day+we+receive+more+appreciative+emails+from+satisfied+customers+all+over+the+world%22\u0026amp;filter=0\" rel=\"nofollow\"\u003ehttps://www.google.com/search?q=\"Every+day+we+receive+more+appreciative+emails+from+satisfied+customers+all+over+the+world\"\u0026amp;filter=0\u003c/a\u003e (handy query to find scam retailers)\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://www.google.com/search?q=%22Kindly+keep+in+mind+that+we+produce+on+demand.+We+do+not+stock+items.%22\u0026amp;filter=0\" rel=\"nofollow\"\u003ehttps://www.google.com/search?q=\"Kindly+keep+in+mind+that+we+produce+on+demand.+We+do+not+stock+items.\"\u0026amp;filter=0\u003c/a\u003e (handy query to find scam retailers)\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://www.google.com/search?q=%22Everyday,+we+strive+to+deliver+high+quality+products+with+the+greatest+customer+experience+possible.+%22\u0026amp;filter=0\" rel=\"nofollow\"\u003ehttps://www.google.com/search?q=\"Everyday,+we+strive+to+deliver+high+quality+products+with+the+greatest+customer+experience+possible.+\"\u0026amp;filter=0\u003c/a\u003e (handy query to find scam retailers)\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://www.forbrukertilsynet.no/netthandel/falske-nettbutikker\" rel=\"nofollow\"\u003ehttps://www.forbrukertilsynet.no/netthandel/falske-nettbutikker\u003c/a\u003e (and by extension \u003ca href=\"https://github.com/DandelionSprout/adfilt/blob/master/NorwegianList.txt\"\u003ehttps://github.com/DandelionSprout/adfilt/blob/master/NorwegianList.txt\u003c/a\u003e, which also removes dead domains from the former).\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/article\u003e","loaded":true,"timedOut":false,"errorMessage":null,"headerInfo":{"toc":[{"level":1,"text":"Scam Blocklist","anchor":"scam-blocklist","htmlText":"Scam Blocklist"},{"level":2,"text":"How to Use:","anchor":"how-to-use","htmlText":"How to Use:"},{"level":2,"text":"Featured in:","anchor":"featured-in","htmlText":"Featured in:"},{"level":2,"text":"Resources:","anchor":"resources","htmlText":"Resources:"}],"siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fdurablenapkin%2Fscamblocklist"}},{"displayName":"LICENSE","repoName":"scamblocklist","refName":"master","path":"LICENSE","preferredFileType":"license","tabName":"MIT","richText":null,"loaded":false,"timedOut":false,"errorMessage":null,"headerInfo":{"toc":null,"siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fdurablenapkin%2Fscamblocklist"}}],"overviewFilesProcessingTime":0,"copilotSWEAgentEnabled":false}},"appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-0cea8c6113ab.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-105a4a160ddd.js","githubDevUrl":null,"enabled_features":{"copilot_workspace":null,"code_nav_ui_events":false,"react_blob_overlay":false,"accessible_code_button":true}}}}</script>
 <span class="FormControl-inlineValidation--visual">
 <span class="author flex-self-stretch" itemprop="author">
+<span class="color-fg-muted">Imre Eilertsen</span>
 <span class="d-block h4 color-fg-default my-1" id="solutions-by-use-case-heading">By use case</span>
 <span data-content="Issues">Issues</span>
 <span title="0" hidden="hidden" data-view-component="true" class="Counter ml-1">0</span></a></h2>
@@ -16170,6 +16182,7 @@ zznews.cn#@#.ad-wrapper
 ||achird.xyz^
 ||achn186.neoplus.adsl.tpnet.pl^
 ||achoice-manage.lib-oa-1.net.daraz.com^
+||aciamagercek.com^
 ||acidicstraw.com^
 ||acikdeniz-denizbankasitr.com^
 ||acimo.com^
@@ -20602,6 +20615,7 @@ zznews.cn#@#.ad-wrapper
 ||allegrolokalnie.pl8735.cfd^
 ||allegrolokalnie.pll-kategoria18923147285612.shop^
 ||allegrolokalnie.plsd2bgfalstda98gjk.icu^
+||allegrolokalnie.plsd2bgflstasd56cgk.icu^
 ||allegrolokalnie.promo-okazje-dzieci.sbs^
 ||allegrolokalnie.promo-okazje-inne2002.sbs^
 ||allegrolokalnie.pz-1857362.rest^
@@ -22600,6 +22614,7 @@ zznews.cn#@#.ad-wrapper
 ||arenaofshrugs.com^
 ||arenapair.cfd^
 ||arenasolutionscom.122.2o7.net^
+||arenbuild.com^
 ||ares.com.es^
 ||ares.net^
 ||aresprofil.com^
@@ -25217,6 +25232,7 @@ zznews.cn#@#.ad-wrapper
 ||biqu.info^
 ||biquge.com.cn/hit.php
 ||birch.aurorafels.ru^
+||birdcabbagecow.com^
 ||birdflex.top^
 ||birdgrasshopper.com^
 ||birdhausdesign.com^
@@ -28797,6 +28813,7 @@ zznews.cn#@#.ad-wrapper
 ||chonongsan.biz^
 ||choogeet.net^
 ||chooseagame.com^
+||choosecha.dwellwellnc.com^
 ||choosesurfs.tk^
 ||choozalady.pw^
 ||chopdown.host.sk^
@@ -31024,6 +31041,7 @@ zznews.cn#@#.ad-wrapper
 ||corpmultiinversiones.com^
 ||corporacionalanya.com^
 ||corporatedtvm.com.br^
+||corporatefiguressolutions.com^
 ||corporateinsurance.info^
 ||corporatemg.com^
 ||corpus-naturals.pxf.io^
@@ -33696,6 +33714,7 @@ zznews.cn#@#.ad-wrapper
 ||dhcp-077-248-022-112.chello.nl^
 ||dhcp-077-249-002-157.chello.nl^
 ||dhcp-077-250-110-061.chello.nl^
+||dhdbeuh4h.lat^
 ||dhdudhdu.000webhostapp.com^
 ||dheheagbmhdfk.space^
 ||dhgracemes.cf^
@@ -38217,6 +38236,7 @@ zznews.cn#@#.ad-wrapper
 ||extramarketing.com.br^
 ||extramila.com.br^
 ||extramilefloorcare.ericksonbuilt.com^
+||extranetpmshotel.com^
 ||extraokaydesk.wp60.com^
 ||extrapass.nz.gs^
 ||extrapolate.co.cc^
@@ -39438,6 +39458,7 @@ zznews.cn#@#.ad-wrapper
 ||filesendfree.com^
 ||fileserve.xyz^
 ||fileserver03.com^
+||fileses.standard.us-east-1.oortstorages.com^
 ||filesforgames.com^
 ||fileshare.allfreeandroidapps.net^
 ||fileshare.bestmainlyreliable4contentsnow.icu^
@@ -42959,6 +42980,7 @@ zznews.cn#@#.ad-wrapper
 ||goldsurf4silver.tk^
 ||goldvix.tk^
 ||goldyfutureprox.tk^
+||golevikonaklamarestaurant.com^
 ||golf-cart-fan.xyz^
 ||golf-galaxy.pxf.io^
 ||golfclub-oberschwaben.com^
@@ -43419,6 +43441,7 @@ zznews.cn#@#.ad-wrapper
 ||greyhoundbuslines.com^
 ||greylock.com^
 ||greytank.tk^
+||greywood-finviora-system.com^
 ||greyzone.co.cc^
 ||grfpr.com^
 ||grfqrhqlzvjl.com^
@@ -44624,6 +44647,7 @@ zznews.cn#@#.ad-wrapper
 ||henqnv.top^
 ||hentai2w.com/ark2023/
 ||hentaimoviez.com^
+||hentbolkalesi.com^
 ||henweekendsbirmingham.co.uk^
 ||heoeee.com^
 ||hepaticscnshukox.website^
@@ -46306,6 +46330,7 @@ zznews.cn#@#.ad-wrapper
 ||ideaart.buzz^
 ||ideaccion.cl^
 ||ideacrypto.ru^
+||ideaexecutionx.com^
 ||ideaform.org^
 ||idealaircraftseating.com^
 ||idealbalance.hu^
@@ -47507,6 +47532,7 @@ zznews.cn#@#.ad-wrapper
 ||innovad.nl^
 ||innovaiagency.com^
 ||innovaiso.ru^
+||innovate-horizonssac.com^
 ||innovation-tact-app.net^
 ||innovation.leeind.com^
 ||innovativmedia.de^
@@ -52185,6 +52211,7 @@ zznews.cn#@#.ad-wrapper
 ||ln3sc-x0hjd.ads.tremorhub.com^
 ||ln7ost.b4sbua.hair^
 ||ln8ost.d3rpkp.cyou^
+||ln8ost.tj8kio.bond^
 ||lnbox1400.gdn^
 ||lnbox2200.gdn^
 ||lnbox3100.gdn^
@@ -52440,6 +52467,7 @@ zznews.cn#@#.ad-wrapper
 ||logc187.xiti.com^
 ||logc194.xiti.com^
 ||logc281.xiti.com^
+||logdata.hatspotlight.asia^
 ||logger.eigene.io^
 ||logger.foxitcloud.com^
 ||logger.logidea.info^
@@ -55393,6 +55421,7 @@ zznews.cn#@#.ad-wrapper
 ||midtypesoftappclicks.icu^
 ||midtypesupportappclicks.icu^
 ||miducnafleh.com^
+||miedorama.com^
 ||miel-maroc.com^
 ||mielno-baltic.pl^
 ||miftahuljannah.org^
@@ -56632,6 +56661,7 @@ zznews.cn#@#.ad-wrapper
 ||mondaymorning.cz^
 ||monderpliktaus.pro^
 ||mondial-infomyrelais.com^
+||mondial-relay-programmer.com^
 ||mondial.relaysign.in^
 ||mondialrelais-creneaux.info^
 ||mondialrelay-fr-formulaire.com^
@@ -64490,6 +64520,7 @@ zznews.cn#@#.ad-wrapper
 ||poudrinnamaste.com^
 ||poula-choice-usca.pxf.io^
 ||pounds.central-hispano.eu^
+||pournetwork.dirtychimp.com^
 ||poury-edge-ai.net^
 ||poveglianoatuttogas.org^
 ||povernment.info^
@@ -79053,6 +79084,7 @@ zznews.cn#@#.ad-wrapper
 ||trapezia.stream^
 ||trappingfour.pw^
 ||trappzilla.tumblr.com^
+||traqueteaba.cyou^
 ||tratamentoneuropatia.online^
 ||trato-traffic-support.xyz^
 ||traumaprocuredinsect.com^
@@ -79465,6 +79497,7 @@ zznews.cn#@#.ad-wrapper
 ||tttbonl-ine-edi-ting.ajew07.asia^
 ||tttd.douglas.at^
 ||ttuhichqhbnmb.web.app^
+||ttvinc.com^
 ||ttvip-t107.shop^
 ||ttxs8.xyz^
 ||ttybnxcophvx.ga^
@@ -95267,6 +95300,7 @@ zznews.cn#@#.ad-wrapper
 ||www.kompass.ru^
 ||www.kompbass.de^
 ||www.konarkproject.com^
+||www.kondrackicelej.org^
 ||www.konicaminoltasupport.net^
 ||www.koniecikroppka.website^
 ||www.kooldesigns.ca^
@@ -96107,6 +96141,7 @@ zznews.cn#@#.ad-wrapper
 ||www.lv-jp.com^
 ||www.lvbagsview.com^
 ||www.lvgrowmarkets.com^
+||www.lvgseguranca.com.br^
 ||www.lxjmgc.com^
 ||www.lxx469.com^
 ||www.lyfem.cn^
@@ -104587,6 +104622,7 @@ zznews.cn#@#.ad-wrapper
 ||www.wanlll.com^
 ||www.wapchart.tk^
 ||www.wapcio.tk^
+||www.wapgudys.tk^
 ||www.wapjatt.tk^
 ||www.waploag.tk^
 ||www.wapvip.pro^
