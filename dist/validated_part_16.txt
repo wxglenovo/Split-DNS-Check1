@@ -613,6 +613,9 @@ $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=xpshuku.c
 :81/s/i.php?id=$script
 :88/lighttpd/default/
 :9875/vh2/
+</a>    <tool-tip id="tooltip-806f6bd2-d6ca-480c-876f-af1a0776a063" for="files-overview-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</button><tool-tip id="tooltip-83a73496-e61b-4db0-9fd7-0085f813b014" for="action-menu-1d625c4a-5d04-46c4-902d-1e34e673f690-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-c1189353-6440-4c6c-af02-52e743cc1259" for="icon-button-d6d2c8ef-cde6-4230-bd9e-c0167eaa71b4" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 </h1>
 </include-fragment>
 </react-partial-anchor>
@@ -635,6 +638,7 @@ $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=xpshuku.c
 <a href="https://filters.adtidy.org/extension/ublock/filters/220.txt" rel="nofollow">https://filters.adtidy.org/extension/ublock/filters/220.txt</a><br></p>
 <a tabindex="-1" id="item-71fa0f90-f0cf-4a21-b402-b62297eb22c0" href="/durablenapkin/scamblocklist/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <a tabindex="-1" id="item-c482a02e-b37a-423e-af15-901ccb889ca4" href="/privacy-protection-tools/anti-AD/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+<button data-target="react-partial-anchor.anchor" id="icon-button-29642ab6-2da0-448f-87ea-a8f53fb74688" aria-labelledby="tooltip-f8472e2c-9895-4373-a9a7-b29854bd823a" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
 <button id="icon-button-df0a1a22-9fd3-49d3-a4e3-be9a44f429b8" aria-labelledby="tooltip-ae819544-72c9-43b2-8c12-973d9c455dc4" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
 <div class="AppHeader-appearanceSettings">
 <div class="HeaderMenu-wrapper d-flex flex-column flex-self-start flex-lg-row flex-auto rounded rounded-lg-0">
@@ -648,6 +652,7 @@ $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=xpshuku.c
 <div class="text-small color-fg-muted">No releases published</div>
 <div class="zeroclipboard-container position-absolute right-0 top-0">
 <div data-view-component="true" class="Overlay Overlay--size-auto">
+<div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="ONfOqWU6ZWklZ7lHDMIKFL4Pyk4Z39MG4vCB2/dKS0nPibYIwsxFDeHD6Ag8lCJmaB3tiii60za5YGbneuLj0A==" />
 <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="mBuLLCpTAd0sVK0Wx/Nk1fXFBxIVFaAluIxGytvggBi6snw82M3ln49wAxZMvx+srR2le51/Z9FvklfUmjfkag==" />
 <div data-view-component="true">
 <div data-view-component="true">        <div class="search-suggestions position-fixed width-full color-shadow-large border color-fg-default color-bg-default overflow-hidden d-flex flex-column query-builder-container"
@@ -657,6 +662,7 @@ $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=xpshuku.c
 <h1 class="Overlay-title " id="feedback-dialog-title">
 <h2 class="h4 mb-3">
 <h3 class="sr-only">Code of conduct</h3>
+<include-fragment src="/cjx82630/cjxlist/hovercards/citation/sidebar_partial?tree_name=master" data-nonce="v2:ccab5463-fbd9-6cd8-45d1-870079135780" data-view-component="true">
 <include-fragment src="/cjx82630/cjxlist/security/overall-count" accept="text/fragment+html" data-nonce="v2:cf517c99-3273-b852-4430-136ecf75650e" data-view-component="true">
 <label id="query-builder-test-label" for="query-builder-test" class="FormControl-label sr-only">
 <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
@@ -670,6 +676,7 @@ $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=xpshuku.c
 <meta name="go-import" content="github.com/durablenapkin/scamblocklist git https://github.com/durablenapkin/scamblocklist.git">
 <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
 <meta name="octolytics-dimension-user_id" content="9707241" /><meta name="octolytics-dimension-user_login" content="cjx82630" /><meta name="octolytics-dimension-repository_id" content="26562123" /><meta name="octolytics-dimension-repository_nwo" content="cjx82630/cjxlist" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="26562123" /><meta name="octolytics-dimension-repository_network_root_nwo" content="cjx82630/cjxlist" />
+<meta name="request-id" content="E000:379200:1347058:138DD07:6920E458" data-pjax-transient="true"/><meta name="html-safe-nonce" content="fb502b2b14c97f6ca087554843c3ed3c8ddecbbb0338d07026b214b7e612b500" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFMDAwOjM3OTIwMDoxMzQ3MDU4OjEzOEREMDc6NjkyMEU0NTgiLCJ2aXNpdG9yX2lkIjoiNDQ0MTYwMTAxMTcxMjMyMDYwMCIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6InNlYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="fc40a92b177ca56c2b66d5688b5cc115f2d52eb82359fddc47ab7d201913da86" data-pjax-transient="true"/>
 <meta name="route-action" content="disambiguate" data-turbo-transient>
 <p dir="auto"><strong>3、iPhone和iPad:</strong><br>
 <p dir="auto">  因拦截视频广告在国内变得明显不合法,国内用户的默认规则列表不过滤视频广告,如需过滤请(点击ABP图标&gt;齿轮&gt;高级),删除EasyList China+EasyList (compliance),再(通过URL添加)两个过滤列表: <br>
@@ -677,6 +684,7 @@ $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=xpshuku.c
 <path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/39713-8508e9483898.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/70191-5122bf27bf3e.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-f0bd6df25c0e.js" defer="defer"></script>
 <span class="d-block h4 color-fg-default my-1" id="solutions-by-industry-heading">By industry</span>
 <span class="flex-auto min-width-0 css-truncate css-truncate-target width-fit">
 <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
@@ -13591,6 +13599,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||2ptxxjjzpy.com^
 ||2q34.com^
 ||2rf.1r55.ru^
+||2rtwg.icu^
 ||2rush.net^
 ||2serversecurityerror404.xyz^
 ||2sexy.ro^
@@ -20010,6 +20019,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||allegro.katlegorie-inne-20xc8bv76.rest^
 ||allegro.oferta-1131549.shop^
 ||allegro.oferta-1283918293.cfd^
+||allegro.oferta-2342553.icu^
 ||allegro.oferta-373838383.cyou^
 ||allegro.oferta-4290852.icu^
 ||allegro.oferta-4524348.icu^
@@ -25865,6 +25875,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||bobyhack.duckdns.org^
 ||bocaautocenters.com^
 ||bocees04.com^
+||bocekbilim.com^
 ||bocongthuong.org^
 ||bocpqkpmez.com^
 ||bodachsgttwmed.website^
@@ -31017,6 +31028,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||conveflave.pro^
 ||convenance-resolution-idm.web.app^
 ||convergencesacbesanconfricstatinalldomainlayout47f.weebly.com^
+||converpion.xyz^
 ||conversant.mgr.consensu.org^
 ||conversaoexperts.com.br^
 ||converse.tt.omtrdc.net^
@@ -32041,6 +32053,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||cupqq.com^
 ||cupsdwac.co.kr^
 ||curalate-like2buy-prod-vpc.us-east-1.elasticbeanstalk.com^
+||curatbegin.dcudigest.com^
 ||curberjeepney.qpon^
 ||curebrowser.tk^
 ||curiarawolfkin.com^
@@ -33176,6 +33189,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||dealnews-travel.t.domdex.com^
 ||deals.buxr.net^
 ||deals.ky^
+||dealsvortex.dvgfinance.com^
 ||deamination.us^
 ||deamonwarez.com^
 ||deancoates.com^
@@ -33811,6 +33825,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||dicyth.xyz^
 ||diddledo.info^
 ||diddykurniawan.com^
+||didea.eimanrestaurant.com^
 ||didemtekstil.com^
 ||didesi.com.mx^
 ||didipit.com^
@@ -35525,6 +35540,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||earnitup.com^
 ||earnmobp-ciuwad.xyz^
 ||earnmodf-cuyaad.xyz^
+||earnmoneyseehow.com^
 ||earnshare.net^
 ||earnvia.buzz^
 ||earsmediastore.com^
@@ -37698,6 +37714,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||estilo.com.ar^
 ||estore.jp/beacon/
 ||estpeopleshouldth.org^
+||estrategaai.com^
 ||estream.xyz^
 ||estreamnetworks.net^
 ||estuarial-benefits.000webhostapp.com^
@@ -53184,6 +53201,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||m.abz.com^
 ||m.acaoz.com^
 ||m.ambientplatform.vn^
+||m.analytics.126.net.split.ntes53.netease.com^
 ||m.aqiudaohang.com^
 ||m.bailingjiankang.com^
 ||m.bitmo.com^
@@ -56437,6 +56455,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||model2.hedgeye.com^
 ||modelcenter.livejasmin.com^
 ||modelcommand.com^
+||modelconceptor.com^
 ||modelinomaxpro.net^
 ||modelpayments.net^
 ||modelrumahmewah.info^
@@ -56767,6 +56786,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||moveisdonorte.com^
 ||movementplaybook.com^
 ||movemovenow.com^
+||movemydata.ch^
 ||movfull.com^$popup
 ||movie-gallery-post.com^
 ||movie-review.info^
@@ -58256,6 +58276,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||newalways.yoursafest2searches.review^
 ||newapi.com^
 ||newavailabledocumentreadyandgoodandnice.000webhostapp.com^
+||newbalpipe.info^
 ||newbbb2u.info^
 ||newbestlastfileclicks.top^
 ||newbestseparateappclicks.top^
@@ -58750,6 +58771,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||nistorinsolventa.ro^
 ||nitevibe.com^
 ||nitishwarcollege.in^
+||nitrateoctode.help^
 ||nitridsgabfest.cyou^
 ||nitrioturinary.shop^
 ||nitro-cccis.net^
@@ -60768,6 +60790,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||onlineprotected.com^
 ||onlineprzelew.site^
 ||onlineracer.info^
+||onlineragged.com^
 ||onlinesale-support.com^
 ||onlinesalestores.shop^
 ||onlinesecretarialsupport.com.au^
@@ -63775,6 +63798,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||planetsuzy.org^
 ||planetview.info^
 ||planetwave.info^
+||planinnovatory.com^
 ||plankton-gtm.a.autoscout24.com^
 ||planmyvoyage.com^
 ||planningbulk.com^
@@ -66243,6 +66267,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||qabmhhrfi.bid^
 ||qaflyqanumeji.online^
 ||qagzhhe.net^
+||qajapyi9.com^
 ||qajobsupport.com^
 ||qakopertyner.tk^
 ||qalyjye.info^
@@ -66383,6 +66408,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||qlitics.com^
 ||qlkysc.icu^
 ||qllnow.pics^
+||qlqdtgamhhnfe.site^
 ||qlwqc9.sbs^
 ||qm92.com^
 ||qmacgroup.com^
@@ -70671,6 +70697,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||server-ru.imrworldwide.com^
 ||server-side-tagging-3dz7fhh55q-uc.a.run.app^
 ||server-side-tagging-467905025565.us-central1.run.app^
+||server-side-tagging-760112602971.us-east1.run.app^
 ||server-side-tagging-agl2jup2aa-uc.a.run.app^
 ||server-side-tagging-cscijzmvia-uc.a.run.app^
 ||server-side-tagging-gaolcudvzq-uc.a.run.app^
@@ -82511,6 +82538,7 @@ zyue.com##.ad_90,[id^="divad_"],.banner
 ||vknovayaversiya.bos.ru^
 ||vkonmillion14an08.blogspot.com^
 ||vkruisband.nl^
+||vkrzbydfwzmyo.online^
 ||vkse01.webtrekk.net^
 ||vkshop.biz^
 ||vksupports-login.pro^
