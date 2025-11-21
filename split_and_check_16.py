@@ -345,7 +345,7 @@ def dns_validate(rules, part):
             if res:
                 valid_rules.append(res)
             else:
-                print(f"⚠ 验证失败: {future.result()}")  # 输出失败的规则
+            #   print(f"⚠ 验证失败: {future.result()}")  # 输出失败的规则
             completed += 1
             
             # 输出进度信息
