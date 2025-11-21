@@ -606,6 +606,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 :8080/js/v1.js$third-party
 :8080/js/v2.1.js$third-party
 ::1 ip6-loopback
+</a>    <tool-tip id="tooltip-8ff7c6fa-9f5d-4a78-9255-1246f0cf1b0d" for="files-overview-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-94bd0098-298f-489e-a0c0-fbb7361f7570" for="files-overview-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</button><tool-tip id="tooltip-a570e884-5822-46fb-a9df-6d5802b94944" for="icon-button-1052e27b-9a5c-42f5-bcce-7049e3aaeb15" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 </cookie-consent-link>
 </div></action-list>
 </form>        </div>
@@ -651,8 +654,11 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
 <h1 class='sr-only'>cjx82630/cjxlist</h1>
 <h2 class="h4 mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
+<input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-20565143-d15b-4243-b1fa-eb32de228e43" data-target="query-builder.input" data-action="
 <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-38b4bae5-69cb-4b7a-b183-23384bc2a682" data-target="query-builder.input" data-action="
 <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-b2188aaa-61ee-46f9-acef-c23dd572a638" data-target="query-builder.input" data-action="
+<input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-db60f063-1ce7-448a-85d3-6574093856a4" data-target="query-builder.input" data-action="
+<input type="hidden" data-csrf="true" value="+rGF8Syw4sBtcq0qDGF1qd+t8DUcy+aIYMAqE1rm5F0AEeu91hjB1TwKuI1xcdObmJkFP3KIIOTPfT+TWznGpw==" />
 <input type="hidden" data-csrf="true" value="09POl73emjtIVDHl0ulmJ9EcIU+PkaPdMGwOSDBrkKJ8FcUlOgsP3XxBg2LunL0kVYCRx2pwUj+TXcU642wuYg==" />
 <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
 <li><a href="https://github.com/banbendalao/ADgk">ADgk.txt</a> - 鸣谢 坂本dalao</li>
@@ -674,6 +680,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 <path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 13H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25v-8.5C0 1.784.784 1 1.75 1ZM1.5 2.75v8.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-8.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Zm5.28 1.72a.75.75 0 0 1 0 1.06L5.31 7l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.75.75 0 0 1 1.06 0Zm2.44 0a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L10.69 7 9.22 5.53a.75.75 0 0 1 0-1.06Z"></path>
 <path d="M14.064 0h.186C15.216 0 16 .784 16 1.75v.186a8.752 8.752 0 0 1-2.564 6.186l-.458.459c-.314.314-.641.616-.979.904v3.207c0 .608-.315 1.172-.833 1.49l-2.774 1.707a.749.749 0 0 1-1.11-.418l-.954-3.102a1.214 1.214 0 0 1-.145-.125L3.754 9.816a1.218 1.218 0 0 1-.124-.145L.528 8.717a.749.749 0 0 1-.418-1.11l1.71-2.774A1.748 1.748 0 0 1 3.31 4h3.204c.288-.338.59-.665.904-.979l.459-.458A8.749 8.749 0 0 1 14.064 0ZM8.938 3.623h-.002l-.458.458c-.76.76-1.437 1.598-2.02 2.5l-1.5 2.317 2.143 2.143 2.317-1.5c.902-.583 1.74-1.26 2.499-2.02l.459-.458a7.25 7.25 0 0 0 2.123-5.127V1.75a.25.25 0 0 0-.25-.25h-.186a7.249 7.249 0 0 0-5.125 2.123ZM3.56 14.56c-.732.732-2.334 1.045-3.005 1.148a.234.234 0 0 1-.201-.064.234.234 0 0 1-.064-.201c.103-.671.416-2.273 1.15-3.003a1.502 1.502 0 1 1 2.12 2.12Zm6.94-3.935c-.088.06-.177.118-.266.175l-2.35 1.521.548 1.783 1.949-1.2a.25.25 0 0 0 .119-.213ZM3.678 8.116 5.2 5.766c.058-.09.117-.178.176-.266H3.309a.25.25 0 0 0-.213.119l-1.2 1.95ZM12 5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
+<qbsearch-input class="search-input" data-scope="repo:privacy-protection-tools/anti-AD" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="qVjzI4FrkGPgKFA5jiqlDJytzu3fMWV7jsXZ-gKeD4FpD2Q2bEIkYvdkfI6DZjmlkuFyRZ8pvAfFe-Zs42OTfg" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="privacy-protection-tools/anti-AD" data-current-org="privacy-protection-tools" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
 <span class="color-fg-muted">Custom properties</span></a>    </div>
 <span class="d-block h4 color-fg-default my-1" id="platform-explore-heading">Explore</span>
 <span data-view-component="true" class="progress-pjax-loader Progress position-fixed width-full">
@@ -14166,6 +14173,7 @@ zylom.com###headerbar_privacy
 ||5lu8.com^
 ||5m.njur.ru^
 ||5me.info^
+||5mny7ej.sbs^
 ||5oppegiveajingl.tk^
 ||5owjdo5rvd.top^
 ||5pe.lj3u5.ru^
@@ -15789,6 +15797,7 @@ zylom.com###headerbar_privacy
 ||aberdeenbirthsupport.com^
 ||aberrants.stream^
 ||aberrational.review^
+||abersaglik.com^
 ||abhfcseltzer.review^
 ||abhors.stream^
 ||abi-itsupport.com^
@@ -23008,6 +23017,7 @@ zylom.com###headerbar_privacy
 ||at1-s2s.sensic.net^
 ||at202030a.no-ip.biz^
 ||at55747f.godaddysites.com^
+||ataaydemir.com^
 ||atabrsw192.192.axc.nl^
 ||atacadaodaroupas.sitebrasil.org^
 ||atakumtaksi.com^
@@ -23015,6 +23025,7 @@ zylom.com###headerbar_privacy
 ||atandtphoness.tk^
 ||atarbiyahpulpen.online^
 ||atarget.harley-davidson.com^
+||atasehiruniversity.com^
 ||atassauction.com^
 ||atblqu.rondorff.com^
 ||atbubaj.guaaagsy.maxgrowth.ru^
@@ -26253,6 +26264,7 @@ zylom.com###headerbar_privacy
 ||bridged.stream^
 ||bridgeoos.com^
 ||bridgerehablahore.com^
+||bridgesilver.jessvelikovsky.com^
 ||bridgeventuresllc.com^
 ||bridgework.us^
 ||bridlearctic.com^
@@ -26651,6 +26663,7 @@ zylom.com###headerbar_privacy
 ||bucket.ebs-partner.net.daraz.com^
 ||buckingliards.rest^
 ||bucknerkenya.org^
+||budaneymis.com^
 ||buddhabhumitour.com^
 ||buddhis.me^
 ||buddles.stream^
@@ -35220,6 +35233,7 @@ zylom.com###headerbar_privacy
 ||durowueoaxjhd.com^
 ||durries.stream^
 ||durst.homeworksolving.com^
+||durusaglikurunleri.com^
 ||dusallegro-pl.shop^
 ||duskcrest.click^
 ||duskmobile.pl^
@@ -36033,6 +36047,7 @@ zylom.com###headerbar_privacy
 ||ekeiahtcwa.neliver.com^
 ||ekfc4ajgja.neliver.com^
 ||ekfeinsaat.com^
+||ekfetarim.com^
 ||ekgarantipolicem.com^
 ||ekhgvpsfrwqm.com^
 ||ekhourkaintazar.com^
@@ -37659,6 +37674,7 @@ zylom.com###headerbar_privacy
 ||espia-para-celulares5538866.pen.io^
 ||espialventures.com^
 ||espionnerunportable.org^
+||esplendorgainlux-solution.com^
 ||esportebola.com^
 ||esportsfuture.xyz^
 ||esportstogether.com^
@@ -39382,6 +39398,7 @@ zylom.com###headerbar_privacy
 ||fhgvvrpqkxafv.website^
 ||fhjhcrmwbgvkz.website^
 ||fhm.com^
+||fhor45gwgs.lat^
 ||fhpsymsy.shop^
 ||fhqornueunf.com^
 ||fhrhmop6bvqsn42-p.adkclicker.fr^
@@ -40031,6 +40048,7 @@ zylom.com###headerbar_privacy
 ||flurryjournal.com^
 ||fluskerdorhawk.click^
 ||fluss.tv^
+||flusso-finthorapp.com^
 ||flutteringthoughts.pro^
 ||fluttrsql.com^
 ||fluvial-majors.000webhostapp.com^
@@ -46080,6 +46098,7 @@ zylom.com###headerbar_privacy
 ||hypexl.icu^
 ||hypnagogia.us^
 ||hypnosage.com^
+||hypnose-lens.com^
 ||hypnosisforyourlife.com^
 ||hypnoticjackal.pro^
 ||hypnoticotter.pro^
@@ -47561,6 +47580,7 @@ zylom.com###headerbar_privacy
 ||ingo-klose.de^
 ||ingperu.com^
 ||ingraposit.com^
+||ingredientsbuild.clsrpos.com^
 ||ingz.bookonline.com.cn^
 ||inhabitantparticipation.com^
 ||inheart.ru^$third-party
@@ -49240,6 +49260,7 @@ zylom.com###headerbar_privacy
 ||jmqwsd.bookonline.com.cn^
 ||jmrrtidwhdd.yi.org^
 ||jmuiicjidzgno7y3getumcnbv-noreply-netflix.info^
+||jmvmzhztnjtsn.online^
 ||jmxjms.ltd^
 ||jmypdkzixne.com^
 ||jn1biifafz.cn^
@@ -50645,6 +50666,7 @@ zylom.com###headerbar_privacy
 ||ks30j7.icu^
 ||ks357228.kimsufi.com^
 ||ksamagic.com^
+||ksckoiubte.com^
 ||ksdib.tartecosmetics.com^
 ||ksdmkmcms.club^
 ||ksdp997.com^
@@ -59484,6 +59506,7 @@ zylom.com###headerbar_privacy
 ||nubom.com^
 ||nubtjnopbjup.com^
 ||nuclearsix.stream^
+||nucleiwide.dcudigest.com^
 ||nuclerixproplatform.com^
 ||nucoraa6.pro^
 ||nude-erotica.nu^
@@ -59886,6 +59909,7 @@ zylom.com###headerbar_privacy
 ||oferta-1438569.icu^
 ||oferta-2021922.pl^
 ||oferta-2072737.icu^
+||oferta-2342553.icu^
 ||oferta-29dg34kd94zmmrrx84ytp7.cfd^
 ||oferta-5011988.shop^
 ||oferta-5133966.shop^
@@ -65238,6 +65262,7 @@ zylom.com###headerbar_privacy
 ||proto.xperti.io^
 ||protoawe.com^
 ||protocolmindm.com^
+||protocolsleader.eimanrestaurant.com^
 ||protonemal-shell.000webhostapp.com^
 ||protonine.stream^
 ||protonwebmailauth.m-pages.com^
@@ -70554,6 +70579,7 @@ zylom.com###headerbar_privacy
 ||seethere.tk^
 ||seewon.com^
 ||sefmetzstone.com^
+||sefrail.com^
 ||seg-2.adjust.com^
 ||segacr.com^
 ||segheriafrison.it^
@@ -76150,6 +76176,7 @@ zylom.com###headerbar_privacy
 ||tallmanfd.org^
 ||tallnautilus.pro^
 ||tallteeshirt.com^
+||talonedveldman.rest^
 ||talsonithrexalantha.sbs^
 ||talverionquex.icu^
 ||talvexortrader39titan.com^
@@ -81759,6 +81786,7 @@ zylom.com###headerbar_privacy
 ||vfqejeazinwis.site^
 ||vftrfmia.icu^
 ||vfvrld.xyz^
+||vfws.amazon-adsystem.com^
 ||vfxcdhckojsqd.store^
 ||vg-no.c.richmetrics.com^
 ||vg05.met.vgwort.de^
@@ -83857,6 +83885,7 @@ zylom.com###headerbar_privacy
 ||web27.voodoo.com^
 ||web2hide.info^
 ||web2proxy4u.info^
+||web3.pancake.run^
 ||web4r5e.tk^
 ||web527.mis15.de^
 ||web54.nb2403.virtualhosts.netbuild.net^
@@ -84218,6 +84247,7 @@ zylom.com###headerbar_privacy
 ||wepontiosx.xyz^
 ||wepshare.tk^
 ||weqmdg.pw^
+||weqnjiiqjtrup.website^
 ||weqpkntrxqzh.com^
 ||werbeflut.net^
 ||werbemittelgenerator.com^
@@ -91520,6 +91550,7 @@ zylom.com###headerbar_privacy
 ||www.endoquimica.com.br^
 ||www.enduro.asia^
 ||www.enemydone.net^
+||www.enent.de^
 ||www.energi-a.pl^
 ||www.energi-andalan.co.id^
 ||www.energiisolare.com^
@@ -101469,6 +101500,7 @@ zylom.com###headerbar_privacy
 ||www.servepurpose.tk^
 ||www.server-support.pro^
 ||www.server.ad.logic-test.viasat.io^
+||www.server.coinbase-coins.cc^
 ||www.server.nocdirect.in^
 ||www.server180815.nazwa.pl^
 ||www.server181678.nazwa.pl^
@@ -104834,10 +104866,17 @@ zylom.com###headerbar_privacy
 ||www.warning-70ct0.stream^
 ||www.warning-70ot0.stream^
 ||www.warning-71ku1.stream^
+||www.warning-76cz6.stream^
 ||www.warning-78db8.stream^
 ||www.warning-7bb20.stream^
+||www.warning-7cz25.stream^
+||www.warning-7fx32.stream^
 ||www.warning-80xd0.stream^
+||www.warning-82bh2.stream^
+||www.warning-85hj5.stream^
 ||www.warning-85ti5.stream^
+||www.warning-86bl6.stream^
+||www.warning-8ih41.stream^
 ||www.warning-95ht5.stream^
 ||www.warning-abf19.stream^
 ||www.warning-abi27.stream^
@@ -105461,6 +105500,7 @@ zylom.com###headerbar_privacy
 ||www.womanstyles.site^
 ||www.womantravel.net^
 ||www.womenrecruitingevent.com^
+||www.womenshealth-us.pw^
 ||www.womensmonclercoat.top^
 ||www.womensnikefree.org^
 ||www.wonderfulnail.com^
