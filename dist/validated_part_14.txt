@@ -19,6 +19,7 @@ $ping,third-party
 -eu-cookies/$script
 -sharetools-
 -social-panel.
+-telemetry.officeapps.live.com.mcas.ms^
 -universal-analytics/
 .480x60/
 .acemlna.com/Prod/link-tracker?$image
@@ -58,6 +59,7 @@ $ping,third-party
 .secureserver.net/bbimage.aspx?
 .shop/tsk/$third-party
 .skimlinks.js
+.stape.net
 .today/process.js?id=
 .tripadvisor.com/MptUrl?$image
 .tv/js/ads/
@@ -87,6 +89,8 @@ $ping,third-party
 /Text_AD
 /^(\S+\.)?11599[\da-z]{2,20}\.com$/
 /^(\S+\.)?adservice\.google\./
+/^139\.45\.19[5-7]\.\d{1,3}/
+/^anon1.gt\d{6}.com$/
 /^https?:\/\/tjmaxx\.tjx\.com\/libraries\/[a-z0-9]{20,}/$script,xmlhttprequest,domain=tjx.com
 /^https?:\/\/www\.ebay-kleinanzeigen\.de\/[a-z0-9]{8}\-[0-9a-f]{4}\-/$script,domain=kleinanzeigen.de
 /^https?:\/\/www\.kroger\.com\/content\/{20,}/$script,xmlhttprequest,domain=kroger.com
@@ -578,9 +582,11 @@ $ping,third-party
 9duw.com###myads
 ://analytics-cdn.
 ://e.*/open?$image
+://kma.biz^
 ://piwik.$domain=~matomo.org|~piwik.pro
 ://rou*/_next/static/chunks/pages/home-
 ://rs-stripe.wsj.com/stripe/image?
+://say.ac^
 ://sg1.wizrocketmail.net/r?e=$image
 ://tracker.*/pageview
 ://www.*.com/players/*/-1/$script,subdocument,third-party,xmlhttprequest
@@ -596,6 +602,7 @@ $ping,third-party
 </button><tool-tip id="tooltip-9eeada28-36a5-495a-ab88-1a79efaa5d79" for="icon-button-d89f00fe-994c-4bba-9a86-51f584717f26" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 </button><tool-tip id="tooltip-a93ba877-8bc4-4ecd-8f37-7bd269546449" for="icon-button-b0a4ad10-267f-4688-8dfc-c9a043261a52" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 </button><tool-tip id="tooltip-dcee6172-2f28-41ed-ab45-80d6baa67ffa" for="icon-button-9183a3d7-2857-48af-9272-1f0886a318a1" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-f37a0e1a-7676-41e0-9267-42bab20bd313" for="icon-button-4567d766-757c-43cd-936f-ef68b7bf487d" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 </custom-scopes>
 </div>  </div>
 </style>
@@ -620,6 +627,7 @@ $ping,third-party
 <h3 class="sr-only">Resources</h3>
 <h3 class="sr-only">Topics</h3>
 <img src="https://avatars.githubusercontent.com/u/57285466?s=64&amp;v=4" alt="@scripthunter7" size="32" height="32" width="32" data-view-component="true" class="avatar circle" />
+<img src="https://avatars.githubusercontent.com/u/65916846?s=64&amp;v=4" alt="@actions-user" size="32" height="32" width="32" data-view-component="true" class="avatar circle" />
 <include-fragment aria-busy="true" aria-label="Loading contributors" src="/privacy-protection-tools/anti-AD/contributors_list?count=4&amp;current_repository=anti-AD&amp;items_to_show=4" data-nonce="v2:1d1cf793-58eb-b9ce-b4b4-b24e55d05ee3" data-view-component="true">
 <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-4659974c-cc00-49a5-9f34-42e92948ee82" data-target="query-builder.input" data-action="
 <li class="d-inline">
@@ -630,6 +638,7 @@ $ping,third-party
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.a2372895bf899ec482a2.module.css" />
 <meta name="octolytics-dimension-user_id" content="57188837" /><meta name="octolytics-dimension-user_login" content="durablenapkin" /><meta name="octolytics-dimension-repository_id" content="218568420" /><meta name="octolytics-dimension-repository_nwo" content="durablenapkin/scamblocklist" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="218568420" /><meta name="octolytics-dimension-repository_network_root_nwo" content="durablenapkin/scamblocklist" />
 <meta name="octolytics-dimension-user_id" content="58900766" /><meta name="octolytics-dimension-user_login" content="privacy-protection-tools" /><meta name="octolytics-dimension-repository_id" content="44733816" /><meta name="octolytics-dimension-repository_nwo" content="privacy-protection-tools/anti-AD" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="44733816" /><meta name="octolytics-dimension-repository_network_root_nwo" content="privacy-protection-tools/anti-AD" />
+<meta name="ui-target" content="canary-1">
 <meta property="og:image" content="https://opengraph.githubassets.com/0200bcac5b31296deddeb99ffd097a20749fdc2c88fd72bc16d4cf9a58a6fb42/privacy-protection-tools/anti-AD" /><meta property="og:image:alt" content="致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式 - privacy-protection-tools/anti-AD" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="GitHub - privacy-protection-tools/anti-AD: 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式" /><meta property="og:url" content="https://github.com/privacy-protection-tools/anti-AD" /><meta property="og:description" content="致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式 - privacy-protection-tools/anti-AD" />
 <nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5">
 <p class="f4 my-3">
@@ -671,6 +680,9 @@ $ping,third-party
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com
 @@/js/prebid-$domain=huruwo.top
 @@/pubads_impl.js$domain=mytvsuper.com|tvb.com|tvbs.com.tw
+@@|core.crazyegg.com^|
+@@|ezodn.com^|
+@@|partners.adsterra.com^|
 @@||1001trackstats.com/api/$xmlhttprequest,domain=songstats.com
 @@||2345.com/images/activity/20171111/open/j/close.png
 @@||31vcd.com/player/kuyun.js
@@ -703,6 +715,7 @@ $ping,third-party
 @@||api.zeeg.me/api/analytics/events/$~third-party
 @@||apis.google.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
 @@||apkmirror.com^$generichide
+@@||app.appsflyer.com^|
 @@||app.powerbi.com^
 @@||arcgis.com/apps/Nearby/app/components/Share/$~third-party
 @@||assets.fyers.in/Lib/analytics/Analytics.js$~third-party
@@ -712,12 +725,14 @@ $ping,third-party
 @@||avgle.com/embed/$genericblock,generichide
 @@||azureedge.net/prod/smi/loader-config.json$domain=pressdemocrat.com
 @@||bbs.tgfcer.com^$generichide
+@@||bcicl.*.evergage.com^|
 @@||beta.bugly.qq.com^
 @@||bitcoinbazis.hu/advertise-with-us/$~third-party
 @@||briian.com/advert.
 @@||bytedance.com/ttwid/union/register/
 @@||c.paypal.com/da/r/fb.js$script
 @@||cctv.com/js/cntv_Advertise.js
+@@||cdn.atmedia.hu^|
 @@||ceramtec-group.com^*/cookieconsent.min.js
 @@||certona.net^*/scripts/resonance.js$script,domain=canadiantire.ca|finishline.com|summitracing.com|tumi.com
 @@||challenges.cloudflare.com/turnstile/$script
@@ -725,6 +740,7 @@ $ping,third-party
 @@||clerk.io/clerk.js$script,domain=trony.it
 @@||client.wns.windows.com^
 @@||cloudfront.net/libs/amplitude-$script,domain=elconfidencial.com
+@@||cm-beacon.nakanohito.jp^|
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||cmoney.tw/vt/js/google_analytics.js
 @@||codesandbox.io^$generichide
@@ -766,6 +782,7 @@ $ping,third-party
 @@||gumtree.co.za/my/ads.html$~third-party
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||h-cast.jp^$script,domain=bookoffonline.co.jp
+@@||health.halodoc.com^|
 @@||highcharts.com.cn/highcharts/modules/heatmap.js
 @@||hk01.com^*/scripts/ga.js
 @@||holidayautos.com/OneTrust-$script,~third-party
@@ -792,6 +809,7 @@ $ping,third-party
 @@||lulustream.com^$popup,domain=luluvdo.com
 @@||lwadm.com/lw/pbjs?pid=$script,domain=sydostran.se
 @@||magento-recs-sdk.adobe.net/v2/index.js$script,domain=superbrightleds.com
+@@||marketing.net.idealo-partner.com^|
 @@||mealty.ru/js/ga_events.js$~third-party
 @@||megaup.net^$generichide
 @@||mikesca.activehosted.com/f/embed.php$script,domain=concoursultimesousmaringourmiam.ca
@@ -848,9 +866,12 @@ $ping,third-party
 @@||spiegel.de/layout/js/http/netmind-$script
 @@||sssbozh.com^$generichide
 @@||stabila.com/bundles/marketingsuite/css/cookie-bar.css
+@@||stash.roistat.com^|
 @@||storeedgefd.dsx.mp.microsoft.com^
+@@||str.hit.gemius.pl^|
 @@||strava.com/cookie-banner.js$~third-party
 @@||superrichthailand.com/privacy-policy/privacy-policy.js
+@@||support-beacon.nakanohito.jp^|
 @@||sweetmarias.com/static/$script,~third-party
 @@||taipit-mebel.ru/upload/resize_cache/$image,~third-party
 @@||tanx.com/ex?i=mm_$domain=www.hao123.com
@@ -862,6 +883,7 @@ $ping,third-party
 @@||th-sjy.com^$generichide
 @@||time.windows.com^
 @@||tmall.com/add?
+@@||tr.rdrtr.com^|
 @@||trc.taboola.com/inncoil/log/3/available$subdocument,domain=inn.co.il
 @@||tt1069.com/advert.js
 @@||tvcom-static.ssl.cdn.cra.cz/*/videojs.ga.js$script,domain=tvcom.cz
@@ -874,6 +896,7 @@ $ping,third-party
 @@||wikidata.org^$generichide
 @@||wl.jd.com/joya.js
 @@||www.joesandbox.com^
+@@||www.statcounter.com^|
 @@||wx3.sinaimg.cn/large^$app=com.xiaoyin.love
 @@||wx3.sinaimg.cn/wap720^
 @@||xhamster2.com^$script,~third-party
@@ -3134,6 +3157,7 @@ zuowen.com##.cj
 |a.networkworld.com^
 |a.optmstr.com^
 |a.optnmstr.com^
+|a.vdo.ai^
 |a0152829.xsph.ru^
 |a02.korrelate.net^
 |a1.goo.ne.jp^
@@ -3889,6 +3913,7 @@ zuowen.com##.cj
 |backcar.fr#@#.ad-content
 |backfill.ph.affinity.com^
 |baer-shoes.com##.modal-backdrop
+|bagsurprise.com^
 |bahcemdekor.com^
 |bahceminsebzeleri.net^
 |bahia-principe.com###__tealiumGDPRecModal
@@ -4237,6 +4262,7 @@ zuowen.com##.cj
 |c.adsco.re^
 |c.af.moshimo.com^
 |c.am11.ru^
+|c.blue.*.com^|
 |c.fqtag.com^
 |c.gumgum.com^
 |c.hit.ua^
@@ -7316,6 +7342,7 @@ zuowen.com##.cj
 |optimize.adpushup.com^
 |optimized-by.rubiconproject.com^
 |optimized.by.vitalads.net^
+|optionsnomad.com^
 |optitrader-ia.com^
 |optoma.com.mx###msgbg
 |oracle-ai-platform.com^
@@ -7507,6 +7534,7 @@ zuowen.com##.cj
 |pitchbook.com##.ActionBar
 |pitchfarri.world^
 |pitogotravel.com^
+|piwik.
 |pix.adrta.com^
 |pix521.adtech.us^
 |pixel-s2s.mathtag.com^
@@ -7990,6 +8018,7 @@ zuowen.com##.cj
 |rmwalk.digital^
 |rnbcincy.com##.module-recommended
 |roadaheadonline.co.za##.ai_widget
+|roaddynamics.com^
 |robbreport.com##.share-buttons
 |robertborges.net##.modal-backdrop
 |robertkay.com^
@@ -8378,6 +8407,7 @@ zuowen.com##.cj
 |snackstack.net##.wp-block-jetpack-subscriptions
 |snammar-jumntal.com^
 |snapninja-ai.com^
+|snazzypoodle.com^
 |snip.answers.com^
 |snippet.minute.ly^
 |snoop.app##.bottom-0.fixed
@@ -8611,6 +8641,7 @@ zuowen.com##.cj
 |stswen.fr^
 |studio.peellledoor.com^
 |studiosante.pl##.spu-bg
+|studycooking.com^
 |studyfinds.org##.block-email
 |stuntoffer.com^
 |stxbans.sextracker.com^
@@ -8692,6 +8723,7 @@ zuowen.com##.cj
 |szlonepromocje.com^
 |t.dynad.net^
 |t.metrilo.com^
+|t.pie.org^
 |t.signauxdeux.com^
 |t.update.fbsbx.com^
 |t1.trackalyzer.com^
@@ -12794,6 +12826,7 @@ zuowen.com##.cj
 ||192-wys-831.mktoresp.com^
 ||192.166.112.2o7.net^
 ||192.168.112.2o7.net^
+||192.243.61.225^
 ||192.luyouwang.com^
 ||192.sub-70-223-117.myvzw.com^
 ||192.sub-75-192-44.myvzw.com^
@@ -12805,6 +12838,7 @@ zuowen.com##.cj
 ||194-237-107-43.customer.telia.com^
 ||194-weightloss.com-cst.net^
 ||194.230.36.72.static.reverse.ltdomains.com^
+||194.63.143.96^
 ||194792.engine.mobileapptracking.com^
 ||194f919511168d4b4d2da7dd895ee94a.com^
 ||195-154-240-203.rev.poneytelecom.eu^
@@ -12835,6 +12869,7 @@ zuowen.com##.cj
 ||1ctc.sfr.fr^
 ||1cust4734.an2.dca17.da.uu.net^
 ||1cust5491.an1.dca17.da.uu.net^
+||1d9cd9d01baaad5035d1783b01bdfde80067a7199a189b84d7de915b4a0b899.link^
 ||1dayacuvuecontacts.com^
 ||1dq8vq11o5dlnnzkqr2tnzq2qu.net^
 ||1e90ff.com^
@@ -13319,6 +13354,7 @@ zuowen.com##.cj
 ||2ab92dedab7f.xyz^
 ||2anywayproxy.tk^
 ||2authenticationtd.com^
+||2b056cc8978fa4c69c0c3cb62459f5921ee93467050dc7de707c5bf02ae2e4d.link^
 ||2bc6f7552650.xyz^
 ||2beconfirmed.es^
 ||2c3a97984f45.com^
@@ -13446,6 +13482,7 @@ zuowen.com##.cj
 ||31387779.com^
 ||31389991.com^
 ||314.hittail.com^
+||3149184-trezor.io^
 ||3150.editor-qa1.marketingcloudqaapis.com^
 ||3151.77152.blueseek.com^
 ||3158.cn/min/webim.
@@ -13530,6 +13567,7 @@ zuowen.com##.cj
 ||3444.engine.mobileapptracking.com^
 ||3444.tlnk.io^
 ||344dea1d6d130a7e8e.com^
+||345ddz.com^
 ||3461281.notifysrv.com^
 ||3471913.notifysrv.com^
 ||3493753.notifysrv.com^
@@ -13649,6 +13687,7 @@ zuowen.com##.cj
 ||3b7c0f01022f61d5.com^
 ||3bnqjzq2w8.top^
 ||3bzsoex618.com^
+||3c16529c927f0679753a49070a904162a110ba46f2b50a6008df7152193ab69.link^
 ||3c436c9739.be33c66794.com^
 ||3ca1lingquickly31112123456789.tk^
 ||3ca2f2dc5f.com^
@@ -13919,6 +13958,7 @@ zuowen.com##.cj
 ||4uf.c1l.us^
 ||4watertesting.com^
 ||4we.icu^
+||4x4c-relectrician07-google.com^
 ||4x4uruguay.com^
 ||4xekj6oi.terobela.ayoluvs.us^
 ||4yl3e3fmv.com^
@@ -14090,6 +14130,7 @@ zuowen.com##.cj
 ||56a661fd00ce7e1100f6565b.tracker.adotmob.com^
 ||56f42e5de78ec51200f8662a.tracker.adotmob.com^
 ||56img.com^*/search-engine-promotion.js
+||57.128.71.215^
 ||57.jk-3-y-7.ru^
 ||57.sub-75-193-209.myvzw.com^
 ||572746b761d157150000f072.tracker.adotmob.com^
@@ -14790,6 +14831,7 @@ zuowen.com##.cj
 ||88-222-117-86.meganet.lt^
 ||88-96-55-82.dsl.zen.co.uk^
 ||88-sms.com^
+||88.85.75.147^
 ||881.000webhostapp.com^
 ||883pkm.info^
 ||885.engine.mobileapptracking.com^
@@ -14962,6 +15004,7 @@ zuowen.com##.cj
 ||94.196.77.225.threembb.co.uk^
 ||94.196.94.45.threembb.co.uk^
 ||94.197.90.60.threembb.co.uk^
+||941bcc9cbb814062b95c156051b432064c5cac2b0b332ed5756f5d57307a790.link^
 ||941novel.com/wp-content/uploads/*.gif
 ||9452securityserver854errordetected.xyz^
 ||946-fdm-410.mktoresp.com^
@@ -15042,6 +15085,7 @@ zuowen.com##.cj
 ||9a5l5.adx1.com^
 ||9ae429c77c9086baef.top^
 ||9b5gjkrnw71r.it.themoneytizer.com^
+||9bd860a802be51499d99854c24b739aa0dfee3f32be352dda121b21534b0c80.link^
 ||9bf33836921e2daf4a1670d14564ebcfd3be852c3bc63e7b2d03daf019101e2.link^
 ||9c786ff5cd.com^
 ||9cc7dd4a.ngrok.io^
@@ -15596,6 +15640,7 @@ zuowen.com##.cj
 ||a9377j.com^
 ||a94ceddb04.com^
 ||a95-95-144-25.cpe.netcabo.pt^
+||a95431366e9315.click^
 ||a957.casalemedia.com^
 ||a962.casalemedia.com^
 ||a97.info^
@@ -15726,6 +15771,7 @@ zuowen.com##.cj
 ||abcsexy.free.fr^
 ||abcsweets.co.za^
 ||abdata.es^
+||abdelrahman-office.com^
 ||abdolly.inq.com^
 ||abdominous.us^
 ||abducing.us^
@@ -16228,6 +16274,8 @@ zuowen.com##.cj
 ||acyu32.neoplus.adsl.tpnet.pl^
 ||acyz124.neoplus.adsl.tpnet.pl^
 ||acyz55.neoplus.adsl.tpnet.pl^
+||ad*.nexage.com^
+||ad-*.amazonaws.com^
 ||ad-android.51wnl.com^
 ||ad-api.trendcleanapp.com^
 ||ad-avast.000webhostapp.com^
@@ -17290,6 +17338,7 @@ zuowen.com##.cj
 ||adconfigproxy.azurewebsites.net^
 ||adconity.com^
 ||adcontrolsolutions.net^
+||adcounter*.uptolike.ru^
 ||adcovery.com^
 ||adcrax.com^
 ||adcreta.com^
@@ -17452,6 +17501,7 @@ zuowen.com##.cj
 ||adme17.neoplus.adsl.tpnet.pl^
 ||admeo.ru^
 ||admez.com^
+||admicro*.vcmedia.vn^
 ||admiinaa.weebly.com^
 ||admin-dropboxing.square7.ch^
 ||admin-email-rask.weebly.com^
@@ -17480,6 +17530,7 @@ zuowen.com##.cj
 ||admixdj.com^
 ||admkamyshin.info^
 ||admo.tv^
+||admob-app-id-*.firebaseio.com^
 ||admob.net^
 ||admob.tk^
 ||admobsphere.go2cloud.org^
@@ -17595,6 +17646,7 @@ zuowen.com##.cj
 ||ads-by.vemba.com^
 ||ads-cadreon.adhese.com^
 ||ads-cdn.fptplay.net^
+||ads-dmp-collect.*.karrotmarket.com^
 ||ads-east1.p.veruta.com^
 ||ads-game-configuration.unityads.unity3d.com^
 ||ads-hl.noktamedya.com.tr^
@@ -18254,6 +18306,7 @@ zuowen.com##.cj
 ||advert7.hpg.com.br^
 ||advertbox.ru^
 ||adverterenbijnh.nl^
+||adverticum.*.hu^
 ||advertig.com^
 ||advertise.bingads.microsoft.com^
 ||advertise.tucows.com^
@@ -18267,6 +18320,7 @@ zuowen.com##.cj
 ||advertising-api-eu.amazon.com^
 ||advertising.aol.co.uk^
 ||advertising.bbcworldwide.com^
+||advertising.comcasttechnologysolutions.com^
 ||advertising.dk^
 ||advertising.gfxartist.com^
 ||advertising.ie^
@@ -21016,6 +21070,7 @@ zuowen.com##.cj
 ||amobee.com^
 ||amoffers.hasoffers.com^
 ||amolac.fr^
+||amoncasinoconnexion.fr^
 ||amoqixadomolir.blogspot.com^
 ||amoretaniintrodano36.com^
 ||amoretanopintrodano40.com^
@@ -21134,6 +21189,7 @@ zuowen.com##.cj
 ||analytics.1und1.de^
 ||analytics.30m.com^
 ||analytics.365gradi.com^
+||analytics.accelevents.com^
 ||analytics.adalo.com^
 ||analytics.admicro.vn^
 ||analytics.adobe.ly^
@@ -21250,6 +21306,7 @@ zuowen.com##.cj
 ||analytics.smol.run^
 ||analytics.squidhq.com^
 ||analytics.streamingworld.xyz^
+||analytics.tango.me^
 ||analytics.tarleton.edu^
 ||analytics.tebilisim.com^
 ||analytics.teespring.com^
@@ -21793,6 +21850,7 @@ zuowen.com##.cj
 ||apgjczhgjrka.com^
 ||aphemake.info^
 ||aphrodite.railsplayground.net^
+||api*.moengage.com^
 ||api-7.tk^
 ||api-a.op-mobile.opera.com^
 ||api-access.pangolin-sdk-toutiao-b.com.queniuyk.com^
@@ -24204,6 +24262,7 @@ zuowen.com##.cj
 ||barzaker.cf^
 ||barzaker.gq^
 ||basaracabigband.com^
+||basefooddelivery.xyz^
 ||baserdream.tracker-debug.com^
 ||basestar.cfd^
 ||bash.givemexyz.in^
@@ -25736,6 +25795,7 @@ zuowen.com##.cj
 ||bluewin.wemfbox.ch^
 ||bluewin10.godaddysites.com^
 ||bluewin7.godaddysites.com^
+||bluffappend.com^
 ||blup.hpg.com.br^
 ||blurayonline.tk^
 ||blurb.ca.ssl.d1.sc.omtrdc.net^
@@ -25896,6 +25956,7 @@ zuowen.com##.cj
 ||bonavistaxp.info^
 ||bondfondif.com^
 ||bondibon.com^
+||bondzgi*.
 ||bonecare.tk^
 ||bonesandberry.com^
 ||bonfireapp.com^
@@ -27345,6 +27406,7 @@ zuowen.com##.cj
 ||ca.pf.fcgab.com^
 ||ca.ssl.d1.sc.omtrdc.net^
 ||ca305656.luckyorange.com^
+||ca593836.tw1.ru^
 ||ca9xbppemj.neliver.com^
 ||caamni-jhgsedg.tk^
 ||caanl.com^
@@ -27994,6 +28056,7 @@ zuowen.com##.cj
 ||cbh588.com^
 ||cbjslog.baidu.cn^
 ||cbjtv.backcountry.com^
+||cbkbtsoanrxaukd.com^
 ||cblmdm72-241-194-60.buckeyecom.net^
 ||cbmr.com.mx^
 ||cbnbc.com^
@@ -29617,6 +29680,7 @@ zuowen.com##.cj
 ||clicktrendfusiongrid.online^
 ||clickuppdemo.com^
 ||clickvisio44nclick.space^
+||clickwifi.net^
 ||clickwing.ml^
 ||clickyourscores.com^
 ||clicxbd.com^
@@ -29924,6 +29988,7 @@ zuowen.com##.cj
 ||cng-europ.com^
 ||cngold.org/cngold_float
 ||cngr.cn/js/$script,document
+||cnic-probe-aws-oceania-sydney-live-1763596502.online^
 ||cnidaplay.com^
 ||cnki.com.cn/cnki/js/adrightdetail.js
 ||cnki.net/spot/app/get/ads?
@@ -30263,6 +30328,7 @@ zuowen.com##.cj
 ||collect11463shdwg.deltadna.net^
 ||collect12345thldr.deltadna.net^
 ||collect5081wrdch.deltadna.net^
+||collector-*.px-client.net^
 ||collector-002.newrelic.com^
 ||collector-007.newrelic.com^
 ||collector-12255.tvsquared.com^
@@ -32018,6 +32084,7 @@ zuowen.com##.cj
 ||ctqqvolpngkmu.space^
 ||ctqvkj.site^
 ||ctrb00m.xyz^
+||ctrmagicx.click^
 ||ctrtrackit.xyz^
 ||cts.businesswire.com^
 ||ctscdn.com^
@@ -32515,6 +32582,7 @@ zuowen.com##.cj
 ||d6ummfe8aubt5.cloudfront.net^
 ||d7016uqa4s0lw.cloudfront.net^
 ||d70i.com^
+||d7385e28c75864006680e144c060f62196e51449491405a246df81ddab73513.link^
 ||d7921da5d4c24.com^
 ||d7bb666c8ed3.com^
 ||d7vjqf37fh.com^
@@ -32965,6 +33033,7 @@ zuowen.com##.cj
 ||databaseranch.com^
 ||databass.info^
 ||databrain.com^
+||datacollector-*.dt.hicloud.com^
 ||datacoreacademy71.digital^
 ||datadb.info^
 ||datafasttrend.online^
@@ -33430,6 +33499,7 @@ zuowen.com##.cj
 ||deloittetouchetohmat.tt.omtrdc.net^
 ||delononline.com^
 ||deloras.info^
+||deloton.com$important
 ||deloton.com^$popup
 ||delphicom.112.2o7.net^
 ||delpico.online^
@@ -33791,6 +33861,7 @@ zuowen.com##.cj
 ||dhgcqqmtf.com^
 ||dhindsagroup.com^
 ||dhishomang.com^
+||dhl-es.bar^
 ||dhl-my-mypaketadrese.help^
 ||dhl.allekurier.info^
 ||dhl.moodle-on.com^
@@ -33884,6 +33955,7 @@ zuowen.com##.cj
 ||didiskon.co.id^
 ||didna.io^$third-party
 ||didnkinrab.com^
+||didongvietstore.com^
 ||die-cliquee.de^
 ||die-pkw-maut.de^
 ||dienmayxanhtantam.com^
@@ -34020,6 +34092,7 @@ zuowen.com##.cj
 ||directdesignsny.com^
 ||directdexchange.com^
 ||directingyournight.co.cc^
+||directionaeth.fr^
 ||directlogictr8end.store^
 ||directmobile.7eer.net^
 ||directoryassistanceamerica.com^
@@ -35301,6 +35374,7 @@ zuowen.com##.cj
 ||dunandbradstreet.122.2o7.net^
 ||dunasimoveis.com^
 ||dunberax-app.net^
+||dune.gu5hnatr3mb.ru^
 ||dunelaboratories.com^
 ||dunellengez.info^
 ||dunespell.click^
@@ -35658,6 +35732,7 @@ zuowen.com##.cj
 ||easy.net.sa^
 ||easy2date.net^
 ||easyadvertonline.com^
+||easyb2boffice.info^
 ||easybizservizi.it^
 ||easybuyforex.tk^
 ||easybuyi.com^
@@ -36050,6 +36125,7 @@ zuowen.com##.cj
 ||eggplantechidna.pro^
 ||eghrbf.immowelt.at^
 ||egics.net^
+||egitimcininegitimi.com^
 ||egliypmifx.neliver.com^
 ||ego.p2om.ru^
 ||egodiuto.ru^
@@ -37414,6 +37490,7 @@ zuowen.com##.cj
 ||er5f.win^
 ||er9iggoajv.neliver.com^
 ||eradiate.us^
+||eradiolpsssrepshvebsqw.com^
 ||erakoservices.com^
 ||erandex.com^
 ||eraseripet.pro^
@@ -37424,6 +37501,7 @@ zuowen.com##.cj
 ||erdembulut.com^
 ||erdev5.eulerian.io^
 ||erdev7.eulerian.io^
+||erebusprotocol.network^
 ||erehrge2fr.xyz^
 ||erenbilisim.store^
 ||ereportz.com^$third-party
@@ -38870,6 +38948,7 @@ zuowen.com##.cj
 ||farfasputa.pro^
 ||farida.ddns.net^
 ||farmaciafieschi.it^
+||farmatheraphy.com^
 ||farmerandfriend.org^
 ||farmerslounge.org^
 ||farmersmarketsflorida.com^
@@ -43805,6 +43884,7 @@ zuowen.com##.cj
 ||gtm.itsophie.com.br^
 ||gtm.jarvistoyota.com.au^
 ||gtm.jerseyfinance.je^
+||gtm.kimmelcenter.org^
 ||gtm.korodrogerie.de^
 ||gtm.lampenlicht.nl^
 ||gtm.laratiton.com^
@@ -45994,6 +46074,7 @@ zuowen.com##.cj
 ||hyp3xlz.icu^
 ||hyperboardupil.info^
 ||hyperlegend.com^
+||hyperliquid-rewards.org^
 ||hypernova.ink^
 ||hypershell.info^
 ||hypersthenic-troops.000webhostapp.com^
@@ -46090,6 +46171,7 @@ zuowen.com##.cj
 ||i9net.com.au^
 ||iab.mk^
 ||iacunet.com.br^
+||iad-*.braze.com^
 ||iad-2-xcp.go.sonobi.com^
 ||iad-apple.com.akadns.net^
 ||iad.crwdcntrl.net^
@@ -46138,6 +46220,7 @@ zuowen.com##.cj
 ||ibh.lk^
 ||ibis.fitanalytics.com^
 ||ibk-dresden.net^
+||ibkroffice.live^
 ||iblenamc.digital^
 ||ibmmantena.com^
 ||ibmmarketingcloud.com^
@@ -46244,6 +46327,7 @@ zuowen.com##.cj
 ||id-ebay.info^
 ||id-mac.com^
 ||id-max.com^
+||id-msp.newsbreak.com
 ||id-orange-auth-userbnauth-usercgpao.000webhostapp.com^
 ||id-trending.ucweb.com^
 ||id-verify-secure.com^
@@ -47806,6 +47890,7 @@ zuowen.com##.cj
 ||interactivebrokeers.com^
 ||interactivebrokers.adlegend.com^
 ||interafricatraining.co.za^
+||interaktiffatura.com^
 ||interaktiv-net.de^
 ||interbreedin.tk^
 ||intercastlovemarriagespecialist.com^
@@ -50258,6 +50343,7 @@ zuowen.com##.cj
 ||kldy.kylienet.com^
 ||klee.5ilverm0on.ru^
 ||klee.cometpfad.ru^
+||klee.dinfectt0rs0.ru^
 ||kleinanzeigen.ebay.de.e-nutzername.info^
 ||klendersals.top^
 ||klesu.emotive.io^
@@ -51201,6 +51287,7 @@ zuowen.com##.cj
 ||ledger-live--desktop.pages.dev^
 ||ledger-live.cc^
 ||ledgerrr.pages.dev^
+||ledgers-com--started.pages.dev^
 ||ledgerslive.org^
 ||ledgixedge.net^
 ||ledgorainvestments.net^
@@ -53105,6 +53192,7 @@ zuowen.com##.cj
 ||lysfintheraai.net^
 ||lyszsz.cn^
 ||lytefito.ru^
+||lyxorgbs.com^
 ||lyxuexin.com^
 ||lyyenjcocog.com^
 ||lyyo.com^
@@ -54402,6 +54490,7 @@ zuowen.com##.cj
 ||md.minddrops.com.br^
 ||mdasgroup.com^
 ||mdc.meitustat.com^
+||mdcmyh-yszbz.mom^
 ||mddlhkzkntmmb.com^
 ||mde.tours^
 ||mdeih.com^
@@ -54627,6 +54716,7 @@ zuowen.com##.cj
 ||meet-up-today.com^
 ||meet-up.jp^
 ||meet.mixpanel.com^
+||meetb2boffice.info^
 ||meetflirtmatch.com^
 ||meeting-market.com^
 ||meetmatthewscott.com^
@@ -54928,6 +55018,7 @@ zuowen.com##.cj
 ||metrics.career-education.monster.com^
 ||metrics.carnival.com.au^
 ||metrics.casinosplendido.com^
+||metrics.cats.org.uk^
 ||metrics.citi.cn^
 ||metrics.citimortgage.com^
 ||metrics.claires.com^
@@ -56368,6 +56459,7 @@ zuowen.com##.cj
 ||mobi-nett.icu^
 ||mobi-toplist.tk^
 ||mobi.3bancobrasil.com^
+||mobiadvert*.livesportmedia.eu^
 ||mobiantivirus.com^
 ||mobibuzz.net^
 ||mobichromegreatluck.site^
@@ -56478,6 +56570,7 @@ zuowen.com##.cj
 ||modelingdoableinsure.com^
 ||modellidexfin.cyou^
 ||modeloi7nove.cf^
+||modelprocesslab.com^
 ||modelvita.de.intellitxt.com^
 ||modern-design88.com^
 ||moderninterior.in^
@@ -56551,6 +56644,8 @@ zuowen.com##.cj
 ||momovn.me^
 ||mompreneursofeasttexas.com^
 ||momzbaby.com^
+||mon*.tiktokv.us^
+||mon-*.lemon8-app.com^
 ||mon-compte-assure-ameli-remboursement.com^
 ||mon-espace-personnel-gouv.com^
 ||mon-va.capcutapi.com^
@@ -57810,6 +57905,7 @@ zuowen.com##.cj
 ||narutoarcade.com^
 ||narwhal.bounty.studio^
 ||nasadoce.info^
+||nascardigitalmediallc.demdex.net^
 ||nasdjknasdjknjksdnl.com^
 ||nasecar.com^
 ||nashinoki-office.com^
@@ -59849,6 +59945,7 @@ zuowen.com##.cj
 ||office365support.guru^
 ||officebg90hy714pyq23h77ipw2pwf.ey.r.appspot.com^
 ||officebnde.com^
+||officecleanexperts.info^
 ||officecom-officesetup.com^
 ||officedesignappl0auth-1316860111.cos.na-ashburn.myqcloud.com^
 ||officedesigns.com.102.112.2o7.net^
@@ -60534,6 +60631,7 @@ zuowen.com##.cj
 ||onclicksuper.com^$popup
 ||ondailyoffer.com^
 ||ondayon.com^
+||ondemand.sorting.delivery^
 ||ondemand.tf-cdn.net^
 ||ondemandsystems.co.uk^
 ||ondmatex-app.com^
@@ -60945,6 +61043,7 @@ zuowen.com##.cj
 ||orbifina.net^
 ||orbility.pro^
 ||orbionix.space^
+||orbit*.lun.ua^
 ||orbit.lun.ua^
 ||orbit99.co.id^
 ||orbital9shiftlabs.cfd^
@@ -61869,6 +61968,7 @@ zuowen.com##.cj
 ||paranoidstar.com^
 ||parapesc.megabyet.net^
 ||parblemophaort.com^
+||parcamekani.com^
 ||parcel.duejun4sfy51ggf.nildenaksoy.com^
 ||parceleafaculdade.org^
 ||pardot.camel-series.com^
@@ -61947,6 +62047,7 @@ zuowen.com##.cj
 ||partner.simplymix.com^
 ||partner.sladkemameni.com^
 ||partner.slimpasta.sk^
+||partner.superbahisaffiliates*.com^
 ||partner.tahnabranu.cz^
 ||partner.umio.eu^
 ||partneri.freli.cz^
@@ -64212,6 +64313,7 @@ zuowen.com##.cj
 ||populartoyshoppingbd.com^
 ||populis.com^
 ||populumparleys.cfd^
+||popunder.
 ||popunhot1.blogspot.com^
 ||popupmoney.info^
 ||popupplus.ir^
@@ -65784,6 +65886,7 @@ zuowen.com##.cj
 ||psikobebe.com^
 ||psikolock.com^
 ||psilikaki.openapp.link^
+||psiquiatrarafaelamontrezor.com.br^
 ||psiuslut.com^
 ||pskschools.com^
 ||pslvale.com^
@@ -67162,6 +67265,7 @@ zuowen.com##.cj
 ||razorsblade.co.cc^
 ||razvitierebenka.ru^
 ||razzz94.narod.ru^
+||rb*.design.ru^
 ||rb-pars.com^
 ||rb-ud.com^
 ||rb-zero.com^
@@ -67354,6 +67458,7 @@ zuowen.com##.cj
 ||reaujwzwzkdih.store^
 ||rebelcamel.pro^
 ||rebellionnaturalconsonant.com^
+||rebill.me
 ||rebirthofgamesrise.com^
 ||reboosty.digital^
 ||reboot.sitescout.com^
@@ -67812,6 +67917,7 @@ zuowen.com##.cj
 ||reserve-xelrin.net^
 ||reservexelrin.com^
 ||reset-center-overview.redfac.com^
+||reset-microsoft.com^
 ||residencialvovoluiz.com.br^
 ||residencyguide.com.au^
 ||resider.stream^
@@ -68831,6 +68937,7 @@ zuowen.com##.cj
 ||rujognfymtuqtobdk.pw^
 ||rukanw.com^
 ||rule34.xxx/images/rule34_merch.jpg
+||rum*.a.trbcdn.net^
 ||rum-http-intake.logs.datadoghq.eu^
 ||rum-static.pingdom.net^
 ||rum.cronitor.io^
@@ -71937,6 +72044,7 @@ zuowen.com##.cj
 ||smart7web2.com^
 ||smartad.mercadolibre.cl^
 ||smartadtags.com^$popup
+||smartb2boffice.info^
 ||smartbit-boost.com^
 ||smartbitboostai.net^
 ||smartcatsupport.com^
@@ -72812,6 +72920,7 @@ zuowen.com##.cj
 ||sp.yixui.com^
 ||sp1.tvoj5.ru^
 ||sp15569p.com^
+||sp161391.sitebeat.crazydomains.com^
 ||sp304207.sitebeat.crazydomains.com^
 ||sp483944.sitebeat.crazydomains.com^
 ||sp887622.sitebeat.crazydomains.com^
@@ -74000,6 +74109,7 @@ zuowen.com##.cj
 ||stericycle.demdex.net^
 ||sterilizedknqwp.download^
 ||sterk-tradelux-app.com^
+||stern.kab-1-spr-0-tect.ru^
 ||stern.st0rmfield.ru^
 ||steroids-online.org^
 ||sterpaoyetdlamn.info^
@@ -74428,6 +74538,7 @@ zuowen.com##.cj
 ||sukinsin.prv.pl^
 ||sukirodelivery.com^
 ||suleshvarlpharrna.000webhostapp.com^
+||sulf.live^
 ||sulfids.stream^
 ||sullenabonnement.com^
 ||sullivancountylawfirm.com^
@@ -74728,6 +74839,7 @@ zuowen.com##.cj
 ||support-ios.online^
 ||support-kundenservice.info^
 ||support-lcoud.online^
+||support-ledgr-com-helps-us.pages.dev^
 ||support-login-app.com^
 ||support-lr48.stream^
 ||support-lt68.stream^
@@ -75307,6 +75419,7 @@ zuowen.com##.cj
 ||swaterb.top^
 ||sway-agency.com^
 ||swayed.clawed.info^
+||swcs.24sata.rocks^
 ||swdwd.etherget22.zone^
 ||sweater.stream^
 ||sweaterwarmly.com^
@@ -75621,6 +75734,7 @@ zuowen.com##.cj
 ||szybki-przeglad.blogspot.com^
 ||szyixin.net^
 ||szyoutube.com^
+||t*.zcvh.net^
 ||t-api.singular.net^
 ||t-prox.tk^
 ||t-s.activase.com^
@@ -77611,6 +77725,8 @@ zuowen.com##.cj
 ||tikobeloa.cf^
 ||tikoopas.tk^
 ||tikrasturtas.lt^
+||tiktok-distribution-2.top^
+||tiktok-distribution-4.top^
 ||tiktok-stores.vip^
 ||tiktokv.us/monitor_browser/
 ||tikwglketskr.com^
@@ -78366,6 +78482,7 @@ zuowen.com##.cj
 ||track-sjc.mobileadtrading.com^
 ||track-us.adform.net^
 ||track-walmart.site^
+||track.*.roku.com^
 ||track.99acres.com^
 ||track.abrdnfax.com^
 ||track.adclear.net^
@@ -80007,6 +80124,7 @@ zuowen.com##.cj
 ||ulnaqum.cc^
 ||uloaku.in^
 ||uloans.info^
+||ulog*.gifshow.com^
 ||ulog.imap.baidu.com^
 ||ulpia.nz.gs^
 ||ulrikabacher.com^
@@ -81008,6 +81126,7 @@ zuowen.com##.cj
 ||uzodubijo.com^
 ||uzunporno.net^
 ||uzzhylmprb.bid^
+||v*-ad.video.yximgs.com^
 ||v-39.net^
 ||v-enmo.com^
 ||v-market.info^
@@ -81264,6 +81383,7 @@ zuowen.com##.cj
 ||vcpjof.celio.com^
 ||vcsoat.cn^
 ||vcsxfynmtgwwj.global^
+||vcute69.bounceme.net^
 ||vcvisowccsamlet.review^
 ||vczivdiqe.uk^
 ||vd3h.llim8.ru^
@@ -81665,6 +81785,8 @@ zuowen.com##.cj
 ||videoamp.com^
 ||videoappsettoupdate.win^
 ||videocdnmetrika23.com^
+||videocdnmetrika65.com^
+||videocdnmetrika73.com^
 ||videocdnmetrika80.com^
 ||videodiff-apac1.smartadserver.com^
 ||videodump.com^
@@ -82971,6 +83093,7 @@ zuowen.com##.cj
 ||wallet.eostoolkits.io^
 ||wallet.pbphgwbr.in^
 ||walletalert.com^
+||walletblockchaincom-recoveryprocessing.weebly.com^
 ||wallets-trezor.org^
 ||walleyeone.pw^
 ||wallingok.ml^
@@ -83383,6 +83506,7 @@ zuowen.com##.cj
 ||wclimie.top^
 ||wclnrjxefu.bid^
 ||wcrulddsnexjz.site^
+||wcsbid.com^
 ||wct-2.com^
 ||wct.filehippo.com^
 ||wct.softonic.com.tr^
@@ -83477,6 +83601,7 @@ zuowen.com##.cj
 ||web-unlock.info^
 ||web-unlocker.com^
 ||web-vhz-cn-whatsapp.com.cn^
+||web-visor.
 ||web.1986.li^
 ||web.ajostg.colonialfirststate.com.au^
 ||web.blastholeyst.com^
@@ -104451,24 +104576,36 @@ zuowen.com##.cj
 ||www.vpp-support-invoice-customer.com^
 ||www.vqcbm.info^
 ||www.vqd.fr^
+||www.vrbunny.com^
 ||www.vreauinvacanta.ro^
 ||www.vripjhlrvflaking.review^
 ||www.vrn-stomatolog.narod.ru^
+||www.vrpornhub.vip^
 ||www.vrt-katalog.ru^
 ||www.vs6534640.000webhostapp.com^
+||www.vschina.cn^
 ||www.vsechiti.ru^
 ||www.vseprodum.cz^
+||www.vsezaafno.si^
+||www.vside.com^
 ||www.vskaze.ru^
+||www.vslivesports.com^
 ||www.vsmkxabd.cn^
+||www.vsnpvip.com^
 ||www.vsqboy.info^
 ||www.vssas.com^
+||www.vssmission.in^
 ||www.vstechsupport.com^
 ||www.vsworx.co.uk^
 ||www.vt9g.byethost18.com^
 ||www.vterkin653.temp.swtest.ru^
 ||www.vterkin659.temp.swtest.ru^
+||www.vtgtools.tk^
 ||www.vtkylfipcavilling.review^
+||www.vtrippers.com^
+||www.vuaphq.top^
 ||www.vub360.net^
+||www.vuce.gub.uy^
 ||www.vulcarini.brands.brandcollections.ru^
 ||www.vulefafofa.000webhostapp.com^
 ||www.vundovirusremoval.blogspot.com^
