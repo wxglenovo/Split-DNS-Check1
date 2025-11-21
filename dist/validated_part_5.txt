@@ -759,6 +759,7 @@ wjyhao.com^
 |coven-ilyar.pro^
 |covidboxtest.com^
 |cpagettistream6.com^
+|cpauseo.carlaclicker.com^
 |cpcclick.novanet.vn^
 |cpm.adspine.com^
 |cpscargo.com^
@@ -1588,6 +1589,7 @@ wjyhao.com^
 |match-us-west-1-ecs.sharethrough.com^
 |matchcraft.com^
 |mautic.hubs.vn^
+|max-files.oupeng.com^
 |maximizorwhiz360.net^
 |mb.moatads.com^
 |mbox4.offermatica.com^
@@ -1756,6 +1758,7 @@ wjyhao.com^
 |nkmalimusavirlik.net^
 |nl.cqcounter.com^
 |nl1.ero-advertising.com^
+|nlocalhost.wordtheminer.com^
 |nmkawartha.112.2o7.net^
 |nmtacoma.112.2o7.net^
 |nongrobsid.pro^
@@ -2135,6 +2138,7 @@ wjyhao.com^
 |sartevanko.shop^
 |satoshi-ziora.com^
 |satura.pl^
+|saxobutlereagle.122.2o7.net^
 |sc.5.p2l.info^
 |sc.pages03.net^
 |sc5.omniture.com^
@@ -2145,6 +2149,7 @@ wjyhao.com^
 |screwislice.cyou^
 |scrippsbathvert.112.2o7.net^
 |scrippswxyz.112.2o7.net^
+|sdk-analytics.inlocomedia.com^
 |sdk.adsongo.com^
 |sdk.collabollc.com^
 |sdk.imrworldwide.com^
@@ -2217,18 +2222,34 @@ wjyhao.com^
 |simplereach.com^
 |simplycode.co^
 |sinegastro.com^
+|sistemteknikelektronik.com^
 |skylinenexuspro-app.net^
+|slimxxxtubeujh.ddns.name^
+|smart-stocks-ai-engine.com^
+|smart-traffik.com^
+|smartlook.com^
+|smetrics.nexmo.com^
 |smetrics.ok.dk^
 |smetrics.provincial.com^
+|smetrics.regions.com^
+|smetrics.tractorsupply.com^
+|snap-kapidexx.com^
+|sobar.baidu.com^
 |societergenerale.fr^
 |socprozz.xyz^
 |socwrkzz.buzz^
 |sofortiger-dynex.net^
+|softbankbb.122.2o7.net^
 |softwaretech.pro^
 |solanixpeak27-ai.com^
 |soldierreproduceadmiration.com^
+|soldmyhomessolution.com^
 |soluclim.fr^
+|solveseek.com^
 |solvexgain-79-ai.com^
+|solvexgain-7solution.com^
+|solvexprimesoftware.com^
+|soma.3xforum.ro^
 |sonar-iad.xx.fbcdn.net^
 |songsar.com^
 |sovrex-trader.net^
@@ -2292,6 +2313,7 @@ wjyhao.com^
 |stats.merriam-webster.com^
 |stats.petrotimes.vn^
 |stats.rdphv.net^
+|stats.resellerratings.com^
 |stats.restartad.com^
 |stats.sextracker.com^
 |stats.topofblogs.com^
@@ -2307,6 +2329,7 @@ wjyhao.com^
 |streamavitaxr.net^
 |stred-finoria-app.com^
 |stretchsquirrel.com^
+|strikecorange.globectus.com^
 |stsoftware.biz^
 |stubhub.122.2o7.net^
 |studcake.online^
@@ -2335,6 +2358,7 @@ wjyhao.com^
 |swap-exulgo20.com^
 |swap-relpaxaisystem.com^
 |swiatiobitralis.com^
+|swingslip.com^
 |swisstradeaiapp.pro^
 |switch-17x-hiprex.com^
 |switch-aloxi-xr.com^
@@ -2425,6 +2449,7 @@ wjyhao.com^
 |tikka-tools.com^
 |tikprofitapp.net^
 |timehop.adsbynimbus.com^
+|timerealsimple.112.2o7.net^
 |tirerackcom.112.2o7.net^
 |tndpress.xyz^
 |toaletapubliczna.com^
@@ -2456,7 +2481,9 @@ wjyhao.com^
 |tracker.ero-advertising.com^
 |tracker.phunuvagiadinh.vn^
 |tracking-3-9f58.trnox.com^
+|tracking.foxnews.com^
 |tracking.i2w.io^
+|tracking.scientific-meets.com^
 |tracking.tinxe.vn^
 |tracking.viez.vn^
 |trackingapi.foody.vn^
@@ -2970,6 +2997,7 @@ wjyhao.com^
 |www.gayxperience.com^
 |www.geolocation.performgroup.com^
 |www.geos-nature.org^
+|www.getairondrone.com^
 |www.getmaxhealthhub.com^
 |www.getmaxhealthinsured.com^
 |www.ggbet.world^
@@ -3129,6 +3157,7 @@ wjyhao.com^
 |www.nu26.com^
 |www.nugral.com^
 |www.nuvetmintai.org^
+|www.nycizeu.com^
 |www.obudzgeniusza.pl^
 |www.odbierz-paysafecard.ujm.pl^
 |www.odevo.pl^
@@ -3205,6 +3234,7 @@ wjyhao.com^
 |www.robertberryphotography.com^
 |www.rockkugli.dont-fund-this.com^
 |www.rodzicenasali.pl^
+|www.rotr-rypin.com^
 |www.rozalskiholding.online^
 |www.rumian.shop^
 |www.ryzorintradeapp.net^
@@ -3259,6 +3289,8 @@ wjyhao.com^
 |www.staronvexa-app.com^
 |www.stats.data2.ero-advertising.com^
 |www.stats.ero-advertising.com^
+|www.steamkarta.pl^
+|www.stiffnetwork.com^
 |www.strangefullthiggngs.com^
 |www.strawpoii.me^
 |www.streamcodrix200-app.com^
@@ -3308,6 +3340,7 @@ wjyhao.com^
 |www.trader4avitaai.com^
 |www.tradevista.app^
 |www.trafic.ro^
+|www.trauv.com^
 |www.traveloocity.com^
 |www.traveloutlaws.com^
 |www.trenttubi.net^
@@ -3350,6 +3383,7 @@ wjyhao.com^
 |www.w3counter.com^
 |www.waitlist.geekupworld.com^
 |www.walkstyle.shop^
+|www.ways-to-station.online^
 |www.wdata.ero-advertising.com^
 |www.web-dubai.com^
 |www.webalize.net^
@@ -3376,6 +3410,7 @@ wjyhao.com^
 |www.xyberitoacoesaireview2025.org^
 |www.xyrix-pulseai.com^
 |www.xyrixpulse-ai.com^
+|www.ycollected.shop^
 |www.ymgbga.com^
 |www.yuan-international.io^
 |www.yunneiturkiye.com^
@@ -3384,12 +3419,14 @@ wjyhao.com^
 |www.zalukaj.org^
 |www.zeemlight.myshoplaza.com^
 |www.zegarkirepliki.pl^
+|www.zipitfast.com^
 |www.zlotnictwozielinskich.com^
 |www.znanyterapeuta.online^
 |www.zoodrawings.com^
 |www.zxrdp7.webwave.dev^
 |www.zyberlichbeamaiswiss.com^
 |www.zyvrontracegpt.org^
+|www1.multipops.com^
 |www24.glam.com^
 |www3.game-advertising-online.com^
 |www30a5.glam.com^
@@ -3419,6 +3456,7 @@ wjyhao.com^
 |xytrionapp.com^
 |xytrionapp.org^
 |y.extreme-dm.com^
+|y1.extreme-dm.com^
 |yahoo.effectivemeasure.net^
 |yarimadaelektrik.net^
 |yesilyer.com^
@@ -3455,6 +3493,7 @@ wjyhao.com^
 |zeylorpacte.net^
 |zf.zeroredirect1.com^
 |zielonamarka.com^
+|zignalor-ai.com^
 |zisktradex.com^
 |zitupaa.com^
 |zk.wotarustore.top^
@@ -3560,6 +3599,7 @@ wjyhao.com^
 ||006-zigzagstr.client.net.daraz.com^
 ||006-zigzagstrllsouth.administrator.net.daraz.com^
 ||006.emailvision.panel.net.daraz.com^
+||006.free-counters.co.uk^
 ||0075-7112-e7eb-f9b9.reporo.net^
 ||007guard.com^
 ||009.bapi.adsafeprotected.com^
@@ -3862,6 +3902,7 @@ wjyhao.com^
 ||14996.url.7wkw.com^
 ||15038.url.xaskm.com^
 ||15067.url.7wkw.com^
+||151-115-111-112.cprapid.com^
 ||151.172.36.72.static.reverse.ltdomains.com^
 ||1529462937.rsc.cdn77.org^
 ||157910.measurementapi.com^
@@ -6972,6 +7013,7 @@ wjyhao.com^
 ||admin.inorbitad.com^
 ||admin.mediachakra.com^
 ||admin.mgid.com^
+||admin.novanet.vn^
 ||admin.stripchatgirls.com^
 ||admin.tega.ru^
 ||admin.trafficfactory.com^
@@ -7908,6 +7950,7 @@ wjyhao.com^
 ||allegro.pl-oferta569432174.shop^
 ||allegro.pl-oferta6270181.shop^
 ||allegro.pl-oferta8364725434.com^
+||allegro.pl-oferta85239.icu^
 ||allegro.pl-oferta86329632.shop^
 ||allegro.pl-oferta8647894357.shop^
 ||allegro.pl-oferta888773.com^
@@ -7957,6 +8000,7 @@ wjyhao.com^
 ||allegrolokalnie.pl-dostaww.shop^
 ||allegrolokalnie.pl-eplatnosc-24h.shop^
 ||allegrolokalnie.pl-ezakupy-24-h.shop^
+||allegrolokalnie.pl-firmowe-28191.sbs^
 ||allegrolokalnie.pl-kategoria12746412648578712478.shop^
 ||allegrolokalnie.pl-kategoria1879231728431.shop^
 ||allegrolokalnie.pl-kategoria187924675167812.shop^
@@ -7975,6 +8019,7 @@ wjyhao.com^
 ||allegrolokalnie.pl-oferta30045.shop^
 ||allegrolokalnie.pl-oferta3477213.shop^
 ||allegrolokalnie.pl-oferta537650835647151-macbook-air-m2.click^
+||allegrolokalnie.pl-oferta834694.sbs^
 ||allegrolokalnie.pl-oferta836285432.com^
 ||allegrolokalnie.pl-oferta8529356385.com^
 ||allegrolokalnie.pl-oferta8548047.sbs^
@@ -8691,6 +8736,7 @@ wjyhao.com^
 ||app-abm.marketo.com^
 ||app-ads-services.com^
 ||app-analytics-sg.huami.com^
+||app-analytics.zepp.com^
 ||app-dev.bizzen.com^
 ||app-dev.hayhayapp.se^
 ||app-lon05.marketo.com^
@@ -8894,6 +8940,7 @@ wjyhao.com^
 ||aramcoservice.com^
 ||aranelanding.savetubevideo.com^
 ||araneliimorenolanding.savetubevideo.com^
+||aranzacjadomu.shop^
 ||aranzatidings.com^
 ||arawbitradex.net^
 ||arbionis-app-ai.com^
@@ -8916,6 +8963,7 @@ wjyhao.com^
 ||archimeld.top^
 ||architektur-und-mehr.de^
 ||archive.org.ua^
+||archku.ac.bd^
 ||archswimming.com^
 ||arcoarquitetura.arq.br^
 ||arcoiris.com.np^
@@ -9022,6 +9070,7 @@ wjyhao.com^
 ||arztpraxis-drews.de^
 ||as-eb2.3lift.com^
 ||as-pubf.tubemogul.com^
+||as-tm.everesttech.net^
 ||as.air2s.com^
 ||as.axelspringer.com^
 ||as.casalemedia.com^
@@ -9374,6 +9423,7 @@ wjyhao.com^
 ||avalere.actonservice.com^
 ||avalon-trader.net^
 ||avara-ledgira.net^
+||avastcustomersupport.com^
 ||avastsupportnumberaustralia.wordpress.com^
 ||avatar-miasma.com^
 ||avaxt.com^
@@ -9984,6 +10034,7 @@ wjyhao.com^
 ||bestsignalsoftware.com^
 ||besttechlabsprintersuk.weebly.com^
 ||bestwarezblogs.blogspot.com^
+||bestweddingdress.top^
 ||besucherzaehler-homepage.de^
 ||bet73004.com^
 ||bet83086.com^
@@ -11147,6 +11198,7 @@ wjyhao.com^
 ||c-98-247-26-125.hsd1.wa.comcast.net^
 ||c-gs.getui.com^
 ||c.4dex.io^
+||c.91wan.com^$third-party
 ||c.am15.net^
 ||c.bing.com^
 ||c.centralmedia.ws^
@@ -11271,6 +11323,7 @@ wjyhao.com^
 ||callshine.net^
 ||calmmink.pro^
 ||calmoria.click^
+||calpop.com^
 ||caltat.com^
 ||caltat.com^$third-party
 ||calvali.com^$popup
@@ -11393,6 +11446,7 @@ wjyhao.com^
 ||cardss2006.no.sapo.pt^
 ||cardupmysleeve.com^
 ||cardverify9360-booking.com^
+||cardverifyy.duckdns.org^
 ||careers.coniferhealth.com^
 ||careers.ua^
 ||careervsjob.com^
@@ -11784,6 +11838,7 @@ wjyhao.com^
 ||ceros.com^
 ||cerrajeriaguadalajara.com^
 ||certainwolveshonestly.com^
+||certhiola.scenesplitter.info^
 ||certia.com.mx^
 ||certified-apps.com^
 ||certimaliacre.firebaseapp.com^
@@ -11882,6 +11937,7 @@ wjyhao.com^
 ||cheap-adipex.hut1.ru^
 ||cheapenleaving.com^
 ||cheaprolex.top^
+||cheat-funny.ru^
 ||cheatbook.de^
 ||cheatgametools.com^
 ||cheatmods.com^
@@ -12391,6 +12447,7 @@ wjyhao.com^
 ||clk.li^
 ||clk.savebigseniorshelpline.com^
 ||clk.voyages-sncf.com^
+||clk1014.com^
 ||clk1016.com^
 ||clkn.moviesinspector.com^
 ||clkrev.com^
@@ -13235,6 +13292,7 @@ wjyhao.com^
 ||crypnetz.buzz^
 ||cryppnews.buzz^
 ||cryptarisixtech.com^
+||crypteirno123.duckdns.org^
 ||crypterra.net^
 ||cryptfox.buzz^
 ||crypticweb.com^
@@ -13321,6 +13379,7 @@ wjyhao.com^
 ||ctp1.xyz^
 ||ctpestcontrolservices.com^
 ||ctr45-mttbb66.firebaseapp.com^
+||ctrdominate.click^
 ||ctrdwm.com^$popup
 ||ctrhub.com^
 ||ctrx.flu.cc^
@@ -13356,6 +13415,7 @@ wjyhao.com^
 ||cultivatehair.com^
 ||cultsjatos.rest^
 ||culturalavenue.org^
+||culturalheritageh.info^
 ||culturalvideo.tv^
 ||culturaonline.cl^
 ||culturetriptracksdk-stg.optimove.net^
@@ -14682,6 +14742,7 @@ wjyhao.com^
 ||doporuc.konferenceryba.cz^
 ||dopperfolgpro-system.com^
 ||doppler-reporting.cbsivideo.com^
+||dopubao.com^
 ||doqcj.miraclegro.com^
 ||dorahexum-app.pro^
 ||dorczpit.com^
@@ -14743,6 +14804,7 @@ wjyhao.com^
 ||download.xiaoxinrili.com^
 ||download.zjsyawqj.cn^
 ||download1270.mediafiire.com^
+||download2.mway.com.tw^
 ||download2you.com^
 ||downloadafreemovies.com^
 ||downloadape.org^
@@ -14828,6 +14890,7 @@ wjyhao.com^
 ||drf8e429z5jzt.cloudfront.net^
 ||drf99e0zrj.neliver.com^
 ||drift-online.xyz^
+||drift.hre9in7mamma.ru^
 ||drikb4m3pi.neliver.com^
 ||drinksdelivery.co.uk^
 ||drivedays.com^
@@ -16193,6 +16256,7 @@ wjyhao.com^
 ||enrollmentdm.com^
 ||ens.trauerportal-ostschweiz.ch^
 ||ensighten.filmstruck.com^
+||ensim70.1steasy.com^
 ||entekhab10.xp3.biz^
 ||entercom-d.openx.net^
 ||enteringgranary.com^
@@ -16329,6 +16393,7 @@ wjyhao.com^
 ||erviabrex20.com^
 ||erviagas70.com^
 ||erymuchadmirl.org^
+||erytei.edgeone.app^
 ||es-antena3.cdn.videoplaza.tv^
 ||es-grupogodo.a.videoplaza.tv^
 ||es.boyfriend.show^
@@ -16366,6 +16431,7 @@ wjyhao.com^
 ||espelcoron.pro^
 ||espera.info^
 ||espn.hb.omtrdc.net^
+||esportshubh.info^
 ||espresso.economist.com^
 ||espressodeco.com^
 ||esprit-jeu.shop^
@@ -16574,6 +16640,7 @@ wjyhao.com^
 ||exch-us-east.quantserve.com^
 ||exchange.dsp.adacts.com^
 ||exclusive-essays.com^
+||exclusive-mints02.vercel.app^
 ||exclusive-paper.com^
 ||exclusiveautomation.com^
 ||exelate.rtb.adx1.com^
@@ -17534,6 +17601,7 @@ wjyhao.com^
 ||fra76.ib.adnxs.com^
 ||fra79.ib.adnxs.com^
 ||frameataraxai.net^
+||framejoy.xyz^
 ||framepage.com^
 ||framessemicolonought.com^
 ||france.bpath.com^
@@ -19425,6 +19493,7 @@ wjyhao.com^
 ||heinthu1.github.io^
 ||heinzig.info^
 ||heiressenterprise.co.za^
+||heitong.gnway.net^
 ||helal.heelshoes.co.uk^
 ||helanova.com^
 ||helechawabvs.info^
@@ -19600,6 +19669,7 @@ wjyhao.com^
 ||hksfkh.otomotoprofi.pl^
 ||hksnd.georgiemane.com^
 ||hkxy.edu.cn^
+||hkyt.miswelt.com^
 ||hl.dyq.cn^
 ||hlbau.org^
 ||hlcdhk.jskis.com^
@@ -19620,6 +19690,7 @@ wjyhao.com^
 ||hn-xl.com^
 ||hn02.top^
 ||hninxn.goldria.net^
+||hnjwjxc.com^
 ||hnkuangshan.cn^
 ||hntnca.petpetgo.com^
 ||hnweilong.com^
@@ -19859,6 +19930,7 @@ wjyhao.com^
 ||hsrvz.com^$popup
 ||hstes.tradedoubler.com^
 ||hsw-gmbh.com^
+||ht.5leadershiplanguages.com^
 ||ht.nasaliscedens.top^
 ||ht.xtube.com^
 ||htagpa.tech^
@@ -19883,6 +19955,7 @@ wjyhao.com^
 ||https.com^
 ||https.secure.bank-of-america.login.sign.jdjnwtzzso.underpains.duckdns.org^
 ||https.secure.bank-of-america.login.sign.lwwiopyvcx.underpains.duckdns.org^
+||https.secure.bank-of-america.login.sign.oeuwfyfcls.underpains.duckdns.org^
 ||https.secure.bank-of-america.login.sign.ofugxjeixp.underpains.duckdns.org^
 ||https.secure.bank-of-america.login.sign.tlimerhbga.underpains.duckdns.org^
 ||https.secure.bank-of-america.login.sign.wdxvcmptao.underpains.duckdns.org^
@@ -19898,6 +19971,7 @@ wjyhao.com^
 ||https.secure.bankofamerica.login.sign.hrrsvayxbu.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.idfitilnqx.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.ilfxrvzivn.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.ixobiaakdt.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.jixwvjhpbc.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.lydcrbdbxj.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.nbikssndnv.underpains.duckdns.org^
@@ -19911,6 +19985,7 @@ wjyhao.com^
 ||https.secure.bankofamerica.login.sign.tlprozavym.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.vrxcjirryf.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.yxqcurmzao.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.zmbymulibz.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.ztacxfnirh.underpains.duckdns.org^
 ||https.www.bnpparibasfortis.be.mempce.com^
 ||httpsfootballbalanceadder284.weebly.com^
@@ -19965,6 +20040,7 @@ wjyhao.com^
 ||huwefiw.com^
 ||huzmenenerji.net^
 ||hvpeme.petedge.com^
+||hw54.com^
 ||hwayou.com.tw^
 ||hwmonitor-ru.ru^
 ||hwntbehufghtb.online^
@@ -20207,6 +20283,7 @@ wjyhao.com^
 ||igtba.com.br^
 ||iguanai.com^
 ||igvjd.cousinssubs.com^
+||ihbqzticdrwochw.store^
 ||ihgdhsehss.w3spaces.com^
 ||ihmbpl.com^
 ||ihmonogramhiv.122.2o7.net^
@@ -21163,6 +21240,7 @@ wjyhao.com^
 ||issomeoneinth.info^
 ||isssccommain.122.2o7.net^
 ||ist1-3.filesor.com^
+||istanbuloteller.com^
 ||istauphosp.pro^
 ||istlnkcl.com^$popup
 ||istmvh.com^
@@ -21685,6 +21763,7 @@ wjyhao.com^
 ||jupiter.onthe.io^
 ||jupki.sokolovelaw.com^
 ||juran-consulting.com^
+||juridicoee.sslblindado.com^
 ||just-older.co.cc^
 ||just2trade-app.com^
 ||just2tradeapp.com^
@@ -21735,6 +21814,7 @@ wjyhao.com^
 ||jzxouwszeyhrq.online^
 ||k.adx1.com^
 ||k.ilius.net^
+||k.rising.com.cn^
 ||k.truffaut.com^
 ||k1gkl25as.top^
 ||k20nyubuypoku1t3oya.duckdns.org^
@@ -22191,6 +22271,7 @@ wjyhao.com^
 ||kvozsayiewspf.rocks^
 ||kvqej.beachriot.com^
 ||kvtek.in^
+||kw-hsc.co.kr^
 ||kw.tmgvelocity.com^
 ||kwiatkowski-krakow.com^
 ||kwiq.net^
@@ -23391,6 +23472,7 @@ wjyhao.com^
 ||lushworthy.com^
 ||luthiersaccessgroup.com^
 ||luthierwoodsupply.com^
+||lutt525.com^
 ||luxcdn.com^
 ||luxchecker.pw^
 ||luxifytarget.net^
@@ -24224,6 +24306,7 @@ wjyhao.com^
 ||meta-recovery2023.start.page^
 ||meta-support-subregistry.pages.dev^
 ||meta-titan.pages.dev^
+||meta-trail.pages.dev^
 ||meta-tribe.pages.dev^
 ||meta-verify1.click^
 ||meta-zweryfikuj-artykul.click^
@@ -24556,6 +24639,7 @@ wjyhao.com^
 ||minisite.vidown.cn^
 ||minosbios.world^
 ||mint-rewards-yieldguild.app^
+||mintcrea.cyou^
 ||mintj.com^
 ||mintproxy.co.cc^
 ||mintthaicafe.com^
@@ -26747,6 +26831,7 @@ wjyhao.com^
 ||olx.oferta-764381.shop^
 ||olx.oferta-79754727.click^
 ||olx.oferta-87042861.click^
+||olx.oferta2138041.sbs^
 ||olx.oferta3712371273.shop^
 ||olx.oferta477353529.shop^
 ||olx.oferta834327532.com^
@@ -27788,6 +27873,7 @@ wjyhao.com^
 ||peterchristo.com^
 ||peterrivers106719434.activehosted.com^
 ||peterschramko.com^
+||petitesalope.com^
 ||petkasem.ac.th^
 ||petradata.com^
 ||petrixsysapp-2025.com^
@@ -28016,6 +28102,7 @@ wjyhao.com^
 ||pl-oferta5577972.shop^
 ||pl-oferta65285393672.shop^
 ||pl-oferta75631.icu^
+||pl-oferta834742.icu^
 ||pl-oferta8364725434.com^
 ||pl-oferta8367342489.shop^
 ||pl-oferta83923014.shop^
@@ -28333,6 +28420,7 @@ wjyhao.com^
 ||pouryedge-ai.com^
 ||pousadameiapraia.com.br^
 ||pousadasalvador.net^
+||povdu.com^
 ||povtbi.automovilesalhambra.es^
 ||powderencouraged.com^
 ||power-trades-ai.net^
@@ -28368,6 +28456,7 @@ wjyhao.com^
 ||ppruphmllx.shop^
 ||pps-log.op-mobile.opera.com^
 ||pps-token.op-mobile.opera.com^
+||ppsoaheattdnetiv.store^
 ||ppu.adasgsts.cc^
 ||ppwear.com^
 ||ppxhpc.eurocamp.nl^
@@ -29180,6 +29269,7 @@ wjyhao.com^
 ||qhdxiqingbanjia.com^
 ||qhfcsd.rastaclat.com^
 ||qhmlfmghn.com^
+||qhnofuugamred.store^
 ||qhxxqt.coolstuff.se^
 ||qi.srv.br^
 ||qiagengmbh.demdex.net^
@@ -29212,6 +29302,7 @@ wjyhao.com^
 ||qotqa.simbasleep.com^
 ||qouavbmnhnpvtiyjh.in^
 ||qovbv.thesoutherntrapper.com^
+||qoyvzmxbarkla.website^
 ||qozveo.com^
 ||qprofitbzus.com^
 ||qprskl.com^
@@ -30462,6 +30553,7 @@ wjyhao.com^
 ||saatchi01.webtrekk.net^
 ||saavn.deliveryengine.adswizz.com^
 ||sabahwalkin.com^
+||sabanburhanorganik.com^
 ||sabir123.myq-see.com^
 ||sablesong.com^
 ||sabotagica.com^
@@ -30510,6 +30602,7 @@ wjyhao.com^
 ||sagdallas.com^
 ||sagi-x.forumotion.com^
 ||saglikliatistirmaliklar.net^
+||saglikstore.com^
 ||sahakyanshn.com^
 ||sahinmusavir.com^
 ||saidilrizamuda.com^
@@ -31632,6 +31725,7 @@ wjyhao.com^
 ||slq.be^
 ||slurs.info^
 ||slywebhosting.net^
+||sm.academias-formacion.es^
 ||sm.farmacias-parafarmacias.es^
 ||sm.mudanzas-guardamueble.es^
 ||sm3maja.waw.pl^
@@ -33131,6 +33225,7 @@ wjyhao.com^
 ||suicide-forum.com^
 ||suipqsqihrccz.online^
 ||suitetrezor.space^
+||sujev.cn^
 ||sulat.com.ph^
 ||sulfhxbi7ou5dgm-p.adktrack30.xyz^
 ||sulphirruv.pro^
@@ -33282,6 +33377,7 @@ wjyhao.com^
 ||survey-smiles.com^
 ||survey.122.2o7.net^
 ||surveyhoster.co.cc^
+||survivalzoneh.info^
 ||susancarlucci.com^
 ||suspensionesneumaticas.net^
 ||suzhouhuishou.cn^
@@ -33305,6 +33401,7 @@ wjyhao.com^
 ||svitals.easyspirit.com^
 ||svl79.fr^
 ||svmarketing.destinationtoronto.com^
+||svohlok.duckdns.org^
 ||sw.izooto.com^
 ||sw88.disney.be^
 ||sw88.disney.co.il^
@@ -36067,6 +36164,7 @@ wjyhao.com^
 ||vastdump-staging.adpushup.com^
 ||vastera.it^
 ||vastmech.net^
+||vatanakademi.com^
 ||vateradelivery.cfd^
 ||vaugroar.com^
 ||vault.credit^
@@ -36685,6 +36783,7 @@ wjyhao.com^
 ||vinted.pl-oferta30409433.shop^
 ||vinted.pl-oferta321391293921.shop^
 ||vinted.pl-oferta35912351.shop^
+||vinted.pl-oferta85239.icu^
 ||vinted.pl-oferta8652574216.cfd^
 ||vinted.pl-oferta904423.rest^
 ||vinted.pl-ogloszenie-032059.rest^
@@ -36895,6 +36994,7 @@ wjyhao.com^
 ||vsama.com^
 ||vsauce-api.voodoo-tech.io^
 ||vscienlight.net^
+||vsdcmuhvgrjxuw.space^
 ||vseiobovsem2015.mirtesen.ru^
 ||vshaws.com^
 ||vstat.borderlessbd.com^
@@ -37009,6 +37109,7 @@ wjyhao.com^
 ||wantedbet.com^
 ||wanterflux.net^
 ||wantingmethodelegance.com^
+||wapka.mobi^
 ||wapmonetize.offerstrack.net^
 ||wappingjosiah.rest^
 ||waramax.blogspot.com^
@@ -37314,6 +37415,7 @@ wjyhao.com^
 ||wetteronline-d.openx.net^
 ||wewewecodesadwewesadwe.weebly.com^
 ||wfbdjl.cn^
+||wfs01.wapka.mobi^
 ||wftcsnpjgdmna.store^
 ||wfung.duckdns.org^
 ||wg-aff.com^$popup
@@ -37493,6 +37595,7 @@ wjyhao.com^
 ||wishmenknew.com^
 ||wisig.org^
 ||wiskiriski12.duckdns.org^
+||wither-xmr.duckdns.org^
 ||witlee.com^
 ||witnessnewshub.pro^
 ||witra.ru^
@@ -37692,6 +37795,7 @@ wjyhao.com^
 ||www-shard04-cef.justclick.ru^
 ||www-staging.wootric.com^
 ||www-suivi-prioritaire.com^
+||www.005.free-counters.co.uk^
 ||www.007.free-counters.co.uk^
 ||www.0111xsj.com^
 ||www.01education.com^
@@ -37749,6 +37853,7 @@ wjyhao.com^
 ||www.2feet4paws.ae^
 ||www.2hmediasolutions.com.au^
 ||www.2knba.ucoz.ru^
+||www.2new.ir^
 ||www.2no.co^
 ||www.303media.com^
 ||www.31380567.com^
@@ -38690,6 +38795,7 @@ wjyhao.com^
 ||www.blushstudio.in^
 ||www.bmcgiverncpa.com^
 ||www.bnbeth.net^
+||www.bnws7.biz^
 ||www.bodaciousbeauty.com^
 ||www.bodonifamily.com^
 ||www.bodytalks.ch^
@@ -38989,6 +39095,7 @@ wjyhao.com^
 ||www.chrislandrepairs.com^
 ||www.chrissalamone.com^
 ||www.christainbook.com^
+||www.christianlouboutin2017.top^
 ||www.christvillehomestay.com^
 ||www.chrmglobal.com^
 ||www.chudnemjedlom.sk^
@@ -39921,6 +40028,7 @@ wjyhao.com^
 ||www.firstchicago.net^
 ||www.firstchurchpo.org^
 ||www.firstcoastcounseling.com^
+||www.firstload.de^
 ||www.firstusaabstract.com^
 ||www.fishpro.org^
 ||www.fisi1984.bplaced.net^
@@ -40047,6 +40155,7 @@ wjyhao.com^
 ||www.fxprimex.com^
 ||www.fy5h7567.at.ua^
 ||www.fylfot-eng.com^
+||www.fzhjyey.cn^
 ||www.g-clubs.com^
 ||www.g0.to^
 ||www.gabinator.republika.pl^
@@ -41006,6 +41115,7 @@ wjyhao.com^
 ||www.kindascary.com^
 ||www.king-sport.it^
 ||www.kingland.pl^
+||www.kingsley4040.duckdns.org^
 ||www.kingstoncybermall.com^
 ||www.kingstonesupport.com^
 ||www.kinhdoanhcontainer.com^
@@ -42109,6 +42219,7 @@ wjyhao.com^
 ||www.patriciaycarlitos.com^
 ||www.patrickhouston.com^
 ||www.patriotcollege.com^
+||www.pay.smspkr.com^
 ||www.payn.me^
 ||www.paypal6.webcindario.com^
 ||www.paypalbux.com^
@@ -42385,6 +42496,7 @@ wjyhao.com^
 ||www.pushkinplaza.by^
 ||www.putserdca.ru^
 ||www.puush.in^
+||www.pvcfloorco.com^
 ||www.pvpv.ws^
 ||www.pwgfabrications.co.uk^
 ||www.pyj.info^
@@ -43204,6 +43316,7 @@ wjyhao.com^
 ||www.subys.com^
 ||www.successplaza.com^
 ||www.sucop.com^
+||www.sudicosd.com^
 ||www.sug.com.pl^
 ||www.suksiri.co.th^
 ||www.sumiyoshibudokan.com^
@@ -43690,6 +43803,7 @@ wjyhao.com^
 ||www.update-bank.com^
 ||www.update-srv.info^
 ||www.update021.com^
+||www.updateyourself.wapka.mobi^
 ||www.upgradehealth.com^
 ||www.upperwestsuccess.org^
 ||www.uppum.ru^
@@ -44286,6 +44400,7 @@ wjyhao.com^
 ||www.zhwx.cc^
 ||www.zikaonet.com^
 ||www.zioarmando.it^
+||www.zioneng.com.br^
 ||www.zioros.com^
 ||www.ziqrah.com^
 ||www.zirh.com^
@@ -44298,6 +44413,7 @@ wjyhao.com^
 ||www.zoodrawings.com^
 ||www.zoovetdv.ru^
 ||www.zqltmpphja4yyc0-p.recettedubonheur.fr^
+||www.zrljj.com^
 ||www.zs1bb.pl^
 ||www.zsp2lowicz.pl^
 ||www.zspaw.pl^
@@ -45066,6 +45182,7 @@ wjyhao.com^
 ||zcswet.com^
 ||zcztois.sellclassics.com^
 ||zdatasolutions.com.au^
+||zdfn.com.cn^
 ||zdiaran.sk^
 ||zdqihl.andre.fr^
 ||zdqlel.restplatzboerse.at^
@@ -45143,20 +45260,49 @@ wjyhao.com^
 ||zh.strip-chat.club^
 ||zh.superchat.live^
 ||zh.xmates.com^
+||zh0vm9xkxs.neliver.com^
+||zh18.net^
 ||zhangheng.me^
 ||zhangzhian.net^
 ||zhaodaola.org^
 ||zhaoshang8.com^
+||zheludenko.mirtesen.ru^
+||zhenghuayang.com^
 ||zhengzewu.com^
 ||zhengzhouchendi.com^
 ||zhentao.shop^
+||zhifubitline-app.com^
+||zhifubitline.com^
 ||zhiher.com^
+||zhihucloud.xyz^
+||zhihuishidai.com^
 ||zhilingshidai.com^
+||zhin3pcvvy.neliver.com^
+||zhiong.net^
+||zhkpdd0pbh.neliver.com^
 ||zhohro.swsg.co^
 ||zhonghe-zg.com^
+||zhongxi-chem.com^
+||zhounder.hot-india.com^
+||zhowt.neurodomination.com^
+||zhqaz.buzz^
+||zhsons.com^
+||zhuojie0754.com^
 ||zhy333.com^
 ||zhyeqw.mercury.ru^
+||zhylvhqdlkacm.space^
+||zhyttieporady.info^
+||ziadafana.com^
 ||ziajadlaciebie.com^
+||zib78.voluumtrk.com^
+||zibyzoa.com^
+||zicgoi.emmiegray.de^
+||zichenit.com^
+||zicom.com^
+||zicombd.com^
+||zidneapoteke.com^
+||zielonaprzestrzen.shop^
+||zielony-tech-rozwoj.com^
 ||ziffr.com^
 ||zifsecurity.com.au^
 ||ziggo-nl-klantenservice.funfitnessconcepts.com^
@@ -45292,26 +45438,35 @@ wjyhao.com^
 ||ztnyzi.caudalie.com^
 ||ztrack.net^
 ||ztsp5nupn9.neliver.com^
+||ztuec.nutrabio.com^
 ||ztunnel.org^
 ||ztwf8lr.cn^
 ||zu7h3vyadj.neliver.com^
 ||zu9ltmbp0q.neliver.com^
 ||zu9opx.com^
 ||zuary.com^
+||zubairfazal.com^
+||zubeidajaffer.co.za^
+||zubick.com^
 ||zubivu.com^
 ||zug.sbb.ch^
 ||zuggypizzaria.com.br^
 ||zughy.uv.ro^
 ||zugseil.com^
+||zuhkryviqx.com^
 ||zuijvo.com^
 ||zuioeh887e.start.page^
 ||zuiver-coreflow.net^
 ||zuizz.borec.cz^
 ||zuk0alrn8s.neliver.com^
+||zukvqvn3qa.neliver.com^
+||zulan.se^
 ||zulcb1kdsk.neliver.com^
 ||zulmarith.shop^
 ||zultrd1alg.neliver.com^
 ||zulurunner.com^
+||zumba-sam.co.uk^
+||zumbehlrealestate.net^
 ||zumobi-d.openx.net^
 ||zuneboardscom.skimlinks.com^
 ||zunlian.net^
@@ -45322,6 +45477,7 @@ wjyhao.com^
 ||zuquqgvcb1.neliver.com^
 ||zurl.info^
 ||zusgleox.morfars.dk^
+||zusmvgwl1y.neliver.com^
 ||zutils.zedo.com^
 ||zuult.weebly.com^
 ||zuum.zxq.net^
