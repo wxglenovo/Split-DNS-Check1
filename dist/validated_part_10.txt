@@ -603,6 +603,7 @@ $script,third-party,domain=colamanga.com
 :99/js/ads/
 </a>        <a class="Link--secondary no-underline d-inline-block" href="/cjx82630/cjxlist/tags">
 </a>    <tool-tip id="tooltip-1610d779-0515-4c56-8b53-42b305345f89" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-302c2e81-22df-4e0b-89cc-0332a0362411" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 </a>    <tool-tip id="tooltip-609d50dc-bb63-46b9-ad9a-d4ccb2573470" for="files-overview-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 </a>    <tool-tip id="tooltip-b64fe416-562a-4b6d-aafd-7f26ad29f7c2" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 </clipboard-copy>
@@ -624,6 +625,7 @@ $script,third-party,domain=colamanga.com
 <a id="issues-tab" href="/privacy-protection-tools/anti-AD/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /privacy-protection-tools/anti-AD/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
 <a tabindex="-1" id="item-026eb9f3-f918-4041-9934-332eea9fd3ed" href="/cjx82630/cjxlist" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <a tabindex="-1" id="item-20e8caa2-991e-4601-90dd-cff00258bbfa" href="/cjx82630/cjxlist/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+<a tabindex="-1" id="item-6856c1a6-1f4f-46a0-8239-599e94088a13" href="/cjx82630/cjxlist/wiki" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <a tabindex="-1" id="item-a67faf45-d5f8-475d-b1f0-1b761d3f2743" href="/privacy-protection-tools/anti-AD" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
 <button data-target="react-partial-anchor.anchor" id="icon-button-bf3088ef-facd-49ec-83aa-e17223981d4d" aria-labelledby="tooltip-ef3e6541-9eab-4600-a604-2456fd4bb3a0" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
 <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w">
@@ -636,6 +638,7 @@ $script,third-party,domain=colamanga.com
 <div>{{ message }}</div>
 <h1 class='sr-only'>privacy-protection-tools/anti-AD</h1>
 <h2 class="sr-only">Navigation Menu</h2>
+<include-fragment aria-busy="true" aria-label="Loading contributors" src="/durablenapkin/scamblocklist/contributors_list?count=2&amp;current_repository=scamblocklist&amp;items_to_show=2" data-nonce="v2:63819a63-c86c-c345-bb6e-e7ecd1c18537" data-view-component="true">
 <include-fragment src="/cjx82630/cjxlist/hovercards/citation/sidebar_partial?tree_name=master" data-nonce="v2:40b5d303-b3a2-a31a-65fe-8cff5ad5aa89" data-view-component="true">
 <include-fragment src="/privacy-protection-tools/anti-AD/security/overall-count" accept="text/fragment+html" data-nonce="v2:49c7ab26-f6b3-ff35-7180-b04027018f0d" data-view-component="true">
 <include-fragment src="/privacy-protection-tools/anti-AD/used_by_list" accept="text/fragment+html" data-nonce="v2:49c7ab26-f6b3-ff35-7180-b04027018f0d" data-view-component="true">
@@ -647,6 +650,7 @@ $script,third-party,domain=colamanga.com
 <link rel="canonical" href="https://github.com/durablenapkin/scamblocklist" data-turbo-transient>
 <link rel="preconnect" href="https://avatars.githubusercontent.com">
 <meta name="disable-turbo" content="false">
+<meta name="request-id" content="8440:398D93:A3F190:DE3694:6920C0FC" data-pjax-transient="true"/><meta name="html-safe-nonce" content="428803d9e4ccc6a04b36e3465699d80d26abbd1cb6b44fee1aee318de5588df3" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4NDQwOjM5OEQ5MzpBM0YxOTA6REUzNjk0OjY5MjBDMEZDIiwidmlzaXRvcl9pZCI6IjU5MjIxNjU4NTMxMzYxNDI1ODgiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="5281709fa1a38de9ee0856da19d43cd980ad473c83b80844d007ea1343b24124" data-pjax-transient="true"/>
 <meta name="turbo-body-classes" content="logged-out env-production page-responsive">
 <meta name="twitter:image" content="https://opengraph.githubassets.com/0200bcac5b31296deddeb99ffd097a20749fdc2c88fd72bc16d4cf9a58a6fb42/privacy-protection-tools/anti-AD" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="GitHub - privacy-protection-tools/anti-AD: 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式" /><meta name="twitter:description" content="致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式 - privacy-protection-tools/anti-AD" />
 <meta name="user-login" content="">
@@ -14316,6 +14320,7 @@ zyue.com##div[id^="divad_"]
 ||55f7977529bb3a6dceb346f4038f0e8b.org^
 ||55tools.com^
 ||5603.net^
+||56050568.abundacalift.com^
 ||5624600.fls.doubleclick.net^
 ||5625200.fls.doubleclick.net^
 ||56349aa0.rev.stofanet.dk^
@@ -14750,6 +14755,7 @@ zyue.com##div[id^="divad_"]
 ||7dl.com^
 ||7ef0dde5a3.com^
 ||7efa876ad4.d0abc3646f.com^
+||7enejhr.icu^
 ||7f27ec4994d1e362f5bbfd718e267458.org^
 ||7fnb.xyz^
 ||7fyfyt3a9l.top^
@@ -19201,6 +19207,7 @@ zyue.com##div[id^="divad_"]
 ||alebilet.oferta-102374.shop^
 ||alebilet.oferta-20281634.cyou^
 ||alebilet.oferta-22762654.cfd^
+||alebilet.oferta-2342553.icu^
 ||alebilet.oferta-29dg34kd94zmmrrx84ytp7.cfd^
 ||alebilet.oferta-29dg34kd94zmmrrx84ytp7.xyz^
 ||alebilet.oferta-3421188.cfd^
@@ -21238,6 +21245,7 @@ zyue.com##div[id^="divad_"]
 ||amnrbviujof.com^
 ||amogohuigotuli.at^
 ||amoralforsteppe.com^
+||amoredate.com^
 ||amorphousdoberman.pro^
 ||amospalla.es^
 ||amountstockbrainly.tk^
@@ -22706,8 +22714,10 @@ zyue.com##div[id^="divad_"]
 ||apsrec2018.000webhostapp.com^
 ||apsserv.000webhostapp.com^
 ||apt.insight.adsrvr.org^
+||aptebasic.com^
 ||aptech.edu.af^
 ||apteka-sadivnyka.ua^
+||aptekids.com^
 ||apteklaxon.icu^
 ||aptgetgxqs3secda.d2web.org^
 ||apticca.co.uk^
@@ -23111,6 +23121,7 @@ zyue.com##div[id^="divad_"]
 ||askupdate.thecentersitetogetcontent.icu^
 ||askyprint-dz.com^
 ||asl7mtrrm4.neliver.com^
+||aslanresidence.com^
 ||asloubier.000webhostapp.com^
 ||asmails.weebly.com^
 ||asman.railsplayground.net^
@@ -24703,6 +24714,7 @@ zyue.com##div[id^="divad_"]
 ||beginlgear.lat^
 ||begun.7-nenop-38-oy.ru^
 ||behdanehgolestan.com^
+||beherausagisse.com^
 ||behests.stream^
 ||behinava.com^
 ||behindforhewas.org^
@@ -24888,6 +24900,7 @@ zyue.com##div[id^="divad_"]
 ||bestdvdripper.biz^
 ||bestdvr.ru^
 ||beste-vrije-markt-van-nederland.info^
+||bestedashcam.com^
 ||bestencouragementwords.com^
 ||bestessay4u.net^
 ||bestfactor.tk^
@@ -25177,6 +25190,7 @@ zyue.com##div[id^="divad_"]
 ||bi16cvy8fa.neliver.com^
 ||bi2umzg3df.neliver.com^
 ||bi2vl.com^
+||bia.chatjuridico.live^
 ||bialaczow.pl^
 ||biancheriasaverio.com^
 ||bianchipr.com^
@@ -26243,6 +26257,7 @@ zyue.com##div[id^="divad_"]
 ||brachydactylous.us^
 ||bractivacar.eccocar.com^
 ||braddonalexander.com^
+||bradesco.dispositivoempresa.com^
 ||bradesco.pfprincipal.com^
 ||bradescosaudebrasilia.com.br^
 ||bradingromanvilla.org.uk^
@@ -29190,6 +29205,7 @@ zyue.com##div[id^="divad_"]
 ||cityofrockytoptn.com^
 ||cityonlineguide.com^
 ||cityzen.io/Pixel/
+||ciufubogdan.com^
 ||ciuvroktof.neliver.com^
 ||civicie.com^
 ||cizml.wyndhamhotels.com^
@@ -33715,6 +33731,7 @@ zyue.com##div[id^="divad_"]
 ||det-ails-confir-mation.tk^
 ||detached-diamonds.000webhostapp.com^
 ||detail-apple.com^
+||detaillog-global-dual.coolbcloud.com^
 ||details.qrmetv.com^
 ||detalhepericia.pt^
 ||detalizaciya-tut.biz^
@@ -46862,6 +46879,7 @@ zyue.com##div[id^="divad_"]
 ||ijjnyauzmqxoq.website^
 ||ijrte.org^
 ||ijshuis.nl^
+||ijsusat.net^
 ||ijterttmus.com^
 ||ijtjk.com^
 ||ijuns.com^
@@ -52479,6 +52497,7 @@ zyue.com##div[id^="divad_"]
 ||livesupportmicrosoftupdateswindow.info^
 ||livesurfer.info^
 ||livesystemmicrosofterrorcodex2313.info^
+||livetech.live.shopee.com.br.visitantes.net^
 ||livetech.shopee.co.id.cdn20.com^
 ||livetech.shopee.co.th.txlivecdn.com^
 ||livetechguru.com^
@@ -52817,6 +52836,7 @@ zyue.com##div[id^="divad_"]
 ||loadingfreshs.tk^
 ||loadlleader.net^
 ||loadm.exelator.com^
+||loadmypath.click^
 ||loadtest.propellerads.com^
 ||loadunblock.co.cc^
 ||loadv6isionsecure.store^
@@ -61026,6 +61046,7 @@ zyue.com##div[id^="divad_"]
 ||olx.pl-smart-oferta42438.icu^
 ||olx.pl-smart1355807.cfd^
 ||olx.pl-smart28538283.cfd^
+||olx.pl-smart3752844.cfd^
 ||olx.pl-smart7488142.cfd^
 ||olx.pl-sprzedaz.club^
 ||olx.pl-weryfikacja.bid^
@@ -64525,6 +64546,7 @@ zyue.com##div[id^="divad_"]
 ||pocketmath-cdn.com^
 ||pockztresmde.cabanova.com^
 ||pocofh.com^
+||poczstex.click^
 ||poczt-polska.top^
 ||poczta-admin-help-desk-unit.sitey.me^
 ||poczta-o2.pl^
@@ -68918,6 +68940,7 @@ zyue.com##div[id^="divad_"]
 ||roblox.com/report
 ||roblox.gghacks.com^
 ||robloxfreerobux1.000webhostapp.com^
+||robloxx.com.es^
 ||robo-200-alora-app.com^
 ||robo-ifex-engine.com^
 ||robo3vadipex.com^
@@ -76059,6 +76082,7 @@ zyue.com##div[id^="divad_"]
 ||symaj.cn^
 ||symantecmails.com^
 ||symboltech.com^$third-party
+||symptomatizes.com^
 ||symtual.com^
 ||synad3.nuffnang.com.my^
 ||synant.info^
@@ -77986,6 +78010,7 @@ zyue.com##div[id^="divad_"]
 ||thesitesurfer.com^
 ||thesiteunblocker.com^
 ||thesmartgirlsguide.com^
+||thesmatch.com^
 ||thesoftware-centertoupgrades.win^
 ||thesoftwareround4updates.bid^
 ||thesoftwareroundupgradesall.review^
@@ -78885,6 +78910,7 @@ zyue.com##div[id^="divad_"]
 ||tpl2.realtracker.com^
 ||tplinkroutersupport.net^
 ||tpmexb.vans.co.nz^
+||tpogasdkok.com^
 ||tpok.me^
 ||tps.doubleverify.com^
 ||tps711.doubleverify.com^
@@ -80811,6 +80837,7 @@ zyue.com##div[id^="divad_"]
 ||underestimate.pfdnlwyu.in^
 ||undergoneoffices7.tk^
 ||underluckystar.ru^
+||underscal.cesarlytics.com^
 ||understoodocean.com^
 ||underthewall.info^
 ||underwriting.allclassical.org/player-banners/
@@ -81143,6 +81170,7 @@ zyue.com##div[id^="divad_"]
 ||updatetassk.top^
 ||updateyouraccountinformation.yolasite.com^
 ||updateyourpaypal.info^
+||updatezenith.com^
 ||updatiingtelekomnetworking.weebly.com^
 ||upeex.com.br^
 ||upfile16.mediaphim.com^
@@ -85114,6 +85142,7 @@ zyue.com##div[id^="divad_"]
 ||wishwarmwind.pro^
 ||wispcanyon.site^
 ||wissarmyproxies2.tk^
+||wissuronut.com^
 ||wisvetsmuseum.com^
 ||witamina.c.pl^
 ||witessmothier.cyou^
@@ -105524,6 +105553,7 @@ zyue.com##div[id^="divad_"]
 ||www.whatsapp-lips.win^
 ||www.whatsapp-mobile.com^
 ||www.whatsapp-proga.ru^
+||www.whatsapp-verifiy.net^
 ||www.whatsapp-wifi.com^
 ||www.whatsapp2018.com^
 ||www.whatsappajans.com^
