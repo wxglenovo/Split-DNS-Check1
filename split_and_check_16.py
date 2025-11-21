@@ -490,8 +490,7 @@ def process_part(part):
                 discarded_rules.append(r)  # 记录丢弃的规则
                 retry_rules.append(r)
 
-    # 保存 delete_counter
-    print(f"保存 delete_counter 数据: {delete_counter}")
+    # 保存 delete_counter    
     save_bin(DELETE_COUNTER_FILE, delete_counter)
 
     # 打印连续失败统计（包括 1/4 至 7/4）
@@ -514,8 +513,7 @@ def process_part(part):
         if 1 <= v <= 7:  # 只统计 1 至 7 的范围
             counts[v] += 1
 
-    total_rules = sum(counts.values())
-    print(f"    ℹ️ 总规则条数: {total_rules}")
+    total_rules = sum(counts.values())   
     for i in range(1, 8):
         if counts[i] > 0:
             print(f"    ⚠ write_counter {i}/4 的规则条数: {counts[i]}")
@@ -538,10 +536,7 @@ def process_part(part):
     deleted_validated = update_not_written_counter(part)
     total_count = len(final_rules)
 
-    # 打印丢弃的规则
-    if discarded_rules:        
-        for rule in discarded_rules[:20]:  # 限制输出前 20 条丢弃的规则
-            print(f"    {rule}")
+          
 
     print(f"✅ 分片 {part} 完成: 总{total_count}, 新增{added_count}, 删除{deleted_validated}, 过滤{len(rules_to_validate) - len(valid)}")
     print(f"COMMIT_STATS: 总 {total_count}, 新增 {added_count}, 删除 {deleted_validated}, 过滤 {len(rules_to_validate) - len(valid)}")
