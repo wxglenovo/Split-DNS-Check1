@@ -69,6 +69,22 @@ def save_bin(path, data):
             f.write(msgpack.packb(data, use_bin_type=True))      
     except Exception as e:
         print(f"⚠ 保存 {path} 错误: {e}")
+        
+# ===============================
+# 单条规则 DNS 验证
+# ===============================
+def check_domain(rule):
+    resolver = dns.resolver.Resolver()
+    resolver.timeout = DNS_TIMEOUT
+    resolver.lifetime = DNS_TIMEOUT
+    domain = rule.lstrip("|").split("^")[0].replace("*", "")
+    if not domain:
+        return None
+    try:
+        resolver.resolve(domain)
+        return rule
+    except Exception:
+        return None
 
 # ===============================
 # 下载并合并规则源
@@ -107,6 +123,61 @@ def download_all_sources():
 
     return temp_file  # 返回临时文件的路径
 
+# ===============================
+# 删除计数 >=7 的规则过滤
+# ===============================
+def filter_and_update_high_delete_count_rules(all_rules_set):
+    """
+    过滤和更新删除计数 >=7 的规则
+    1. 如果规则在合并的规则列表中，重置删除计数为 6；
+    2. 如果不在合并规则中，继续增加删除计数，直到删除计数达到 26 时，删除该规则的删除计数记录。
+    """
+    delete_counter = load_bin(DELETE_COUNTER_FILE)
+    low_delete_count_rules = set()
+    updated_delete_counter = delete_counter.copy()
+    skipped_rules = []
+    reset_rules = []
+    removed_rules = []  # 用于存放将删除的规则
+
+    # 读取合并规则文件中的所有规则
+    with open(MASTER_RULE, "r", encoding="utf-8") as f:
+        merged_rules = set(f.read().splitlines())
+
+    for rule in all_rules_set:
+        del_cnt = int(delete_counter.get(rule, 4))
+        if del_cnt < 7:
+            low_delete_count_rules.add(rule)
+        else:
+            skipped_rules.append(rule)
+            updated_delete_counter[rule] = del_cnt + 1
+            
+            # 处理删除计数达到 24 的规则
+            if updated_delete_counter[rule] >= 24:
+                if rule in merged_rules:
+                    updated_delete_counter[rule] = 6  # 重置为 6
+                    reset_rules.append(rule)
+                elif updated_delete_counter[rule] > 26:
+                    # 删除该规则的删除计数记录
+                    removed_rules.append(rule)
+                    updated_delete_counter.pop(rule, None)
+
+    # 输出删除计数日志
+    if reset_rules:
+        for rule in reset_rules[:20]:  # 输出前 20 条规则
+            print(f"🔁 删除计数达到24，重置为 6：{rule}")
+        print(f"🔢 共 {len(reset_rules)} 条规则的删除计数达到24，已重置为 6")
+    
+    if skipped_rules:
+        for rule in skipped_rules[:20]:  # 输出前 20 条被跳过的规则
+            print(f"⚠ 删除计数 ≥7，跳过验证：{rule}")
+        print(f"🔢 共 {len(skipped_rules)} 条规则被跳过验证（删除计数≥7）")
+    
+    if removed_rules:
+        print(f"❌ 共 {len(removed_rules)} 条规则的删除计数超过 26，已从计数器中移除。")
+
+    skipped_count = len(skipped_rules)
+    return low_delete_count_rules, updated_delete_counter, skipped_count
+    
 # ===============================
 # 哈希分片 + 负载均衡优化
 # ===============================
@@ -149,15 +220,90 @@ def split_parts(merged_rules):
         print(f"📄 分片 {i+1}: {len(bucket)} 条规则 → {filename}")
 
 # ===============================
+# 保留已有验证次数较多的规则的分配
+# ===============================
+def prioritize_high_success_rules(part_buckets, counter):
+    """
+    优先保留验证成功次数较多的规则，避免重新验证。
+    通过判断 `write_counter` 来确定规则的验证状态。
+    """
+    for i, bucket in enumerate(part_buckets):
+        for rule in bucket[:]:
+            write_count = counter.get(rule, WRITE_COUNTER_MAX)
+            if write_count > 4:
+                # 如果验证次数较多，则优先保留在当前分片
+                continue
+            # 对验证失败次数多的规则，重新计算哈希并调整分片
+            h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
+            idx = h % PARTS
+            if idx != i:
+                # 将规则移动到新的分片
+                part_buckets[idx].append(rule)
+                part_buckets[i].remove(rule)
+
+    return part_buckets
+    
+# ===============================
+# 负载均衡优化（针对验证失败的规则）
+# ===============================
+def load_balance_failed_rules(part_buckets, counter):
+    """
+    对验证失败次数多的规则重新计算哈希，进行负载均衡优化。
+    """
+    failed_rules = []
+    for i, bucket in enumerate(part_buckets):
+        for rule in bucket:
+            write_count = counter.get(rule, WRITE_COUNTER_MAX)
+            if write_count <= 1:  # 失败次数较多
+                failed_rules.append(rule)
+    
+    # 重新分配失败规则
+    for rule in failed_rules:
+        h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
+        idx = h % PARTS
+        for i, bucket in enumerate(part_buckets):
+            if rule in bucket:
+                bucket.remove(rule)
+        part_buckets[idx].append(rule)
+
+    return part_buckets
+
+
+# ===============================
 # DNS 验证
 # ===============================
 def dns_validate(rules, part):
-    valid_rules = []
-    total_rules = len(rules)
+    retry_rules = []
     
+    # 读取重试规则文件
+    if os.path.exists(RETRY_FILE):
+        with open(RETRY_FILE, "r", encoding="utf-8") as rf:
+            retry_rules = [l.strip() for l in rf if l.strip()]
+
+    # 打印将重试规则插入分片顶部并清空文件的日志
+    if retry_rules:
+        print(f"🔁 将 {len(retry_rules)} 条 retry_rules 插入分片顶部并清空 {RETRY_FILE}")
+
+    # 合并重试规则和当前需要验证的规则
+    combined_rules = retry_rules + rules if retry_rules else rules
+    tmp_file = os.path.join(TMP_DIR, f"vpart_{part}.tmp")
+    
+    # 将合并的规则保存到临时文件，仅当有重试规则时才写入
+    if retry_rules:
+        with open(tmp_file, "w", encoding="utf-8") as f:
+            f.write("\n".join(combined_rules))
+    
+    # 清空 retry_rules 文件（仅在有规则插入时）
+    if retry_rules:
+        with open(RETRY_FILE, "w", encoding="utf-8") as f:
+            f.write("")  # 清空文件
+
+    valid_rules = []
+    total_rules = len(combined_rules)
+
     # 使用线程池并行处理 DNS 验证
     with ThreadPoolExecutor(max_workers=DNS_THREADS) as executor:
-        futures = {executor.submit(check_domain, r): r for r in rules}
+        futures = {executor.submit(check_domain, r): r for r in combined_rules}
         completed, start_time = 0, time.time()
         
         # 逐个处理验证结果
@@ -169,6 +315,7 @@ def dns_validate(rules, part):
             except Exception as e:
                 # 捕获线程中的异常
                 print(f"⚠ DNS 验证失败: {e}")
+
             completed += 1
             
             # 输出进度信息
@@ -178,7 +325,10 @@ def dns_validate(rules, part):
                 eta = (total_rules - completed) / speed if speed > 0 else 0
                 print(f"✅ 已验证 {completed}/{total_rules} 条 | 有效 {len(valid_rules)} 条 | 速度 {speed:.1f}/秒 | 预计完成 {eta:.1f}s")
     
+    # 完成后打印最终统计
+    print(f"✅ DNS 验证完成：{len(valid_rules)} 条有效规则，{total_rules - len(valid_rules)} 条无效规则。")
     return valid_rules
+
 
 # ===============================
 # 更新 not_written_counter
