@@ -75,7 +75,7 @@ jobs:
           NEW_COMMIT=$(echo "🧹 Repo auto-squash on $TS" | git commit-tree "$NEW_TREE")
           git reset --hard "$NEW_COMMIT"
           git push --force --thin \
-            https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+            https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}@github.com/${{ github.repository }}.git main
           echo "✅ Git 历史瘦身完成! 备份 tag: $TAG 分支: $BRANCH"
           
       - name: ✅ 打印 .bin 文件统计
@@ -132,8 +132,6 @@ create_file_if_not_exists("dist/hash_list.bin", [])
           echo "dist/retry_rules.txt 内容预览（前5行）:"
           head -n 5 dist/retry_rules.txt || echo "⚠ 文件为空"
 
-
-
       - name: ✅ 确保规则文件与分片存在
         run: |
           if [ -f "merged_rules.txt" ] && [ -f "tmp/part_01.txt" ]; then
@@ -189,7 +187,4 @@ create_file_if_not_exists("dist/hash_list.bin", [])
           git add tmp/last_part.txt dist/delete_counter.bin dist/not_written_counter.bin merged_rules.txt || true
           git add dist/retry_rules.txt 2>/dev/null || true
           git add dist/validated_part_*.txt 2>/dev/null || true
-          git commit -m "🤖 分片 $PART | $STATS" || echo "ℹ️ 无变化，无需提交"
-          git pull --rebase origin main || echo "⚠ pull失败（忽略）"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main || echo "⚠ push失败（可能无变化）"
-          set -e
+          git commit -m "🤖 分片 $PART | $STATS" || echo "ℹ️ 无
