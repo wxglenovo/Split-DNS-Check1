@@ -338,12 +338,10 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
     # 强制重新计算哈希并保存到 hash_list
     if not hash_list:
         print("🔄 重新计算哈希值...")
-        for rule in merged_rules:
-            # 计算每条规则的 SHA-256 哈希值
-            h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
-            h = h % (2**64)  # 将哈希值限制在 64 位范围内
-            hash_list.append({'rule': rule, 'hash': h})  # 保存规则与其哈希值
-
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            # 使用线程池并行计算哈希值
+            hash_list = list(executor.map(calculate_hash, merged_rules))
+        
         # 保存哈希值列表到 hash_list.bin
         save_bin(HASH_LIST_FILE, {'hash_list': hash_list})  
         print(f"✅ {HASH_LIST_FILE} 已保存 {len(hash_list)} 个哈希值")
@@ -353,39 +351,26 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
     counter_buckets = {i: [] for i in range(29)}  # 假设 delete_counter 最大为 28
     for rule, count in delete_counter.items():
         counter_buckets[count].append(rule)
-    
+
     # 3. 初始化 PARTS 个分片（列表，存储分片内的规则）
     part_buckets = [[] for _ in range(PARTS)]  # PARTS 为分片数量，通常为 16
 
     # 4. 依次处理每个 delete_counter 值的规则
-    for delete_val in range(29):  # 假设最大删除计数为 28
-        rules_for_counter = counter_buckets[delete_val]  # 获取该删除计数对应的规则集合
-        # 根据规则的哈希值将规则分配到分片中
-        for rule in rules_for_counter:
-            # 从哈希列表中查找规则的哈希值
-            h = None
-            for item in hash_list:
-                if item['rule'] == rule:
-                    h = item['hash']
-                    break
-            
-            if h is None:
-                # 如果哈希值未找到，则重新计算并添加
-                h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
-                h = h % (2**64)  # 将哈希值限制在 64 位范围内
-                hash_list.append({'rule': rule, 'hash': h})
-
-            # 使用哈希值对分片进行分配，确保规则的均匀分布
-            idx = h % PARTS  
-            part_buckets[idx].append(rule)
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        futures = []
+        for delete_val in range(29):  # 假设最大删除计数为 28
+            rules_for_counter = counter_buckets[delete_val]  # 获取该删除计数对应的规则集合
+            futures.append(executor.submit(assign_rules_to_parts, rules_for_counter, hash_list, part_buckets))
+        
+        # 等待所有的任务完成
+        for future in concurrent.futures.as_completed(futures):
+            future.result()  # 这里可以处理异常或返回值，当前不需要返回
 
     # 5. 计算完毕，更新 hash_list 和其他数据并保存到 bin 文件
     data = {
         'hash_list': hash_list,  # 保存哈希列表
         'part_buckets': part_buckets,  # 保存分片规则
     }
-    
-    # 保存更新后的数据到 hash_list.bin 文件
     save_bin(HASH_LIST_FILE, data)
 
     # 6. 进行负载均衡优化
@@ -400,6 +385,38 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
         print(f"📄 分片 {i+1}: {len(bucket)} 条规则 → {filename}")  # 输出每个分片的日志
 
 
+def calculate_hash(rule):
+    """
+    计算规则的哈希值并返回
+    """
+    h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
+    h = h % (2**64)  # 将哈希值限制在 64 位范围内
+    return {'rule': rule, 'hash': h}
+
+
+def assign_rules_to_parts(rules_for_counter, hash_list, part_buckets):
+    """
+    将规则分配到分片中，使用哈希值来进行负载均衡
+    """
+    for rule in rules_for_counter:
+        # 从哈希列表中查找规则的哈希值
+        h = None
+        for item in hash_list:
+            if item['rule'] == rule:
+                h = item['hash']
+                break
+        
+        if h is None:
+            # 如果哈希值未找到，则重新计算并添加
+            h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
+            h = h % (2**64)  # 将哈希值限制在 64 位范围内
+            hash_list.append({'rule': rule, 'hash': h})
+
+        # 使用哈希值对分片进行分配，确保规则的均匀分布
+        idx = h % PARTS  
+        part_buckets[idx].append(rule)
+
+
 def balance_parts(part_buckets):
     """
     对分片进行负载均衡优化。
@@ -407,13 +424,26 @@ def balance_parts(part_buckets):
     avg = sum(len(b) for b in part_buckets) // PARTS
 
     # 进行负载均衡：将多余的规则从负载大的分片移动到负载小的分片
-    for i, bucket in enumerate(part_buckets):
-        while len(bucket) > avg * 1.2:  # 如果负载大于平均值的 120%
-            rule = bucket.pop()
-            target = find_lowest_part(part_buckets)  # 寻找负载最小的分片
-            part_buckets[target].append(rule)
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        futures = []
+        for i, bucket in enumerate(part_buckets):
+            while len(bucket) > avg * 1.2:  # 如果负载大于平均值的 120%
+                rule = bucket.pop()
+                futures.append(executor.submit(balance_part, part_buckets, rule))
+        
+        # 等待所有的任务完成
+        for future in concurrent.futures.as_completed(futures):
+            future.result()  # 这里可以处理异常或返回值，当前不需要返回
 
     return part_buckets
+
+def balance_part(part_buckets, rule):
+    """
+    将规则从负载大分片移动到负载小分片
+    """
+    target = find_lowest_part(part_buckets)  # 寻找负载最小的分片
+    part_buckets[target].append(rule)
+
 
 def find_lowest_part(part_buckets):
     """
@@ -421,7 +451,22 @@ def find_lowest_part(part_buckets):
     """
     lens = [len(b) for b in part_buckets]
     return lens.index(min(lens))
-    
+
+
+def save_bin(file_path, data):
+    """将数据保存到二进制文件"""
+    with open(file_path, 'wb') as f:
+        pickle.dump(data, f)
+    print(f"✅ 数据已保存到 {file_path}")
+
+def load_bin(file_path):
+    """从二进制文件加载数据"""
+    if os.path.exists(file_path):
+        with open(file_path, 'rb') as f:
+            return pickle.load(f)
+    else:
+        return {}  # 如果文件不存在，返回空字典
+        
 # ===============================
 # DNS 验证
 # ===============================
