@@ -4543,6 +4543,7 @@ iwan-s.video.qq.com
 ||201-68-22-43.dsl.telesp.net.br^
 ||201-68-79-166.dsl.telesp.net.br^
 ||201-92-110-123.dsl.telesp.net.br^
+||201-92-178-236.dsl.telesp.net.br^
 ||201-92-47-77.dsl.telesp.net.br^
 ||201-93-239-191.dsl.telesp.net.br^
 ||201-95-224-154.dsl.telesp.net.br^
@@ -5041,6 +5042,7 @@ iwan-s.video.qq.com
 ||51la.net^
 ||51network.com^
 ||51qcw.cn^
+||51wady.com^
 ||5207470.com^
 ||520click.com^
 ||5232015.fls.doubleclick.net^
@@ -5095,6 +5097,7 @@ iwan-s.video.qq.com
 ||56hj.cn^
 ||572-zrg-001.mktoresp.com^
 ||5721572.notify6.com^
+||57573zubo36833.com^
 ||576216260.keywordblocks.com^
 ||577-pct-880.mktoresp.com^
 ||5779400.fls.doubleclick.net^
@@ -5715,6 +5718,7 @@ iwan-s.video.qq.com
 ||a.collective-media.net.49421.9289.302br.net^
 ||a.collective-media.net.49477.9362.302br.net^
 ||a.degore.xyz^
+||a.diaoyu.cn^
 ||a.doko.moe^
 ||a.etology.com^
 ||a.etrem.site^
@@ -6306,6 +6310,7 @@ iwan-s.video.qq.com
 ||acheroninstruments.com^
 ||achieve.evyy.net^
 ||acholricuo.pro^
+||acidicpersistance.duckdns.org^
 ||acidopigno.pro^
 ||acidpigs.com^
 ||acilebanon.com^
@@ -7615,6 +7620,7 @@ iwan-s.video.qq.com
 ||ads34.hpg.com.br^
 ||ads36.hpg.com.br^
 ||ads61.adtelligent.com^
+||ads80.com^
 ||adsafety.net^
 ||adsaga.telgenytt.se^
 ||adsage.cn^
@@ -10251,6 +10257,7 @@ iwan-s.video.qq.com
 ||bd1.guancha.cn^
 ||bd1.sosg.net^
 ||bd208.lutin.cz^
+||bd24ghonta.com^
 ||bd742.com^
 ||bdamcsv.top^
 ||bdcode.youke.com^
@@ -12500,6 +12507,7 @@ iwan-s.video.qq.com
 ||cleverwebserver.com^
 ||clevi.com^
 ||clgsecurities.com^
+||cli-nw.28.182.helios-nw.ru^
 ||cli.linksynergy.com^
 ||clic-exchange.com^
 ||clichkizhv.firebaseapp.com^
@@ -14716,6 +14724,7 @@ iwan-s.video.qq.com
 ||diap.org.br^
 ||diapi.webgains.com^
 ||diaraltamer.com^
+||diarealestate.ae^
 ||dibarq02.upc.es^
 ||dibmarketing.go2cloud.org^
 ||dicessudde.pro^
@@ -18287,6 +18296,7 @@ iwan-s.video.qq.com
 ||gabinetnuriafenoy.net^
 ||gabletepla.blogspot.com^
 ||gabrilowitschsvik.info^
+||gabyagozetim.com^
 ||gacela.eu^
 ||gacetajudicial.com.do^
 ||gadgetstore.ec^
@@ -19768,6 +19778,7 @@ iwan-s.video.qq.com
 ||hddhardddrives-safety-deleted1.flu.cc^
 ||hddrfyoifiuad.website^
 ||hde1.repentignychevrolet.com^
+||hdfilterpaper.com^
 ||hdmb.altervista.org^
 ||hdmovies.org^
 ||hdpdf.com^
@@ -20297,11 +20308,13 @@ iwan-s.video.qq.com
 ||https.secure.bankofamerica.login.sign.gcuxyhqshi.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.ihinqrnfva.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.jetwvuuxmf.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.kvhtgnizsi.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.kvkyhulwhy.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.mmcoqtjezo.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.psqiuyylzu.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.puuxiwvdvt.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.qdycyzkfve.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.rhwpmgbnkt.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.sijckrisjk.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.ttwodwmrvb.underpains.duckdns.org^
 ||httpscollector-px8fcgygk4.perimeterx.net^
@@ -21245,6 +21258,7 @@ iwan-s.video.qq.com
 ||infrastrategy.122.2o7.net^
 ||infronagua.pro^
 ||ing-polska.myfreesites.net^
+||ingagadorn.pro^
 ||inganno.com^
 ||ingatjalinus.blogspot.co.uk^
 ||ingatostra.com^
@@ -21276,6 +21290,7 @@ iwan-s.video.qq.com
 ||innae.mftstamps.com^
 ||innerwheeldist.in^
 ||innledning.weebly.com^
+||inno-leader.com^
 ||innovads-server.poster.appsinnova.com^
 ||innovation-evotik.web.app^
 ||innovation.communica.world^
@@ -21712,6 +21727,7 @@ iwan-s.video.qq.com
 ||iwires04.com^
 ||iwok.info^
 ||iws2.io.naver.com^
+||iwtay.duckdns.org^
 ||iwvxwcsvpfbmc.store^
 ||ixeajki.cn^
 ||ixel2823.everesttech.net^
@@ -21889,6 +21905,7 @@ iwan-s.video.qq.com
 ||jimstaats.com^
 ||jin-ruisaihe.com^
 ||jingau.com.tw^
+||jingduhotel.com^
 ||jinjililotah.cyou^
 ||jink.de^
 ||jinmuyu.com^
@@ -22562,6 +22579,7 @@ iwan-s.video.qq.com
 ||krfqlrxvmoyrj.online^
 ||krimpe.net^
 ||krishnaw224.alphonso.tv^
+||kristendaileyre.com^
 ||kristieadams.com^
 ||krkralovehradecky01.webtrekk.net^
 ||krosak.co.cc^
@@ -22576,6 +22594,7 @@ iwan-s.video.qq.com
 ||ksdnewr.com^
 ||ksflo8eq4svk3eaf.secure.sonosite.com^
 ||ksiega.solidworks.cba.pl^
+||ksk-sozidatel.ru^
 ||ksknhvggsizbu.store^
 ||ksmfk.catandogs.shop^
 ||kstate.qualtrics.com^
@@ -22592,6 +22611,7 @@ iwan-s.video.qq.com
 ||ku3.brimhopper.ru^
 ||kuaidifeng.cn^
 ||kuaishang.cn^$third-party
+||kuaiyinren.cn^
 ||kube23pago-loginvc.doclogin.net.daraz.com^
 ||kubectl.summer.net.daraz.com^
 ||kubota.az1.qualtrics.com^
@@ -22654,6 +22674,7 @@ iwan-s.video.qq.com
 ||l.africaradio.com^
 ||l.aisnenouvelle.fr^
 ||l.bienpublic.com^
+||l.capital.fr^
 ||l.claphere.com^
 ||l.comms.hubbl.com.au^
 ||l.cultgear.com^
@@ -22781,6 +22802,7 @@ iwan-s.video.qq.com
 ||lavoncraigonline.com^
 ||lavozunida.com^
 ||law.notifysrv.com^
+||lawmarketingqueensny.com^
 ||lawmaster.co.cc^
 ||lawnladys.com^
 ||lawnmarket.parachute.digital^
@@ -22898,6 +22920,7 @@ iwan-s.video.qq.com
 ||lenda.info^
 ||lendavio.digital^
 ||lendomstroy.com^
+||lengi.chrisrijpma-financieel.com^
 ||lennarthorst.de^
 ||lennshop.com^
 ||lenovo.net.7eer.net^
@@ -23165,6 +23188,7 @@ iwan-s.video.qq.com
 ||linkagift.com^
 ||linkaroo.me^
 ||linkbuddies.com^
+||linkclicks.co^
 ||linkdev.thehustle.co^
 ||linker.bg^
 ||linkev.com^
@@ -23215,6 +23239,7 @@ iwan-s.video.qq.com
 ||linksysroutersupport247.com^
 ||linkto.wral.com^
 ||linktracker.angelfire.com^
+||linkunder.ru^
 ||linkus.buddybet.com^
 ||linteh.ru^
 ||lintv.122.2o7.net^
@@ -23227,6 +23252,7 @@ iwan-s.video.qq.com
 ||lionsaves.com^
 ||lipkens.eu^
 ||lipripperz.com^
+||liquidad.narrowcastmedia.com^
 ||lisasdesignstudio.com^
 ||lisawood634.wixsite.com^
 ||lisgroup.info^
@@ -23437,6 +23463,7 @@ iwan-s.video.qq.com
 ||log.nhandan.vn^
 ||log.opentracker.net^
 ||log.qcast.cn^
+||log.ren.tv^
 ||log.tagcade.com^
 ||log.talkie-ai.com^
 ||log.tosspayments.com^
@@ -23449,6 +23476,7 @@ iwan-s.video.qq.com
 ||log2.musical.ly^
 ||log2.zuimeitianqi.com^
 ||log32-normal-alisg.tiktokv.com^
+||log32-normal-sg.capcutapi.com^
 ||log57.top^
 ||logagent-rum.centurygame.com^
 ||logbk.amemv.com^
@@ -23568,6 +23596,7 @@ iwan-s.video.qq.com
 ||lousyfastened.com^
 ||lovable-scale.com^
 ||love-sexy-4u.blogspot.com^
+||love.magicsites.ru^
 ||loveaccess.com^
 ||loveaholics.com^
 ||loveastrologyproblem.com^
@@ -23979,8 +24008,10 @@ iwan-s.video.qq.com
 ||maintenanclog.m-pages.com^
 ||mairtrans.com^
 ||maitlandteesdalehackberry.blogspot.com^
+||majenekab.go.id^
 ||majesticimmo.com^
 ||majesticjerseyswholesale.com^
+||makedoniki-investments.gr^
 ||makelove.co.il^
 ||makemypooja.com^
 ||makeup-eu.shop^
@@ -24004,6 +24035,7 @@ iwan-s.video.qq.com
 ||malluwarriors.tk^
 ||maltaelmiguelete.com^
 ||malthadayward.qpon^
+||malton.com.my^
 ||maltunfaithfulpredominant.com^
 ||malvorlagen.de^
 ||malwarebtestechsupportphonenumber.blogspot.com^
@@ -24057,6 +24089,7 @@ iwan-s.video.qq.com
 ||mantenimiento-planalfa-portal.weebly.com^
 ||mantry.7eer.net^
 ||manumetal.rw^
+||manunggal.undip.ac.id^
 ||manxtkd.com^
 ||manyavar.tt.omtrdc.net^
 ||manychat.pxf.io^
@@ -24231,6 +24264,7 @@ iwan-s.video.qq.com
 ||marketing.soloprotect.com^
 ||marketing.specgradeled.com^
 ||marketing.sto.at^
+||marketing.stockcero.com^
 ||marketing.superwindows.com^
 ||marketing.t4media.co.uk^
 ||marketing.tba.group^
@@ -24324,6 +24358,7 @@ iwan-s.video.qq.com
 ||masteromega.com^
 ||masteryuga.ru^
 ||masts-rigging-ireland.ie^
+||mastsaultetra.org^
 ||mataji.org^
 ||matateknik.com^
 ||matbao.com^
@@ -24382,8 +24417,10 @@ iwan-s.video.qq.com
 ||mavitec.es^
 ||max-gewinn.com^
 ||max.limpag.com^
+||maxadserver.media^
 ||maxato.com^
 ||maxbuilder.digital^
+||maxifiles.com^
 ||maxiformation.freedynamicdns.org^
 ||maxiinne2011.editorx.io^
 ||maximacasino.com^
@@ -24918,6 +24955,7 @@ iwan-s.video.qq.com
 ||milaji.cn^
 ||mildconsciousness.com^
 ||mildwave.com^
+||mile.hop.ru^
 ||mileycyrusus.blogspot.com^
 ||militaryvacationplanner.us^
 ||militesofl.xyz^
@@ -25665,6 +25703,7 @@ iwan-s.video.qq.com
 ||mkvoj.tommy.com^
 ||ml-accounting.com^
 ||ml4xbwg73.top^
+||mlawarebytes.com^
 ||mlb.com.102.112.2o7.net^
 ||mlbadvancedmedialp.tt.omtrdc.net^
 ||mlbglobal08.122.2o7.net^
@@ -25691,6 +25730,7 @@ iwan-s.video.qq.com
 ||mmosale.com^
 ||mmpool.org^$third-party
 ||mms.jalopnik.com^
+||mms07.com^
 ||mng1.clickalyzer.com^
 ||mng2.mcnt.jp^
 ||mngiangarpo.112.2o7.net^
@@ -25839,6 +25879,7 @@ iwan-s.video.qq.com
 ||monteroraimafm.com.br^
 ||montezuma.spb.ru^
 ||montleymontleyagentfeud.com^
+||montrneze.0lx.net^
 ||montrosetravel.evergage.com^
 ||moolveericed.com^
 ||moon3.adriver.ru^
@@ -25868,6 +25909,7 @@ iwan-s.video.qq.com
 ||mostprofitablewebsites.com^
 ||mosved.com^
 ||motdem.net^
+||moteandassociates.com^
 ||motherxhubgwj.dnset.com^
 ||motherxhubhfl.dnset.com^
 ||motherxhubhlz.ddns.name^
@@ -26022,6 +26064,7 @@ iwan-s.video.qq.com
 ||mulelye.com^
 ||mulikit.com^
 ||mulleyhoer.shop^
+||multcoinprotocol.net^
 ||multibar.ws^
 ||multidisciplinary-footprint-927042.framer.app^
 ||multifixedchain.web.app^
@@ -26206,6 +26249,7 @@ iwan-s.video.qq.com
 ||mythosolympics.com^
 ||mythospalace.com^
 ||mytour.pk^
+||myunblocked.net^
 ||myvacationguide.com^
 ||myvitality.actonservice.com^
 ||myvoicetxt-voice-mailportal.farodeesperanza.com.ec^
@@ -26414,6 +26458,7 @@ iwan-s.video.qq.com
 ||net.daraz.pk^
 ||net.geo.opera.com^*utm_source=OFT$popup
 ||net.home24.com^
+||net.site-id.nl^
 ||net.steiner-vision.de^
 ||net3.net-downloads.com^
 ||netaffiliation.com^$script,third-party
@@ -26427,6 +26472,7 @@ iwan-s.video.qq.com
 ||netcorely.com^
 ||netdugout.com^
 ||netevader.com^
+||netflix.activate.authkey.263631.userprofileupdates.com^
 ||netflix123movies.com^
 ||netflixau.com^
 ||netflixlogin.com^
@@ -26638,6 +26684,7 @@ iwan-s.video.qq.com
 ||nijuhozo.com^
 ||nikavi.100free.com^
 ||nikeideurope.112.2o7.net^
+||nikzadarts.com^
 ||nilacharal.com^
 ||nilsonjosemachado.net^
 ||nimazxz.com^
@@ -26754,6 +26801,7 @@ iwan-s.video.qq.com
 ||nonfactbuffy.click^
 ||nonmutt.eastus.trafficmanager.inmobi.com^
 ||nonmutt.sgp.trafficmanager.inmobi.com^
+||nonnuoccaobang.com^
 ||nonprarcha.pro^
 ||nonsensetypicallyuncertain.com^
 ||nonstopanyoneslammed.com^
@@ -26773,6 +26821,7 @@ iwan-s.video.qq.com
 ||northernoceanmarine.com^
 ||northernrestoration.co.uk^
 ||northgate-valtrix.net^
+||northlanarkshirepropertybuyers.com^
 ||northplains.actonservice.com^
 ||northstarmwd.com^
 ||northwesternmutual.demdex.net^
@@ -26985,6 +27034,7 @@ iwan-s.video.qq.com
 ||nytimesnonsampled.112.2o7.net^
 ||nytrallsites.112.2o7.net^
 ||nyuubi-ro.com^
+||nyvarionex.net^
 ||nyvirua1.com^
 ||nz.engage.novozymes.com^
 ||nzglobalsupport.com^
@@ -27139,6 +27189,7 @@ iwan-s.video.qq.com
 ||ogaletamgoabeg.up.railway.app^
 ||ogcsvq.sourcenext.com^
 ||oghqvffmnt.com^
+||oghyz.click^
 ||ogidoil.us^
 ||oglipus.com^
 ||ogloszenie-22g21fg32dggzznb46ryp1.org^
@@ -27361,6 +27412,7 @@ iwan-s.video.qq.com
 ||onlinebalances.com^
 ||onlinebc.lpages.co^
 ||onlinecasino-best.com^
+||onlinecoachspot.com^
 ||onlinedakotawest-v9.web.app^
 ||onlineedaiu.112.2o7.net^
 ||onlinefamouspanditinaustralia.blogspot.com^
@@ -27372,6 +27424,7 @@ iwan-s.video.qq.com
 ||onlinemoneyspy.com^
 ||onlinenortonsupportaustralia.blogspot.com^
 ||onlinepartners.g2afse.com^
+||onlinepeculiarpulse.com^
 ||onlinepreps.com^
 ||onlineproxy.us^
 ||onlineroutefinder.com^
@@ -27539,6 +27592,7 @@ iwan-s.video.qq.com
 ||origamiprawn.pro^
 ||origin.vp.videoplaza.tv^
 ||origin.www.consumerlifestyle.philips.com^
+||originsong.com^
 ||orkuthack.sprinterweb.net^
 ||orlbh.voluumtrk.com^
 ||orlenaispark.com^
@@ -27759,6 +27813,7 @@ iwan-s.video.qq.com
 ||page840866.com^
 ||pagedisplay.co.cc^
 ||pagejunky.com^
+||pageplop.com^
 ||pagerank-ranking.de^
 ||pages-card.capitalone.com^
 ||pages-csf.capitalone.com^
@@ -27919,6 +27974,7 @@ iwan-s.video.qq.com
 ||panic7.com^
 ||panisukharska.justclick.ru^
 ||panjsnlmneasi.store^
+||pankswisses.shop^
 ||panoramicplane.com^
 ||pantatec.ae^
 ||panzermedia.go2cloud.org^
@@ -27954,6 +28010,7 @@ iwan-s.video.qq.com
 ||pardot.wisetail.com^
 ||pardotsupportservices.com^
 ||parfeniy62gxw.narod.ru^
+||paria.tbuy.biz^
 ||paripartners.ru^
 ||paris-property-advisors.com^
 ||parisjeroleinpg.com^
@@ -28155,6 +28212,7 @@ iwan-s.video.qq.com
 ||pclick.internal.yahoo.com^
 ||pcmax.jp^
 ||pcnetworksupports.com^
+||pcqze.tech^
 ||pcregfix.com^
 ||pcsupport.cloud^
 ||pcsupport.solutions^
@@ -28351,6 +28409,7 @@ iwan-s.video.qq.com
 ||phongthuyanlac.com^
 ||phortaub.com^
 ||photo.xxlywl.cn^
+||photo2323.bos.ru^
 ||photobox-tracking.adalyser.com^
 ||photoduncan.com^
 ||photogbaluch.help^
@@ -28442,6 +28501,7 @@ iwan-s.video.qq.com
 ||pirroprefe.pro^
 ||pisciculturachang.com.br^
 ||pishgamantech.com^
+||pispinodri.pro^
 ||pistachiostra.debtcheckr.com^
 ||pitchbook.evergage.com^
 ||pitramalaw.com^
@@ -28488,6 +28548,7 @@ iwan-s.video.qq.com
 ||pixelhivezur.ru^
 ||pixeljam.digital^
 ||pixellitomedia.com^$popup
+||pixellyfe.com^
 ||pixelorya.net^
 ||pixelperfectcreation.com^
 ||pixelproxy.com^
@@ -28542,6 +28603,7 @@ iwan-s.video.qq.com
 ||pl-smart-oferta3671.shop^
 ||pl-ticketmaster.shop^
 ||pl-zakupy-smart24.shop^
+||pl.cp31.ott.cibntv.net^
 ||pl.omg.adult^
 ||pl.samdex.pl^
 ||pl.topemeret.com^
@@ -28580,6 +28642,7 @@ iwan-s.video.qq.com
 ||plalaqweb.org^
 ||plan.goteborg2021.webadmin8.net^
 ||plan.seek.intel.com^
+||plan3.cl^
 ||planarian.dailylocation.com^
 ||planarian.dtesta.com^
 ||planarian.reverberate.org^
@@ -28662,6 +28725,7 @@ iwan-s.video.qq.com
 ||pmpsarl.com^
 ||pmqko.coogi.com^
 ||pmrdnt.tuincentrum.nl^
+||pmz.quifelenergy.com^
 ||pncqz.quince.com^
 ||pnfkhu.hygi.de^
 ||pnnpan.cv-library.co.uk^
@@ -28848,6 +28912,7 @@ iwan-s.video.qq.com
 ||ppl-confirm.blogspot.com.eg^
 ||pppveqnalxgdc.website^
 ||ppxxmr.com^
+||pq-mzfusgpzt.xyz^
 ||pq.typablehoist.qpon^
 ||pqcixi.sparco-official.com^
 ||pqd.org^
@@ -29792,6 +29857,7 @@ iwan-s.video.qq.com
 ||r451.jamanetwork.com^
 ||r4uj20yt2u.com^
 ||ra-russold.com^
+||ra1.xyz^
 ||ra7uugofxvczins-c.adktrack85.xyz^
 ||raa.qwepoii.org^
 ||rabacdiving.com^
@@ -30160,6 +30226,7 @@ iwan-s.video.qq.com
 ||remind.onthe.io^
 ||remixqrisbar.pro^
 ||remnanttrickyoccurrence.com^
+||remontmd.ru^
 ||remorsefuldaughter.com^
 ||remote-linux-support.com^
 ||remote.equitassolicitors.co.uk^
@@ -30317,6 +30384,7 @@ iwan-s.video.qq.com
 ||returninguser.co.cc^
 ||reunion.tt.omtrdc.net^
 ||reunioncom.112.2o7.net^
+||reuniondepadres.unisabana.edu.co^
 ||reva.myavlive.com^
 ||revancedextended.com^
 ||revcatch.com^
@@ -30376,6 +30444,7 @@ iwan-s.video.qq.com
 ||rhynooffroad.com.au^
 ||rhythmone.com^
 ||riabir.ru^
+||riaccmezzo.pro^
 ||riaffpepti.pro^
 ||rianovosti.d1.sc.omtrdc.net^
 ||riargmiran.pro^
@@ -30400,6 +30469,7 @@ iwan-s.video.qq.com
 ||riedel.7eer.net^
 ||riet.in^
 ||rifarboomk.pro^
+||rifenpiani.pro^
 ||rifepob210.m-pages.com^
 ||riffatnawab.com^
 ||rifreholog.pro^
@@ -30572,6 +30642,7 @@ iwan-s.video.qq.com
 ||roseych-my.sharepoint.com^
 ||rosinfonews.ru^
 ||rosomic.com^
+||rossi.pro^
 ||rossijane.mirtesen.ru^
 ||roswell47.pl^
 ||rot.rusoul.ru^
@@ -30709,6 +30780,7 @@ iwan-s.video.qq.com
 ||rtxlni.doclasse.com^
 ||ru.cdn5.onthe.io^
 ||rubbergymflooringuk.co.uk^
+||rubickgames.com^
 ||rubicon.socdm.com^
 ||rubikavto.narod.ru^
 ||rubpucarloh.com^
@@ -30828,6 +30900,7 @@ iwan-s.video.qq.com
 ||s.update.morgdog.springserve.com^
 ||s.update.stickyadstv.com^
 ||s.vipdube.com^
+||s.visilabs.net^
 ||s.waterloochronicle.ca^
 ||s.zixuntop.com^
 ||s0.2mdn.net^
@@ -31091,6 +31164,7 @@ iwan-s.video.qq.com
 ||saystudio.net^
 ||sb-stat1.com^
 ||sb.xxyy111.com^
+||sba2-vig.vig.pl^
 ||sbadicappa.pro^
 ||sbadikurtta.pro^
 ||sbaky.com^
@@ -31306,6 +31380,7 @@ iwan-s.video.qq.com
 ||secret-escapes-fr.pxf.io^
 ||secretbrowser.co.cc^
 ||secretchat.info^
+||secretmy.info^
 ||secure--sso-robinhood-com-m----autth.webflow.io^
 ||secure-on-school.co.cc^
 ||secure-page.co.cc^
@@ -31850,6 +31925,7 @@ iwan-s.video.qq.com
 ||shokoohsanat.ir^
 ||shootingstarcasino.com^
 ||shop-insolito-genapp.mdbgo.io^
+||shop.am-display.hb.adx1.com^
 ||shop.atrie.de^
 ||shop.corner.chat^
 ||shop.enkido.org^
@@ -31870,6 +31946,7 @@ iwan-s.video.qq.com
 ||shopplanetblue.evyy.net^
 ||shoppuppets.com^
 ||shopro.ir^
+||shopswar.com^
 ||shoptoplq.com^
 ||shoratexapp-soft.com^
 ||shore-view.com^
@@ -31946,11 +32023,13 @@ iwan-s.video.qq.com
 ||signup.adultplex.com^
 ||signup.autoentry.com^
 ||sigurfinvex.com^
+||sikanino.com^
 ||sildinc.com^
 ||silentbloom.fit^
 ||silentriverflowsdeep.pro^
 ||silicrinco.com^
 ||sillervictory.win^
+||silvalliant.info^
 ||silvercloudfinance.com^
 ||silverlinegraphics.co.uk^
 ||silvermountholidays.com^
@@ -32001,6 +32080,7 @@ iwan-s.video.qq.com
 ||sisag.piquetea.com^
 ||siscosaudi.com^
 ||sislab.com.mx^
+||sistemascg.nextelperu.net^
 ||sistemsigorta.com^
 ||sisterhoodmint.com^
 ||sisterincest.com^
@@ -32070,6 +32150,7 @@ iwan-s.video.qq.com
 ||skriil.com^
 ||skrill-kyc.pl^
 ||skroc.net^
+||skutovky.szm.com^
 ||skwcentral.info^
 ||sky.violet.la^
 ||sky36.weebly.com^
@@ -32095,6 +32176,7 @@ iwan-s.video.qq.com
 ||slavetolust.leftmany.pro^
 ||slavicache.pro^
 ||slayingbritska.shop^
+||slb-p2p.vcloud.ks-live.com^
 ||slbbbcom.112.2o7.net^
 ||slblldrahilvt.space^
 ||slcuse.com^
@@ -32103,6 +32185,7 @@ iwan-s.video.qq.com
 ||slimsdisgi.pro^
 ||slimxxxtubehan.ddns.name^
 ||slipperstyleshop.com^
+||slipshop.tbuy.biz^
 ||slise.xyz^
 ||slkxkslksklklsks.weebly.com^
 ||slots-update.com^
@@ -32141,6 +32224,7 @@ iwan-s.video.qq.com
 ||smartmediamarketing.go2cloud.org^
 ||smartnetworktrd.com^
 ||smartstream.tv^
+||smarttrain.edu.vn^
 ||smashing-limited.co.cc^
 ||smashn.com^
 ||smatr.net^
@@ -32150,6 +32234,7 @@ iwan-s.video.qq.com
 ||smdatavizx.digital^
 ||smdd.adviva.net^
 ||smdr.narod.ru^
+||smentbrads.info^$popup
 ||smeqatalyst.com^
 ||smetric.bajajgeneralinsurance.com^
 ||smetric.betway.com^
@@ -32405,6 +32490,7 @@ iwan-s.video.qq.com
 ||smsak.ru^
 ||smsphoneorangeboxmail.ukit.me^
 ||smtijogja.sch.id^
+||smtp-apple.com^
 ||smtp.argilent.com^
 ||smtp.hot-india.com^
 ||smtp.terra.com.br^
@@ -32424,6 +32510,7 @@ iwan-s.video.qq.com
 ||snaptraderai.net^
 ||snazanportbit.com^
 ||snd.tc^$third-party
+||sneaker4cheap.com^
 ||sneakers-line.com^
 ||sneakers.uk.com^
 ||sneakme.net^
@@ -32542,6 +32629,7 @@ iwan-s.video.qq.com
 ||sollo-rack.com^
 ||solmax.actonservice.com^
 ||solonixedge27ai.com^
+||solubiz.com^
 ||solucionestics.com^
 ||soluction.com^
 ||solutecingenieria.com^
@@ -32853,6 +32941,7 @@ iwan-s.video.qq.com
 ||srgics.com^
 ||srijanworld.com^
 ||srikartikeyaganasabha.org^
+||srithaimarketing.com^
 ||srksbbbh.com^
 ||srmakathusecurity.co.za^
 ||srmdvb.ekohealth.com^
@@ -33157,6 +33246,7 @@ iwan-s.video.qq.com
 ||startletrumpdim.com^
 ||startscanner.com^
 ||starttheshow.co.cc^
+||startup-mobile.ap.yandex-net.ru^
 ||startwith1.com^
 ||starvision.pages.dev^
 ||stat-ssl.kakaku.com^
@@ -33378,6 +33468,7 @@ iwan-s.video.qq.com
 ||sterkvaltrix.com^
 ||sterlingwoods.com^
 ||sterlingwoods.com^$third-party
+||stermpunzo.pro^
 ||sternumma.pro^
 ||stesywijy.com^
 ||stevenlewis.eklablog.com^
@@ -33431,6 +33522,7 @@ iwan-s.video.qq.com
 ||storeofporntube.com^
 ||storm.onthe.io^
 ||stormlight152titanline.sbs^
+||stormtokens.net^
 ||stormywildmist.pro^
 ||storypast.net^
 ||storysupport.com^
@@ -33606,6 +33698,7 @@ iwan-s.video.qq.com
 ||sunsethomestl.com^
 ||sunshinepint.com^
 ||sunshineplastics.com^
+||sunshinewx.com^
 ||suntech.af^
 ||suntrunf.beget.tech^
 ||sunvaluation.com.au^
@@ -34182,6 +34275,7 @@ iwan-s.video.qq.com
 ||taxsavingmasterclass.com^
 ||taznfx.renters.pl^
 ||tbao684tryo.com^$document
+||tbn.quifelenergy.com^
 ||tbsone.imtt.qq.com^
 ||tbstv.112.2o7.net^
 ||tbzku.intimaterose.com^
@@ -34480,6 +34574,7 @@ iwan-s.video.qq.com
 ||teongas-ai.com^
 ||teongasappai.com^
 ||teothemes.com^
+||teqcdnk.cn^
 ||teqonix.today^
 ||terabuild.sevencolours.eu^
 ||teradignews.com^
@@ -34781,6 +34876,7 @@ iwan-s.video.qq.com
 ||tigerking.world^$popup
 ||tigertitle.net^
 ||tiglon.beyondco.de^
+||tigraattol.pro^
 ||tigris-cctv.ru^
 ||tihik.com.ph^
 ||tiidealiste.xhamsterlive.info^
@@ -34847,6 +34943,7 @@ iwan-s.video.qq.com
 ||tk.airfrance.ro^
 ||tk.boutique.femmeactuelle.fr^
 ||tk.boutique.programme-tv.net^
+||tk.boutique.voici.fr^
 ||tk.domitys.fr^
 ||tk.illicado.com^
 ||tk.kidsaround.com^
@@ -35049,6 +35146,7 @@ iwan-s.video.qq.com
 ||toptenproxysites.com^
 ||topwork24.ru^
 ||topys.cn^
+||tor.quifelenergy.com^
 ||toravox.com^
 ||torbit.com^
 ||torenvixoproapp.com^
@@ -35077,6 +35175,7 @@ iwan-s.video.qq.com
 ||touchfresh.com^
 ||touchjav09212026.shop^
 ||touchofeco.net^
+||toufangzhe.cn^
 ||tour.kungpaopussy.com^
 ||touringfewsome.rest^
 ||tourismaustralia.tt.omtrdc.net^
@@ -35145,6 +35244,7 @@ iwan-s.video.qq.com
 ||tr.group-appointments.lvmh.fr^
 ||tr.info.arialcnp.fr^
 ||tr.info.bonneval-sur-arc.com^
+||tr.info.conexancemd.com^
 ||tr.info.covid-resistance-bretagne.fr^
 ||tr.info.easyviaggio.com^
 ||tr.info.linxea.com^
@@ -35675,12 +35775,14 @@ iwan-s.video.qq.com
 ||trustedproxy.com^
 ||trustera.digital^
 ||trustindex.io^
+||trustinspect.com^
 ||trustnlinepharmacy.us^
 ||trustyable.com^$popup
 ||trustzonevpn.info^
 ||truthangels.com^
 ||truthfulcan.pro^
 ||trvl.biz^
+||trw12.com^$third-party
 ||trxycujvkacdstujkavsdutyjh-aqduyacsitduyqsatq.teemill.com^
 ||try-api.perfectaudience.com^
 ||try.evia.app^
@@ -35706,6 +35808,7 @@ iwan-s.video.qq.com
 ||tspind.com^
 ||tspipp.tsu.tula.ru^
 ||tsrhoc.martiderm.pt^
+||tss.sport2000.fr^
 ||tssc.qgr.ph^
 ||tsser.afvclub.com^
 ||tssgroup.support^
@@ -35717,6 +35820,7 @@ iwan-s.video.qq.com
 ||tt.onthe.io^
 ||tt.rbs.com^
 ||ttarget.eastwestbank.com^
+||ttdali.com^
 ||ttdating28.com^
 ||ttedwm.com^
 ||tterforiwasin.org^
@@ -35827,6 +35931,7 @@ iwan-s.video.qq.com
 ||txfzmurcavgqx.space^
 ||txnodemicermode.pages.dev^
 ||txt.fuelmyclub.com^
+||txt3.clck.gg^
 ||txttagz.com^
 ||txzaazmdhtw.com^
 ||ty371.com^
@@ -35879,6 +35984,7 @@ iwan-s.video.qq.com
 ||ual23t6yz.com^
 ||uamobile.net^
 ||uanhlb.jacquie.com.au^
+||uantum.site^
 ||uanxss.klingel.cz^
 ||uat-link.onecase.in^
 ||uat1-dc.pagoda.com^
@@ -35894,6 +36000,7 @@ iwan-s.video.qq.com
 ||ubmcvideo.baidustatic.com^
 ||ubs.demdex.net^
 ||ubteam.tt.omtrdc.net^
+||ubudtaxiservice.com^
 ||uc-lovelace.com^
 ||uccidcarvi.com^
 ||ucdn.adgebra.co^
@@ -35919,6 +36026,7 @@ iwan-s.video.qq.com
 ||uefhucspqzoza.space^
 ||uemcuters.blogspot.com^
 ||ueuqui.esprit.nl^
+||ueyha.duckdns.org^
 ||ufeuca.icu^
 ||ufixer.com^
 ||ufljour.qualtrics.com^
@@ -35943,6 +36051,7 @@ iwan-s.video.qq.com
 ||ujw1y54r.fun^
 ||uk-dingit.a.videoplaza.tv^
 ||uk-unanimis.a.videoplaza.tv^
+||uk.ads.hexus.net^
 ||uk.sc-specialhost.com^
 ||uk01.webtrekk.net^
 ||uk68j.com^
@@ -36059,6 +36168,7 @@ iwan-s.video.qq.com
 ||unique-korea.ru^
 ||uniquedesign.ma^
 ||uniqueinternetservices.com^
+||uniqueonlineuplink.com^
 ||uniquewritingsolution.bigcartel.com^
 ||uniregistry.com^
 ||unisound.net^
@@ -36099,6 +36209,8 @@ iwan-s.video.qq.com
 ||unmergesquire.life^
 ||unmetcolfmu.com^
 ||unpluggedzim.com^
+||unpollutemymac.com^
+||unraveledreports.com^
 ||unrealcommander.biz^
 ||unredscogl.pro^
 ||unrulystored.com^
@@ -36141,6 +36253,7 @@ iwan-s.video.qq.com
 ||upholstery.com.sg^
 ||uphonemall.com^
 ||upjohn90.cc^
+||upliftsys.com^
 ||uplivian.xyz^
 ||upload.juxiao.mediav.com^
 ||uploaddeimagens.com.br^
@@ -36316,6 +36429,7 @@ iwan-s.video.qq.com
 ||uyprwkmrammol.space^
 ||uzmdfi.com^
 ||uzpuaveerqjei.site^
+||uzvcffe-aw.vip^
 ||v-collector.dp.aws.charter.com^
 ||v-support.free.bg^
 ||v.adsrvr.org^
@@ -37141,6 +37255,7 @@ iwan-s.video.qq.com
 ||vkoliakte.hop.ru^
 ||vkscdg.solocruceros.com^
 ||vkstat.onthe.io^
+||vkvideo.vov.ru^
 ||vkvkn4idx2nhxnqs8mhibycs0kdvn1507014591.nuid.imrworldwide.com^
 ||vlad-poltava.1gb.ua^
 ||vladpopa.ro^
@@ -37570,6 +37685,7 @@ iwan-s.video.qq.com
 ||webmailorange3.godaddysites.com^
 ||webmailrrtconfirmpassword.weebly.com^
 ||webmailwebmail.weebly.com^
+||webmajstor.net^
 ||webmerch.com^
 ||webmetrics.avaya.com^
 ||webmoney-zarabotok.ru^
@@ -37723,6 +37839,7 @@ iwan-s.video.qq.com
 ||whinemalnutrition.com^
 ||whippet.madewithspark.com^
 ||whirlsparks.pro^
+||whirlwindnewswisdom.com^
 ||whiteclick.biz^
 ||whitefieldpapermills.com^
 ||whitelist.scloud.lfengmobile.com^
@@ -37810,6 +37927,7 @@ iwan-s.video.qq.com
 ||windowsmessages.com^
 ||windowsofficeupdate.com^
 ||windowsonorder.com^
+||windowsregistryclean.com^
 ||windowsrepublic.com^
 ||windowssupport.com^
 ||windowstechsupportphonenumber.wordpress.com^
@@ -38273,6 +38391,7 @@ iwan-s.video.qq.com
 ||www.activeinstafollowers.com^
 ||www.actressmodels.com^
 ||www.acttech.com.my^
+||www.actualmd.com^
 ||www.acupunctureforhealth.com^
 ||www.acvira.de^
 ||www.ad-words.ru^
@@ -38299,6 +38418,7 @@ iwan-s.video.qq.com
 ||www.adlooxtracking.com^
 ||www.admantic.ru^
 ||www.admedo.com^
+||www.admin1960.linkpc.net^
 ||www.adminteam.x24hr.com^
 ||www.adoptie.huijsen.net^
 ||www.adpepper.dk^
@@ -38350,6 +38470,7 @@ iwan-s.video.qq.com
 ||www.affbuzzads.com^
 ||www.affiliatebiz.ru^
 ||www.affiliatebootcamp.com^
+||www.affiliateshowcase.com^
 ||www.affiliation-france.com^
 ||www.affitticesenatico.it^
 ||www.afjay-ind.com^
@@ -38532,6 +38653,7 @@ iwan-s.video.qq.com
 ||www.angelinajoliepics.com^
 ||www.angelolicari.com^
 ||www.angermanagementclasses.org^
+||www.anglekeys.duckdns.org^
 ||www.angliaprint.co.uk^
 ||www.anhstructure.com^
 ||www.animalhealthcenterinc.com^
@@ -38655,6 +38777,7 @@ iwan-s.video.qq.com
 ||www.arbres-de-memoire.fr^
 ||www.arbres.com^
 ||www.arbruisseau.com^
+||www.arbz.info^
 ||www.arc-sec.net^
 ||www.arcadetab.com^
 ||www.arch.certified-toolbar.com^
@@ -38749,6 +38872,7 @@ iwan-s.video.qq.com
 ||www.avagirl.org^
 ||www.avakian.eu^
 ||www.avastantivirus.net^
+||www.avastcustomersupport.com^
 ||www.avastsupportau.blogspot.com^
 ||www.avazudsp.net^
 ||www.avemeadows.com^
@@ -39164,6 +39288,7 @@ iwan-s.video.qq.com
 ||www.careeducation.com^
 ||www.carefreepet.com^
 ||www.carlotortora.it^
+||www.carlrudd.com^
 ||www.carnavalcasino.com^
 ||www.carnetbe.com^
 ||www.carolamaza.cl^
@@ -39216,6 +39341,7 @@ iwan-s.video.qq.com
 ||www.celebnakedness.com^
 ||www.celebrity-nude-fuck.blogspot.com^
 ||www.celebritygalleriesfree.com^
+||www.celer.site^
 ||www.celer.work^
 ||www.celestia.fr^
 ||www.cellar2door.com^
@@ -39276,7 +39402,9 @@ iwan-s.video.qq.com
 ||www.chcemyschudnac.pl^
 ||www.chdagent.com^
 ||www.cheapcarrecovery.co.uk^
+||www.cheapjerseyshunt.com^
 ||www.cheapvpn.org^
+||www.cheatanarchy.com^
 ||www.checkim.net^
 ||www.checkm8.com^
 ||www.chefeladlevi.com^
@@ -39293,6 +39421,7 @@ iwan-s.video.qq.com
 ||www.chiangraicity.net^
 ||www.chicagobuymyride.com^
 ||www.chickenkiller.com^
+||www.childabusesolutions.com^
 ||www.childol.com.cn^
 ||www.chimaimpex.com^
 ||www.chimneyandmasonry.com^
@@ -39342,6 +39471,7 @@ iwan-s.video.qq.com
 ||www.ck92976.tmweb.ru^
 ||www.clandv.com^
 ||www.classickorea.co.kr^
+||www.classischwohnen.ch^
 ||www.classsico.weebly.com^
 ||www.cleanbydesignllc.com^
 ||www.cleaningservices-pretoria.com^
@@ -39377,6 +39507,7 @@ iwan-s.video.qq.com
 ||www.cnc.com.kh^
 ||www.cnstats.ru^
 ||www.coachpurse.us.com^
+||www.coalfra.cl^
 ||www.coat0tire.com^
 ||www.cob-eg.org^
 ||www.cobbshomecare.com^
@@ -39434,6 +39565,7 @@ iwan-s.video.qq.com
 ||www.conectapsicologia.cl^
 ||www.conectnet.inf.br^
 ||www.conexa.no^
+||www.conexfreightforwarding.com^
 ||www.conf1rmfb-aps4.at.ua^
 ||www.congnghevienthong.com^
 ||www.conkl.com^
@@ -39716,6 +39848,7 @@ iwan-s.video.qq.com
 ||www.digitalartphoto.com^
 ||www.digitalcitysupport.com^
 ||www.digitalmarketingcontent.com^
+||www.digitalpornhub.com^
 ||www.digitalsupport247.com^
 ||www.digitalwebexperts.com^
 ||www.digitalworkshopcenter.com^
@@ -40090,6 +40223,7 @@ iwan-s.video.qq.com
 ||www.facewatch.borec.cz^
 ||www.fagk.blogspot.com^
 ||www.fairsearcher.com^
+||www.fakty26a.is-best.net^
 ||www.fakty34a.is-best.net^
 ||www.fakty39a.is-best.net^
 ||www.faktya.is-best.net^
@@ -40135,6 +40269,7 @@ iwan-s.video.qq.com
 ||www.femdomfetish.blogspot.com^
 ||www.femidaneo.ru^
 ||www.femtrendy.com^
+||www.fengshuijia.com.cn^
 ||www.fenixitaim.com.br^
 ||www.fergaco.com^
 ||www.feriadebuga.com^
@@ -40785,20 +40920,29 @@ iwan-s.video.qq.com
 ||www.https.secure.bank-of-america.login.sign.pvkhjorgxp.underpains.duckdns.org^
 ||www.https.secure.bank-of-america.login.sign.yqrlplbugd.underpains.duckdns.org^
 ||www.https.secure.bank-of-america.login.sign.yufncibfvy.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.aalvjsgpnz.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.arwprhofwj.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.aurbamklie.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.caiczvzzgc.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.durilrefwy.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.emdaotircv.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.gmhwhtgtlw.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.gnkbuutzda.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.hqftbkqlnn.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.izyzrqntat.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.jetwvuuxmf.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.jlxeewjswy.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.kvhtgnizsi.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.lrttqpmjkr.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.nvpuqjevio.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.oitxeirxxh.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.sqgveizwby.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.sxrchsaick.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.szvjckuqtl.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.tlprozavym.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.wsxvxtdtrv.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.yavdrqtsog.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.zmbymulibz.underpains.duckdns.org^
 ||www.httpslink.com^
 ||www.htwgroup.biz^
 ||www.hublaa.com^
@@ -40850,6 +40994,7 @@ iwan-s.video.qq.com
 ||www.idgoldstein.com^
 ||www.idtech-pk.com^
 ||www.iee.edu.pe^
+||www.iemergence.org^
 ||www.iespana.es^
 ||www.ifcoupon.com^
 ||www.iflyaviation.in^
@@ -41027,6 +41172,7 @@ iwan-s.video.qq.com
 ||www.ivedabe.wz.cz^
 ||www.iviscom.ru^
 ||www.iwsupport.com^
+||www.izdeharalbasrah.com^
 ||www.izht.info^
 ||www.izumrude.ru^
 ||www.jabarexpose.com^
@@ -41071,6 +41217,7 @@ iwan-s.video.qq.com
 ||www.jenis9q.dx.am^
 ||www.jeroenjager.nl^
 ||www.jessicafoleylaw.com^
+||www.jesuschristblessme.duckdns.org^
 ||www.jetbytes.com^
 ||www.jewbrill.blogspot.com^
 ||www.jeztryner.com^
@@ -41130,6 +41277,7 @@ iwan-s.video.qq.com
 ||www.jsfastener.cn^
 ||www.jsjd.news315.org^
 ||www.jsttools.com^
+||www.jswerling.com^
 ||www.jtblinds.com^
 ||www.jtdeal.in^
 ||www.jttecnologiaaplicada.com^
@@ -41307,10 +41455,12 @@ iwan-s.video.qq.com
 ||www.laboratoire-pyc.com^
 ||www.lacalle.cz^
 ||www.lachiederedag.nl^
+||www.lacloop.info^
 ||www.ladyhair.pl^
 ||www.laferwear.com^
 ||www.lagenceengineering.com^
 ||www.lahlopa.com^
+||www.lakins.duckdns.org^
 ||www.lala33.com^
 ||www.lalala.geenstijl.nl^
 ||www.lambojack.com^
@@ -41690,6 +41840,7 @@ iwan-s.video.qq.com
 ||www.medialabs.it^
 ||www.mediatio.be^
 ||www.medicalfarmitalia.it^
+||www.medicalinnovation.ca^
 ||www.medicaltech.gr^
 ||www.medicareparta.com^
 ||www.mediodetransporte.com^
@@ -41730,6 +41881,7 @@ iwan-s.video.qq.com
 ||www.metricsimage.com^
 ||www.metroscreenworks.com^
 ||www.mexdeliver.com^
+||www.mfaic.gov.kh^
 ||www.mfmqatar.com^
 ||www.mgba.org^
 ||www.mgmfoundation.ph^
@@ -41737,6 +41889,7 @@ iwan-s.video.qq.com
 ||www.mhh.prolivraison.com^
 ||www.miamijouvert.com^
 ||www.miamirealtysolution.com^
+||www.miaoewoo.n9s.com^
 ||www.michael-korsonlineoutlet.us.com^
 ||www.michaelhardeman.com^
 ||www.michaelharrowcpa.com^
@@ -42009,6 +42162,7 @@ iwan-s.video.qq.com
 ||www.nefflixrecibopago.com^
 ||www.negripelosok.blogspot.com^
 ||www.nemconsult.co.za^
+||www.nena.duckdns.org^
 ||www.neocam.pl^
 ||www.nepalpolice.gov.np^
 ||www.nepaltradefair.com^
@@ -42081,6 +42235,7 @@ iwan-s.video.qq.com
 ||www.nmuiopoity.s3-website-us-west-2.amazonaws.com^
 ||www.nmxkl.com^
 ||www.nnaa88.com^
+||www.nnmeiniantj.com^
 ||www.no1free.com^
 ||www.noadware.com^
 ||www.node7seat.com^
@@ -42206,6 +42361,7 @@ iwan-s.video.qq.com
 ||www.openfreely.com^
 ||www.openload.de^
 ||www.opennet.jp^
+||www.opentoearn.com^
 ||www.operarelais.it^
 ||www.opiekanadpsami.pl^
 ||www.opticaloutlet.ca^
@@ -42217,6 +42373,7 @@ iwan-s.video.qq.com
 ||www.oralcamp.com.br^
 ||www.orangecomunicaciones.com^
 ||www.orangeroom.com.sg^
+||www.orangetechnolab.com^
 ||www.oratoriomariano.com^
 ||www.ordinacija-jukic.hr^
 ||www.ordingal.it^
@@ -42424,6 +42581,7 @@ iwan-s.video.qq.com
 ||www.pizza-mamamia.ru^
 ||www.pknjco.com^
 ||www.pl-huda.myshopify.com^
+||www.placidocn.com^
 ||www.planasdistribucions.com^
 ||www.planeta.digimob.com.br^
 ||www.planethealthpharmacy.com^
@@ -42824,6 +42982,7 @@ iwan-s.video.qq.com
 ||www.ritarita.info^
 ||www.ritualscreative.com^
 ||www.rivana.eu^
+||www.riversbendsalonspa.com^
 ||www.riverselect.ca^
 ||www.riviera-palace.com^
 ||www.rjgriffith.com^
@@ -43608,6 +43767,7 @@ iwan-s.video.qq.com
 ||www.tchpconnect.net^
 ||www.tcm.gov.cn^
 ||www.td1-login-acc1.com^
+||www.tdfhyfgtj.duckdns.org^
 ||www.teaalbum.com^
 ||www.teambourda.com^
 ||www.teamcy.com^
@@ -43643,6 +43803,8 @@ iwan-s.video.qq.com
 ||www.telegramdesktop.com^
 ||www.teleweaver.cn^
 ||www.tembeaafrica.co.ke^
+||www.tensionseal.com^
+||www.terifischer.com^
 ||www.terra-select.de^
 ||www.terrae.mx^
 ||www.terraguinchos.com.br^
@@ -43805,6 +43967,7 @@ iwan-s.video.qq.com
 ||www.toptorrents.org^
 ||www.toptravellocation.com^
 ||www.topura.com^
+||www.torneighistorics.cat^
 ||www.torrentsgames.net^
 ||www.torresnilo.cl^
 ||www.toshibasupportphonenumber.com^
@@ -43823,6 +43986,7 @@ iwan-s.video.qq.com
 ||www.tradem.com^
 ||www.traderalerte.com^
 ||www.traduccioneswot.com^
+||www.traffic4u.com^
 ||www.traffictraders.com^
 ||www.trafsearchonline.com^
 ||www.traidnt.net^
@@ -44522,6 +44686,7 @@ iwan-s.video.qq.com
 ||www.zoomfiles.net^
 ||www.zoompop.fr^
 ||www.zotec.support^
+||www.zsojunhmaz.paperswriting.publicvm.com^
 ||www.zszl.com^
 ||www.zubeidajaffer.co.za^
 ||www.zulilycoupons.com^
@@ -45138,6 +45303,7 @@ iwan-s.video.qq.com
 ||yowlroom.rest^
 ||yoyostudy.com.au^
 ||yozgatcandirasm.com^
+||yp-tefulong.com^
 ||ypkmaumere.org^
 ||ypmob.com^
 ||yptqys.tianqistatic.com^
@@ -45516,6 +45682,7 @@ iwan-s.video.qq.com
 ||zxn532zimbra.weebly.com^
 ||zxvttq.goldapple.ru^
 ||zxvvcvd.cn^
+||zxw51.com^
 ||zxytcjj.com^
 ||zyclarapumpwarts26805.soup.io^
 ||zyf03k.xyz^
