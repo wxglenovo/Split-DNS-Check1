@@ -338,12 +338,12 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
     
     # 1. 如果使用现有的哈希值列表文件，则直接加载哈希值列表
     if use_existing_hashes:
-        hash_list = load_hash_list(HASH_LIST_FILE)
-        if not hash_list:
+        hash_list = load_hash_list(HASH_LIST_FILE)  # 加载现有的哈希列表
+        if not hash_list:  # 如果哈希列表为空
             print("⚠ 哈希值列表为空，将重新计算并分配规则。")
-            use_existing_hashes = False
+            use_existing_hashes = False  # 设置为 False，重新计算哈希
     else:
-        hash_list = []
+        hash_list = []  # 如果不使用现有哈希值，则初始化为空列表
 
     # 2. 计算不同 delete_counter 值的规则
     counter_buckets = {i: [] for i in range(29)}  # 假设 delete_counter 最大为 28
