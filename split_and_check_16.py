@@ -105,6 +105,9 @@ def check_domain(rule):
 # ===============================
 # 下载并合并规则源
 # ===============================
+# ===============================
+# 下载并合并规则源
+# ===============================
 def download_all_sources():
     """
     下载所有规则源，合并规则，过滤并更新删除计数
@@ -114,9 +117,10 @@ def download_all_sources():
         return False
     print("📥 下载规则源...")
 
-    merged = set()
+    all_rules = []  # 用列表来存储所有规则，不去重
     with open(URLS_TXT, "r", encoding="utf-8") as f:
         urls = [u.strip() for u in f if u.strip()]
+    
     for url in urls:
         print(f"🌐 获取 {url}")
         try:
@@ -125,20 +129,23 @@ def download_all_sources():
             for line in r.text.splitlines():
                 line = line.strip()
                 if line:
-                    merged.add(line)
+                    all_rules.append(line)  # 不去重，直接添加到列表
         except Exception as e:
             print(f"⚠ 下载失败 {url}: {e}")
     
-    print(f"✅ 合并 {len(merged)} 条规则")
-    with open(MASTER_RULE, "w", encoding="utf-8") as f:
-        f.write("\n".join(sorted(merged)))
+    print(f"✅ 合并 {len(all_rules)} 条规则")
+    
+    # 将所有规则写入临时文件
+    temp_file = os.path.join(TMP_DIR, "merged_rules_temp.txt")
+    with open(temp_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(all_rules))
     
     # 过滤和更新删除计数 >=7 的规则
-    filtered_rules, updated_delete_counter, skipped_count = filter_and_update_high_delete_count_rules(merged)
+    filtered_rules, updated_delete_counter, skipped_count = filter_and_update_high_delete_count_rules(all_rules)
     save_bin(DELETE_COUNTER_FILE, updated_delete_counter)
 
-    # 在此处打印统计信息
-    print(f"📚 规则源合并规则 {len(merged)} 条，⏩共 {skipped_count} 条规则被跳过验证，🧮需要验证 {len(filtered_rules)} 条规则，🪓 分为 {PARTS} 片")
+    # 打印统计信息
+    print(f"📚 规则源合并规则 {len(all_rules)} 条，⏩共 {skipped_count} 条规则被跳过验证，🧮需要验证 {len(filtered_rules)} 条规则，🪓 分为 {PARTS} 片")
 
     # 切分规则
     split_parts(filtered_rules)
@@ -149,10 +156,10 @@ def download_all_sources():
             retry_rules = [r.strip() for r in rf if r.strip()]
         if retry_rules:
             print(f"🔁 检测到 {len(retry_rules)} 条重试规则，将加入合并规则")
-            merged.update(retry_rules)
-            with open(MASTER_RULE, "a", encoding="utf-8") as f:
-                f.write("\n" + "\n".join(sorted(set(retry_rules))))
- 
+            all_rules.extend(retry_rules)  # 直接添加重试规则
+            with open(temp_file, "a", encoding="utf-8") as f:  # 追加重试规则到临时文件
+                f.write("\n" + "\n".join(retry_rules))
+
     return True
 
 # ===============================
