@@ -213,8 +213,8 @@ def download_all_sources():
     # 打印统计信息
     print(f"📚 规则源合并规则 {len(all_rules)} 条，⏩共 {skipped_count} 条规则被跳过验证，🧮需要验证 {len(filtered_rules)} 条规则，🪓 分为 {PARTS} 片")
 
-    # 切分规则
-    split_parts(filtered_rules)
+    # 切分规则，并传递删除计数器
+    split_parts(filtered_rules, updated_delete_counter)  # 传递 delete_counter
 
     # 如果有重试规则，加入合并规则中
     if os.path.exists(RETRY_FILE):
@@ -227,6 +227,7 @@ def download_all_sources():
                 f.write("\n" + "\n".join(retry_rules))
 
     return True
+
 
 # ===============================
 # 删除计数 >=7 的规则过滤
