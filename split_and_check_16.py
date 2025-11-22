@@ -15,7 +15,7 @@ URLS_TXT = "urls.txt"
 TMP_DIR = "tmp"
 DIST_DIR = "dist"
 MASTER_RULE = "merged_rules.txt"
-HASH_LIST_FILE = "dist/hash_list.bin"
+HASH_LIST_FILE = 'dist/hash_list.bin'
 
 PARTS = 16
 DNS_TIMEOUT = 2
@@ -300,12 +300,13 @@ def filter_and_update_high_delete_count_rules(all_rules_set):
 # ===============================
 # 哈希分片 + 负载均衡优化
 # ===============================
-
 def save_hash_list(hashes, filename):
     """
     将哈希值列表以二进制格式保存到文件。
     """
     try:
+        # 确保 dist 目录存在
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, 'wb') as f:
             pickle.dump(hashes, f)
         print(f"🔐 哈希值列表已保存到 {filename}")
@@ -338,9 +339,9 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
         hash_list = load_hash_list(HASH_LIST_FILE)
         if not hash_list:
             print("⚠ 哈希值列表为空，将重新计算并分配规则。")
-            use_existing_hashes = False  # 如果哈希值为空，则重新计算
+            use_existing_hashes = False
     else:
-        hash_list = []  # 用于存储所有规则的哈希值
+        hash_list = []
 
     # 2. 计算不同 delete_counter 值的规则
     counter_buckets = {i: [] for i in range(29)}  # 假设 delete_counter 最大为 28
@@ -399,7 +400,7 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
         print(f"📄 分片 {i+1}: {len(bucket)} 条规则 → {filename}")  # 输出每个分片的日志
 
     # 11. 更新哈希值列表文件
-    save_hash_list(hash_list, HASH_LIST_FILE)  # 将哈希值列表保存到二进制文件
+    save_hash_list(hash_list, HASH_LIST_FILE)  # 确保路径是 dist/hash_list.bin
 
 
 def balance_parts(part_buckets):
