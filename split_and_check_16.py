@@ -19,7 +19,7 @@ MASTER_RULE = "merged_rules.txt"
 
 PARTS = 16
 DNS_TIMEOUT = 2
-HASH_LIST_FILE = "dist/hash_list.bin"
+HASH_LIST_FILE = os.path.join(DIST_DIR, "hash_list.bin")
 DELETE_COUNTER_FILE = os.path.join(DIST_DIR, "delete_counter.bin")
 NOT_WRITTEN_FILE = os.path.join(DIST_DIR, "not_written_counter.bin")
 RETRY_FILE = os.path.join(DIST_DIR, "retry_rules.txt")
@@ -60,7 +60,8 @@ def ensure_bin_file(path):
 ensure_bin_file(DELETE_COUNTER_FILE)
 # 确保未写入计数器文件存在，如果不存在则初始化
 ensure_bin_file(NOT_WRITTEN_FILE)
-
+# 确保未写入计数器文件存在，如果不存在则初始化
+ensure_bin_file(HASH_LIST_FILE)
 # 如果重试规则文件不存在，则创建空文件
 if not os.path.exists(RETRY_FILE):
     open(RETRY_FILE, "w", encoding="utf-8").close()
