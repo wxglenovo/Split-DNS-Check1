@@ -6065,6 +6065,7 @@ static.g.iqiyi.com
 ||aamsitecertifier.com^$third-party
 ||aandtdoorsltd.co.uk^
 ||aanetwork.vn^$third-party
+||aaniwatch.com^
 ||aaps74.neoplus.adsl.tpnet.pl^
 ||aardvark.mission-austria.at^
 ||aaro168.neoplus.adsl.tpnet.pl^
@@ -18533,6 +18534,7 @@ static.g.iqiyi.com
 ||geoloc63.geovisite.com^
 ||geoloc78.geovisite.com^
 ||geoloc89.geovisite.com^
+||geonatural.ge^
 ||geonovalis.rest^
 ||georgia.lovingforever.pro^
 ||georgiainjurycenters.com^
@@ -20377,6 +20379,7 @@ static.g.iqiyi.com
 ||https.secure.bank-of-america.login.sign.gwvllygsqr.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.aalvjsgpnz.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.adnmpmbrmc.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.bfwkbxcpwu.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.bgscocrrws.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.bobrnmckzc.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.csfrdvdpvm.underpains.duckdns.org^
@@ -20385,10 +20388,12 @@ static.g.iqiyi.com
 ||https.secure.bankofamerica.login.sign.ekmqlxzfml.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.evnwmqxsyk.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.iynenkwhfo.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.lmenitqnux.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.lolumzbmid.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.mmmhlmcors.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.oafcybgoqx.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.okyfjxxtoe.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.pgubadxqse.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.styoiodnfu.underpains.duckdns.org^
 ||httpsdns.baidu.com^
 ||httpshttpshttpshttpshttpshttpshttpshttpshttpshttpsfootballbet.weebly.com^
@@ -40556,6 +40561,7 @@ static.g.iqiyi.com
 ||www.go.dic-plas.co.jp^
 ||www.go.sonobi.com^
 ||www.gobpo.com.br^
+||www.godstar.duckdns.org^
 ||www.goforitsolutions.com^
 ||www.gofriend.cn^
 ||www.gogreeninitiators.com^
@@ -42091,6 +42097,7 @@ static.g.iqiyi.com
 ||www.newelementfx.com^
 ||www.newgrouns.com^
 ||www.newlifesociety.org.in^
+||www.newlink.site^
 ||www.newmobileantivirus.com^
 ||www.newnudecash.com^
 ||www.newoutletonlinemall.com^
@@ -42101,6 +42108,7 @@ static.g.iqiyi.com
 ||www.newtech.co.th^
 ||www.newvidakevin.blogspot.com^
 ||www.newwayglobal.net^
+||www.nexerciser.org^
 ||www.nextfuk.com^
 ||www.nextgns.com^
 ||www.nextsolutions.de^
@@ -42140,6 +42148,7 @@ static.g.iqiyi.com
 ||www.nnlover.com^
 ||www.nobleallure.com^
 ||www.noblehouseghana.com^
+||www.nod32ua.com^
 ||www.nonvbv.ru^
 ||www.nonwovenchina.com^
 ||www.noosundairy.com^
@@ -42543,6 +42552,7 @@ static.g.iqiyi.com
 ||www.pointverify.com^
 ||www.pojadetam.pl^
 ||www.pokemon.gratuitfile.com^
+||www.pokoj.zakopane.pl^
 ||www.pokovok.net^
 ||www.poland.fizzyslim.biz^
 ||www.poledance.cl^
@@ -42597,6 +42607,7 @@ static.g.iqiyi.com
 ||www.pp1pp1.com^
 ||www.ppcindo.com^
 ||www.pphigrppk.com^
+||www.pplive.com^
 ||www.pprprinting.com^
 ||www.ppuhmarko.com.pl^
 ||www.pr-list.ru^
@@ -43190,6 +43201,7 @@ static.g.iqiyi.com
 ||www.sensincom.fr^
 ||www.sensisupport.com^
 ||www.sensorbar.com^
+||www.sensosushi.pl^
 ||www.senuke.com^
 ||www.seocraft.in^
 ||www.seomarketinghk.com^
@@ -43318,6 +43330,7 @@ static.g.iqiyi.com
 ||www.sizegenetics.com^
 ||www.sjckt888.com^
 ||www.sjensen.ca^
+||www.sjzonline.com^
 ||www.skatetoschool.com^
 ||www.skepticalinquirer.com^
 ||www.skinapp.ru^
@@ -43720,6 +43733,7 @@ static.g.iqiyi.com
 ||www.tendenzastore.com^
 ||www.tennis-open.net^
 ||www.tenniscollegeflevoland.nl^
+||www.tenzinling.com.bt^
 ||www.terapiafacil.com^
 ||www.terragame.com^
 ||www.terramar.xyz^
@@ -43987,6 +44001,7 @@ static.g.iqiyi.com
 ||www.umancomunica.com.ar^
 ||www.umezawa.dyndns.info^
 ||www.umsmetal.com.tr^
+||www.unaijsnjs.duckdns.org^
 ||www.unblog.fr^
 ||www.underground-signs.com^
 ||www.ungerheuer.net^
@@ -44276,6 +44291,7 @@ static.g.iqiyi.com
 ||www.wemo.in^
 ||www.wenamibia.com^
 ||www.wernerbernheim.com.uy^
+||www.westhartfordtechsupport.com^
 ||www.wetechnology.com.np^
 ||www.wfin.ru^
 ||www.whambam.co^
@@ -44324,6 +44340,7 @@ static.g.iqiyi.com
 ||www.windofwin.life^
 ||www.windows-error-1485.bitballoon.com^
 ||www.windows10keysonline.com^
+||www.windows12.online^
 ||www.windows123.com^
 ||www.windows5.online^
 ||www.windows8center.com^
@@ -44363,6 +44380,7 @@ static.g.iqiyi.com
 ||www.worldnaturenet.xyz^
 ||www.worldriversday.com^
 ||www.worldtvradio.com^
+||www.worldwidefamilyfinancial.com^
 ||www.worshipafrica.org^
 ||www.worthywealthywoman.com^
 ||www.wosoft.ru^
@@ -44510,6 +44528,7 @@ static.g.iqiyi.com
 ||www.ys-gps.com^
 ||www.ys178.net^
 ||www.ysbp3.cn^
+||www.ytqh.com^
 ||www.yudevan.com.br^
 ||www.yugialone.blogspot.com^
 ||www.yumhusk.com^
@@ -45190,8 +45209,10 @@ static.g.iqiyi.com
 ||youwontstop.us^
 ||yowza.info^
 ||ypersonalrecome.com^
+||ypeu.com^
 ||ypfimpracticably.info^
 ||ypjihx.homemarkt.gr^
+||ypkklungkung.org^
 ||ypowpo.actonservice.com^
 ||ypu.samsungelectronics.com^
 ||yqhlty.com^
@@ -45241,11 +45262,18 @@ static.g.iqiyi.com
 ||yvoria.com^
 ||ywgjpgwxrgpeiqrptkmgevrvwix4l1509914071.nuid.imrworldwide.com^
 ||ywrcqa.rocketcitynow.com^
+||ywrcqa.wfaa.com^
+||yxynbs.phone.com^
+||yxyrblnpmtahz.world^
 ||yydsmr.com^
+||yyep.com^
+||yyffeicd.m.qxs.la^
+||yykhb.com^
 ||yymed.voluumtrk.com^
 ||yz-sl.cn^
 ||yz.qjtyw.cn^
 ||yz51.com^
+||z-master.ru^
 ||z-mxv.com^
 ||z.us.changyou.com^
 ||z.zedtrekh.online^
@@ -45301,8 +45329,10 @@ static.g.iqiyi.com
 ||zautfqxtmfvjr.buzz^
 ||zavelixai-app.com^
 ||zavinoalgo-app.com^
+||zaxariou.gr^
 ||zazagames.org^
 ||zbasij1rrd.neliver.com^
+||zbcshelby.org^
 ||zbjxz1besu.neliver.com^
 ||zblph.voluumtrk.com^
 ||zbmre.pitbarrelcooker.com^
@@ -45315,7 +45345,9 @@ static.g.iqiyi.com
 ||zbxctp.automarket.pl^
 ||zc.adswizz.com^
 ||zc1.campaign-view.com.cn^
+||zcisolutionsstore.com^
 ||zdd7gjf8ey.neliver.com^
+||zdkgxeeykuhs.today^
 ||zdorovarodyna.com.ua^
 ||zdrowapolska.com^
 ||zdryf.my^
@@ -45377,6 +45409,7 @@ static.g.iqiyi.com
 ||zhongda.info^
 ||zhongqianfortune.com^
 ||zhongwenqing.com^
+||zhownsplpphyu.online^
 ||zhqcir.netage.ne.jp^
 ||zhqi6dx0u.com^
 ||zhuangxiu567.com^
