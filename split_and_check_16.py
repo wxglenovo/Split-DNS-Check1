@@ -15,7 +15,8 @@ URLS_TXT = "urls.txt"
 TMP_DIR = "tmp"
 DIST_DIR = "dist"
 MASTER_RULE = "merged_rules.txt"
-HASH_LIST_FILE = "hash_list.bin"  # 哈希值列表文件名
+HASH_LIST_FILE = "dist/hash_list.bin"
+
 PARTS = 16
 DNS_TIMEOUT = 2
 DELETE_COUNTER_FILE = os.path.join(DIST_DIR, "delete_counter.bin")
