@@ -177,21 +177,27 @@ def check_domain(rule):
 def download_all_sources():
     """
     下载所有规则源，合并规则，过滤并更新删除计数
+    1. 下载所有规则源并合并为一个规则列表。
+    2. 对规则列表中的每条规则进行过滤，更新删除计数。
+    3. 根据规则是否在 merged_rules_temp.txt 中，重置或增加删除计数。
     """
+    # 检查规则源文件是否存在
     if not os.path.exists(URLS_TXT):
         print("❌ urls.txt 不存在")
         return False
     print("📥 下载规则源...")
 
     all_rules = []  # 用列表来存储所有规则，不去重
+    # 读取 URL 列表并下载规则
     with open(URLS_TXT, "r", encoding="utf-8") as f:
         urls = [u.strip() for u in f if u.strip()]
     
+    # 下载所有规则源
     for url in urls:
         print(f"🌐 获取 {url}")
         try:
             r = requests.get(url, timeout=20)
-            r.raise_for_status()
+            r.raise_for_status()  # 确保请求成功
             for line in r.text.splitlines():
                 line = line.strip()
                 if line:
@@ -206,17 +212,19 @@ def download_all_sources():
     with open(temp_file, "w", encoding="utf-8") as f:
         f.write("\n".join(all_rules))
     
-    # 过滤和更新删除计数 >=7 的规则
+    # 过滤并更新删除计数 >= 7 的规则
     filtered_rules, updated_delete_counter, skipped_count = filter_and_update_high_delete_count_rules(all_rules)
+    
+    # 将更新后的删除计数保存到文件
     save_bin(DELETE_COUNTER_FILE, updated_delete_counter)
 
-    # 打印统计信息
+    # 打印规则源合并后的统计信息
     print(f"📚 规则源合并规则 {len(all_rules)} 条，⏩共 {skipped_count} 条规则被跳过验证，🧮需要验证 {len(filtered_rules)} 条规则，🪓 分为 {PARTS} 片")
 
-    # 切分规则，并传递删除计数器
-    split_parts(filtered_rules, updated_delete_counter)  # 传递 delete_counter
+    # 切分规则，并传递删除计数器给分片处理函数
+    split_parts(filtered_rules, updated_delete_counter)  # 传递 updated_delete_counter
 
-    # 如果有重试规则，加入合并规则中
+    # 如果存在重试规则，加入合并规则中
     if os.path.exists(RETRY_FILE):
         with open(RETRY_FILE, "r", encoding="utf-8") as rf:
             retry_rules = [r.strip() for r in rf if r.strip()]
@@ -228,7 +236,6 @@ def download_all_sources():
 
     return True
 
-
 # ===============================
 # 删除计数 >=7 的规则过滤
 # ===============================
@@ -239,7 +246,7 @@ def filter_and_update_high_delete_count_rules(all_rules_set):
     2. 如果不在 merged_rules_temp.txt 规则列表中，继续增加删除计数，直到删除计数达到 28 时，删除该规则的删除计数记录。
     """
     delete_counter = load_bin(DELETE_COUNTER_FILE)  # 加载删除计数器
-    low_delete_count_rules = set()  # 计数小于 7 的规则
+    low_delete_count_rules = set()  # 删除计数小于 7 的规则
     updated_delete_counter = delete_counter.copy()  # 初始化更新后的删除计数器
     skipped_rules = []  # 被跳过的规则
     reset_rules = []  # 被重置删除计数为 6 的规则
@@ -273,14 +280,15 @@ def filter_and_update_high_delete_count_rules(all_rules_set):
         for rule in reset_rules[:20]:  # 输出前 20 条规则
             print(f"🔁 删除计数达到24，重置为 6：{rule}")
         print(f"🔢 共 {len(reset_rules)} 条规则的删除计数达到24，已重置为 6")
+        
+    if removed_rules:
+        print(f"🗑️ 共 {len(removed_rules)} 条规则的删除计数超过 28，已从计数器中移除。")
     
     if skipped_rules:
         for rule in skipped_rules[:20]:  # 输出前 20 条被跳过的规则
             print(f"⚠ 删除计数 ≥7，跳过验证：{rule}")
         print(f"🔢 共 {len(skipped_rules)} 条规则被跳过验证（删除计数≥7）")
     
-    if removed_rules:
-        print(f"❌ 共 {len(removed_rules)} 条规则的删除计数超过 28，已从计数器中移除。")
 
     skipped_count = len(skipped_rules)
     return low_delete_count_rules, updated_delete_counter, skipped_count
