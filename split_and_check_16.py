@@ -32,7 +32,7 @@ BALANCE_MOVE_LIMIT = 50
 
 # 确保文件夹存在
 os.makedirs(TMP_DIR, exist_ok=True)
-os.makedirs(DIST_DIR, exist_ok=True)
+os.makedirs(DIST_DIR, exist_ok=True)  # 确保 dist 目录存在
 
 # ===============================
 # 文件确保函数（写入空 msgpack dict）
@@ -116,12 +116,10 @@ def save_bin(path, data):
     2. 如果发生错误，捕获异常并打印错误信息。
     """
     try:
-        # 1. 打开文件进行写操作，并将数据序列化为 msgpack 格式
         with open(path, "wb") as f:
-            f.write(msgpack.packb(data, use_bin_type=True))  # 使用 msgpack 序列化数据并写入文件
-        print(f"✅ {path} 文件已成功保存")
+            f.write(msgpack.packb(data, use_bin_type=True))
+        print(f"✅ {path} 已保存")
     except Exception as e:
-        # 2. 如果保存数据过程中发生异常，打印错误信息
         print(f"⚠ 保存 {path} 错误: {e}")
 
 # ===============================
@@ -322,7 +320,7 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
     """
     将规则列表分割成多个分片，并进行负载均衡。
     """
-    # 确保 hash_list.bin 存在，如果不存在，则初始化为空的列表
+ # 确保 hash_list.bin 存在，如果不存在，则初始化为空的列表
     if not os.path.exists(HASH_LIST_FILE):
         save_bin(HASH_LIST_FILE, {'hash_list': []})  # 创建空的哈希列表
         print(f"✅ {HASH_LIST_FILE} 已创建")
@@ -383,34 +381,9 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
     save_bin(HASH_LIST_FILE, data)
 
     # 6. 进行负载均衡优化
-    max_balance_iter = 50  # 负载均衡最大迭代次数
-    iter_count = 0
-    while True:
-        # 计算每个分片的规则数量
-        lens = [len(b) for b in part_buckets]  # 获取每个分片内规则的数量
-        max_len, min_len = max(lens), min(lens)  # 找到最大和最小规则数
+    part_buckets = balance_parts(part_buckets)
 
-        # 7. 如果负载差距足够小，则结束负载均衡
-        if max_len - min_len <= BALANCE_THRESHOLD:
-            break  # 如果差距小于或等于阈值，结束负载均衡
-
-        # 8. 找到最大负载和最小负载的分片
-        max_idx, min_idx = lens.index(max_len), lens.index(min_len)
-
-        # 计算可以移动的规则数量（限制每次移动的最大数量）
-        move_count = min(BALANCE_MOVE_LIMIT, (max_len - min_len) // 2)
-
-        # 9. 如果需要移动的规则数小于等于 0，则退出负载均衡
-        if move_count <= 0 or iter_count >= max_balance_iter:
-            break
-
-        # 10. 将规则从负载最大的分片移动到负载最小的分片
-        part_buckets[min_idx].extend(part_buckets[max_idx][-move_count:])
-        part_buckets[max_idx] = part_buckets[max_idx][:-move_count]
-        
-        iter_count += 1
-
-    # 11. 将分配好的规则写入文件
+    # 7. 将分配好的规则写入文件
     for i, bucket in enumerate(part_buckets):
         filename = os.path.join("tmp", f"part_{i+1:02d}.txt")  # 分片文件名
         os.makedirs("tmp", exist_ok=True)  # 确保临时目录存在
@@ -440,7 +413,7 @@ def find_lowest_part(part_buckets):
     """
     lens = [len(b) for b in part_buckets]
     return lens.index(min(lens))
-
+    
 # ===============================
 # DNS 验证
 # ===============================
