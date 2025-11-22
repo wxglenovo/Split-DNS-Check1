@@ -99,7 +99,7 @@ jobs:
           mkdir -p dist logs tmp
           echo "📁 确保 dist/logs/tmp 文件夹存在"
           
-          for f in delete_counter.bin not_written_counter.bin hash_list.bin; do
+          for f in delete_counter.bin not_written_counter.bin; do
             if [ ! -f "dist/$f" ]; then
               if [ "$f" == "hash_list.bin" ]; then
                 python3 -c "import pickle; pickle.dump([], open('dist/$f', 'wb'))"
