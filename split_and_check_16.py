@@ -324,6 +324,7 @@ def split_parts(merged_rules, balance_threshold=1, balance_move_limit=50):
 
     # 2. 负载均衡优化：将规则数量不均衡的分片进行调整
     while True:
+        # 计算每个分片的规则数量，确保lens是整数
         lens = [len(b) for b in part_buckets]  # 计算每个分片的规则数量
         max_len, min_len = max(lens), min(lens)  # 找出规则数量最多和最少的分片
 
@@ -354,6 +355,7 @@ def split_parts(merged_rules, balance_threshold=1, balance_move_limit=50):
     with open(hash_list_file, "wb") as f:
         msgpack.dump(hash_list, f)
     print(f"🔢 哈希值已保存至 {hash_list_file}")
+
         
 # ===============================
 # DNS 验证
