@@ -321,12 +321,7 @@ def filter_and_update_high_delete_count_rules(all_rules_set):
 def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
     """
     将规则列表分割成多个分片，并进行负载均衡。
-    1. 根据 delete_counter 值结合哈希值将规则分配到不同的分片中，并生成哈希值列表文件，使用二进制存储。
-    2. 每次调整后更新哈希值列表文件以便下轮使用。
-    3. 后面每次采用哈希值列表文件切割分片，并进行负载均衡。
-    4. 将分片的规则保存到文件中。
     """
-    
     # 1. 如果使用现有的哈希值列表文件，则直接加载哈希值列表
     if use_existing_hashes:
         data = load_bin(HASH_LIST_FILE)  # 加载现有的哈希列表
@@ -356,6 +351,7 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
             else:
                 # 使用 SHA-256 哈希计算规则的哈希值，并转为十六进制整数
                 h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
+                h = h % (2**64)  # 将哈希值限制在 64 位范围内
                 hash_list.append(h)  # 保存规则的哈希值
 
             idx = h % PARTS  # 使用哈希值对分片进行分配，确保规则的均匀分布
