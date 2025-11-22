@@ -301,58 +301,59 @@ def filter_and_update_high_delete_count_rules(all_rules_set):
 # ===============================
 # 哈希分片 + 负载均衡优化
 # ===============================
-def split_parts(merged_rules):
-    sorted_rules = sorted(merged_rules)
-    total = len(sorted_rules)
-    part_buckets = [[] for _ in range(PARTS)]
+def split_parts(merged_rules, balance_threshold=1, balance_move_limit=50):
+    """
+    使用哈希值将规则分片，并通过负载均衡优化规则分配到各个分片中。
+    1. 规则首先通过哈希值进行初步分配。
+    2. 然后，通过负载均衡优化，确保每个分片的规则数量尽量均衡。
+    3. 最终将分片的规则保存到不同的文件中。
+    """
+    sorted_rules = sorted(merged_rules)  # 对规则进行排序，确保每次分配规则的顺序一致
+    total = len(sorted_rules)  # 总规则数
+    part_buckets = [[] for _ in range(PARTS)]  # 初始化 PARTS 个分片，作为规则容器
     hash_list = []  # 存储每条规则的哈希值
 
-    # 首先，根据规则的哈希值进行初步分配
+    # 1. 初步分配规则：根据规则的哈希值分配到不同的分片
     for rule in sorted_rules:
-        h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
-        idx = h % PARTS
-        part_buckets[idx].append(rule)
+        h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)  # 计算规则的哈希值
+        idx = h % PARTS  # 使用哈希值取余来确定分配到哪个分片
+        part_buckets[idx].append(rule)  # 将规则加入对应的分片
 
-        # 保存规则的哈希值（作为整数）
+        # 保存规则的哈希值，便于后续的操作
         hash_list.append(h)
 
-    # 然后，进行负载均衡优化
+    # 2. 负载均衡优化：将规则数量不均衡的分片进行调整
     while True:
-        lens = [len(b) for b in part_buckets]
-        max_len, min_len = max(lens), min(lens)
-        
-        # 如果负载差距足够小，则结束
-        if max_len - min_len <= BALANCE_THRESHOLD:
+        lens = [len(b) for b in part_buckets]  # 计算每个分片的规则数量
+        max_len, min_len = max(lens), min(lens)  # 找出规则数量最多和最少的分片
+
+        # 如果负载差距足够小，则结束负载均衡
+        if max_len - min_len <= balance_threshold:
             break
-        
-        max_idx, min_idx = lens.index(max_len), lens.index(min_len)
-        move_count = min(BALANCE_MOVE_LIMIT, (max_len - min_len) // 2)
+
+        max_idx, min_idx = lens.index(max_len), lens.index(min_len)  # 获取负载最多和最少的分片索引
+        move_count = min(balance_move_limit, (max_len - min_len) // 2)  # 计算需要移动的规则数量
         
         # 如果移动数量小于等于 0，则退出
         if move_count <= 0:
             break
-        
-        # 从负载最大的分片移至负载最小的分片
+
+        # 将规则从负载最大的分片移动到负载最小的分片
         part_buckets[min_idx].extend(part_buckets[max_idx][-move_count:])
         part_buckets[max_idx] = part_buckets[max_idx][:-move_count]
 
-    # 将分配好的规则写入文件
+    # 3. 保存每个分片的规则
     for i, bucket in enumerate(part_buckets):
-        filename = os.path.join(TMP_DIR, f"part_{i+1:02d}.txt")
+        filename = os.path.join(TMP_DIR, f"part_{i+1:02d}.txt")  # 为每个分片创建一个文件
         with open(filename, "w", encoding="utf-8") as f:
-            f.write("\n".join(bucket))
+            f.write("\n".join(bucket))  # 将分片中的规则写入文件
         print(f"📄 分片 {i+1}: {len(bucket)} 条规则 → {filename}")
 
-    # 将哈希值列表以 msgpack 格式存入 hash_list.bin
+    # 4. 将哈希值列表保存到文件，供后续验证或同步操作使用
     hash_list_file = os.path.join(TMP_DIR, "hash_list.bin")
     with open(hash_list_file, "wb") as f:
         msgpack.dump(hash_list, f)
     print(f"🔢 哈希值已保存至 {hash_list_file}")
-
-# 示例：调用分片函数
-merged_rules = ["rule1", "rule2", "rule3", "rule4"]  # 示例规则
-split_parts(merged_rules)
-
         
 # ===============================
 # DNS 验证
