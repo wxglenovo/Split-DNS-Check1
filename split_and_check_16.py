@@ -6,6 +6,7 @@ import dns.resolver
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 import hashlib
+import pickle
 
 # ===============================
 # 配置区（Config）
@@ -14,6 +15,7 @@ URLS_TXT = "urls.txt"
 TMP_DIR = "tmp"
 DIST_DIR = "dist"
 MASTER_RULE = "merged_rules.txt"
+HASH_LIST_FILE = "hash_list.bin"  # 哈希值列表文件名
 PARTS = 16
 DNS_TIMEOUT = 2
 DELETE_COUNTER_FILE = os.path.join(DIST_DIR, "delete_counter.bin")
@@ -396,11 +398,11 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
 
     # 11. 更新哈希值列表文件
     save_hash_list(hash_list, HASH_LIST_FILE)  # 将哈希值列表保存到二进制文件
-        
 # ===============================
 # 保留已有验证次数较多的规则的分配
 # ===============================
-def prioritize_high_success_rules(part_buckets, counter, delete_counter):
+
+def prioritize_high_success_rules(part_buckets, delete_counter):
     """
     优先保留验证成功次数较多的规则，避免重新验证。
     通过判断 `delete_counter` 来确定规则的验证状态。
@@ -434,10 +436,11 @@ def prioritize_high_success_rules(part_buckets, counter, delete_counter):
     # 4. 返回更新后的分片列表
     return part_buckets
     
+    
 # ===============================
 # 负载均衡优化（针对验证失败的规则）
 # ===============================
-def load_balance_failed_rules_by_delete_counter(part_buckets, counter, delete_counter):
+def load_balance_failed_rules_by_delete_counter(part_buckets, delete_counter):
     """
     对验证失败次数多的规则（通过 delete_counter 判断）重新计算哈希，进行负载均衡优化。
     1. 遍历每个分片，找出失败次数多的规则（根据 delete_counter）。
