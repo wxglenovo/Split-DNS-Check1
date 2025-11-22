@@ -86,72 +86,41 @@ def split_parts(merged_rules):
 # ===============================
 # 文件确保函数（写入空 msgpack dict）
 # ===============================
-def ensure_bin_file(path, default_data={}):
-    """
-    确保给定路径的二进制文件存在。如果文件不存在，则初始化为空的 msgpack 文件。
-    """
+def ensure_bin_file(path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    
     if not os.path.exists(path):
         try:
             with open(path, "wb") as f:
-                f.write(msgpack.packb(default_data, use_bin_type=True))
-            print(f"✅ 已创建 {path} 并初始化为默认数据")
+                f.write(msgpack.packb({}, use_bin_type=True))
         except Exception as e:
             print(f"⚠ 初始化 {path} 失败: {e}")
 
-ensure_bin_file(DELETE_COUNTER_FILE, default_data={})  # 空字典
-ensure_bin_file(NOT_WRITTEN_FILE, default_data={})     # 空字典
-ensure_bin_file(HASH_LIST_FILE, default_data=[])       # 空列表
-
+ensure_bin_file(DELETE_COUNTER_FILE)
+ensure_bin_file(NOT_WRITTEN_FILE)
 if not os.path.exists(RETRY_FILE):
     open(RETRY_FILE, "w", encoding="utf-8").close()
-    print(f"✅ {RETRY_FILE} 已创建")
-else:
-    print(f"ℹ️ {RETRY_FILE} 已存在")
 
 # ===============================
-# 二进制读取（msgpack）
+# 二进制读写（msgpack）
 # ===============================
 def load_bin(path, print_stats=False):
-    """
-    读取给定路径的二进制文件（msgpack 格式）。
-    """
     if os.path.exists(path):
         try:
-            file_size = os.path.getsize(path)
-            if print_stats:
-                print(f"🗂 读取文件 {path}，大小 {file_size} 字节")
-            
             with open(path, "rb") as f:
                 raw = f.read()
                 if not raw:
-                    print(f"⚠ {path} 为空文件，返回空字典")
                     return {}
                 data = msgpack.unpackb(raw, raw=False)
-                if print_stats:
-                    print(f"✅ 加载 {path} 数据成功，大小 {len(data)} 条记录")
             return data
-        
         except Exception as e:
             print(f"⚠ 读取 {path} 错误: {e}")
             return {}
-    else:
-        print(f"⚠ 文件 {path} 不存在")
-    
-    return {}  # 如果文件不存在，返回空字典
+    return {}
 
-# ===============================
-# 二进制写入（msgpack）
-# ===============================
 def save_bin(path, data):
-    """
-    将数据保存到指定路径的二进制文件（msgpack 格式）。
-    """
     try:
         with open(path, "wb") as f:
-            f.write(msgpack.packb(data, use_bin_type=True))
-        print(f"✅ {path} 已保存")
+            f.write(msgpack.packb(data, use_bin_type=True))      
     except Exception as e:
         print(f"⚠ 保存 {path} 错误: {e}")
 
