@@ -102,10 +102,10 @@ jobs:
           for f in delete_counter.bin not_written_counter.bin hash_list.bin; do
             if [ ! -f "dist/$f" ]; then
               if [ "$f" == "hash_list.bin" ]; then
-                python3 -c "import pickle; pickle.dump([], open('dist/$f', 'wb'))"
+                python3 -c "import pickle; pickle.dump([], open('dist/$f', 'wb'))" "
                 echo "✅ 已创建 $f"
               else
-                python3 -c "import pickle; pickle.dump({}, open('dist/$f', 'wb'))"
+                python3 -c "import pickle; pickle.dump({}, open('dist/$f', 'wb'))"  # 创建空字典文件
                 echo "✅ 已创建 $f"
               fi
             else
