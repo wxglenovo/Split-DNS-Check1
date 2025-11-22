@@ -1,3 +1,5 @@
+
+
 name: Split & DNS Check
 
 on:
@@ -75,7 +77,7 @@ jobs:
           NEW_COMMIT=$(echo "🧹 Repo auto-squash on $TS" | git commit-tree "$NEW_TREE")
           git reset --hard "$NEW_COMMIT"
           git push --force --thin \
-            https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}@github.com/${{ github.repository }}.git main
+            https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
           echo "✅ Git 历史瘦身完成! 备份 tag: $TAG 分支: $BRANCH"
           
       - name: ✅ 打印 .bin 文件统计
@@ -99,29 +101,21 @@ jobs:
           mkdir -p dist logs tmp
           echo "📁 确保 dist/logs/tmp 文件夹存在"
           
-          # 设置 dist 文件夹的权限
-          chmod -R 777 dist/
-
-          # 创建 Python 脚本并初始化 not_written_counter.bin 和 hash_list.bin
-          python3 -c '
-import os
-import pickle
-
-def create_file_if_not_exists(filename, default_data):
-    """如果文件不存在，则创建并初始化为默认数据"""
-    if not os.path.exists(filename):
-        with open(filename, "wb") as f:
-            pickle.dump(default_data, f)
-        print(f"✅ 已创建 {filename}")
-    else:
-        print(f"ℹ️ {filename} 已存在")
-
-# 初始化 not_written_counter.bin 和 hash_list.bin
-create_file_if_not_exists("dist/not_written_counter.bin", {})
-create_file_if_not_exists("dist/hash_list.bin", [])
-          '
+          # 初始化 not_written_counter.bin 和 hash_list.bin
+          for f in delete_counter.bin not_written_counter.bin hash_list.bin; do
+            if [ ! -f "dist/$f" ]; then
+              if [ "$f" == "hash_list.bin" ]; then
+                python3 -c "import pickle; pickle.dump([], open('dist/$f', 'wb'))"
+                echo "✅ 已创建 $f"
+              else
+                python3 -c "import pickle; pickle.dump({}, open('dist/$f', 'wb'))"
+                echo "✅ 已创建 $f"
+              fi
+            else
+              echo "ℹ️ $f 已存在"
+            fi
+          done
           
-          # 创建 retry_rules.txt（如果不存在）
           if [ ! -f dist/retry_rules.txt ]; then
             touch dist/retry_rules.txt
             echo "✅ 已创建 retry_rules.txt"
