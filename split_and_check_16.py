@@ -320,7 +320,7 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
     """
     将规则列表分割成多个分片，并进行负载均衡。
     """
- # 确保 hash_list.bin 存在，如果不存在，则初始化为空的列表
+    # 确保 hash_list.bin 存在，如果不存在，则初始化为空的列表
     if not os.path.exists(HASH_LIST_FILE):
         save_bin(HASH_LIST_FILE, {'hash_list': []})  # 创建空的哈希列表
         print(f"✅ {HASH_LIST_FILE} 已创建")
@@ -339,10 +339,13 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
     if not hash_list:
         print("🔄 重新计算哈希值...")
         for rule in merged_rules:
+            # 计算每条规则的 SHA-256 哈希值
             h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
             h = h % (2**64)  # 将哈希值限制在 64 位范围内
-            hash_list.append(h)
-        save_bin(HASH_LIST_FILE, {'hash_list': hash_list})  # 保存哈希值列表
+            hash_list.append({'rule': rule, 'hash': h})  # 保存规则与其哈希值
+
+        # 保存哈希值列表到 hash_list.bin
+        save_bin(HASH_LIST_FILE, {'hash_list': hash_list})  
         print(f"✅ {HASH_LIST_FILE} 已保存 {len(hash_list)} 个哈希值")
 
     # 继续后续的处理
@@ -359,16 +362,21 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
         rules_for_counter = counter_buckets[delete_val]  # 获取该删除计数对应的规则集合
         # 根据规则的哈希值将规则分配到分片中
         for rule in rules_for_counter:
-            if use_existing_hashes:
-                # 使用现有哈希值列表来获取规则的哈希值
-                h = hash_list.pop(0)
-            else:
-                # 使用 SHA-256 哈希计算规则的哈希值，并转为十六进制整数
+            # 从哈希列表中查找规则的哈希值
+            h = None
+            for item in hash_list:
+                if item['rule'] == rule:
+                    h = item['hash']
+                    break
+            
+            if h is None:
+                # 如果哈希值未找到，则重新计算并添加
                 h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
                 h = h % (2**64)  # 将哈希值限制在 64 位范围内
-                hash_list.append(h)  # 保存规则的哈希值
+                hash_list.append({'rule': rule, 'hash': h})
 
-            idx = h % PARTS  # 使用哈希值对分片进行分配，确保规则的均匀分布
+            # 使用哈希值对分片进行分配，确保规则的均匀分布
+            idx = h % PARTS  
             part_buckets[idx].append(rule)
 
     # 5. 计算完毕，更新 hash_list 和其他数据并保存到 bin 文件
