@@ -119,9 +119,16 @@ jobs:
             echo "ℹ️ retry_rules.txt 已存在"
           fi
 
+          # 创建 hash_list.bin 文件（如果不存在）
+          if [ ! -f dist/hash_list.bin ]; then
+            python3 -c "import pickle; pickle.dump([], open('dist/hash_list.bin','wb'))"
+            echo "✅ 已创建 hash_list.bin"
+          else
+            echo "ℹ️ hash_list.bin 已存在"
+          fi
+
           echo "dist/retry_rules.txt 内容预览（前5行）:"
           head -n 5 dist/retry_rules.txt || echo "⚠ 文件为空"
-
 
       - name: ✅ 确保规则文件与分片存在
         run: |
