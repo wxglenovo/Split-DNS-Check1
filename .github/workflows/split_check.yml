@@ -94,41 +94,44 @@ jobs:
             echo "ℹ️ 当前时间不满足 6 小时间隔，跳过强制更新"
           fi
 
-      - name: ✅ 初始化 dist 文件夹和二进制计数器 & retry_rules.txt
-        run: |
-          mkdir -p dist logs tmp
-          echo "📁 确保 dist/logs/tmp 文件夹存在"
-          
-          # 设置 dist 文件夹的权限
-          chmod -R 777 dist/
-          
-          # 以下是原来的操作
-          for f in delete_counter.bin not_written_counter.bin; do
-            if [ ! -f "dist/$f" ]; then
-              python3 -c "import pickle; pickle.dump({}, open('dist/$f','wb'))"
-              echo "✅ 已创建 $f"
-            else
-              echo "ℹ️ $f 已存在"
-            fi
-          done
-          
-          if [ ! -f dist/retry_rules.txt ]; then
-            touch dist/retry_rules.txt
-            echo "✅ 已创建 retry_rules.txt"
-          else
-            echo "ℹ️ retry_rules.txt 已存在"
-          fi
+- name: ✅ 初始化 dist 文件夹和二进制计数器 & retry_rules.txt
+  run: |
+    mkdir -p dist logs tmp
+    echo "📁 确保 dist/logs/tmp 文件夹存在"
+    
+    # 设置 dist 文件夹的权限
+    chmod -R 777 dist/
 
-          # 创建 hash_list.bin 文件（如果不存在）
-          if [ ! -f dist/hash_list.bin ]; then
-            python3 -c "import pickle; pickle.dump([], open('dist/hash_list.bin','wb'))"
-            echo "✅ 已创建 hash_list.bin"
-          else
-            echo "ℹ️ hash_list.bin 已存在"
-          fi
+    # 创建 Python 脚本并初始化 not_written_counter.bin 和 hash_list.bin
+    python3 -c "
+import os
+import pickle
 
-          echo "dist/retry_rules.txt 内容预览（前5行）:"
-          head -n 5 dist/retry_rules.txt || echo "⚠ 文件为空"
+def create_file_if_not_exists(filename, default_data):
+    '''如果文件不存在，则创建并初始化为默认数据'''
+    if not os.path.exists(filename):
+        with open(filename, 'wb') as f:
+            pickle.dump(default_data, f)
+        print(f'✅ 已创建 {filename}')
+    else:
+        print(f'ℹ️ {filename} 已存在')
+
+# 初始化 not_written_counter.bin 和 hash_list.bin
+create_file_if_not_exists('dist/not_written_counter.bin', {})
+create_file_if_not_exists('dist/hash_list.bin', [])
+    "
+    
+    # 创建 retry_rules.txt（如果不存在）
+    if [ ! -f dist/retry_rules.txt ]; then
+      touch dist/retry_rules.txt
+      echo "✅ 已创建 retry_rules.txt"
+    else
+      echo "ℹ️ retry_rules.txt 已存在"
+    fi
+
+    echo "dist/retry_rules.txt 内容预览（前5行）:"
+    head -n 5 dist/retry_rules.txt || echo "⚠ 文件为空"
+
 
       - name: ✅ 确保规则文件与分片存在
         run: |
