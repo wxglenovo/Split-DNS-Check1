@@ -301,65 +301,81 @@ def filter_and_update_high_delete_count_rules(all_rules_set):
 # ===============================
 # 哈希分片 + 负载均衡优化
 # ===============================
-def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
+# ===============================
+# 哈希分片 + 负载均衡优化 + 删除计数逻辑
+# ===============================
+
+# 删除计数初始化
+delete_counter = {}
+def update_delete_counter(rule):
     """
-    将规则列表分割成多个分片，并进行负载均衡。
+    更新删除计数（delete_counter）
     """
-    if not os.path.exists(HASH_LIST_FILE):
-        save_bin(HASH_LIST_FILE, {'hash_list': []})
-        print(f"✅ {HASH_LIST_FILE} 已创建")
+    if rule not in delete_counter:
+        delete_counter[rule] = 0
+    delete_counter[rule] += 1
 
-    if use_existing_hashes:
-        # 如果使用现有哈希列表，加载它
-        data = load_bin(HASH_LIST_FILE)
-        hash_list = data.get('hash_list', [])
-        if not hash_list:
-            print("⚠ 哈希值列表为空，将重新计算并分配规则。")
-            use_existing_hashes = False  # 设置为 False，重新计算哈希值
+def split_parts(merged_rules):
+    sorted_rules = sorted(merged_rules)
+    total = len(sorted_rules)
+    part_buckets = [[] for _ in range(PARTS)]
+    hash_list = []  # 存储所有规则的哈希值
     
-    if not use_existing_hashes:
-        # 重新计算所有规则的哈希值并分配分片
-        hash_list = []
-        for rule in merged_rules:
-            rule_hash = hashlib.sha256(rule.encode('utf-8')).hexdigest()  # 计算规则的哈希值
-            hash_list.append(rule_hash)
+    # 首先，根据规则的哈希值进行初步分配
+    for rule in sorted_rules:
+        # 计算哈希值
+        h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
+        idx = h % PARTS
+        part_buckets[idx].append(rule)
+        
+        # 记录哈希值
+        hash_list.append(h)
+        
+        # 同时更新删除计数
+        update_delete_counter(rule)
 
-        # 保存哈希值列表以供后续使用
-        save_bin(HASH_LIST_FILE, {'hash_list': hash_list})
-        print(f"✅ 哈希值计算完成，并保存至 {HASH_LIST_FILE}")
-    
-    # 确保 merged_rules 是列表类型
-    if not isinstance(merged_rules, list):
-        merged_rules = list(merged_rules)  # 将 merged_rules 转换为列表
+    # 然后，进行负载均衡优化
+    while True:
+        lens = [len(b) for b in part_buckets]
+        max_len, min_len = max(lens), min(lens)
+        
+        # 如果负载差距足够小，则结束
+        if max_len - min_len <= BALANCE_THRESHOLD:
+            break
+        
+        max_idx, min_idx = lens.index(max_len), lens.index(min_len)
+        move_count = min(BALANCE_MOVE_LIMIT, (max_len - min_len) // 2)
+        
+        # 如果移动数量小于等于 0，则退出
+        if move_count <= 0:
+            break
+        
+        # 从负载最大的分片移至负载最小的分片
+        part_buckets[min_idx].extend(part_buckets[max_idx][-move_count:])
+        part_buckets[max_idx] = part_buckets[max_idx][:-move_count]
 
-    # 负载均衡 - 根据规则哈希值来分配分片
-    part_buckets = {i: [] for i in range(PARTS)}  # 初始化空的分片字典
+    # 将分配好的规则写入文件，并更新哈希计数
+    for i, bucket in enumerate(part_buckets):
+        filename = os.path.join(TMP_DIR, f"part_{i+1:02d}.txt")
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write("\n".join(bucket))
+        print(f"📄 分片 {i+1}: {len(bucket)} 条规则 → {filename}")
 
-    # 根据哈希值进行负载均衡分配
-    for idx, rule_hash in enumerate(hash_list):
-        # 使用哈希值的第一个字节来决定规则所属的分片
-        part_num = int(rule_hash, 16) % PARTS
-        part_buckets[part_num].append(merged_rules[idx])
+    # 将删除计数保存至 delete_counter.bin
+    delete_counter_file = os.path.join(TMP_DIR, "delete_counter.bin")
+    with open(delete_counter_file, "wb") as f:
+        msgpack.dump(delete_counter, f)
+    print(f"🔢 删除计数已保存至 {delete_counter_file}")
 
-    # 检查负载均衡情况，确保每个分片的规则数量差异不大
-    part_sizes = [len(bucket) for bucket in part_buckets.values()]
-    avg_size = sum(part_sizes) // PARTS
-    print(f"平均每个分片大小: {avg_size} 条规则")
+    # 将哈希值保存至 hash_list.bin
+    hash_list_file = os.path.join(TMP_DIR, "hash_list.bin")
+    with open(hash_list_file, "wb") as f:
+        msgpack.dump(hash_list, f)
+    print(f"🔢 哈希值已保存至 {hash_list_file}")
 
-    # 对于每个负载较重的分片，移动一些规则到较轻的分片
-    for part_num, rules in part_buckets.items():
-        while len(rules) > avg_size * 1.2:  # 如果规则数量超出 120% 平均值
-            rule = rules.pop()  # 移出一条规则
-            # 将规则移到负载较轻的分片
-            min_part_num = min(part_buckets, key=lambda x: len(part_buckets[x]))  # 找到最轻的分片
-            part_buckets[min_part_num].append(rule)
-            print(f"⚖️ 移动规则到分片 {min_part_num}")
-
-    # 打印负载均衡后的分片大小
-    for part_num, rules in part_buckets.items():
-        print(f"分片 {part_num} 规则数量: {len(rules)}")
-
-    return part_buckets
+# 示例：调用分片函数
+merged_rules = ["rule1", "rule2", "rule3", "rule4"]  # 示例规则
+split_parts(merged_rules)
 
         
 # ===============================
