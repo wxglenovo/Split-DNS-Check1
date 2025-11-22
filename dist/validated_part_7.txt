@@ -12480,6 +12480,7 @@
 ||cityredirect.com^
 ||citytosurfmobilecafe.com.au^
 ||cityvida.com^
+||civc.co.uk^
 ||civiccomputing.com^*=cookie$third-party
 ||civilhir.net^
 ||civita2.no-ip.biz^
@@ -20217,6 +20218,7 @@
 ||https.secure.bankofamerica.login.sign.aidmkgfeyt.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.bnabbhcrwf.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.daiolrlcxu.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.gmhwhtgtlw.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.njgnjpfwun.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.qftffwzklh.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.tsobmlregp.underpains.duckdns.org^
@@ -38018,6 +38020,7 @@
 ||www.19700902.xyz^
 ||www.19977.com^
 ||www.19tv.top^
+||www.1a2015.duckdns.org^
 ||www.1baku.ws^
 ||www.1crack.ws^
 ||www.1energy.sk^
@@ -38489,6 +38492,7 @@
 ||www.anjdesign.ca^
 ||www.ankaratemizlik.web.tr^
 ||www.anlunas.com.br^
+||www.annavovk.ru^
 ||www.annstowncar.com^
 ||www.anonyklax.duckdns.org^
 ||www.anonymousfiles.io^
@@ -39109,6 +39113,7 @@
 ||www.cafedelalbapr.com^
 ||www.cafedepot.com^
 ||www.cafesoft.ru^
+||www.cagepacjrat5.duckdns.org^
 ||www.caixainternet.com^
 ||www.cal-family.com^
 ||www.calcitapp.info^
@@ -40822,10 +40827,12 @@
 ||www.htepl.com^
 ||www.htid.co.uk^
 ||www.html-actions4.ucoz.co.uk^
+||www.https.secure.bank-of-america.login.sign.hjmwnbdonr.underpains.duckdns.org^
 ||www.https.secure.bank-of-america.login.sign.jbngyixdzn.underpains.duckdns.org^
 ||www.https.secure.bank-of-america.login.sign.lwwiopyvcx.underpains.duckdns.org^
 ||www.https.secure.bank-of-america.login.sign.lzmumieozo.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.dxypnnzqwb.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.eimhpbzzcg.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.epobqexdva.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.mmmhlmcors.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.odbcqzhsfe.underpains.duckdns.org^
@@ -42028,6 +42035,7 @@
 ||www.nbpintl.com^
 ||www.nclcofdallas.com^
 ||www.nebula.contohdomain.com^
+||www.needacarnow.ca^
 ||www.neevavantgarde.com^
 ||www.negativeseos.com^
 ||www.nehemiahpeople.com^
@@ -43249,6 +43257,7 @@
 ||www.smartcarinsurancequotes.net^
 ||www.smartcode.com^
 ||www.smarterpassword.com^
+||www.smartretail.co.za^
 ||www.smeare.com^
 ||www.smehelp.org^
 ||www.smetrics.argos.co.uk^
@@ -44185,6 +44194,7 @@
 ||www.webcric.com^
 ||www.webengage.com^
 ||www.webfastprint.it^
+||www.webgozar.ir^
 ||www.webhall.com.br^
 ||www.webhits.de^
 ||www.webmai1k.weebly.com^
@@ -44227,6 +44237,7 @@
 ||www.whatsappmela.com^
 ||www.whatsappmods.com^
 ||www.whatsapptxt.com^
+||www.whatsappwweb.com^
 ||www.whatszpp.com^
 ||www.wheelhouse.net^
 ||www.whendoi.com^
@@ -44919,6 +44930,7 @@
 ||xyzsolution.com^
 ||xz.zshwzy.com^
 ||xzfizn.massmedian.co.jp^
+||xzhaicheng.cn^
 ||xzifx.qufewec.yi.org^
 ||xzkqduqxaavac.site^
 ||xzwomen.com^
@@ -44926,6 +44938,7 @@
 ||y.promotionsonlineusa.com^
 ||y.un.11r.us^
 ||y.zeroredirect1.com^
+||y0764.cn^
 ||y0ur-system-rec0very.atspace.cc^
 ||y66xvgo5i.chuimg.com^
 ||y6jn8c31-3152b18f5d0c75effa4e0aca5ec24557a80690c3-sac.d.aa.online-metrix.net^
@@ -45023,9 +45036,11 @@
 ||ykejihmzdvsex.store^
 ||ykfsxw.engie.it^
 ||ykjfdwghjmg.epac.to^
+||ykktwv.titivate.jp^
 ||ykxmsm.buckle-down.com^
 ||ylkhts.cc^
 ||yllgm.lovenights.net^
+||ym193.com^$script
 ||ymetrica.com^
 ||ymir.stripchats.io^
 ||ymiscothis.com^
@@ -45060,12 +45075,17 @@
 ||yourcareerhelper.com^
 ||yourcsgo.com^
 ||yourdatefind.com^
+||yourdatelink.com^
 ||yourfeet.net^
 ||yourfitnessinnovations.com^
 ||yourfloor.net^
+||yourfreeproxy.net^
 ||yourfuturenotary.com^
+||yourgreen.net^
+||yourlifestyle-blog.com^
 ||yourlondonbridge.go2cloud.org^
 ||yournextram.org^
+||yournexttwcindex.weebly.com^
 ||yourtango.evergage.com^
 ||youssemx.beget.tech^
 ||youthfulpoem.pro^
@@ -45239,6 +45259,7 @@
 ||zermeo.com^
 ||zero-trace.info^
 ||zerocalorie.torani.com^
+||zerosumbudget.com^
 ||zesep.com^
 ||zestjoy.pro^
 ||zestyrover.com^
@@ -45270,6 +45291,7 @@
 ||zh.celebjihad.live^
 ||zh.chiccams.com^
 ||zh.meegmfio.in^
+||zh.yomobi.net^
 ||zhanzhang.net^
 ||zhdbc.com^
 ||zhihei.com^
@@ -45292,6 +45314,7 @@
 ||zigzagstr.engineapplication-spring-administrators.net.daraz.com^
 ||zigzagstrdocsnewnautilus12345proxy3.net.daraz.com^
 ||zihxrpbsup.neliver.com^
+||zikadanger.duckdns.org^
 ||zilipendwaradio.com^
 ||zimbra-vif2025.weebly.com^
 ||zimbra.azurewebsites.net^
@@ -45393,6 +45416,7 @@
 ||zs68.com^
 ||zsfcg0bs0y.neliver.com^
 ||zsfkdjnljt.neliver.com^
+||zsj18.com^
 ||zsmsuwmifkrqv.online^
 ||zstorm.com.br^
 ||zsvlomnica.sk^
