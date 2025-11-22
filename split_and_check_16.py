@@ -321,7 +321,7 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
     """
     将规则列表分割成多个分片，并进行负载均衡。
     """
- # 确保 hash_list.bin 存在，如果不存在，则初始化为空的列表
+    # 确保 hash_list.bin 存在，如果不存在，则初始化为空的列表
     if not os.path.exists(HASH_LIST_FILE):
         save_bin(HASH_LIST_FILE, {'hash_list': []})  # 创建空的哈希列表
         print(f"✅ {HASH_LIST_FILE} 已创建")
@@ -346,23 +346,22 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
         save_bin(HASH_LIST_FILE, {'hash_list': hash_list})  # 保存哈希值列表
         print(f"✅ {HASH_LIST_FILE} 已保存 {len(hash_list)} 个哈希值")
 
-    # 继续后续的处理
     # 计算不同 delete_counter 值的规则
     counter_buckets = {i: [] for i in range(29)}  # 假设 delete_counter 最大为 28
     for rule, count in delete_counter.items():
         counter_buckets[count].append(rule)
     
-    # 3. 初始化 PARTS 个分片（列表，存储分片内的规则）
+    # 初始化 PARTS 个分片（列表，存储分片内的规则）
     part_buckets = [[] for _ in range(PARTS)]  # PARTS 为分片数量，通常为 16
 
-    # 4. 依次处理每个 delete_counter 值的规则
+    # 依次处理每个 delete_counter 值的规则
     for delete_val in range(29):  # 假设最大删除计数为 28
         rules_for_counter = counter_buckets[delete_val]  # 获取该删除计数对应的规则集合
         # 根据规则的哈希值将规则分配到分片中
         for rule in rules_for_counter:
             if use_existing_hashes:
                 # 使用现有哈希值列表来获取规则的哈希值
-                h = hash_list.pop(0)
+                h = hash_list.pop(0)  # 从现有哈希列表中获取哈希值
             else:
                 # 使用 SHA-256 哈希计算规则的哈希值，并转为十六进制整数
                 h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
@@ -372,19 +371,28 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
             idx = h % PARTS  # 使用哈希值对分片进行分配，确保规则的均匀分布
             part_buckets[idx].append(rule)
 
-    # 5. 计算完毕，更新 hash_list 和其他数据并保存到 bin 文件
+    # 进行负载均衡优化
+    part_buckets = balance_parts(part_buckets)
+
+    # 负载均衡后，统一更新哈希列表
+    final_hash_list = []
+    for bucket in part_buckets:
+        for rule in bucket:
+            # 获取每个规则的哈希值并加入最终哈希列表
+            h = int(hashlib.sha256(rule.encode("utf-8")).hexdigest(), 16)
+            h = h % (2**64)  # 将哈希值限制在 64 位范围内
+            final_hash_list.append(h)
+
+    # 更新 hash_list 和其他数据并保存到 bin 文件
     data = {
-        'hash_list': hash_list,  # 保存哈希列表
+        'hash_list': final_hash_list,  # 保存更新后的哈希列表
         'part_buckets': part_buckets,  # 保存分片规则
     }
-    
+
     # 保存更新后的数据到 hash_list.bin 文件
     save_bin(HASH_LIST_FILE, data)
 
-    # 6. 进行负载均衡优化
-    part_buckets = balance_parts(part_buckets)
-
-    # 7. 将分配好的规则写入文件
+    # 将分配好的规则写入文件
     for i, bucket in enumerate(part_buckets):
         filename = os.path.join("tmp", f"part_{i+1:02d}.txt")  # 分片文件名
         os.makedirs("tmp", exist_ok=True)  # 确保临时目录存在
@@ -414,7 +422,7 @@ def find_lowest_part(part_buckets):
     """
     lens = [len(b) for b in part_buckets]
     return lens.index(min(lens))
-    
+
 # ===============================
 # DNS 验证
 # ===============================
