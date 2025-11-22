@@ -187,7 +187,7 @@ def download_all_sources():
 # ===============================
 def filter_and_update_high_delete_count_rules(all_rules_set):
     """
-    过滤和更新删除计数 >=7 的规则
+    过滤和更新删除计数 >=7 的规则。
     1. 如果规则在 merged_rules_temp.txt 的规则列表中，重置删除计数为 6；
     2. 如果不在 merged_rules_temp.txt 规则列表中，继续增加删除计数，直到删除计数达到 28 时，删除该规则的删除计数记录。
     """
@@ -237,6 +237,7 @@ def filter_and_update_high_delete_count_rules(all_rules_set):
 
     skipped_count = len(skipped_rules)
     return low_delete_count_rules, updated_delete_counter, skipped_count
+
 
 # ===============================
 # 哈希分片 + 负载均衡优化
