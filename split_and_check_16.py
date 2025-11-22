@@ -310,52 +310,63 @@ def load_balance_failed_rules(part_buckets, counter):
 # DNS 验证
 # ===============================
 def dns_validate(rules, part):
+    """
+    对给定规则集进行 DNS 验证，并返回有效的规则列表。
+    1. 如果有重试规则（存在 retry_rules.txt 文件），则将其与当前规则合并。
+    2. 将合并后的规则写入临时文件以供后续处理。
+    3. 使用线程池并行化 DNS 验证过程，验证每条规则的有效性。
+    4. 输出验证进度和统计信息。
+    """
     retry_rules = []
+    
+    # 1. 检查是否存在重试规则文件 retry_rules.txt，如果存在则读取其中的规则
     if os.path.exists(RETRY_FILE):
         with open(RETRY_FILE, "r", encoding="utf-8") as rf:
-            retry_rules = [l.strip() for l in rf if l.strip()]
+            retry_rules = [l.strip() for l in rf if l.strip()]  # 清理空行
     
-    # 打印将重试规则插入分片顶部并清空文件的日志
+    # 打印日志：重试规则的数量，并表示将插入分片顶部
     if retry_rules:
         print(f"🔁 将 {len(retry_rules)} 条 retry_rules 插入分片顶部并清空 {RETRY_FILE}")
     
-    # 合并重试规则和当前需要验证的规则
+    # 2. 合并重试规则和当前需要验证的规则
+    # 如果有重试规则，将它们放在规则集的顶部；如果没有重试规则，则直接使用当前规则
     combined_rules = retry_rules + rules if retry_rules else rules
+
+    # 3. 将合并后的规则写入临时文件，为后续的验证过程做准备
     tmp_file = os.path.join(TMP_DIR, f"vpart_{part}.tmp")
-    
-    # 写入合并后的规则到临时文件
     with open(tmp_file, "w", encoding="utf-8") as f:
-        f.write("\n".join(combined_rules))
+        f.write("\n".join(combined_rules))  # 将规则写入临时文件
     
-    # 清空 retry_rules 文件
+    # 4. 清空 retry_rules.txt 文件，防止重复使用重试规则
     if retry_rules:
         with open(RETRY_FILE, "w", encoding="utf-8") as f:
-            f.write("")  # 清空文件
+            f.write("")  # 清空文件内容，准备下一次重试
     
-    valid_rules = []
-    total_rules = len(combined_rules)
-    
-    # 使用线程池并行处理 DNS 验证
+    valid_rules = []  # 用于存放验证成功的规则
+    total_rules = len(combined_rules)  # 计算合并后的规则总数
+
+    # 5. 使用线程池并行化 DNS 验证过程
+    # 利用线程池异步验证每个规则，提高处理效率
     with ThreadPoolExecutor(max_workers=DNS_THREADS) as executor:
-        futures = {executor.submit(check_domain, r): r for r in combined_rules}
-        completed, start_time = 0, time.time()
+        futures = {executor.submit(check_domain, r): r for r in combined_rules}  # 提交任务到线程池
+        completed, start_time = 0, time.time()  # 初始化计数器和开始时间
         
-        # 逐个处理验证结果
+        # 6. 逐个处理验证结果
         for future in as_completed(futures):
-            res = future.result()
+            res = future.result()  # 获取当前任务的执行结果
             if res:
-                valid_rules.append(res)
-            completed += 1
+                valid_rules.append(res)  # 如果验证成功，加入有效规则列表
+            completed += 1  # 完成任务数增加
             
-            # 输出进度信息
+            # 7. 输出验证进度：每完成一批规则（DNS_BATCH_SIZE）或者完成所有验证时，输出进度信息
             if completed % DNS_BATCH_SIZE == 0 or completed == total_rules:
-                elapsed = time.time() - start_time
-                speed = completed / elapsed if elapsed > 0 else 0
-                eta = (total_rules - completed) / speed if speed > 0 else 0
+                elapsed = time.time() - start_time  # 计算已用时间
+                speed = completed / elapsed if elapsed > 0 else 0  # 计算验证速度
+                eta = (total_rules - completed) / speed if speed > 0 else 0  # 估算剩余时间
                 print(f"✅ 已验证 {completed}/{total_rules} 条 | 有效 {len(valid_rules)} 条 | 速度 {speed:.1f}/秒 | 预计完成 {eta:.1f}s")
     
+    # 8. 返回所有有效的规则
     return valid_rules
-
 
 # ===============================
 # 更新 not_written_counter
