@@ -187,4 +187,7 @@ create_file_if_not_exists("dist/hash_list.bin", [])
           git add tmp/last_part.txt dist/delete_counter.bin dist/not_written_counter.bin merged_rules.txt || true
           git add dist/retry_rules.txt 2>/dev/null || true
           git add dist/validated_part_*.txt 2>/dev/null || true
-          git commit -m "🤖 分片 $PART | $STATS" || echo "ℹ️ 无
+          git commit -m "🤖 分片 $PART | $STATS" || echo "ℹ️ 无变化，无需提交"
+          git pull --rebase origin main || echo "⚠ pull失败（忽略）"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main || echo "⚠ push失败（可能无变化）"
+          set -e
