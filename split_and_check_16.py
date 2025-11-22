@@ -15,10 +15,11 @@ URLS_TXT = "urls.txt"
 TMP_DIR = "tmp"
 DIST_DIR = "dist"
 MASTER_RULE = "merged_rules.txt"
-HASH_LIST_FILE = 'dist/hash_list.bin'
+
 
 PARTS = 16
 DNS_TIMEOUT = 2
+HASH_LIST_FILE =os.path.join(DIST_DIR, "hash_list.bin") 
 DELETE_COUNTER_FILE = os.path.join(DIST_DIR, "delete_counter.bin")
 NOT_WRITTEN_FILE = os.path.join(DIST_DIR, "not_written_counter.bin")
 RETRY_FILE = os.path.join(DIST_DIR, "retry_rules.txt")
@@ -307,12 +308,13 @@ def save_hash_list(hashes, filename):
     try:
         # 确保 dist 目录存在
         os.makedirs(os.path.dirname(filename), exist_ok=True)
+        print(f"🔐 正在保存哈希值列表到 {filename}, 哈希数量: {len(hashes)}")
         with open(filename, 'wb') as f:
             pickle.dump(hashes, f)
         print(f"🔐 哈希值列表已保存到 {filename}")
     except Exception as e:
         print(f"⚠ 保存哈希值列表到 {filename} 时发生错误: {e}")
-
+        
 def load_hash_list(filename):
     """
     从二进制文件中加载哈希值列表。
@@ -401,7 +403,6 @@ def split_parts(merged_rules, delete_counter, use_existing_hashes=False):
 
     # 11. 更新哈希值列表文件
     save_hash_list(hash_list, HASH_LIST_FILE)  # 确保路径是 dist/hash_list.bin
-
 
 def balance_parts(part_buckets):
     """
