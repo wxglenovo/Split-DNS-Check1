@@ -372,55 +372,74 @@ def dns_validate(rules, part):
 # 更新 not_written_counter
 # ===============================
 def update_not_written_counter(part_num):
-    part_key = f"validated_part_{part_num}"
-    counter = load_bin(NOT_WRITTEN_FILE)
+    """
+    更新每个规则的 `write_counter`，并根据验证结果处理规则的重试逻辑。
+    1. 将新验证的规则的 `write_counter` 设置为最大值。
+    2. 对于已验证但未出现在新规则中的规则，递减 `write_counter`。
+    3. 如果 `write_counter <= 0`，将规则移入 `retry_rules.txt` 文件，并从已验证规则中删除。
+    4. 最终更新规则文件，并保存更新后的 `not_written_counter`。
+    """
+    part_key = f"validated_part_{part_num}"  # 获取当前分片的 key
+    counter = load_bin(NOT_WRITTEN_FILE)  # 加载现有的 `not_written_counter` 文件
     
-    # 初始化每个 part 的计数器
+    # 1. 初始化每个 part 的计数器
+    # 确保所有分片的计数器都已初始化，即使某些分片没有规则
     for i in range(1, PARTS + 1):
-        counter.setdefault(f"validated_part_{i}", {})
+        counter.setdefault(f"validated_part_{i}", {})  # 初始化所有分片的计数器为空字典
 
-    validated_file = os.path.join(DIST_DIR, f"{part_key}.txt")
-    tmp_file = os.path.join(TMP_DIR, f"vpart_{part_num}.tmp")
+    validated_file = os.path.join(DIST_DIR, f"{part_key}.txt")  # 获取当前分片已验证规则文件路径
+    tmp_file = os.path.join(TMP_DIR, f"vpart_{part_num}.tmp")  # 获取当前分片临时文件路径
 
-    # 读取已验证和临时文件中的规则
+    # 2. 读取已验证和临时文件中的规则
+    # 从文件中读取当前分片的已验证规则和临时规则
     existing_rules = set(open(validated_file, "r", encoding="utf-8").read().splitlines()) if os.path.exists(validated_file) else set()
     tmp_rules = set(open(tmp_file, "r", encoding="utf-8").read().splitlines()) if os.path.exists(tmp_file) else set()
 
-    part_counter = counter.get(part_key, {})
+    part_counter = counter.get(part_key, {})  # 获取当前分片的计数器，若没有则初始化为空字典
 
-    # 将新验证的规则的 write_counter 设置为最大值
+    # 3. 将新验证的规则的 `write_counter` 设置为最大值
+    # 对于新验证的规则（即临时规则中存在但已验证规则中不存在的规则），将它们的 `write_counter` 设置为最大值
     for r in tmp_rules:
-        part_counter[r] = WRITE_COUNTER_MAX
-    
-    # 递减已验证但未出现在新规则中的规则的 write_counter，并确保不超过最大值
+        part_counter[r] = WRITE_COUNTER_MAX  # 设置 `write_counter` 为最大值
+
+    # 4. 递减已验证但未出现在新规则中的规则的 `write_counter`
+    # 对于已验证规则集中存在，但在新临时规则集（`tmp_rules`）中不再出现的规则，递减它们的 `write_counter`
     for r in existing_rules - tmp_rules:
-        part_counter[r] = max(part_counter.get(r, WRITE_COUNTER_MAX) - 1, 0)  # 确保不小于 0 且不超过 WRITE_COUNTER_MAX
-    
-    # 找出 write_counter <= 0 的规则，准备重试
+        part_counter[r] = max(part_counter.get(r, WRITE_COUNTER_MAX) - 1, 0)  # 确保 `write_counter` 不小于 0 且不超过 `WRITE_COUNTER_MAX`
+
+    # 5. 找出 `write_counter <= 0` 的规则，准备重试
+    # 找出 `write_counter` 小于等于 0 的规则，准备将它们写入 `retry_rules.txt` 文件进行重试
     to_retry = [r for r in existing_rules if part_counter.get(r, 0) <= 0]
     
-    # 如果有规则需要重试，将它们写入 retry_rules.txt
+    # 如果有规则需要重试，进行处理
     if to_retry:
+        # 将这些规则写入 `retry_rules.txt` 文件
         with open(RETRY_FILE, "a", encoding="utf-8") as rf:
             rf.write("\n".join(to_retry) + "\n")
         print(f"🔥 {len(to_retry)} 条 write_counter ≤ 0 的规则写入 {RETRY_FILE}")
         
-        # 从已验证规则中删除这些重试的规则
+        # 6. 从已验证规则中删除这些重试的规则
+        # 如果某些规则需要重试，则从已验证的规则集中删除这些规则
         existing_rules -= set(to_retry)
 
-    # 保存更新后的规则
+    # 7. 保存更新后的规则文件
+    # 将更新后的规则（包括新临时规则和未重试的已验证规则）保存回文件
     with open(validated_file, "w", encoding="utf-8") as f:
-        f.write("\n".join(sorted(existing_rules.union(tmp_rules))))
-
-    # 清理已重试规则的计数器
+        f.write("\n".join(sorted(existing_rules.union(tmp_rules))))  # 合并已验证规则和新临时规则，并按字母顺序保存
+    
+    # 8. 清理已重试规则的计数器
+    # 对于需要重试的规则，清除它们在计数器中的记录
     for r in to_retry:
         part_counter.pop(r, None)
 
-    # 更新 part_counter
+    # 9. 更新 `part_counter`
+    # 将更新后的计数器保存回 `not_written_counter` 文件中
     counter[part_key] = part_counter
     save_bin(NOT_WRITTEN_FILE, counter)
 
-    return len(to_retry)
+    # 10. 返回需要重试的规则数量
+    return len(to_retry)  # 返回重试规则的数量
+
 
 # ===============================
 # 处理分片
