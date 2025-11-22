@@ -115,6 +115,7 @@ va.huya.com
 |abruzzoinitaly.co.uk^
 |absbwe-do4n.vercel.app^
 |abtesting.perfectcorp.com^
+|abtracker.adultbouncer.com^
 |ac.rnm.ca^
 |academy.hubspot.com^
 |accessport.jp^
@@ -230,6 +231,7 @@ va.huya.com
 |ads.watchmygf.net^
 |ads.xbiz.com^
 |ads.yumenetworks.com^
+|ads.zalo.me^
 |ads08.focalink.com^
 |ads1.ero-advertising.com^
 |ads15.focalink.com^
@@ -291,6 +293,7 @@ va.huya.com
 |adx-in.ads.heytapmobile.com^
 |adx.gayboy.at^
 |adyogis.gotrackier.com^
+|ae.amgdgt.com^
 |aetherappai-app.com^
 |aetheronsorlith.com^
 |affiliate.googleusercontent.com^
@@ -496,6 +499,7 @@ va.huya.com
 |basketballbelieve.com^
 |baskigezegeni.net^
 |bats.video.yahoo.com^
+|bbn.img.com.ua^
 |bbs.ws^
 |bbumgames.pushwoosh.com^
 |bcacinchpartnersproduction.112.2o7.net^
@@ -843,6 +847,7 @@ va.huya.com
 |d1jikhx1ssl81z.cloudfront.net^
 |d2p8taqyjofgrq.cloudfront.net^
 |d2tgfbvjf3q6hn.cloudfront.net^
+|d3.sina.com.cn^
 |d3ix626fe.com^
 |d4t4focusx.digital^
 |d6.zedo.com^
@@ -956,6 +961,7 @@ va.huya.com
 |easymetal.it^
 |ebcom.112.2o7.net^
 |echotrader-app.com^
+|eclass47.duckdns.org^
 |ecovand.com^
 |edelvaltrion.com^
 |edge-vaultra-app.pro^
@@ -1162,6 +1168,7 @@ va.huya.com
 |gerborsyva-soft.com^
 |gershop.com^
 |gestionycobranzas.com^
+|get.mycounter.ua^
 |getgetbarter.com^
 |getmaxhealthinsurance.com^
 |getpoliglu.com^
@@ -1192,6 +1199,8 @@ va.huya.com
 |gpt-xp-lispro-app.com^
 |gpt4aplus.net^
 |gpt500app.net^
+|gpt90lispro.com^
+|gptalora50-xp.com^
 |gptifex-xp.com^
 |grabify.link^
 |greatgrace.ru^
@@ -1199,6 +1208,7 @@ va.huya.com
 |greeninst.com^
 |grewaltech.com^
 |gridglass32.co^
+|grmtech.net^
 |gscounters.us1.gigya.com^
 |guqasrx.today^
 |gw.mediation.unity3d.com^
@@ -1209,6 +1219,7 @@ va.huya.com
 |haftaninyarismasi.com^
 |hai2u.com^
 |hallmarkibmcom.112.2o7.net^
+|halvingai-software.com^
 |handyincrease.com^
 |hanyboke.com^
 |hapax.qc.ca^
@@ -1232,10 +1243,12 @@ va.huya.com
 |hitstatus.com^
 |hkstablecoin.top^
 |hodl-crynex.net^
+|home-outlet.pl^
 |hook.integromat.com^
 |horizontech04crystalcore.sbs^
 |horizontech6vectorprime.sbs^
 |host-it.co.uk^
+|hostify.fr^
 |hosting.adjug.com^
 |hotrecruiter.com^
 |hpresoxo.com^
@@ -1251,6 +1264,7 @@ va.huya.com
 |i-sdk.mediation.unity3d.com^
 |i.adfurikun.jp^
 |i.connectad.io^
+|i.popincdn.com^
 |i.simpli.fi^
 |i.singular.net^
 |i305175.net^
@@ -1261,6 +1275,8 @@ va.huya.com
 |id.sputniknews.com^
 |id5576.al21.luxup.ru^
 |idealtits.net^
+|idg.amp.permutive.com^
+|idolax.com^
 |ignals.com^
 |ihnces04.com^
 |ijajobaleft.com^
@@ -1275,12 +1291,15 @@ va.huya.com
 |img.applovin.com^
 |img.avatraffic.com^
 |img.bypass.jp^
+|img.layer-ads.de^
 |img001.com^
 |immediate-3-alrex.com^
 |immediate-600-renova.com^
 |immediate-ai-max.pro^
 |immediate-alora-ai.com^
+|immediate-app-dexair.pro^
 |immediate-bitnex.com^
+|immediate-bitwave.net^
 |immediate-booster.org^
 |immediate-capexai.com^
 |immediate-core-ai.net^
@@ -1291,10 +1310,12 @@ va.huya.com
 |immediate-imovax-app.net^
 |immediate-intal4xtech.com^
 |immediate-lidex-ai.net^
+|immediate-luminary-ai.com^
 |immediate-medrol.net^
 |immediate-mobic-i300platform.com^
 |immediate-mobicx9.com^
 |immediate-neon-ai.com^
+|immediate-nexavar-app.com^
 |immediate-noxel-5c.com^
 |immediate-prime.com^
 |immediate-prolia-app.com^
@@ -1314,6 +1335,7 @@ va.huya.com
 |immediate75keflexpro.com^
 |immediate81crypto.com^
 |immediateaccess-pro.com^
+|immediateaibank.com^
 |immediatealpha-engine.com^
 |immediateanredex.net^
 |immediateavage4000-immediatei4avage.com^
@@ -1328,12 +1350,15 @@ va.huya.com
 |immediateintalapp.com^
 |immediateintalbot.com^
 |immediatemotion.org^
+|immediateneuprox3.com^
 |immediatepermaxai.net^
 |immediateproair.net^
 |immediateproprolia-app.com^
 |immediatepumpai.pro^
 |immediatequantor-engine.com^
+|immediaterelpaxai-app.com^
 |immediaterevolution360.app^
+|immediatesanorex.app^
 |immediatesanorexv7.net^
 |immediateserax.org^
 |immediatevolarix64titan.com^
@@ -1344,7 +1369,9 @@ va.huya.com
 |imserv006.adtech.us^
 |in.ff5.com^
 |index-kionex-x.net^
+|indexuniverse.eu^
 |indieselparts.net^
+|indo.autoads.asia^
 |infinitynexus.top^
 |infoblock.digital^
 |information-update.dynamic-dns.net^
@@ -1370,11 +1397,14 @@ va.huya.com
 |instanteprex-software.com^
 |instantmaxai.org^
 |instantnuvyra20.net^
+|instastory.pl^
 |intal-8xsoftware.com^
+|intela.com^
 |intellionera.net^
 |intelliverto.net^
 |interaction.apester.com^
 |interfinex-platform.com^
+|internal.fuckyoucash.com^
 |intesazorli20.net^
 |invellia.digital^
 |invellix.buzz^
@@ -1396,6 +1426,7 @@ va.huya.com
 |jadserve.postrelease.com^
 |jailbaitclub.top^
 |jalvo-02mexint.biz^
+|javacenter.pl^
 |jbaventures.cjt1.net^
 |jdj1516.com^
 |jdownloader.fr^
@@ -1423,9 +1454,11 @@ va.huya.com
 |js4.clickzs.com^
 |julianhospacademy.cakedefi.com^
 |jurosxyro.net^
+|justgetbarter.com^
 |justjared.crwdcntrl.net^
 |k.streamrail.com^
 |k3vzn.flx10.com^
+|kaartenhuis.nl.site-id.nl^
 |kadirplastik.com^
 |kakhun.ru^
 |kambiyom.org^
@@ -1446,6 +1479,7 @@ va.huya.com
 |kids-in-sandbox.com^
 |kimestes.org^
 |kingkonta.pl^
+|kingspark.biz^
 |kinodom.pl^
 |kizunaquantengine.com^
 |klaronbitapp-platform.com^
@@ -1473,12 +1507,14 @@ va.huya.com
 |kunsttruhe.com^
 |kuspitai.net^
 |kuzijey.com^
+|la2.eclick.vn^
 |laborex.hu^
 |laexotic.com^
 |lafeghardo.top^
 |lafirkaro.xyz^
 |landolakescomprod.112.2o7.net^
 |larevixinvest.net^
+|largondex-app.net^
 |latorexbitsystem.com^
 |laundrymateball.com^
 |lax-1.go.sonobi.com^
@@ -1491,12 +1527,16 @@ va.huya.com
 |learnhome.today^
 |learnproudly.com^
 |ledgerslive.com^
+|lefeikaro.info^
 |lefigagoo.com^
 |lefiharoo.pro^
+|lefphigaro.info^
+|lemovnde.fr^
 |lendaira.com^
 |lendaviax.digital^
 |leroymerlin.112.2o7.net^
 |levarpexapp-app.com^
+|lexoro-byte-ai.net^
 |li.patheos.com^
 |libs.lavanetwork.net^
 |liderbazaar.com^
@@ -1546,13 +1586,17 @@ va.huya.com
 |logs-01.loggly.com^
 |logs.eresmas.com^
 |logs1122.xiti.com^
+|logscafef.channelvn.net^
 |logv2.kienthuc.net.vn^
 |loind.mobio.vn^
+|lokata-pipelinepro.com^
+|lolshock.com^
 |lonavixio-app.com^
 |lonvexum-platform.com^
 |look.utndln.com^
 |lorirexon-engine.com^
 |loudlunch.com^
+|lp.empire.goodgamestudios.com^
 |lsniacyfinthora-app.net^
 |lucid-profit-ai-tech.com^
 |lueurflowdexengine.com^
@@ -1567,6 +1611,7 @@ va.huya.com
 |luno-xyrem.com^
 |lunorochain-app.com^
 |luvirexbit.net^
+|luxeasy-miras-app.com^
 |luz-flowdex.net^
 |maatch.com^
 |mackeeperapp3.mackeeper.com^
@@ -1605,8 +1650,10 @@ va.huya.com
 |media.innity.net^
 |media2.adshuffle.com^
 |mediaplex.com^
+|mediation.fyber.com^
 |medorbit.xyz^
 |mega1app.yeah1publishing.com^
+|mena-gmtdmp.mookie1.com^
 |mercaprogptsoftware.com^
 |merit-luxis.net^
 |merit-vaultaris.net^
@@ -1626,6 +1673,7 @@ va.huya.com
 |metrics.nutraingredients-usa.com^
 |metrics.pennlive.com^
 |metrics.philly.com^
+|metrics.post-gazette.com^
 |metrics.postoffice.co.uk^
 |mettelindberg.dk^
 |mhelp.araroi.com^
@@ -1657,6 +1705,7 @@ va.huya.com
 |monster.gostats.com^
 |montoro-fundex.net^
 |montrivexpro-app.com^
+|mookie1.com^
 |mordentavia.info^
 |mornexispro-app.net^
 |most-popular-info.g5e.com^
@@ -1664,19 +1713,25 @@ va.huya.com
 |motoren.ru^
 |mousestats.com^
 |movieads.imgs.sapo.pt^
+|mpx.mopub.com^
+|msntrademarketing.112.2o7.net^
 |mtag.adxcore.com^
 |mtrx.go.sonobi.com^
 |mtvu.112.2o7.net^
+|mudrovaxisapp-app.com^
 |muskboostai.net^
 |mv.treehousei.com^
+|mvideo.tpmedia.online^
 |myao.adocean.pl^
 |mydmp.exelator.com^
 |mymediarecommendations.com^
 |mypagerank.net^
+|mypornsnap.top^
 |mysqlzdev.com^
 |mystat-in.net^
 |mythings.com^
 |n7.nskfyl.com^
+|na-g.marketo.com^
 |na-sj24.marketo.com^
 |nagroda-sms.pl^
 |nanogrid.buzz^
@@ -1685,22 +1740,36 @@ va.huya.com
 |nauw-toezicht.net^
 |navegg.com^
 |naxreich-tech.com^
+|nbach-6267.twil.io^
+|nbc.interpolls.com^
 |nbcu.demdex.net^
 |nbcume.hb.omtrdc.net^
 |neimengqc.com^
+|neronix560profitapp.com^
+|neronixluno20.com^
 |netdirect.nl^
 |netherexpro.pro^
 |networld.hk^
+|neudesicmediagroup.com^
+|neuraltresor.com^
 |neuraltresor.net^
+|neurovento.net^
+|new.sejourne.ae^
+|newclick.com^
 |newip427.changeip.net^
 |nexalybit-pregled.net^
+|nexalyze.digital^
 |nexisfintrading.net^
 |nexium.1.p2l.info^
+|nexonix-profit-app.net^
+|nexorimai-app.com^
 |nextadental.com^
 |nexwaldnexusapp.net^
 |nexxtgaze1a.info^
 |nguyennghi.info^
+|niteach.today^
 |niveshpaydex.net^
+|nivexorflex-7-2ai.com^
 |nmbeaufort.112.2o7.net^
 |nmcomnancomedia.112.2o7.net^
 |nmminneapolis.112.2o7.net^
@@ -1743,19 +1812,29 @@ va.huya.com
 |obsidianquantrexsolution.com^
 |obuse-apple.com^
 |occi.opencoccoc.com^
+|oclasrv.com^
+|octopusgirl.com^
+|oculv.com^
+|odbierz-bony.ovp.pl^
 |odpowiednikiperfum.com^
 |offer.alibaba.com^
 |offermatica.com^
 |oggi.corrieredella-serra.com^
 |ogladaj-online.pl^
+|ogrod-moje-zycie.myshopify.com^
+|oil-profit-system.com^
+|ojrq.net^
 |okcounter.com^
 |olingerphoto.com^
+|olsp.shop^
 |olx.inne-194385754.rest^
+|olx.pzg3932.rest^
 |om.craftsman.com^
 |om.truecar.com^
 |omedelbartnexorium.com^
 |omelafinovaapp.net^
 |omn.sonypictures.com^
+|on.5.p2l.info^
 |onclickads.net^
 |onfiltre.com.tr^
 |online.transitional.today^
@@ -1764,6 +1843,7 @@ va.huya.com
 |onlyfans-nudes.com^
 |onsiteshq.smarterhq.io^
 |onsocialscience.net^
+|onwardrespirationcommandment.com^
 |onyxguardify.de^
 |openbid.pubmatic.com^
 |opengapps.com^
@@ -1811,6 +1891,7 @@ va.huya.com
 |paypal-exchange.com^
 |pc051-k4snh.ads.tremorhub.com^
 |pcbutts1.ourtoolbar.com^
+|pcpitstop.com^
 |pdx-col.eum-appdynamics.com^
 |pekao-online-moj-bonus.moj-id.cfd^
 |pelarianthestix.icu^
@@ -1820,6 +1901,7 @@ va.huya.com
 |pepcopl.sbs^
 |peretti-bitvalor-engine.com^
 |perfordexappai.com^
+|performancehorizon.com^
 |persgroepadvertising.nl^
 |petametrics.com^
 |petroperu-stock.xyz^
@@ -1856,6 +1938,7 @@ va.huya.com
 |pl-pst.info^
 |pl-zamowienie765425776432123568999009865212790.click^
 |pl.vidazoo.com^
+|pl1.intensv.com^
 |pl1.landofm.com^
 |pl1.yumenetworks.com^
 |pl106067.puhtml.com^
@@ -1922,6 +2005,7 @@ va.huya.com
 |proquantum-ai-tech.com^
 |prosperity-ai-app.com^
 |prosperitybastiontech.com^
+|protect.geoedge.be^
 |protection.napolice.com^
 |proton-tm.com^
 |proxeniq-app.com^
@@ -1931,6 +2015,8 @@ va.huya.com
 |psychsupport-program.net^
 |pu094ev.com^
 |pub.lavamedia.vn^
+|public.fam-8.com^
+|pubserver.xl.pt^
 |pulkauaiworld.112.2o7.net^
 |puls-bitcoin.com^
 |pulsaratech.net^
@@ -1973,23 +2059,29 @@ va.huya.com
 |quantumwealthcapital.net^
 |quavonixtrader62flex.net^
 |qubiquantlogic.com^
+|qubiquantnodetech.com^
 |qubiquantsoft.com^
 |queenfhook.corporatesecuritypros.com^
 |queronixtrader.net^
 |query-us-east1.petametrics.com^
 |questionmarket.com^
 |quietknowledge.com^
+|quirkytravels.com^
 |quordlepuzzles.pl^
 |quple-ai.com^
+|qyberearnz-system.com^
 |qyronexis.com^
 |qyronexis.net^
 |r.logrocket.io^
 |r0sr.com^
+|radix-luxerontech.com^
+|rads.msn.com^
 |raiz-capital-app.com^
 |ralmor-3daxino.digital^
 |ramifrie.weebly.com^
 |randkidzis.pl^
 |raskrutka.ucoz.com^
+|rate.opinionlab.com^
 |rateswood.net^
 |ratujmy.org^
 |ravonixtrader41titan.com^
@@ -2017,11 +2109,14 @@ va.huya.com
 |renditbitrow-app.com^
 |rendivagptsystem.org^
 |renewingfaces.com^
+|rentakalvor.net^
 |rentron-ai.net^
+|report.mediaz.vn^
 |reporting.tutelatechnologies.com^
 |repozarexapp-system.com^
 |reproductionsreload.shop^
 |republer.com^
+|repuclicaa.pro^
 |researchnow.com^
 |resonate.com^
 |resources.crowdtwist.com^
@@ -2055,7 +2150,9 @@ va.huya.com
 |rose.ixbt.com^
 |roseproje.com^
 |rot4.a8.net^
+|rotadayiz.com^
 |roundcube-907a6b.webflow.io^
+|royalzysk.com^
 |rr1.xxxcounter.com^
 |rrpartners.122.2o7.net^
 |rrtaxsolution.online^
@@ -2064,6 +2161,9 @@ va.huya.com
 |rtb-csync.smartadserver.com^
 |rtbflairads.com^
 |rtl-most.blogspot.hu^
+|rtsangedan.pro^
+|rtscloyden.info^
+|rudy.adsnative.com^
 |ruhig-finlore.net^
 |rum-collector.pingdom.net^
 |rumorhive.top^
@@ -2074,17 +2174,25 @@ va.huya.com
 |rynoxstrideai.org^
 |ryzorcoreai.net^
 |s-files.innovid.com^
+|s.media-imdb.com^
 |s.moatads.com^
+|s.sharethis.com^
+|s1.2mdn.net^
+|s10.his.ero-advertising.com^
 |s10.histats.com^
+|s2150.t.eloqua.com^
 |s3.lightboxcdn.com^
 |s62.research.de.com^
 |s8t.teads.tv^
 |sa.aol.com.122.2o7.net^
 |sabina.com^
 |sacekimibursa.com^
+|sadbmetrics.elcomercio.es^
 |sadobeanalytics.medline.com^
 |safesnowsweeper.com^
 |saksfifthavenue.122.2o7.net^
+|sale8899.com^
+|salviaxplatform.com^
 |samername.shop^
 |samiuzun.com^
 |samotne-polki.pl^
@@ -2098,20 +2206,25 @@ va.huya.com
 |satoshi-viax.pro^
 |satoshimyrionplatform.com^
 |saxofosters.122.2o7.net^
+|saxotechtylerpaper.122.2o7.net^
 |saygilokum.com^
 |schoolcl.digital^
 |schoon-maakbedrijf.com^
+|scrippsfineliving.112.2o7.net^
 |scrippsfrontdoor.112.2o7.net^
 |script.dotmetrics.net^
 |script.mclick.mobi^
+|scripts.host.bannerflow.com^
 |scripts.mediavine.com^
 |sdc.tele.net^
+|sdcreative.online^
 |sdk.ad.smaato.net^
 |sdk.sharethrough.com^
 |sdk.upush.co^
 |sdkconfig.ad.india.xiaomi.com^
 |sdkconfig.ad.intl.xiaomi.com^
 |sdkfluttzq.com^
+|search.effectivebrand.com^
 |seclubgayrimenkul.net^
 |secondcom.familymediachannel.com^
 |secondhandshoes.shop^
@@ -2141,6 +2254,8 @@ va.huya.com
 |sfo4.ipromote.com^
 |shapez.gameads.io^
 |sharks.vn^
+|sheetart.buzz^
+|shift100amrix-software.com^
 |shift100amrixreview.com^
 |shift70hiprex-app.com^
 |shift8xhiprexai.com^
@@ -2167,10 +2282,12 @@ va.huya.com
 |sjrtp2.marketo.com^
 |sjrtp5-cdn.marketo.com^
 |skassets.com^
+|skleppromocje.pl^
 |skrill-kyc.pl^
 |skroutza.skroutz.gr^
 |skyassetcrest.net^
 |skyline24.net^
+|skypicker-api.infinario.com^
 |skyriock.com^
 |slimxxxtuberau.ddns.name^
 |slimxxxtubeyge.ddns.name^
@@ -2186,6 +2303,7 @@ va.huya.com
 |smetrics.gemvisa.com.au^
 |smetrics.interbank.com.pe^
 |smetrics.ladbrokes.be^
+|smetrics.mackenzieinvestments.com^
 |smetrics.mcafee.com^
 |smetrics.mercolamarket.com^
 |smetrics.misrp.com^
@@ -2196,6 +2314,7 @@ va.huya.com
 |smetrics.seguro.mediaset.es^
 |smetrics.sky.de^
 |smetrics.southwest.com^
+|smetrics.tmz.com^
 |smetrics.totalwine.com^
 |sms-za-darmo.pl^
 |smtp6.younetmedia.com^
@@ -2279,6 +2398,7 @@ va.huya.com
 |static.kameleoon.com^
 |static.masoffer.net^
 |statics-marketingsites-neu-ms-com.akamaized.net^
+|statis.dsp.vn^
 |stats.appsflyer.com^
 |stats.big-boards.com^
 |stats.cliqz.com^
@@ -2366,6 +2486,7 @@ va.huya.com
 |synoraveyrox-soft.com^
 |synthartech.com^
 |synthzoneg.top^
+|syntrocoin-software.com^
 |system.litaheart.com^
 |systemhuman.com^
 |t-i-t.online^
@@ -2377,6 +2498,8 @@ va.huya.com
 |t.email.superdrug.com^
 |t.yesware.com^
 |t2.hulu.com^
+|tabex.sopharma.bg^
+|tag.webcompteur.com^
 |tajalrayhan.com^
 |tamszumerle.pro^
 |tapair.com^
@@ -2384,6 +2507,7 @@ va.huya.com
 |tarno.tradedoubler.com^
 |tarsan.media-412.com^
 |tarzmimarlik.com^
+|tavosdex-app.com^
 |tavosdexapp-system.com^
 |tavronest.top^
 |tdptabletpresses.com^
@@ -2499,9 +2623,14 @@ va.huya.com
 |tracking.tv.zing.vn^
 |tracking2.hittail.com^
 |tracking3.vnncdn.net^
+|trackingsea.zingplay.com^
+|trade-8000lidex.com^
+|trade-avapro-5000.com^
 |trade-gptapp.net^
 |trade-vector-ai-app.net^
+|trade8flarexbot.com^
 |tradedefinity.co^
+|tradeflixai.com^
 |tradefuseaiengine.com^
 |trademorynpro.net^
 |traderflix9gpt.com^
@@ -2510,11 +2639,15 @@ va.huya.com
 |tradevectorai-app.net^
 |tradeviax.net^
 |tradevistax3-6-ai.com^
+|trading3lidex.com^
 |trading4aflarexplatform.com^
+|tradistanbul.com^
 |tradynatorai.net^
 |traffic.adwitty.com^
+|traffic.emsservice.de^
 |trafficnetworkads24.com^
 |trafficshop.com^
+|tramadol.1.p2l.info^
 |translation.conduit.com^
 |trcko.com^
 |treasure-shop.org^
@@ -2580,6 +2713,7 @@ va.huya.com
 |usmplatform.net^
 |usnews.122.2o7.net^
 |usqsliponsale.com^
+|v16.56.com^
 |vagler.ru^
 |valley-of-butterflies.com^
 |valoressence.online^
@@ -2678,9 +2812,11 @@ va.huya.com
 |w110.hitbox.com^
 |w113.hitbox.com^
 |w130.hitbox.com^
+|w159.hitbox.com^
 |w20.hitbox.com^
 |w33.hitbox.com^
 |wagekeeperx.com^
+|wait-wise.online^
 |walkingfloor-transport.com^
 |waquick.cc^
 |warco.pl^
@@ -2689,6 +2825,7 @@ va.huya.com
 |wat.ad.daum.net^
 |wau.tynt.com^
 |wb.interpolls.com^
+|wc-tracking.lavasoft.com^
 |wcelu.com^
 |wealth-forge-ai-tech.com^
 |wealth-rolian-ai.com^
@@ -2732,17 +2869,21 @@ va.huya.com
 |wpn.codon.vn^
 |wsback-event.presage.io^
 |wtrs.101com.com^
+|ww2.hitbox.com^
 |wws.ero-advertising.com^
 |www.0n-line.tv^
 |www.1000lashes.com^
 |www.121phonesex.co.uk^
 |www.1234002.shop^
+|www.123mopie.com^
 |www.12xhardcore.com^
 |www.1350euro-maxima.com^
 |www.14teen.com^
+|www.2.livejasmin.com^
 |www.2kata.ru^
 |www.2no.co^
 |www.30-day-change.com^
+|www.300sk.com^
 |www.302br.net^
 |www.4332.ws^
 |www.4girlsfingerpaint.org^
@@ -2770,6 +2911,8 @@ va.huya.com
 |www.adsensecustomsearchads.com^
 |www.adserver.janes.org^
 |www.adsinimages.com^
+|www.adspcces.ero-advertising.com^
+|www.adult-top-list.com^
 |www.advaliant.com^
 |www.advendsol.com^
 |www.adverterenbijrtl.nl^
@@ -2790,6 +2933,7 @@ va.huya.com
 |www.altrixprime.com^
 |www.alumaneatu.com^
 |www.analytics.icons8.com^
+|www.anastasiasaffiliate.com^
 |www.anatol.com^
 |www.anners.ero-advertising.com^
 |www.anonsystem.net^
@@ -2868,6 +3012,7 @@ va.huya.com
 |www.brokenyreach.shop^
 |www.bspeedh.comnub.com^
 |www.btcrevolution.cloud^
+|www.bullrun-new.com^
 |www.bus-offer.com^
 |www.butikmaria.com^
 |www.bzsd83.com^
@@ -2920,8 +3065,10 @@ va.huya.com
 |www.crecimiento-glowture-ai.com^
 |www.criteo.com^
 |www.crowd1.com^
+|www.czech-synergy.com^
 |www.dashide.click^
 |www.dava.ero-advertising.com^
+|www.deepikarai.com^
 |www.deepobj.click^
 |www.deepvalleygrove.info^
 |www.defrost.pl^
@@ -2953,6 +3100,7 @@ va.huya.com
 |www.elitefinanceclub.com^
 |www.elitemaxhealthinsure.com^
 |www.elitewealthplatform.com^
+|www.email.interests.digital^
 |www.entercasino.com^
 |www.essizbirtatil.com^
 |www.ethan.wang^
@@ -2981,6 +3129,7 @@ va.huya.com
 |www.fundacjazamekszymbark.net^
 |www.funklicks.com^
 |www.furilimads.com^
+|www.fweid.rest^
 |www.fxcounters.com^
 |www.fybarui.com^
 |www.gainmodeai.net^
@@ -2993,6 +3142,7 @@ va.huya.com
 |www.gbinnie.plus.com^
 |www.gbwin44.com^
 |www.geliyom.com^
+|www.geostrada.net^
 |www.getdataback.pl^
 |www.getmaxhealthcovered.com^
 |www.getmaxhealthins.com^
@@ -3031,9 +3181,16 @@ va.huya.com
 |www.immediate-revolution.org^
 |www.immediate-turbo.de^
 |www.immediate-urex.org^
+|www.immediatebitnex.app^
+|www.immediatecoraldex.com^
 |www.immediatefuture.app^
+|www.immediategoldenprofit.com^
 |www.immediategran360.com^
+|www.immediatematrix.com^
+|www.immediatenextgen.app^
+|www.immediatephoenix.app^
 |www.immediateprofit.app^
+|www.immediaterenova-app.com^
 |www.immediatevortex.net^
 |www.immediatextradeai.com^
 |www.ineedhits.com^
@@ -3090,14 +3247,19 @@ va.huya.com
 |www.lafacai08.com^
 |www.laptoprewards.com^
 |www.largesync.besteffortnetwork.com^
+|www.lconf.dintair.com^
 |www.lead5.pl^
+|www.leadpub.com^
 |www.ledgerproai.net^
+|www.liangyu-cn.com^
 |www.libecki.net^
 |www.lidl-de.one^
+|www.lifehackz.net^
 |www.limecrea.divorcelawyersandiego.com^
 |www.linkconnector.com^
 |www.linkshopho.shop^
 |www.lkgbrutv.shop^
+|www.lkytm31.com^
 |www.lldi.pl^
 |www.localytics.com^
 |www.loginmojeing.ingbank.pl.adspire.top^
@@ -3131,6 +3293,7 @@ va.huya.com
 |www.misydoi.com^
 |www.mlpzes05.com^
 |www.mobiapp-games.com^
+|www.mobiwin.pl^
 |www.mszalive.pl^
 |www.mtebdom.live^
 |www.myishop.co.uk^
@@ -3209,23 +3372,30 @@ va.huya.com
 |www.profolan.pl^
 |www.pronexovira.info^
 |www.pryzmat.net^
+|www.przytulny.com^
 |www.pu090ev.com^
 |www.pull-3045.kxcdn.com^
+|www.pureprofitpoint.app^
+|www.qajomoi.com^
 |www.qbittorrent.com^
 |www.qksrv.net^
 |www.quantum-xrift.com^
 |www.quantumcode.info^
+|www.quantumtradewave.com^
 |www.qumasai.io^
 |www.qxbroker.com^
 |www.radiorage.com^
 |www.rampidads.com^
 |www.randkomaniacy.pl^
+|www.random-logic.com^
 |www.rapid-demo.store^
 |www.rariblea.com^
 |www.rbxtools.kg^
 |www.redirection.pl^
 |www.reducelnk.com^
 |www.registrydefender.com^
+|www.rehabilitant.rzeszow.re^
+|www.reklam3.net^
 |www.restartadv.coreychadwicksmith.com^
 |www.retro-eyewear.online^
 |www.revaminacne.pl^
@@ -3262,7 +3432,9 @@ va.huya.com
 |www.sipp.pl^
 |www.sklepmeblowy.shop^
 |www.skywin.com.tw^
+|www.smailes.plus.com^
 |www.smartadserver.com^
+|www.snonnews.com^
 |www.snoopy-sklep.pl^
 |www.softbon.appiachile.com^
 |www.sogukzincirizleme.com^
@@ -3289,6 +3461,9 @@ va.huya.com
 |www.supladays.net^
 |www.sutankeri.com^
 |www.swap01lotemaxapp.ru^
+|www.swietnebuty.pl^
+|www.synquran.com^
+|www.syntrocoin.io^
 |www.szlonepromocje.com^
 |www.szymonruchwa.com^
 |www.taffr.com^
@@ -3302,6 +3477,9 @@ va.huya.com
 |www.theeby.top^
 |www.theimmutableovral.org^
 |www.thematrixator.org^
+|www.thespotexelonxp.com^
+|www.thetrezikforgegpt2025.com^
+|www.thumb.ero-advertising.com^
 |www.thursdayboots-polska.com^
 |www.tibbikitaplar.com^
 |www.tiktokclaim.eu^
@@ -3313,6 +3491,8 @@ va.huya.com
 |www.trade-reopro.com^
 |www.tradedoubler.com^
 |www.trademorph-ai.com^
+|www.traderprof.live^
+|www.travelocityca.com^
 |www.treasuredata.com^
 |www.trioklinik.net^
 |www.ts-shimada.com^
@@ -3320,6 +3500,10 @@ va.huya.com
 |www.ttmht.site^
 |www.tugceozkurt.com^
 |www.turbocloud.sbs^
+|www.tvoimobservice.com^
+|www.tvshowslist.com^
+|www.twistperf.bioclinicconsult.com^
+|www.twskype.com^
 |www.uckcoin.com^
 |www.ukbanners.com^
 |www.ukpartsexpress.com^
@@ -3339,10 +3523,12 @@ va.huya.com
 |www.valtrixnexusaisolution.net^
 |www.valuehost.co.uk^
 |www.valuetrade-live-platform.ru^
+|www.velrixcoreai.com^
 |www.veryvoga.pl^
 |www.vexolurtixai.com^
 |www.vezinteknik.net^
 |www.vhmk475.com^
+|www.victorlutte.cl^
 |www.videodownloadconverter.com^
 |www.vif-valtrix.net^
 |www.vinted.oferta.asia^
@@ -3372,7 +3558,9 @@ va.huya.com
 |www.wernet.pl^
 |www.wiieopo.weebly.com^
 |www.williamhill.es^
+|www.womentechglobal.net^
 |www.wozapia.com^
+|www.wwt-ag.ch^
 |www.wwwal.com^
 |www.wydarzenia-24.x9.eu^
 |www.xanypia.com^
@@ -3382,6 +3570,7 @@ va.huya.com
 |www.xyberionapexgpt.com^
 |www.yg8456.top^
 |www.yista.online^
+|www.yolcuokulu.com^
 |www.yotafiles.com^
 |www.younetmedia.com^
 |www.yqj3xgq7.r.us-east-1.awstrack.me^
@@ -3408,7 +3597,10 @@ va.huya.com
 |www18.a8.net^
 |www2.bannerspace.com^
 |www2.doubleclick.com^
+|www24.a8.net^
 |www25.glam.com^
+|www3.counter.bloke.com^
+|www30a3.glam.com^
 |www35.glam.com^
 |www4.at.debianbase.de^
 |www6.smartadserver.com^
@@ -3490,8 +3682,13 @@ va.huya.com
 |zondratex.net^
 |zonvi-03mexura.click^
 |zootoplist.com^
+|zpafiska.pl^
+|zwaar.org^
 |zxrdp7.webwave.dev^
 |zyberlichbeam-ai.org^
+|zyskmarkdex.net^
+|zyvarnexcoreapp.net^
+|zyxuqie.com^
 ||0----0.0x28.com^
 ||0-00-bootstgatewayap-files-01-echo-tls.net.daraz.com^
 ||0-00-lib-oa-1-cf23region.net.daraz.com^
@@ -3507,22 +3704,31 @@ va.huya.com
 ||0-02-121-134-131-220-api1webw17sellerpackaging-profile-pay.net.daraz.com^
 ||0-02-124-134-131-223-api1webw18sellerpackaging-profile-pay.net.daraz.com^
 ||0-102.0-01-lib-oa-1-cf23region.net.daraz.com^
+||0-10apac-cfw-c2s-71-n9x026.0-01-lib-oa-1-cf23region.net.daraz.com^
+||0-10apac-cfw-c5s-71-n6x026.net.daraz.com^
 ||0-13-9-crs.ap1.datadoghq.oohmediaomprooohmedialient.ap1.datadoghq.usage-oohmediaomprooohmediadrsprofildr.ap1.datadoghq.datadoghq-confluence.datadoghq.drive-oohmediaomprooohmediadrsprofildr.datadoghq.oohmediaomprooohmediadrspage.agent.ap1.datadoghq.com^
 ||0-132-mm.net.daraz.com^
 ||0-132-portal.0-030.net.daraz.com^
+||0-132dev.0-030.net.daraz.com^
+||0-132ext.net.daraz.com^
 ||0-132partner-payseller.0-030.net.daraz.com^
 ||0-158redirect.0-01-lib-oa-1-cf23region.net.daraz.com^
 ||0-166.0-030.net.daraz.com^
 ||0-196.0-030.net.daraz.com^
+||0-2cnppsprimary-omp.0-030.net.daraz.com^
 ||0-2customeroa.dcsportal.0-01-lib-oa-1-cf23region.net.daraz.com^
 ||0-2nask-us.disney.tt.omtrdc.net^
+||0-2nask-us.roadrunner.tt.omtrdc.net^
 ||0-2psageng-00d1n0000017glquam.net.daraz.com^
 ||0-2psagengassets.0-030.net.daraz.com^
+||0-2psagenglegacy.0-030.net.daraz.com^
 ||0-3arymn01-car21-web-wwww11stage-webapp.net.daraz.com^
 ||0-3arymndev.net.daraz.com^
 ||0-5.net.daraz.com^
 ||0-administrators-csr4001-0-admin8.0-030.net.daraz.com^
 ||0-astrologie-17-20lib-oa-2.0-01-lib-oa-1-cf23region.net.daraz.com^
+||0-astrologie-api1-www-cf81sept.dcsportal.0-01-lib-oa-1-cf23region.net.daraz.com^
+||0-astrologie-prd.0-030.net.daraz.com^
 ||0-astrologie-push.dcsportal.0-01-lib-oa-1-cf23region.net.daraz.com^
 ||0-car21-10-r-oa-1.0-01-lib-oa-1-cf23region.net.daraz.com^
 ||0-chd.skipton.tt.omtrdc.net^
@@ -3616,6 +3822,9 @@ va.huya.com
 ||01-cebsebsuthenticebste21-10-ebsuthenticebste-oebs-1.net.daraz.com^
 ||01-cghr21-web-wwww11node-webghpp.net.daraz.com^
 ||01-ctracking21-web-wwww11node-webapp.net.daraz.com^
+||01-kube-oa-1-administrators-csr40.net.daraz.com^
+||01-lib-jp-1-administrators-csr40.net.daraz.com^
+||01-lib-oa-1-123pago-loginvc-csr40.net.daraz.com^
 ||01-lib-oa-1-admin8-zigzagstr.net.daraz.com^
 ||01-lib-oa-1-admin8.training.net.daraz.com^
 ||01-lib-oa-1-admin8gitlab.net.daraz.com^
@@ -3662,6 +3871,7 @@ va.huya.com
 ||042techsupport.com^
 ||0446b5647b.61847b1398.com^
 ||0471fcw.com^
+||049-nhe-370.mktoresp.com^
 ||049864ac5e806f903e13b6558e846f87.udagwebspace.de^
 ||05-dc-nym2.ad.corp.appnexus.com^
 ||053-mxj-131.mktoresp.com^
@@ -3679,8 +3889,10 @@ va.huya.com
 ||08.185.87.116.liveadvert.com^
 ||08.185.87.15.liveadvert.com^
 ||08.185.87.174.liveadvert.com^
+||08.185.87.191.liveadvert.com^
 ||08.185.87.199.liveadvert.com^
 ||08.185.87.41.liveadvert.com^
+||08.185.87.69.liveadvert.com^
 ||08.185.87.79.liveadvert.com^
 ||080120.com^
 ||081.co.uk^
@@ -3795,6 +4007,8 @@ va.huya.com
 ||10xdvo.112.2o7.net^
 ||110007158.collect.igodigital.com^
 ||11002111.weebly.com^
+||1116fad120.info^
+||1116fad121.info^
 ||1116fad145.info^
 ||1116fad161.info^
 ||11183.url.016272.com^
@@ -3805,6 +4019,8 @@ va.huya.com
 ||116-94-210-224.ppp.bbiq.jp^
 ||117.ip-193-70-115.eu^
 ||117eab189b.41e9aa5f08.com^
+||118-237.echostar.pl^
+||118118-accountants.co.uk^
 ||11840a2cfc.93c829ff7a.com^
 ||119-154.pool.internet-x.hu^
 ||119-173-138-234.rev.home.ne.jp^
@@ -3813,9 +4029,17 @@ va.huya.com
 ||119.6.87.194.dynamic.dol.ru^
 ||119246058044.ctinets.com^
 ||11b5642bb.webengage.co^
+||11rc.biz^
 ||12-land.co.jp^
 ||12.162.174.70.coalfld.static.coalfields.net^
+||121.6.87.194.dynamic.dol.ru^
+||1212c121211.cn^
+||122x209x152x12.ap122.ftth.ucom.ne.jp^
+||123.red-88-30-2.staticip.rima-tde.net^
+||123.support^
 ||123001b3392e5b1fe38336152b3432f4.com^
+||12345-proxy.appspot.com^
+||123beautyproducts.com^
 ||123corriu.weebly.com^
 ||123movies.ru^
 ||123pagerp.derpcs.net.daraz.com^
@@ -3851,6 +4075,7 @@ va.huya.com
 ||13-103.031.popsite.net^
 ||13.112.dialup.westcall.net^
 ||13.ptp22.com^
+||13023.url.7wkw.com^
 ||131132131.keywordblocks.com^
 ||132.net-31.172.myavlive.com^
 ||13264.url.7wkw.com^
@@ -3974,6 +4199,7 @@ va.huya.com
 ||191271.engine.mobileapptracking.com^
 ||191331.measurementapi.com^
 ||1919102.weebly.com^
+||192.168.cdn11.contentabc.com^
 ||193.56.102.121.dy.bbexcite.jp^
 ||193.83.202.84.customer.cdi.no^
 ||19394.engine.mobileapptracking.com^
@@ -3982,6 +4208,7 @@ va.huya.com
 ||195-165-42-72.gci.net^
 ||195043.engine.mobileapptracking.com^
 ||195133.engine.mobileapptracking.com^
+||195349.measurementapi.com^
 ||195723.engine.mobileapptracking.com^
 ||198169.measurementapi.com^
 ||19869.com^
@@ -4050,19 +4277,33 @@ va.huya.com
 ||20.notifysrv.com^
 ||200-100-144-27.dial-up.telesp.net.br^
 ||200-161-64-203.dsl.telesp.net.br^
+||200-206-153-12.dsl.telesp.net.br^
 ||200-206-219-195.dsl.telesp.net.br^
 ||200-207-170-95.dial-up.telesp.net.br^
+||200-207-62-237.dsl.telesp.net.br^
 ||200-207-62-71.dsl.telesp.net.br^
 ||200-207-65-185.dsl.telesp.net.br^
 ||200.76.244.187.dsl.dyn.telnor.net^
 ||201-13-179-143.dial-up.telesp.net.br^
 ||201-13-187-182.dial-up.telesp.net.br^
 ||201-26-1-101.dsl.telesp.net.br^
+||201-26-198-87.dsl.telesp.net.br^
+||201-42-113-170.dsl.telesp.net.br^
+||201-42-160-63.dsl.telesp.net.br^
+||201-42-174-96.dsl.telesp.net.br^
 ||201-42-212-7.dsl.telesp.net.br^
 ||201-42-213-119.dsl.telesp.net.br^
 ||201-42-8-226.dsl.telesp.net.br^
+||201-43-200-170.dsl.telesp.net.br^
+||201-43-37-139.dsl.telesp.net.br^
+||201-43-99-30.dsl.telesp.net.br^
+||201-68-111-200.dsl.telesp.net.br^
 ||201-68-36-194.dsl.telesp.net.br^
+||201-68-7-212.dsl.telesp.net.br^
 ||201-69-113-107.dial-up.telesp.net.br^
+||201-92-112-26.dsl.telesp.net.br^
+||201-92-26-67.dsl.telesp.net.br^
+||201-93-226-43.dsl.telesp.net.br^
 ||201-95-155-53.dsl.telesp.net.br^
 ||2011.mediartchina.org^
 ||201604652.keywordblocks.com^
@@ -4532,6 +4773,7 @@ va.huya.com
 ||4affiliate.net^$third-party
 ||4b00-91d5-da85-58ce.reporo.net^
 ||4bd582c4.chigozirim-garfield.workers.dev^
+||4cci.org.pk^
 ||4ced4daa4c.84eb50d125.com^
 ||4clever.com^
 ||4clvr.jp^
@@ -5295,6 +5537,7 @@ va.huya.com
 ||a062.casalemedia.com^
 ||a069.casalemedia.com^
 ||a096.casalemedia.com^
+||a1.lshou.com^
 ||a10.reflexcash.com^
 ||a1002.casalemedia.com^
 ||a101.casalemedia.com^
@@ -5634,6 +5877,7 @@ va.huya.com
 ||a8cv.mobabiji.jp^
 ||a8cv.modescape.com^
 ||a8cv.nijiun.com^
+||a8cv.ococorozashi.com^
 ||a8cv.online-mega.com^
 ||a8cv.pxdt-store.com^
 ||a8cv.scom-f.jp^
@@ -5726,6 +5970,7 @@ va.huya.com
 ||abc.rwpt.top^
 ||abc.yjbys.com^
 ||abc32316.bookonline.com.cn^
+||abcabanillas.ugr.es^
 ||abcbn.aftontickets.com^
 ||abcinvest.ba^
 ||abclegal.actonservice.com^
@@ -5946,6 +6191,7 @@ va.huya.com
 ||ad-hatena.com^
 ||ad-host-backup-america.s3.us-west-1.amazonaws.com^
 ||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
+||ad-img.icheck.com.vn^
 ||ad-imp.jtbc.co.kr^
 ||ad-interactions-prod-lb-773417274.us-east-2.elb.amazonaws.com^
 ||ad-pex-cdn.adpexai.com^
@@ -6990,6 +7236,7 @@ va.huya.com
 ||ads.app-authority.com^
 ||ads.arrl.org^
 ||ads.as.criteo.com^
+||ads.associatedcontent.com^
 ||ads.b10f.jp^
 ||ads.bcnewsgroup.com^
 ||ads.betsafe.com^
@@ -7052,6 +7299,7 @@ va.huya.com
 ||ads.resoom.de^
 ||ads.rondomondo.com^
 ||ads.schmoozecom.net^
+||ads.search.bg^
 ||ads.smrtb.com^
 ||ads.soapcreative.com^
 ||ads.socialtheater.com^
@@ -7401,6 +7649,7 @@ va.huya.com
 ||aevents.izooto.com^
 ||aews-analytics.sogei.it^
 ||aeyutd.baerbel-drexel.de^
+||af.click.ru^
 ||afcoshockdoctor.com.au^
 ||afdata.com^
 ||aff-bd.org^
@@ -7617,6 +7866,7 @@ va.huya.com
 ||airproxy.net^
 ||airtoken.typeform.com^
 ||airustotalalert.usa.cc^
+||airwreck.com^
 ||aischooltools.com^
 ||aiservice.vn^
 ||aishc.yn.to^
@@ -7686,6 +7936,7 @@ va.huya.com
 ||albertabeef.ca^
 ||albertaprimebeef.com^
 ||albilalgroup.com^
+||albonoor.com^
 ||albumdownloadfree.com^
 ||albumhunt.com^
 ||ale.weebly.com^
@@ -7959,6 +8210,7 @@ va.huya.com
 ||alpbitprosystem.com^
 ||alpcorepro27ai.com^
 ||alpenwerk.at^
+||alpet.hu^
 ||alpfundpro-app.com^
 ||alpha-elevatron.net^
 ||alpha-salon.com^
@@ -8046,6 +8298,7 @@ va.huya.com
 ||ambulendot.pro^
 ||amch.questionmarket.com^
 ||amcoutlook.com^
+||amd-grafikdesign.de^
 ||amdc.alipay.com^
 ||amdcopen.m.taobao.com^
 ||ame-al.com^
@@ -8381,6 +8634,7 @@ va.huya.com
 ||annet321.viralgalleries.me^
 ||annetta.info^
 ||annhao.com^
+||annmcclean.co.uk^
 ||annobshoo.pro^
 ||annonser.dagbladet.no^
 ||annua-ma.firebaseapp.com^
@@ -8526,6 +8780,7 @@ va.huya.com
 ||api.centraliasolutions.com.br^
 ||api.clingclang.biz^
 ||api.cm.adv.br^
+||api.costuraai.com.br^
 ||api.cursosdubaipisos.com.br^
 ||api.datinghelp.dk^
 ||api.desenhecomstephania.com.br^
@@ -8847,6 +9102,7 @@ va.huya.com
 ||ar500arnor.com^
 ||ar5tjyqtpl.neliver.com^
 ||ar7h8lqb68.neliver.com^
+||arab-tbamange.com^
 ||arabindiaspices.com^
 ||arabs.arab-xn.com^
 ||arabs.xn--ngbs7dg.net^
@@ -8900,6 +9156,7 @@ va.huya.com
 ||arena.altitude-arena.com^
 ||arenajax.com^
 ||arenda.sb.md^
+||ares.chinoc.net^
 ||aresweb.fr^
 ||areyouready.co.za^
 ||argaia2ama.neliver.com^
@@ -9147,6 +9404,7 @@ va.huya.com
 ||att-yahoomail88.webnode.com^
 ||att737728.boxmode.io^
 ||attaatttt.godaddysites.com^
+||attach.s8bbs.com^
 ||attachedkneel.com^$popup
 ||attachment-dropbox.oiljobszone.com^
 ||attcct.enaturalnie.pl^
@@ -9325,6 +9583,7 @@ va.huya.com
 ||awwindowservices.com^
 ||awwqatjip.com^
 ||awww.evil-shit.de^
+||awww.rapidupload.com^
 ||ax.mpcdn.top^
 ||axby.org^
 ||axfmssnb68.neliver.com^
@@ -9578,6 +9837,7 @@ va.huya.com
 ||bank.svb.com^
 ||bankcheckingsavings.com^
 ||bankdata.112.207.net^
+||bankdata.temanggungkab.go.id^
 ||banking-jobs-diploma.blogspot.com^
 ||banklupe.de.d1.sc.omtrdc.net^
 ||banlor-43tenvi.digital^
@@ -9596,6 +9856,7 @@ va.huya.com
 ||bannerlandia.com^
 ||banners.advancewebhosting.com^
 ||banners.asiafriendfinder.com^
+||banners.babylon-x.com^
 ||banners.bghelp.co.uk^
 ||banners.dir.bg^
 ||banners.haqqin.az^
@@ -9606,6 +9867,7 @@ va.huya.com
 ||banners.traffic-c.com^
 ||banners.tucson.com^
 ||banners.wlservices.fr^
+||banners.zbs.ru^
 ||banners116.hpg.com.br^
 ||banners125.hpg.com.br^
 ||banners127.hpg.com.br^
@@ -9673,6 +9935,7 @@ va.huya.com
 ||basedow-bilder.de^
 ||basegrade.casedare.com^
 ||baselinker2erp.com^
+||basen.in^
 ||baserecovery.co.cc^
 ||bashendriks.com^
 ||basic-article.com^
@@ -9764,6 +10027,7 @@ va.huya.com
 ||bd-retrieval1.2345.com^
 ||bd.1792host.com^
 ||bd.watu.cn^
+||bd419434378.com^
 ||bdasd.chdbook.cn^
 ||bdbwagptx.firebaseapp.com^
 ||bdcontractorservices.com^
@@ -9776,6 +10040,7 @@ va.huya.com
 ||bdmjs.xywy.com^
 ||bdsearch.myradiotoolbar.com^
 ||bdsmcompany.com^
+||bdss.edu.bd^
 ||bdstatic.com^*/QSURrcmRKV.js
 ||bdstatic.com^*/container/module/bottombanner/
 ||bduhb.audienhearing.com^
@@ -9884,6 +10149,7 @@ va.huya.com
 ||benro-93salvon.biz^
 ||bentonow.com^$third-party
 ||benutec.com^
+||beporn.net^
 ||beproxy.com^
 ||beranexor.net^
 ||beranexorapp.com^
@@ -9903,6 +10169,7 @@ va.huya.com
 ||berryplaytime.com^
 ||besatzfische.at^
 ||besneaky.com^
+||besocial.ro^
 ||best-video-app.com^
 ||best.uph.edu^
 ||bestadload.com^
@@ -9970,6 +10237,7 @@ va.huya.com
 ||betzapdoson.com^
 ||bevedu.com^
 ||beverlyhillsaestheticplasticsurgery.com^
+||bexnice.com^
 ||bexrovial-app.com^
 ||beyoeskuvo.hu^
 ||beyoglumetropol.com^
@@ -10076,6 +10344,7 @@ va.huya.com
 ||billingsupportcenter.com^
 ||billionairetrade.net^
 ||billionfocus.com^
+||billionuploads.com^
 ||billmueller.com^
 ||billowybelief.com^
 ||billscoolfriends.com^
@@ -10362,12 +10631,15 @@ va.huya.com
 ||blue-rain.com.cn^
 ||bluealert.co.cc^
 ||bluebillywig.com^
+||bluebots.org^
 ||bluedogexteriors.com^
 ||bluehost.hu^
+||bluejetships.com^
 ||bluelinkmarketing0.go2cloud.org^
 ||bluemoonwalzer.omg.adult^
 ||bluequbitapp.com^
 ||bluerapport.speedera.net^
+||blueruin.org^
 ||bluesfest.ge^
 ||bluespaceit.com^
 ||bluestraru.pro^
@@ -10385,13 +10657,17 @@ va.huya.com
 ||bmbzt.smashcreate.com^
 ||bmd-support.com^
 ||bmlyrv.s1jobs.com^
+||bmpindo.com^
 ||bms.partner.net.daraz.com^
 ||bmssin.com.sg^
 ||bmt.today^
 ||bmtmicro.com^$popup
+||bmweb1.bbmedia.cz^
 ||bmziog.supplyanddemand.co.uk^
 ||bn.wonderingwriter.com^
+||bnes-andyanes.firebaseapp.com^
 ||bngpop.com^
+||bniueaz.com^
 ||bnk.wolterskluwerfs.com^
 ||bnludx68kv.neliver.com^
 ||bnopq.hansohome.com^
@@ -10418,8 +10694,10 @@ va.huya.com
 ||boersnimbus.cyou^
 ||bof8804jn.com^
 ||bofasguard.org^
+||bofl.goqavat.yi.org^
 ||boher.cat^
 ||boileri-matev.com^
+||bois-beton.fr^
 ||bokee.com^
 ||bokg2fr07b.neliver.com^
 ||bokig.com^
@@ -10547,6 +10825,7 @@ va.huya.com
 ||bradleycohen.com^
 ||braflipperstense.com^
 ||brahaemy.ro^
+||braidsmbalolo.top^$popup
 ||brajqk.ineedamobile.com^
 ||brakleverdion.pro^
 ||branch-5q8gbnve37.salesfloor.net^
@@ -11122,6 +11401,7 @@ va.huya.com
 ||c4kokzwfhn.neliver.com^
 ||c4n.allporncomics.co^
 ||c4n.anonimayzer.site^
+||c4tracking01.com^
 ||c5.gostats.de^
 ||c6.paypal.com^
 ||c6530e.r.axf8.net^
@@ -11181,6 +11461,7 @@ va.huya.com
 ||calltrackingmetrics.com^
 ||calm-shop.com^
 ||calottsearch.musicfrost.com^
+||calssmates.com^
 ||calvendrax-soft.com^
 ||cam2cam.xlovecam.com^
 ||cam4.com^*&utm_source=$popup
@@ -11204,6 +11485,7 @@ va.huya.com
 ||campaigns.rockwellautomation.com^
 ||campaings.wake.tech^
 ||campdrivez.com^
+||camperakarting.com^
 ||campfirezimbabwe.org^
 ||campgampaign.digital^
 ||campusexpo.org^
@@ -11364,6 +11646,7 @@ va.huya.com
 ||cashmonal.com^
 ||cashon.co.kr^
 ||cashorika.adk2x.com^
+||cashpage.net^
 ||cashspace.com^
 ||cashstatistics.com^
 ||casikhacdiep.blogspot.com^
@@ -11442,6 +11725,7 @@ va.huya.com
 ||ccms.shopee.io^
 ||ccn7ugevcv.neliver.com^
 ||ccod.qufewec.yi.org^
+||ccvalid.su^
 ||ccztgy.elgiganten.dk^
 ||cd-platmorm.web.app^
 ||cd.rdtcdn.com^
@@ -11450,6 +11734,7 @@ va.huya.com
 ||cd63401.tmweb.ru^
 ||cda360.pl^
 ||cda7k-ddok.com^
+||cdbplc.com^
 ||cdchealth.org^
 ||cdd.org.bd^
 ||cddvd.kz^
@@ -11459,6 +11744,7 @@ va.huya.com
 ||cdl2.booksy.com^
 ||cdlestancia.com.br^
 ||cdlinli.com^
+||cdlngl.com^
 ||cdmi-dz.com^
 ||cdn-3s.mobvista.com^
 ||cdn-a2.contentabc.com^
@@ -11700,6 +11986,7 @@ va.huya.com
 ||charminggain.pro^
 ||charmingoasis.pro^
 ||chartboost.com^
+||charteronebankonline.com^
 ||chartulary.info^
 ||chas.stepon.co^
 ||chase.com.atravelsite.com^
@@ -11872,6 +12159,7 @@ va.huya.com
 ||cisco.co1.qualtrics.com^
 ||ciscolearningnetwork.tt.omtrdc.net^
 ||ciscotechsupport24.wordpress.com^
+||cisionone-email.rush.edu^
 ||citi.bridgetrack.com.21950.9128.302br.net^
 ||citi.demdex.net^
 ||citrio.com^
@@ -12020,6 +12308,7 @@ va.huya.com
 ||click.email.supre.com.au^
 ||click.email.theralogix.com^
 ||click.email.traviscu.org^
+||click.email.usa.avon.com^
 ||click.email.utthc.com^
 ||click.email.vegas.com^
 ||click.email.zalando-lounge.com^
@@ -12183,6 +12472,7 @@ va.huya.com
 ||cllrdickcole.org^
 ||clmcam.xyz^
 ||clnbze.polskatimes.pl^
+||clnk.me^
 ||clnsecurehost.com^
 ||cloaka-extranet.com^
 ||cloakproxy.com^
@@ -12604,6 +12894,7 @@ va.huya.com
 ||connectedtwtelecom.azustaging-ocr-drzlivee.net.daraz.com^
 ||connectedtwtelecom.stage-trucking-azure.net.daraz.com^
 ||connectedtwtelewinter.azure.net.daraz.com^
+||connectignite.com^
 ||connectingvodamail.weebly.com^
 ||connecttosupport.com^
 ||connecttv.pelmorex.com^
@@ -12704,6 +12995,7 @@ va.huya.com
 ||controlling.bartenbach.de^
 ||controlpush.com^$third-party
 ||controlswim.com^
+||controlzetastudios.com^
 ||contrortag.pro^
 ||conv.insthenriqueamaral.com.br^
 ||convchmp.taboola.com^
@@ -12815,6 +13107,7 @@ va.huya.com
 ||counter4.sextracker.com^
 ||counter41.bravenet.com^
 ||counter5.sextracker.be^
+||counter5.sextracker.com^
 ||counteractshrubs.com^
 ||countesses.levitrawelloch.in^
 ||counting4free.com^
@@ -12881,6 +13174,7 @@ va.huya.com
 ||cpm.chocolateplatform.com^
 ||cpm.waardex.com^
 ||cpm.xrtb.io^
+||cpmktg.com^$third-party
 ||cpms.now.com^
 ||cpmstar-d.openx.net^
 ||cpqm3t1xwz.neliver.com^
@@ -12949,6 +13243,7 @@ va.huya.com
 ||creative.wwwpromoter.com^
 ||creativeclicks-banner1-dsp-2.rtb.adx1.com^
 ||creativeprintdepot.com^
+||creatives.clevernetwork.pt^
 ||creator.zmags.com^
 ||creatorssir.shop^
 ||creaturecabbage.com^
@@ -13472,6 +13767,7 @@ va.huya.com
 ||dagabaapolar.qpon^
 ||daihoaly.wix.com^
 ||daiitmk.cn^
+||daily-math.com^
 ||daily-warez.org^
 ||daily.thezebra.org^
 ||dailybreaking2611.ru^
@@ -13499,6 +13795,7 @@ va.huya.com
 ||damien.callet.free.fr^
 ||dampdock.com^
 ||dampozyczke.pl^
+||damyo.co.kr^
 ||danangluxury.com^
 ||danarimedia.com^
 ||dandan.clan.rip^
@@ -14006,6 +14303,7 @@ va.huya.com
 ||delltechsupportaustralia.wordpress.com^
 ||delltechsupportnumbers.com^
 ||deloitteca.com^
+||delphipages.com^
 ||deltaseichoapp.com^
 ||deltax.com^
 ||deluxgallery.com^
@@ -14030,6 +14328,7 @@ va.huya.com
 ||dentaires.com.ar^
 ||dentaltravelpoland.co.uk^
 ||dentglue.com^
+||dentistsouthyarra.com.au^
 ||dentolegalconsultant.com^
 ||denverfaith.com^
 ||denvertamilchurch.org^
@@ -14051,6 +14350,7 @@ va.huya.com
 ||desekansr.com^
 ||desertdollar.com^
 ||deserveenjoymentcobbler.com^
+||desguellallucapeu.es^
 ||desibeltech.com^
 ||desidiscount.com^
 ||designelapas.lapassemarie.com^
@@ -14082,6 +14382,7 @@ va.huya.com
 ||dev-self-service-pay.adnow.com^
 ||dev-share.beaconlearningapp.com^
 ||dev-spamgourmet.actonservice.com^
+||dev.a-t-martialarts.com^
 ||dev.adforum.com^
 ||dev.adsnative.com^
 ||dev.casaderincon.com^
@@ -14269,6 +14570,7 @@ va.huya.com
 ||dinamicamelyra.com^
 ||dinamicofinlore.net^
 ||dinamicofinloreapp.com^
+||dinamikfide.com^
 ||dinextario.ru^
 ||dinogas.com.mx^
 ||dintmop5pc.neliver.com^
@@ -14361,6 +14663,7 @@ va.huya.com
 ||divostat.game-insight.com^
 ||dixonscurryscouk.112.2o7.net^
 ||diyinfraredsaunas.com^
+||diysimplify.com^
 ||diysubaru.com^
 ||dizdre.com^
 ||dizhibiao.com^
@@ -14562,6 +14865,7 @@ va.huya.com
 ||down4.cudown.com^
 ||downldcl.adtoolsinc.com^
 ||download-attmex.dtignite.com^
+||download-gate.com^
 ||download.allin1convert.com^
 ||download.allinonedocs.com^
 ||download.biggamecountdown.com^
@@ -14748,6 +15052,7 @@ va.huya.com
 ||dsp.branch.io^
 ||dsp.branchdsp.io^
 ||dsp.logly.co.jp^
+||dsparking.com^$third-party
 ||dsrygfsru.baid1u.com^
 ||dss1bi.com^
 ||dssct.net^
@@ -14976,6 +15281,7 @@ va.huya.com
 ||easyadpro.net^
 ||easyaswebsites.com^
 ||easybit.info^
+||easybrand.vn^
 ||easybypass.net^
 ||easycookie.io^$third-party
 ||easycraft.pro^
@@ -15013,6 +15319,7 @@ va.huya.com
 ||ebm222.neoplus.adsl.tpnet.pl^
 ||ebonycafe.com^
 ||ebook-pdf.eu^
+||ebooksfreedownload.org^
 ||ebreid.garneroarredamenti.com^
 ||ebs.10-ldaping.net.daraz.com^
 ||ebsb.ru^
@@ -15028,6 +15335,7 @@ va.huya.com
 ||ec2-54-208-123-69.compute-1.amazonaws.com^
 ||ec2.snoopy.org^
 ||ecampus.evergage.com^
+||ecarbone.com^
 ||eccentrickestrel.pro^
 ||ecell.com.ph^
 ||ecers.ru^
@@ -15099,6 +15407,7 @@ va.huya.com
 ||educationaltoursabroad.com^
 ||educationcom.112.2o7.net^
 ||educo.co.za^
+||educontinua.unisabana.edu.co^
 ||edufusion.site^
 ||edukacyjnawiedzalabpl.digital^
 ||edukicationandasm.com^
@@ -15138,6 +15447,7 @@ va.huya.com
 ||egamingonline.com^$third-party
 ||egartop.com^
 ||eggproxy.com^
+||egombute.duckdns.org^
 ||egooad.com^
 ||egretswamper.com^$popup
 ||eguagtrasp.pro^
@@ -15249,6 +15559,7 @@ va.huya.com
 ||eloqua.digitalpi.com^
 ||eloqua.insurancenexus.com^
 ||elpianovenezolano.com^
+||elprogreso.com.py^
 ||elq.fisherinvestments.com^
 ||elq.scanningpens.ca^
 ||elqapp.timewarnercable.com^
@@ -15380,6 +15691,7 @@ va.huya.com
 ||email.carinyasociety.org.au^
 ||email.carteam.nl^
 ||email.casaancora.com.br^
+||email.catsone.mapleleaf.com^
 ||email.cc.royalpoolsandspas.com^
 ||email.ceconjuizdefora.com^
 ||email.cedarbilling.teamhealth.com^
@@ -15514,6 +15826,7 @@ va.huya.com
 ||email.encantada.com^
 ||email.engage.glaserweil.com^
 ||email.engage.mail.campuslabs.com^
+||email.envios.facturas.gazpro.mx^
 ||email.equestriansingles.com^
 ||email.ergoeg.com^
 ||email.escholar.com^
@@ -15541,6 +15854,7 @@ va.huya.com
 ||email.financepartners.com.au^
 ||email.financialarchitectsinc.com^
 ||email.finizens.com^
+||email.finnishbabybox.co^
 ||email.flinsconcepts.com^
 ||email.flobecq.be^
 ||email.flux.qa^
@@ -15663,6 +15977,7 @@ va.huya.com
 ||email.investingdaily.com^
 ||email.iq.drasabrinasmus.com^
 ||email.iris.greenhouse.io^
+||email.itc-software.com.ar^
 ||email.jdlife.co.nz^
 ||email.jesusfreke.com^
 ||email.jobadder.abrs.net.au^
@@ -15888,6 +16203,7 @@ va.huya.com
 ||emapmail.digital^
 ||emarbox.com^$third-party
 ||emarket.ourtoolbar.com^
+||embarkvision.top^
 ||embarrassedsound.pro^
 ||embarrassment2.fun^
 ||embassysmokedexhibited.com^
@@ -16212,6 +16528,7 @@ va.huya.com
 ||essaymama.com^
 ||essaypay.com^
 ||essayrush.net^
+||essaystigers.co.uk^
 ||esselengineering.com^
 ||essential-apps-analytics.herokuapp.com^
 ||essexenergy.ca^
@@ -16287,6 +16604,7 @@ va.huya.com
 ||etwbgsr.eu^
 ||etyemenspstle.firebaseapp.com^
 ||etz119.neoplus.adsl.tpnet.pl^
+||etzqwj.canevas.com^
 ||eu-ads.adpone.com^
 ||eu-adserver.cxad.cxense.com^
 ||eu-dmpsync.3lift.com^
@@ -16538,6 +16856,7 @@ va.huya.com
 ||f18.adventori.com^
 ||f2ec-f7ba-d133-0a54.reporo.net^
 ||f2ntheage.112.2o7.net^
+||f35.de^
 ||f3f3.com^
 ||f4.76.344a.static.theplanet.com^
 ||f476f3ffa9.eb1536c76c.com^
@@ -16740,6 +17059,7 @@ va.huya.com
 ||fc-youtube.com^
 ||fc28ca04e2.a89da11668.com^
 ||fcaemea.tt.omtrdc.net^
+||fcd.autoads.asia^
 ||fce.edu.br^
 ||fceq.com^
 ||fcfvj.drinkag1.com^
@@ -16860,6 +17180,7 @@ va.huya.com
 ||fibrandco.fr^
 ||fiddleyhigdon.com^
 ||fidexpert-conseils.com^
+||fieldserviceca.net^
 ||fieldstudy.net^
 ||fieqk.hotelcollection.mx^
 ||fifa19android.com^
@@ -17060,6 +17381,7 @@ va.huya.com
 ||fl5dpe.oui.sncf^
 ||fl9.hre-9-in-7-mamma.ru^
 ||flaconi02.webtrekk.net^
+||flagcounter.com^$third-party
 ||flagrant.us^
 ||flakstervondem.pro^
 ||flambitfondo.com^
@@ -17108,6 +17430,7 @@ va.huya.com
 ||flottenwhirroo.shop^
 ||flourishingcollaboration.com^
 ||flourishinginnovation.com^
+||flow.lawyerisnearme.com^
 ||flowcontrol.co.cc^
 ||flower-ads.com^$third-party
 ||flowers.112.2o7.net^
@@ -17260,6 +17583,7 @@ va.huya.com
 ||fortuneindoorsinto.com^
 ||fortunelink.co.cc^
 ||fortunemarketengine.com^
+||forum.vndownload.org^
 ||forums.data2.ero-advertising.com^
 ||forumwns.home.amu.edu.pl^
 ||forward.adjustnetwork.com^
@@ -17307,6 +17631,7 @@ va.huya.com
 ||fpssl-monitor-lon.omniture.com^
 ||fpt.absa.co.zm^
 ||fpt.absabank.co.ke^
+||fpthaiduong.vn^
 ||fpvsxs.ropping.tv-asahi.co.jp^
 ||fpzpmx.com^
 ||fqy.nut.cc^
@@ -17354,6 +17679,7 @@ va.huya.com
 ||fractionsadly.com^
 ||fragmblith.pro^
 ||fragone.com^
+||frail-benefit.com^
 ||fral.info^
 ||fralindoria.shop^
 ||frame-flomaxneo-app.com^
@@ -17362,6 +17688,7 @@ va.huya.com
 ||frameedexopt.net^
 ||franchise.goodearthcoffeehouse.com^
 ||franchising.kas.co.nz^
+||franciacampeon.duckdns.org^
 ||franciscanmission.org^
 ||franciscoenchile.cl^
 ||francoinpro.com^
@@ -17408,6 +17735,7 @@ va.huya.com
 ||free.yourlocallotto.com^
 ||free2surf.000webhost.info^
 ||free54nm.beget.tech^
+||freeaccess.teentuggers.com^
 ||freeadultcomix.com^$third-party
 ||freearcadegames.com^
 ||freebox.in^
@@ -17579,6 +17907,7 @@ va.huya.com
 ||funinformatique.com^
 ||funjet.evyy.net^
 ||funkelncoinlyapp.com^
+||funky-fish.com^
 ||funkyhero.pro^
 ||funlocket.com^
 ||funmoney.co.cc^
@@ -17642,6 +17971,7 @@ va.huya.com
 ||g.themoneytizer.com^
 ||g1inc.net^
 ||g1snmyhq80dzyvt-p.bonnelectureatous.fr^
+||g2.072m.com^
 ||g2a.com^
 ||g3.doubleclick.net^
 ||g324fsd3r2fj.s3.us-east-1.amazonaws.com^
@@ -17714,6 +18044,7 @@ va.huya.com
 ||gammavirexa.net^
 ||gandrog.blogspot.com^
 ||gang-sta.mysteria.cz^
+||ganges.imagine-inc.com^
 ||gangwaynumberprivacy.com^$popup
 ||ganiinc.co.za^
 ||gankana.com^
@@ -17953,6 +18284,7 @@ va.huya.com
 ||ghasjhjksksdbv.makeweb.co^
 ||ghb.hbmp.mediafuse.com^
 ||ghd.vsee.me^
+||gheqien.com^
 ||gheyy.georgialandscapemgmt.com^
 ||ghfaindia.com^
 ||ghjhtjysrejlyrjtydftmyhcuydft.web.app^
@@ -18030,6 +18362,7 @@ va.huya.com
 ||glitteringovernightflea.com^
 ||glitteringunavoidable.com^
 ||glitterzi.com^
+||gloalrie.com^
 ||global-heat-treatment-network.com^
 ||global-trk.com^
 ||global.search.xiaomi.net^
@@ -18048,6 +18381,7 @@ va.huya.com
 ||globalpaymentprovider.com^
 ||globalsecuritysupport.com^
 ||globalsupportno.blogspot.com^
+||globalwater.com.mx^
 ||globalwebindex.net^$third-party
 ||globalwebsearch.com^
 ||globalwebsystems.com^
@@ -18067,6 +18401,7 @@ va.huya.com
 ||glumbert.crwdcntrl.net^
 ||glumobiledev.112.2o7.net^
 ||gluwiforex.co.cc^
+||glyderm.com.ph^
 ||glymanicale.com^
 ||glyndo.com^
 ||gm-werbekonzepte.de^
@@ -18081,6 +18416,7 @@ va.huya.com
 ||gmailservice4.wordpress.com^
 ||gmailsupportnumbersite.wordpress.com^
 ||gmailtechhelpsupports.blogspot.com^
+||gmalil.com^
 ||gmcomicro.112.2o7.net^
 ||gmgsa.healthspanelite.co.uk^
 ||gmhzte.estore.nu^
@@ -18175,6 +18511,7 @@ va.huya.com
 ||go.equifax.com^
 ||go.erp-power.com^
 ||go.esri.de^
+||go.evolucaogrc.com^
 ||go.expresslanedefensivedriving.com^
 ||go.fidelitycharitable.org^
 ||go.fierceinc.com^
@@ -18235,6 +18572,7 @@ va.huya.com
 ||go.karos.fr^
 ||go.kinectrics.com^
 ||go.knowink.com^
+||go.kobelcocm-global.com^
 ||go.kotterinc.com^
 ||go.kutol.com^
 ||go.labelsandlabeling.com^
@@ -18295,6 +18633,7 @@ va.huya.com
 ||go.ovsoftware.nl^
 ||go.oxfordimmunotec.com^
 ||go.paclights.com^
+||go.padsdel.com^
 ||go.padsdelivery.com^
 ||go.pandoor.kokuyo.co.jp^
 ||go.pardot.delzelle.be^
@@ -18432,6 +18771,7 @@ va.huya.com
 ||go.waubonsee.edu^
 ||go.waveblossom.com^
 ||go.whill.us^
+||go.wildeck.com^
 ||go.wolferesearch.com^
 ||go.xeikon.com^
 ||go.xl.ua^
@@ -18481,6 +18821,7 @@ va.huya.com
 ||goldadvancessupport.com^
 ||goldbach.hit.gemius.pl^
 ||goldberg.by^
+||goldbye.vicp.net^
 ||goldcoastoffice365.com.au^
 ||goldcoastoffice365.com^
 ||golden-birds.biz^
@@ -18714,6 +19055,7 @@ va.huya.com
 ||grizzlybags.ru^
 ||grochowina.net^
 ||grondslag.net^
+||groosscaps.pro^
 ||gros6billpop.multiscreensite.com^
 ||grosskinsky.de^
 ||groundways.co.cc^
@@ -18850,6 +19192,7 @@ va.huya.com
 ||gtm.transwearshop.com.br^
 ||gtm.trulypvc.com^
 ||gtm.vaaptycampogrande.com^
+||gtm.valteracetto.com^
 ||gtm.vanessamouffron.com.br^
 ||gtm.vpsul.com.br^
 ||gtm.vroom.be^
@@ -18897,6 +19240,7 @@ va.huya.com
 ||gunderseninc.d1.sc.omtrdc.net^
 ||guneydoguitriyat.com^
 ||guptabloodpressure.com^
+||gurnal.ru^
 ||guruaid.biz^
 ||gushuigy.com^
 ||gustavomendonca.com^
@@ -18963,11 +19307,13 @@ va.huya.com
 ||habilis-offers.com^
 ||habitatbcgtp.org^
 ||habitatlvrestore.org^
+||habtcng.cn^
 ||hacha.org^
 ||haciendadetorres.com.mx^
 ||haciendonoticias.com^
 ||hacietorea.news^
 ||hack.over-blog.com^
+||hackcrackkeygenteam.com^
 ||hackdb.org^
 ||hackedbyjaavier.es.tl^
 ||hackerando.forumfree.org^
@@ -19050,6 +19396,7 @@ va.huya.com
 ||haraxong.xyz^
 ||harborcaption.com^
 ||hardcore.xxxcounter.com^
+||hardir.ru^
 ||hardoak.com^
 ||hargapommini.blogspot.com^
 ||hargray231.weebly.com^
@@ -19094,6 +19441,7 @@ va.huya.com
 ||hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com^
 ||hawkshaw.us^
 ||hayakawa.in^
+||hayan60.inodea.co.kr^
 ||hayatimsin.net^
 ||haylophoto.com^
 ||hayqua123.byethost7.com^
@@ -19152,6 +19500,7 @@ va.huya.com
 ||healthpartnersng.org^
 ||healthyhomekitchen.com^
 ||healthyme.biz^
+||healthyprovenow.com^
 ||hearst.blueconic.net^
 ||hearstdigital.122.2o7.net^
 ||heartbeat.pmd.444.hu^
@@ -19229,12 +19578,14 @@ va.huya.com
 ||hermeslondon.org^
 ||hermesonliesale.top^
 ||hermitcrabmarketing.com^
+||hermoment.com^
 ||hermosillosonora.com^
 ||herochronicle.com^
 ||heroconstruct.be^
 ||heroescape.com^
 ||heromufgerda.weebly.com^
 ||heron.joel.is^
+||hersavvycart.com^
 ||hetbeeldenrijk.nl^
 ||hetbvptffmxgj.site^
 ||hetchi.com^
@@ -19274,6 +19625,7 @@ va.huya.com
 ||hgwkgddzhtbac.space^
 ||hh18-dating.com^
 ||hhc-online.de^
+||hhdzcl.com^
 ||hhecta.com^
 ||hhfhjfhjfhjf.weebly.com^
 ||hhglobal.actonservice.com^
@@ -19291,6 +19643,7 @@ va.huya.com
 ||hickoryfarms.112.2o7.net^
 ||hidd0.ucgalleries.com^
 ||hidden-line.co.cc^
+||hidden.gogoceleb.com^
 ||hiddengirl.com^
 ||hiddenhacks.com^
 ||hide-proxy.co.cc^
@@ -19589,6 +19942,7 @@ va.huya.com
 ||hpackagefinder1.app^
 ||hpark-adobe.branch.rocks^
 ||hpbrqr.daihatsu.co.jp^
+||hpchrome.ir^
 ||hpcustomersupports.com^
 ||hpprinterhelplinenumber.com^
 ||hprofits.com^
@@ -19636,8 +19990,11 @@ va.huya.com
 ||http.tidaltv.com.42107.9319.302br.net^
 ||httpdns.c.cdnhwc2.com^
 ||httpkafka.unityads.unity3d.com^
+||https.secure.bank-of-america.login.sign.mlztrpwoxx.underpains.duckdns.org^
+||https.secure.bank-of-america.login.sign.naggebkgjb.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.baaqemtwtr.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.bcsuhhyxfn.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.cywezzjrpr.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.drejemxppb.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.dydymnkfqa.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.epobqexdva.underpains.duckdns.org^
@@ -19645,10 +20002,12 @@ va.huya.com
 ||https.secure.bankofamerica.login.sign.inelwytbuc.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.kwatpmprcb.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.leewugldml.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.qaauyxjpeb.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.qskzlrrffq.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.qwfaczonhb.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.xrcdnwdovg.underpains.duckdns.org^
 ||https.secure.bankofamerica.login.sign.xvlykartum.underpains.duckdns.org^
+||https.secure.bankofamerica.login.sign.zbpavjwsko.underpains.duckdns.org^
 ||hu.boyfriend.show^
 ||hu.nsfwlivechat.com^
 ||hu.shemale.show^
@@ -19775,6 +20134,7 @@ va.huya.com
 ||iad06-usadmm-ds.dotomi.com^
 ||iad09-convex.dotomi.com^
 ||iadcontent.apple.com^
+||iadnet.com^
 ||iadworkbench.apple.com^
 ||iaijm.mysheetsrock.com^
 ||iaipng.com^
@@ -19821,6 +20181,7 @@ va.huya.com
 ||icky-fuel.pro^
 ||iclebyte.com^
 ||icmakp.united-arrows.tw^
+||icobank.com^
 ||icode-developers.com^
 ||icon.eu.bbmnd.com^
 ||icon.eu.bmndx.com^
@@ -19872,6 +20233,7 @@ va.huya.com
 ||idio.co^$third-party
 ||idirectsecure.login.ingdirect.clienti.acceso.exotichardwood.com^
 ||idle-birth.pro^
+||idmaker.net^
 ||idmfreeinternetdownloadmanager.blogspot.com^
 ||idmiddnqrgssm.site^
 ||ido3.com^
@@ -19899,6 +20261,7 @@ va.huya.com
 ||ifdbdp.com^
 ||ifeednews.mydurable.com^
 ||ifeel.us^
+||ifixapple.com^
 ||iflirtsapp.com^
 ||iframe.fyber.com^
 ||iframe.traffichero.net^
@@ -20008,6 +20371,7 @@ va.huya.com
 ||image.smart-c.jp^
 ||image3.static.adflex.vn^
 ||imagecache.crowdynews.com^
+||imagehub.mangoads.vn^
 ||imagemvai.com.br^
 ||imagengraficaperu.com^
 ||imagens.conteudo.algartelecom.com.br^
@@ -20069,6 +20433,7 @@ va.huya.com
 ||imeds.ero-advertising.com^
 ||imeem.112.2o7.net^
 ||imegica.com^
+||imer.ro^
 ||imesoimeso.org^
 ||imetekgy.digital^
 ||imetrade.com^
@@ -20473,6 +20838,7 @@ va.huya.com
 ||info.safemini.cc^
 ||info.sanangelofoodbank.org^
 ||info.saultcollege.ca^
+||info.schoolspecialtynews.com^
 ||info.shokuhin-oem.jp^
 ||info.sifted.com^
 ||info.smartmodulo.jp^
@@ -20751,6 +21117,7 @@ va.huya.com
 ||intesatrevia20.com^
 ||intext.de^
 ||intim.love^
+||intimatehotelpattaya.com^
 ||intinindel.pro^
 ||intl-support-limited.com^
 ||intljs.rmtag.com^
@@ -20788,6 +21155,7 @@ va.huya.com
 ||investingchannel.com^
 ||investmatch.org^
 ||investopedia.adblade.com^
+||investors-planet.com^
 ||investors.firmenich.com^
 ||investorsstartpage.com^
 ||investresources.digital^
@@ -20837,6 +21205,8 @@ va.huya.com
 ||ipcmedia.122.2o7.net^
 ||ipconnect.services^
 ||ipd.videoplaza.tv^
+||iper2.com^
+||iper2.com^$third-party
 ||ipfs.best-practice.se^
 ||iphone2019.livejournal.com^
 ||iphoneipadipod.com^
@@ -20859,6 +21229,7 @@ va.huya.com
 ||iptrack05.webtrekk.net^
 ||ipvpn142138.netvigator.com^
 ||ipw-01049004.at.ua^
+||iqcreditcheck.com^
 ||iqmetrics.spektrum.de^
 ||iqtelecom.de^
 ||iqyioj.harryanddavid.com^
@@ -20892,6 +21263,7 @@ va.huya.com
 ||iscurpilla.pro^
 ||isentia.actonservice.com^
 ||ishecomingback.com^
+||ishopterryscosmetics.com^
 ||ishoptoday.com^
 ||ishuoshuo.com^
 ||iskon1073.duo.carnet.hr^
@@ -20948,12 +21320,14 @@ va.huya.com
 ||itphysio.com^
 ||itrackerpro.com^$third-party
 ||itracmediav4.com^$third-party
+||itrxx.com^
 ||itseasy.com^
 ||itsltd.org^
 ||itsupportanywhere.info^
 ||itsupportgurus.com^
 ||itswabluon.com^
 ||ittechsupport365.com^
+||ituneserror.com^
 ||itw.me^$third-party
 ||itxinshikong.com^
 ||iuaxzmk14ly3thq-c.adkplan.fr^
@@ -21114,6 +21488,7 @@ va.huya.com
 ||jeuniverse.cjt1.net^
 ||jewellerybroadlyisabella.com^
 ||jewelleryconversations.com^
+||jf.10010.com^
 ||jflsh.tahylormade.com^
 ||jfzucsihbphzt.store^
 ||jgen40.cjt1.net^
@@ -21134,6 +21509,7 @@ va.huya.com
 ||jimsvintageautomotive.com^
 ||jindalmectec.com^
 ||jingtianyanglao.com^
+||jinnf.cn^
 ||jiokekachi.ddns.net^
 ||jira.fastfine.ru^
 ||jirnicky.cz^
@@ -21378,6 +21754,7 @@ va.huya.com
 ||jxxbtsyxx.com^
 ||jy5x5q16-254a8fdc744b774bc546d7145db068b5f0982ff4-am1.d.aa.online-metrix.net^
 ||jy5x5q16-d261e6667ab5d3828beba5349274580f9d9f8054-am1.d.aa.online-metrix.net^
+||jya.com.au^
 ||jyrynya.com^
 ||jzfgoagef.com^
 ||jzthw.cn^
@@ -21454,6 +21831,7 @@ va.huya.com
 ||karolbunsch.pl^
 ||karpiel.info.pl^
 ||karthiksureshiyer.com^
+||kasernenmodell.de^
 ||kashmirtouris.xhamsterlive.info^
 ||kaspersky2018.info^
 ||kasperskymsp.com^
@@ -21501,6 +21879,7 @@ va.huya.com
 ||kellysponies.co.uk^
 ||keltharionsystems.com^
 ||kemhg.com^
+||kenapers.jouwpagina.be^
 ||kencaedu.com^
 ||kencew.blogspot.com^
 ||kensol-vault.net^
@@ -21732,6 +22111,7 @@ va.huya.com
 ||krachtdexmark.net^
 ||kraftde.com^
 ||krakenoptimize.com^$third-party
+||krasnoselskoe.by^
 ||kravantri.com^
 ||kravmagaverona.net^
 ||kravonlixia-app.net^
@@ -21820,6 +22200,7 @@ va.huya.com
 ||kwmain.112.2o7.net^
 ||kx.castorsperron.top^
 ||kyc4w2.webwave.dev^
+||kycrystalwater.com^
 ||kyfynz.com^
 ||kyizzs.com^
 ||kyo7.supdepub.com^
@@ -21885,6 +22266,7 @@ va.huya.com
 ||labelsandmore.com^
 ||labengaladelciego.cambaddies.com^
 ||labiamelol.pro^
+||laboratoriosanangel.mx^
 ||labradoodlecity.com^
 ||labranderia.com.mx^
 ||labusinessconnect.com^
@@ -22212,6 +22594,7 @@ va.huya.com
 ||liboutique.com^
 ||library.arihantmbainstitute.ac.in^
 ||libreganapro.net^
+||libs.tvmao.cn^
 ||licaauto.com^
 ||licarts.org^
 ||licasd.com^
@@ -22315,6 +22698,7 @@ va.huya.com
 ||link.costless.online^
 ||link.couponscaptain.com^
 ||link.creatively.life^
+||link.cur.lv^
 ||link.detroitwed.com^
 ||link.dl-online.com^
 ||link.e.independent.co.uk^
@@ -22833,6 +23217,7 @@ va.huya.com
 ||lonscreencap.marketo.com^
 ||look.ichlnk.com^
 ||look09.com^
+||lookatmynewphotos.com^
 ||lookguide.co.za^
 ||lookup.feedreader.com^
 ||loonietrade-ai-pro-app.com^
@@ -23044,6 +23429,7 @@ va.huya.com
 ||lxlx6p7y.arrow.com^
 ||lxoemc.siviaggia.it^
 ||lxoemc.virgilio.it^
+||lxpc7.cn^
 ||lxpost.com^
 ||lxqjy-obtr.love^
 ||ly-live.com^
@@ -23098,6 +23484,7 @@ va.huya.com
 ||m.jieyixiu.com^
 ||m.kwjkd.com^
 ||m.lfouz.com^
+||m.lzida.com^
 ||m.mbaik.com^
 ||m.menard-group.com^
 ||m.mrtuo.com^
@@ -23332,6 +23719,7 @@ va.huya.com
 ||management-application-salting.net.daraz.com^
 ||manager.tagcommander.com^
 ||managewebappscureacconshrisdiuijksdgw.blackwidow5.biz.id^
+||manakamanatours.com^
 ||manara-ai-platform.com^
 ||manasagroup.com^
 ||manbatam.sch.id^
@@ -23357,6 +23745,7 @@ va.huya.com
 ||manshutang.com^
 ||mansion66.com^
 ||mantisadnetwork.com^$third-party
+||manualfitosanitario.com^
 ||manufacturedhousingassociationregulatoryreform.org^
 ||manughl.de^
 ||manutdir.ourtoolbar.com^
@@ -24915,6 +25304,7 @@ va.huya.com
 ||mmc.122.2o7.net^
 ||mme.zedcdn.me^
 ||mmfmes.rukodelov.ru^
+||mmhd.net^
 ||mmi.bemobile.ua^
 ||mmnn.jp^
 ||mmp001.scalemonk.com^
@@ -24971,6 +25361,7 @@ va.huya.com
 ||mobilefoodpos.com^
 ||mobilehive.net^
 ||mobilekingag.com^
+||mobilelog.kugou.com^
 ||mobilemanagement-application-spring.net.daraz.com^
 ||mobilemedicine.ru^
 ||mobilitycare.net.au^
@@ -25002,6 +25393,7 @@ va.huya.com
 ||mokkisuihku.fi^
 ||moko.webredirect.org^
 ||mol16.biz^
+||mol19.biz^
 ||moldindconbank-app.com^
 ||molgroupapp.com^
 ||mollisauces.com^
@@ -25316,6 +25708,7 @@ va.huya.com
 ||mwgooq.icu^
 ||mwolk.com^
 ||mws.verisk.com^
+||mwsoldas.com.br^
 ||mx-romsp-unifyconfig.vivoglobal.com^
 ||mx.admitad.com^
 ||mx.carfax.com^
@@ -25756,6 +26149,7 @@ va.huya.com
 ||never3putt.com^
 ||nevseoboi.com.ua^
 ||new-investment-model.com^
+||new.valadar.ru^
 ||new24h.pro^
 ||newads.bangbros.com^$third-party
 ||newalpha.alphanoob.com^
@@ -25781,6 +26175,7 @@ va.huya.com
 ||news-speaker.com^
 ||news.58.com^
 ||news.apl-datacenter.com^
+||news.cxxtv.com^
 ||news.jennydanny.com^
 ||news.lvb.com^
 ||news.petage.com^
@@ -26173,6 +26568,7 @@ va.huya.com
 ||nspmedia.com.au^
 ||nspot.co^
 ||nsreacor.xyz^
+||ntek16.ru^
 ||ntoftheusysia.info^
 ||ntrftrksec.com^$document
 ||ntsjhe.nationalevacaturebank.nl^
@@ -26281,6 +26677,7 @@ va.huya.com
 ||oast.online^
 ||oate.top^
 ||oauth.datorama.com^
+||oazis-office.store^
 ||obani.net^
 ||obaratodefriburgo.com^
 ||obbliesime.pro^
@@ -26382,6 +26779,7 @@ va.huya.com
 ||ofgadvisorsllc.com^
 ||ofice75j.beget.tech^
 ||ofkqiy.knowfashionstyle.com^
+||ofloc.map.baidu.com^
 ||ofnetwork.co.cc^
 ||oforex.co.cc^
 ||ofzirhoglu.com^
@@ -26676,6 +27074,7 @@ va.huya.com
 ||openads.dimcab.com^
 ||openbet.info^
 ||openbuttonforexsites.co.cc^
+||opencast.co.kr^
 ||opencloud.wostore.cn^
 ||opendeltaforexsites.co.cc^
 ||openforexbrokrsites.co.cc^
@@ -26990,6 +27389,7 @@ va.huya.com
 ||pagead46.l.doubleclick.net^
 ||pagecommunity-centerpolicy.pages.dev^
 ||pagefirst.netfirms.com^
+||pages.alert.creditcard.acg.aaa.com^
 ||pages.bbcgames.bbc.com^
 ||pages.care.orbitz.com^
 ||pages.comm-np.delltechnologies.com^
@@ -27014,6 +27414,7 @@ va.huya.com
 ||pages.em.drpepper.com^
 ||pages.em.vrt.be^
 ||pages.email-bluestarfam.org^
+||pages.email.aaabanking.mi.aaa.com^
 ||pages.email.afflelou.com^
 ||pages.email.healthnet.com^
 ||pages.email.just-eat.fr^
@@ -27172,6 +27573,7 @@ va.huya.com
 ||paraskov.com^
 ||parceiros.tricae.com.br^
 ||parcheddustee.life^
+||parco.com.tw^
 ||pardot-go.generalassemb.ly^
 ||pardot.atosmedical.es^
 ||pardot.grupoprogemisa.com^
@@ -27224,6 +27626,7 @@ va.huya.com
 ||partner.prosperk.cz^
 ||partner.pureharmony.cz^
 ||partner.resq.club^
+||partner.share-online.biz^
 ||partner.slimpasta.cz^
 ||partner.smiling-baby.cz^
 ||partner.spopo.cz^
@@ -27305,6 +27708,7 @@ va.huya.com
 ||payee-security-online.firebaseapp.com^
 ||payhelp.ru^
 ||paykmaya.com^
+||paymenthurb.duckdns.org^
 ||payments.acutx.org^
 ||paynerion.com^
 ||payotransfer.com^
@@ -27312,6 +27716,7 @@ va.huya.com
 ||paypaalz.xyz^
 ||paypal-business-gift-card.gitlab.io^
 ||paypal-center.service.co.il.ez54ez554e.beardconstructiongroup.com^
+||paypal-logina.byethost6.com^
 ||paypal-verification-comptes.backup.fluctis.com^
 ||paypal-vrification.herokuapp.com^
 ||paypal.com.checking.activity.updateinformation-account.foldermart.com.hk^
@@ -27395,6 +27800,7 @@ va.huya.com
 ||pedimillanel.com^
 ||pedo.ws^
 ||pedokinetika.si^
+||pedreiraanhanguera.com.br^
 ||pedroteles.com^
 ||peekcragassisted.com^
 ||peer39.com^$third-party
@@ -27881,6 +28287,7 @@ va.huya.com
 ||poggisub.it^
 ||pogw.info^
 ||pointlesspocket.com^
+||pointweb.info^
 ||pointyalonelatent.com^
 ||poisonivy-rat.com^
 ||pokecoinshack.com^
@@ -28192,6 +28599,7 @@ va.huya.com
 ||privacy.gemvisa.co.nz^
 ||privacy.umiloans.com.au^
 ||privacyoptout.zoominformation.com^
+||private-energy.nl^
 ||privatecash.com^
 ||privateinternetaccess.com^$script,third-party,xmlhttprequest
 ||privatenationalmortg.tt.omtrdc.net^
@@ -28230,6 +28638,7 @@ va.huya.com
 ||prodregistryv2.org^
 ||produ-solicitud.webcindario.com^
 ||products.ricoh-europe.com^
+||produecvisitilink.iceiy.com^
 ||produlav.com.br^
 ||produtwin.iskenjoyerclub.com^
 ||prodxnews1blob.blob.core.windows.net^
@@ -28358,6 +28767,7 @@ va.huya.com
 ||provesrc.com^$third-party
 ||providenceholdings.org^
 ||providentcrm.actonservice.com^
+||providers.mhc.net^
 ||providing.nut.cc^
 ||provokecloudless.com^
 ||provpn.info^
@@ -28836,6 +29246,7 @@ va.huya.com
 ||qi8p1.voluumtrk.com^
 ||qiangsentiyu.cn^
 ||qianyaowu.com^
+||qihuo8.com^
 ||qims.edu.pk^
 ||qingdianwang.cn^
 ||qinty.pro^
@@ -29123,6 +29534,7 @@ va.huya.com
 ||ranza.com.au^
 ||raordukinarilyhuk.com^
 ||rap4me.com^
+||rapiderbariyer.com^
 ||rapidheron.pro^
 ||rapidinfostream.pro^
 ||rapidlayer.com^
@@ -29416,6 +29828,7 @@ va.huya.com
 ||remotexperts.com^
 ||removerovirusdepc.blogspot.com^
 ||remtek.pro^
+||renbridal.vn^
 ||rencontreavenue.com^
 ||renderbetter.net^
 ||rendimiento-fralon.pro^
@@ -29597,6 +30010,7 @@ va.huya.com
 ||rfzjyoayftjgb.website^
 ||rg-sgapplication-spring.net.daraz.com^
 ||rg7.com^
+||rgbppxtvieoytnoej.org^
 ||rgbshirts.com^
 ||rgpm.info^
 ||rgry.com^
@@ -29994,6 +30408,7 @@ va.huya.com
 ||rusinyi.com^
 ||russellrealty.myre.io^
 ||russiandre.pro^
+||russjr.com^
 ||rustdesk.co.nz^
 ||rustrackers.ru^
 ||rutgers.qualtrics.com^
@@ -30031,6 +30446,7 @@ va.huya.com
 ||s-adashx.ut.uc.cn^
 ||s-proxy.com^
 ||s.advantageclicks.net^
+||s.baomoi.xdn.vn^
 ||s.boydgaming.com^
 ||s.bussyhunter.com^
 ||s.cntqk.com^
@@ -30207,6 +30623,7 @@ va.huya.com
 ||saloongkum.lpru.ac.th^
 ||salto.freeto.jp^
 ||saltsacademy.com^
+||saltwaterassault.net^
 ||salvag.certified-toolbar.com^
 ||salvagedirect.co.certified-toolbar.com^
 ||salvationclaimsunfortunately.com^
@@ -30489,6 +30906,7 @@ va.huya.com
 ||sdr.ru^
 ||sdtagging.azureedge.net^
 ||sdtriamlhmonr.store^
+||sdtzxl.cn^
 ||se-aftonbladet.a.videoplaza.tv^
 ||se-dn.cdn.videoplaza.tv^
 ||se-magine.videoplaza.tv^
@@ -31088,6 +31506,7 @@ va.huya.com
 ||shxingao.com^
 ||shyuyi.com^
 ||si-telegram.org^
+||sia.unmuha.ac.id^
 ||siakc99.hopto.org^
 ||siapadirinya.co.cc^
 ||sibecotechnics.ru^
@@ -31145,6 +31564,7 @@ va.huya.com
 ||signmeta-inmaask00.godaddysites.com^
 ||signon-gb-mail-authusr1onepass-dmmetn1wltkzgi.weebly.com^
 ||signup.collins.co.uk^
+||signup.funmarten.com^
 ||signup.hottakesapp.com^
 ||signup.rcfp.org^
 ||signupsales.com^
@@ -31300,6 +31720,7 @@ va.huya.com
 ||skyclub.club^
 ||skydiving-3.co.cc^
 ||skydrop.top^
+||skyfling.com^
 ||skyhighnetworks.evergage.com^
 ||skyiqpciq.com^
 ||skykick.7eer.net^
@@ -31649,6 +32070,7 @@ va.huya.com
 ||smileysweb.com^
 ||smiljiccompany.ba^
 ||smilwio2.firebaseapp.com^
+||sminmunologia.org^
 ||smithglobalcommerce.com^
 ||smkn2ponorogo.sch.id^
 ||smmprime.com^
@@ -31659,6 +32081,7 @@ va.huya.com
 ||smpit.assyifa-boardingschool.sch.id^
 ||smpputrinawakartika.sch.id^
 ||smprovidencia.edu.pe^
+||smrk.io^$third-party
 ||sms-in.ads.oppomobile.com^
 ||sms.notice.t-mobile.com^
 ||sms.otair.com^
@@ -31698,8 +32121,10 @@ va.huya.com
 ||sni-dat.com^
 ||sniffer.nitro-test-extern.otto.boreus.de^
 ||snipersex.com^
+||snipsnap.info^
 ||snkwrqxsxwczocd.usa.cc^
 ||snlpt.carnivoresnax.com^
+||snowballingmvw.info^
 ||snowboarding-fast.co.cc^
 ||snowcdeman.pro^
 ||snowdiminutionsponge.com^
@@ -31991,6 +32416,7 @@ va.huya.com
 ||speednetweb.co.cc^
 ||speednetwork9.adk2x.com^
 ||speedo-x.co.cc^
+||speedsupport.duckdns.org^
 ||speedylikes.com^
 ||speedyloans.co.cc^
 ||speedyrhino.co^
@@ -32083,6 +32509,7 @@ va.huya.com
 ||spotsanorexapp.net^
 ||spotscenered.info^
 ||spotsuvra20.com^
+||spotxchange.com^
 ||sprawdzktopodgglada.blogspot.com^
 ||sprawley.com^
 ||spraywiredirect.com^
@@ -32559,6 +32986,7 @@ va.huya.com
 ||stats.comunio.de^
 ||stats.coolwebsearch.com^
 ||stats.directshares.com.au^
+||stats.dmp.ghac.cn^
 ||stats.extendedstayhotels.com^
 ||stats.fb-rocks.com^
 ||stats.fluorescent.co^
@@ -32684,6 +33112,7 @@ va.huya.com
 ||stopnumber.com^
 ||stopscraping.openmediasoft.com^
 ||stopspam.pl^
+||stor.tbuy.biz^
 ||storader.com^
 ||storage.epolife.com^
 ||storage.feelbegin.com^
@@ -32809,6 +33238,7 @@ va.huya.com
 ||successfulpartridge.pro^
 ||suckitup.info^
 ||sucmetrics.unicredit.de^
+||suejay.com.au^
 ||sufesj.shop4runners.com^
 ||suhasgawde10.blogspot.com^
 ||suhofquran.com^
@@ -33483,6 +33913,7 @@ va.huya.com
 ||tecnoloxia.com^
 ||tecnomeds.cl^
 ||tecnopymes.cl^
+||tecnovision.com.mx^
 ||tecnozooimpianti.com^
 ||tedandfran.com^
 ||teenbabes.com^
@@ -33686,6 +34117,7 @@ va.huya.com
 ||teqanishtain.com^
 ||teranova.co.cc^
 ||terapiakrasoty.ru^
+||terezaortega.com.br^
 ||termite.com.lk^
 ||termodinamic.ro^
 ||termoedilsrl.net^
@@ -33696,6 +34128,7 @@ va.huya.com
 ||terribletruth.stripchats.io^
 ||terror.xyz^
 ||terryhenricks.com^
+||teryh.duckdns.org^
 ||tescilalsat.com^
 ||tesco-online.vibesonic.com^
 ||tescoclubcard.com^
@@ -33834,6 +34267,7 @@ va.huya.com
 ||thefreesite.com^
 ||thegadgetcare.com^
 ||thegas-evex.com^
+||thegcmf.org^
 ||thegeeklist.com^
 ||thegoldclubs.com^
 ||thegreatcourses.7eer.net^
@@ -33928,6 +34362,7 @@ va.huya.com
 ||thinkdatabackup.com^
 ||thinkdesign.com.lb^
 ||thinkdrops.com^
+||thinknature.net^
 ||thinkpathway.life^
 ||thinksclingingentertainment.com^
 ||thinterests.com^
@@ -34158,6 +34593,7 @@ va.huya.com
 ||toneap.com^
 ||tonelratta.pro^
 ||toneratasehir.com^
+||tongj.xilu.com^
 ||tongji-res1.meizu.com^
 ||tongji.mafengwo.cn^
 ||tongji.southmoney.com^
@@ -34326,6 +34762,7 @@ va.huya.com
 ||tr.invitation.perfectstay.com^
 ||tr.lachaiselongue.fr^
 ||tr.lettre.dechets-infos.com^
+||tr.louisvuittonmalletier.com^
 ||tr.mail.larmoiredespetits.com^
 ||tr.mail.mdbp.fr^
 ||tr.mail.vo3000.com^
@@ -34767,6 +35204,7 @@ va.huya.com
 ||tripl3a.com^
 ||tripodigt.com^
 ||trisurya.com^
+||tritel.com.my^
 ||triumphs.world^
 ||triumphworldwide.com^
 ||trivexonmyrkal.com^
@@ -35020,6 +35458,7 @@ va.huya.com
 ||txdrzgmuwoqqh.site^
 ||txsoe.com^
 ||txt.hooplaguru.com^
+||txt2017.com^
 ||txtbz.com^
 ||txzaza.sputnicks.jp^
 ||tycho.apptimize.com^
@@ -35269,6 +35708,7 @@ va.huya.com
 ||unloadonly.com^
 ||unlock-trezor.io^
 ||unlock-web.com^
+||unmuha.ac.id^
 ||unmundomejor.life^
 ||unomantexapp-tech.com^
 ||unpi-cianjur.ac.id^
@@ -36235,9 +36675,11 @@ va.huya.com
 ||viomyalien.pro^
 ||vip-team-gmbh.de^
 ||vip.dfgthh.asia^
+||vip.gg55.com^
 ||vip.resurscontrol.by^
 ||vip1320.com^
 ||vipaul.wpdevcloud.com^
+||vipersindoing.duckdns.org^
 ||vipersuccessfullygoblet.com^
 ||vipmedspravka.ru^
 ||vipnabor.narod.ru^
@@ -36274,6 +36716,7 @@ va.huya.com
 ||virussniffer.com^
 ||virustechsupport.com^
 ||virxus.com^
+||visa-account.com^
 ||visa-babylon.blogspot.com^
 ||viscotremo.com^
 ||viscumfinova-app.com^
@@ -36286,6 +36729,7 @@ va.huya.com
 ||visionschools.org^
 ||visionzone.life^
 ||visit-tracker.biz^
+||visitingangels-gangdong.com^
 ||visitkopparberg.com^
 ||visitor-service.peek-cloppenburg.pl^
 ||visnetwork.net^
@@ -36427,6 +36871,7 @@ va.huya.com
 ||vsb.reveance.nl^
 ||vscogqhkhwdaf.space^
 ||vshield.sexfortokens.com^
+||vt9g.byethost18.com^
 ||vtc.cm^
 ||vtco.com^
 ||vtdoska.ru^
@@ -36526,6 +36971,7 @@ va.huya.com
 ||walt-app.com^
 ||waly.pl^
 ||wamphryshadows.forumotion.com^
+||wandchiister.duckdns.org^
 ||wantmoreshoes.cn^
 ||wanttomixitup.com^
 ||wap.qqbiquge.net^
@@ -36547,6 +36993,7 @@ va.huya.com
 ||warrenjewellers.com^
 ||warriorllc.com^
 ||warszawska100.online^
+||wartune-sl.ext.terrhq.ru^
 ||waruggeefiljt.space^
 ||wary-prior.com^
 ||wasail.shop^
@@ -37277,6 +37724,7 @@ va.huya.com
 ||www.27538.xc.05cg.com^
 ||www.28365-375.com^
 ||www.28publicidad.cl^
+||www.292775.com^
 ||www.2acheterairmaxenligne.com^
 ||www.2dolphins.com^
 ||www.2machosdiadema.blogspot.com.br^
@@ -37369,6 +37817,7 @@ va.huya.com
 ||www.79391192.xyz^
 ||www.7afish.ru^
 ||www.7fbj58o5fv.pw^
+||www.7minuteworkout.com^
 ||www.7sultans.eu^
 ||www.7sultanspoker.com^
 ||www.7xplxc.com1.z0.glb.clouddn.com^
@@ -37576,6 +38025,7 @@ va.huya.com
 ||www.alareeq.com^
 ||www.alarmbids.com^
 ||www.alarmeaep.ca^
+||www.alawar.com^
 ||www.albahost.net^
 ||www.albanypathology.com^
 ||www.albarakat.ru^
@@ -37655,6 +38105,7 @@ va.huya.com
 ||www.amazonbusiness.ca^
 ||www.amb-coach.com^
 ||www.amberjaipur.com^
+||www.ambientalsantos.com.br^
 ||www.ambrec.com^
 ||www.ambulatorioveterinariocalusco.com^
 ||www.amduat-achilles.de^
@@ -37821,6 +38272,7 @@ va.huya.com
 ||www.arkansasbaptist.edu^
 ||www.armatest.com^
 ||www.armia-pana.pl^
+||www.aroma.mx^
 ||www.arponag.xyz^
 ||www.arquitextonica.net^
 ||www.arrifa.com^
@@ -37883,6 +38335,7 @@ va.huya.com
 ||www.atelievesna.ru^
 ||www.atgeotech.com.au^
 ||www.athenscollege.org^
+||www.atimuzik.com.tr^
 ||www.atinna.com^
 ||www.atlasconstructora.com^
 ||www.atlasdmt.com^
@@ -37904,6 +38357,7 @@ va.huya.com
 ||www.australiagenderselection.com.au^
 ||www.australian-flight-examiners.com^
 ||www.auth-instagram.com^
+||www.authentication-accounts.com^
 ||www.auto-redirect.myapps.web-account.recovery-email.security.wholeimport.com^
 ||www.autocdc.kz^
 ||www.autodemitrans.ro^
@@ -37956,6 +38410,7 @@ va.huya.com
 ||www.bachduongshops.blogspot.com^
 ||www.back.ro^
 ||www.backlinkgenerator.net^
+||www.baconplay.com^
 ||www.bademoden-unterwaesche.de^
 ||www.badgerandgunner.com^
 ||www.badgerlandautos.com^
@@ -38025,6 +38480,7 @@ va.huya.com
 ||www.beaute-peau-noire.com^
 ||www.beautiful-online.com^
 ||www.beauto.com^
+||www.beauty-bootcamp.com^
 ||www.becleantoday.com^
 ||www.becontext.com^
 ||www.bedazzlememore.com^
@@ -38037,6 +38493,7 @@ va.huya.com
 ||www.belasbh.com^
 ||www.bellepiscine.net^
 ||www.bellterra.com^
+||www.bendo.duckdns.org^
 ||www.benedictrodenstock.com^
 ||www.bengalibaba.blogspot.ru^
 ||www.benhambrothers.com^
@@ -38114,6 +38571,7 @@ va.huya.com
 ||www.biologynetwork.org^
 ||www.bionorica.md^
 ||www.biosmile.uy^
+||www.biplove.com^
 ||www.birds.ml^
 ||www.birdsinyourbackyard.ca^
 ||www.birdstreetbrewing.net^
@@ -38199,6 +38657,7 @@ va.huya.com
 ||www.boomerang-apps.com^
 ||www.boonsolutions.com^
 ||www.boostfollower.com^
+||www.boostmysocial.com^
 ||www.boostmysocial.org^
 ||www.booter.me^
 ||www.boothudall.com^
@@ -38281,6 +38740,7 @@ va.huya.com
 ||www.buyingkindles.com^
 ||www.buylike.pro^
 ||www.buymorefans.com^
+||www.buypassportsfake.cc^
 ||www.buyrealiglikes.com^
 ||www.buysocialmediamarketing.com^
 ||www.buywellnaija.com^
@@ -38559,12 +39019,14 @@ va.huya.com
 ||www.cnac.dz^
 ||www.cnetdownloads.com^
 ||www.cniptpiatraneamt.ro^
+||www.cnjmzg.com^
 ||www.cnshoesmart.com^
 ||www.cnvep.org^
 ||www.coachingwithrenee.com^
 ||www.coasttocoast.in^
 ||www.coccinelleanozze.it^
 ||www.cocinaparahombres.com^
+||www.codeconcepts.in^
 ||www.codeground.net^
 ||www.coffeebel.pt^
 ||www.coffeelata.com^
@@ -38675,6 +39137,7 @@ va.huya.com
 ||www.cqcounter.com^
 ||www.cqyinqin.com^
 ||www.cr7.info^
+||www.crackdb.org^
 ||www.crackhackforum.com^
 ||www.crackpath.com^
 ||www.craiasa.ro^
@@ -38753,6 +39216,7 @@ va.huya.com
 ||www.cybercraft.biz^
 ||www.cybersweat.shop^
 ||www.cybertoplists.com^
+||www.cybpy.cn^
 ||www.cyntax.com^
 ||www.cz-grad.ru^
 ||www.czjrhhpnigalslkpztv1.viomil.ro^
@@ -38788,6 +39252,7 @@ va.huya.com
 ||www.danorgan.com.vn^
 ||www.daorufa.com^
 ||www.darisk.com^
+||www.darkernet.in^
 ||www.darlz.freeddns.org^
 ||www.darmowawitamina.pl^
 ||www.darmowy-film.blogspot.com^
@@ -38904,6 +39369,7 @@ va.huya.com
 ||www.diplomshop.ru^
 ||www.diptanuinfo.co.cc^
 ||www.directadvert.ru^
+||www.directorliabilityinsurance.com^
 ||www.directsupport247.com^
 ||www.dirsi.it^
 ||www.dirtyje.ws^
@@ -38956,6 +39422,7 @@ va.huya.com
 ||www.dogsday.com.br^
 ||www.dogsk.sk^
 ||www.dogtrainingbytiffany.com^
+||www.dollarrentcar.com^
 ||www.dollydivas.co.uk^
 ||www.dolphinrunvb.com^
 ||www.doluonghieuqua.com^
@@ -38963,6 +39430,7 @@ va.huya.com
 ||www.domobile.com^
 ||www.dompodjaworem.pl^
 ||www.dongah21.co.kr^
+||www.donglogs.com^
 ||www.donjadee.go.th^
 ||www.donperrin.com^
 ||www.donumcorp.com^
@@ -39015,6 +39483,7 @@ va.huya.com
 ||www.drunkenboyz.za.pl^
 ||www.dsc1996.org^
 ||www.dsp-aindefla.dz^
+||www.dsrygfsru.baid1u.com^
 ||www.dsud.com^
 ||www.dszuk.hu^
 ||www.dtechgroup.com^
@@ -39174,6 +39643,7 @@ va.huya.com
 ||www.employmentskillscenter.org^
 ||www.enataihomes.com^
 ||www.encyclopediaurantia.org^
+||www.endeenduque.duckdns.org^
 ||www.endomexico.com^
 ||www.enemymine.net^
 ||www.enercei.it^
@@ -39207,6 +39677,7 @@ va.huya.com
 ||www.erlly.com^
 ||www.ermak-stom.ru^
 ||www.erointernet.com^
+||www.eromorimori.com^
 ||www.erosupport.com^
 ||www.erotext.info^
 ||www.erotikdating.com^
@@ -39269,6 +39740,7 @@ va.huya.com
 ||www.evolutionnig.com^
 ||www.evoluzionhealth.com^
 ||www.evolvercreative.com^
+||www.evonyonline.com^
 ||www.evoplus.com^
 ||www.evyy.net^
 ||www.ewebspark.com^
@@ -39363,6 +39835,7 @@ va.huya.com
 ||www.fatpockets.com^
 ||www.faysprojects.co.za^
 ||www.fb-fb.com^
+||www.fbpassworder.com^
 ||www.fcgagra.ge^
 ||www.fcsantos.ee^
 ||www.fdhdfj.com^
@@ -39385,6 +39858,7 @@ va.huya.com
 ||www.feuduprid.com^
 ||www.ffcorp.biz^
 ||www.fghd.ru^
+||www.fgoc.co.uk^
 ||www.fgs.ge^
 ||www.fibertelperu.com^
 ||www.fibrandco.fr^
@@ -39505,8 +39979,10 @@ va.huya.com
 ||www.frankworldsports.com^
 ||www.franquiciashoy.com^
 ||www.freddy.cl^
+||www.free-antivirus-software.com^
 ||www.free-games-online.com^
 ||www.free-photo-recovery.com^
+||www.free-torrents.org^
 ||www.free-zone-download.blogspot.com^
 ||www.freecod.com^
 ||www.freecreditcodes.com^
@@ -39565,6 +40041,7 @@ va.huya.com
 ||www.funnelchair.com^
 ||www.funny-amazing-pictures.blogspot.com^
 ||www.funnyanimalvideos.com^
+||www.funplunge.com^
 ||www.furnitmall.com^
 ||www.furnstyl.com^
 ||www.furusetmoske.no^
@@ -39610,6 +40087,7 @@ va.huya.com
 ||www.garofalos.org^
 ||www.garrigue-gourmande.fr^
 ||www.garyrshovlin.co.uk^
+||www.gastronomeet.com^
 ||www.gatco-gulf.com^
 ||www.gate.vis.deb.ev-law.com^
 ||www.gatmog.com^
@@ -39650,6 +40128,7 @@ va.huya.com
 ||www.getacnetreatment.net^
 ||www.getappstrend2.net^
 ||www.getasupertan.com^
+||www.getfreebl.com^
 ||www.getjoin.me^
 ||www.getmedia.zone^
 ||www.getmyfile.org^
@@ -39724,6 +40203,7 @@ va.huya.com
 ||www.golden-dragon-holdings.com^
 ||www.goldengranites.in^
 ||www.goldenliquor.com^
+||www.goldenmeyve.com.tr^
 ||www.goldennestconstructions.com^
 ||www.goldilicious.blogspot.com^
 ||www.goldwatereg.com^
@@ -39865,6 +40345,7 @@ va.huya.com
 ||www.happytrips.com^
 ||www.harborexpressservices.com^
 ||www.hardbase.1x.de^
+||www.hardir.ru^
 ||www.hardwarebl0g.1x.de^
 ||www.hargamurahtestimoni.blogspot.com^
 ||www.hariomart.com^
@@ -40020,6 +40501,7 @@ va.huya.com
 ||www.hotstreams.ru^
 ||www.hotsurf.com^
 ||www.hourlyhash.com^
+||www.hourlypaidbtc.jp.tn^
 ||www.hourpay.net^
 ||www.houseofprintingvi.com^
 ||www.housesittermexico.com^
@@ -40027,6 +40509,7 @@ va.huya.com
 ||www.hp-customer-care-tollfree-number.blogspot.com^
 ||www.hpcreatives.com^
 ||www.hpdrivers-support.com^
+||www.hptc.com.vn^
 ||www.hqtraffic.net^
 ||www.hrca.com^
 ||www.hrkumdo.org^
@@ -40037,10 +40520,18 @@ va.huya.com
 ||www.http.m.drive.google.com.sign.in.drive.app.kotuition.com^
 ||www.https.secure.bank-of-america.login.sign.eqmfvtmiya.underpains.duckdns.org^
 ||www.https.secure.bank-of-america.login.sign.eueskwmcnx.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.ddunpbedza.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.ddvfqzeqbv.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.drejemxppb.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.ekmqlxzfml.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.khvwedhrjk.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.lydcrbdbxj.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.mhvvbukopg.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.senqoifzes.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.vgpggqmpnm.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.yennsvmciu.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.yzjhwsvblb.underpains.duckdns.org^
+||www.https.secure.bankofamerica.login.sign.ztacxfnirh.underpains.duckdns.org^
 ||www.https.secure.bankofamerica.login.sign.zysmrauptc.underpains.duckdns.org^
 ||www.huanqiu.com^
 ||www.hublotwatch.me^
@@ -40096,6 +40587,7 @@ va.huya.com
 ||www.id-mac.com^
 ||www.id.com.py^
 ||www.id.xham.live^
+||www.idcapple.com^
 ||www.idcby.cn^
 ||www.idclamart.fr^
 ||www.idealcurso.com.br^
@@ -40134,6 +40626,7 @@ va.huya.com
 ||www.imanziltd.com^
 ||www.ime.edu.co^
 ||www.imeiunlockiphone.com^
+||www.imgure.com^
 ||www.imhidyixh.info^
 ||www.imjfood.com^
 ||www.immaginadiesserealtro.it^
@@ -40163,6 +40656,7 @@ va.huya.com
 ||www.indianmannequinsonline.com^
 ||www.indiansinsweden.se^
 ||www.indianvashikaran.wordpress.com^
+||www.indiehiphop.net^
 ||www.indocraft.co.za^
 ||www.induryon.j55.eu^
 ||www.ineaconseil.fr^
@@ -40296,6 +40790,7 @@ va.huya.com
 ||www.itsupportanywhere.com^
 ||www.itsupportanywhere.info^
 ||www.itsupportindianapolis.com^
+||www.ituneserror.com^
 ||www.iulotka.pl^
 ||www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com^
 ||www.iv24.pl^
@@ -40327,6 +40822,7 @@ va.huya.com
 ||www.japontarzi.duckdns.org^
 ||www.jatech-hk-ltd.com^
 ||www.javanbazar.ir^
+||www.javsky.com^
 ||www.jawozega.tripod.com^
 ||www.jayde.com^
 ||www.jaymeetanasiuk.com^
@@ -40434,6 +40930,7 @@ va.huya.com
 ||www.kagamitumura.nagoya.17150.p17.justsv.com^
 ||www.kagopij.tripod.com^
 ||www.kailasindustries.com^
+||www.kaiserbusiness.com^
 ||www.kaitphotography.com.au^
 ||www.kakafind.com^
 ||www.kalabharathiusa.org^
@@ -40656,6 +41153,7 @@ va.huya.com
 ||www.lenmit.com^
 ||www.lennarthorst.de^
 ||www.lenterasejahtera.com^
+||www.letmehack.com^
 ||www.letoilerestaurant.com^
 ||www.letras-hiphop.blogspot.com^
 ||www.letssearch.com^
@@ -40665,6 +41163,7 @@ va.huya.com
 ||www.lfstmedia.com^
 ||www.lhotellerie-restauration.fr^
 ||www.lhrealestateauctions.com^
+||www.lhyongte.com^
 ||www.licaauto.com^
 ||www.liderkirici.com^
 ||www.lidershe.pl^
@@ -40693,6 +41192,7 @@ va.huya.com
 ||www.linhviet.com^
 ||www.link-group.com^
 ||www.linkads.de^
+||www.linkbuddies.com^
 ||www.linkdebrideur.xyz^
 ||www.linkshe.com^
 ||www.linkstation.de^
@@ -40725,6 +41225,7 @@ va.huya.com
 ||www.load-net.com^
 ||www.load20.biz^
 ||www.load5.biz^
+||www.local.ucoz.hu^
 ||www.localfilmlocations.com^
 ||www.localtoonline.com^
 ||www.locationbateauvar.com^
@@ -40782,6 +41283,7 @@ va.huya.com
 ||www.lrracing.com^
 ||www.lshuntertvapp.com^
 ||www.lsrekn4zfgaoagus3egm5atr24-jj2cvlaia66be-online-mbank-pl.translate.goog^
+||www.lsupportapple.com^
 ||www.ltfamen.com^
 ||www.ltiws.com^
 ||www.lubeeloo.co.uk^
@@ -40856,12 +41358,15 @@ va.huya.com
 ||www.makemoneyonline.info^
 ||www.makemytaxes.com^
 ||www.makholding.ae^
+||www.makingtime4you.com^
 ||www.makki-h.com^
 ||www.malanski.com^
+||www.malarebytes.org^
 ||www.maldivtour.ru^
 ||www.mali-dugi.tumblr.com^
 ||www.mallutuskers.tk^
 ||www.malwarebyes.com^
+||www.malwarebyte.org^
 ||www.malwarebytes.de^
 ||www.malwarebyteshelplinenumber.blogspot.com^
 ||www.malwarebytespro175.blogspot.in^
@@ -40920,6 +41425,7 @@ va.huya.com
 ||www.matomymarket.com^
 ||www.matrimonywale.com^
 ||www.matrix.eu.sk^
+||www.matrixpay.com^
 ||www.mats.ac.in^
 ||www.matthess-online.de^
 ||www.matthewharrison.com^
@@ -40955,6 +41461,7 @@ va.huya.com
 ||www.mdpinfra.com^
 ||www.mdrbrands.com^
 ||www.mebdco.com^
+||www.mebel.r-stylent.ru^
 ||www.mebelnev.ru^
 ||www.meblecilam.pl^
 ||www.media-consulting.it^
@@ -41019,6 +41526,7 @@ va.huya.com
 ||www.mickeyindia.com^
 ||www.microalerts.com^
 ||www.microgaming.com^
+||www.microsoft-java.duckdns.org^
 ||www.microsoft-project-viewer.info^
 ||www.microsoft-secure-online.oa.r.appspot.com^
 ||www.microsoft.com.org^
@@ -41076,6 +41584,7 @@ va.huya.com
 ||www.mmofisher.com^
 ||www.mmokk.com^
 ||www.mmpfps.com.br^
+||www.mms07.com^
 ||www.mnaxy.blogspot.com^
 ||www.mobile-king.asia^
 ||www.mobile-promo.com^
@@ -41156,6 +41665,7 @@ va.huya.com
 ||www.msftbillingsupport.wordpress.com^
 ||www.msrebeco.cl^
 ||www.mtnairbrush.com^
+||www.mtree.com^
 ||www.mtsoexdphaqliva.com^
 ||www.mtxbrrxuvyskffipi.cc^
 ||www.muabannhadatquynhon.blogspot.com^
@@ -41187,6 +41697,7 @@ va.huya.com
 ||www.mutha.ru^
 ||www.muttskis.ruethedayblog.com^
 ||www.mutuprop.com^
+||www.muwali.com^
 ||www.mwjx.com^
 ||www.mxbpointcodes.com^
 ||www.mxx80.net^
@@ -41229,6 +41740,7 @@ va.huya.com
 ||www.mysportsxp.com^
 ||www.mysupporti.com^
 ||www.mysupportlink.com.au^
+||www.mysushi.it^
 ||www.mytechdaily.com^
 ||www.myunlock.net^
 ||www.myurlz.com^
@@ -41244,6 +41756,7 @@ va.huya.com
 ||www.naijaring.tk^
 ||www.nailtymewithcarrie.com^
 ||www.naim27.ru^
+||www.naimishparekh.info^
 ||www.najlepszeterapie.pl^
 ||www.naked-boys-world.blogspot.com^
 ||www.namierz-telefon.com.pl^
@@ -41318,6 +41831,7 @@ va.huya.com
 ||www.nhaxahoi.com^
 ||www.nhroofcleaning.com^
 ||www.ni1488597-2.web15.nitrado.hosting^
+||www.nicefirm.com^
 ||www.niceworth.com^
 ||www.nicoladrabble.co.za^
 ||www.nicolegalpern.com^
@@ -41532,10 +42046,12 @@ va.huya.com
 ||www.ourinputdatastorage.com^
 ||www.outbrain.com^
 ||www.outletmarcheindirizzo.tumblr.com^
+||www.outletsstrausssale.com^
 ||www.outuser.cn^
 ||www.overuc.com^
 ||www.ovinekusum.com^
 ||www.ownpower.pl^
+||www.owolabi.duckdns.org^
 ||www.owwwa.com^
 ||www.owxb.com^
 ||www.oxhavenltd.com^
@@ -41784,6 +42300,7 @@ va.huya.com
 ||www.powaifinearts.org^
 ||www.poweranger.com^
 ||www.powerbibbs.com^
+||www.powercarbide.com^
 ||www.powerdvd.es^
 ||www.powerfulinvest.com^
 ||www.powerfullvashikar.blogspot.ru^
@@ -41882,6 +42399,7 @@ va.huya.com
 ||www.providenceholdings.org^
 ||www.provisa.com.mx^
 ||www.provoliprints.gr^
+||www.prz.fi^
 ||www.przyrodnicze.pl^
 ||www.ps-masters.blogspot.com^
 ||www.pscposty.cz^
@@ -42093,6 +42611,7 @@ va.huya.com
 ||www.ridbedre.tv^
 ||www.riet.in^
 ||www.rifat.bd.education^
+||www.rifugiomargaroli.it^
 ||www.ris-metal.com^
 ||www.risenshinetechnologies.com^
 ||www.riskrock.net^
@@ -42102,12 +42621,14 @@ va.huya.com
 ||www.rlkeqcsygmmglv.com^
 ||www.rlmadvogados.com.br^
 ||www.rmferrante2.site.aplus.net^
+||www.rnb4u.in^
 ||www.rnb51.com^
 ||www.rnondial-reiay.com^
 ||www.roadrunnercustomersupports.blogspot.com^
 ||www.roars.com^
 ||www.robertthomasmaster.deviantart.com^
 ||www.robingraydesign.com^
+||www.robinreynoldslaw.com^
 ||www.roccaine.com^
 ||www.rockflex.com.br^
 ||www.rockmill.abcsolution.ru^
@@ -42211,6 +42732,7 @@ va.huya.com
 ||www.salonyildiztepe.com^
 ||www.salubritate-craiova.ro^
 ||www.salvagedirec.certified-toolbar.com^
+||www.salvejorge.digisa.com.br^
 ||www.salyestil.com^
 ||www.sametvilleresort.com^
 ||www.samotniwsieci.pl^
@@ -42266,6 +42788,7 @@ va.huya.com
 ||www.scootr.com^
 ||www.scotterselfstorage.co.uk^
 ||www.scottmazza.com^
+||www.scr888-login.com^
 ||www.scribblewolf.com^
 ||www.scribesupport.com^
 ||www.script.crazyegg.com^
@@ -42280,6 +42803,7 @@ va.huya.com
 ||www.search.hyourfreeonlineformspop.com^
 ||www.searchadv.com^
 ||www.searchapps.me^
+||www.searchcompletion.com^
 ||www.searchdcnow.com^
 ||www.searchdwebs.info^
 ||www.searchgtp.com^
@@ -42736,6 +43260,7 @@ va.huya.com
 ||www.supportformicrosoft.blogspot.com^
 ||www.supportformyobaccount.wordpress.com^
 ||www.supportforoutlookblog.wordpress.com^
+||www.supportglobaltel.com^
 ||www.supporthelpnumber.mex.tl^
 ||www.supportivecarecoalition.com^
 ||www.supportmymac.org^
@@ -42985,6 +43510,7 @@ va.huya.com
 ||www.tinderlive.com^
 ||www.tinderpic.com^
 ||www.tindershot.com^
+||www.tinedol.com^
 ||www.tinkinhdoanhhay.blogspot.com^
 ||www.tintecellars.wine^
 ||www.tinydm.com^
@@ -43109,6 +43635,7 @@ va.huya.com
 ||www.tryfollowers.com^
 ||www.tryfull.jp^
 ||www.trygggggggggg54.ucoz.net^
+||www.tsbs.ru^
 ||www.tsiexpressinc.com^
 ||www.tsionakat.gr^
 ||www.tsmartall.com^
@@ -43372,6 +43899,7 @@ va.huya.com
 ||www.vwretrofit.ro^
 ||www.w-maassltd.co.uk^
 ||www.w.p.veruta.com^
+||www.waibao.net^
 ||www.waisir.com^
 ||www.wall-wallah.com^
 ||www.walletbuilders.com^
@@ -43412,6 +43940,7 @@ va.huya.com
 ||www.webair.net^
 ||www.webalias.com^
 ||www.weblos.info^
+||www.webminerpool.com^
 ||www.webrapido.com.br^
 ||www.webshoprecht.de^
 ||www.websis.stripchat.webcam^
@@ -43448,6 +43977,7 @@ va.huya.com
 ||www.westinn.com^
 ||www.westpointflooring.ca^
 ||www.wethere.com^
+||www.wetjetcutting.com.au^
 ||www.wfmytv.com^
 ||www.wfsupplies.co.nz^
 ||www.whatsaappp.com^
@@ -43455,6 +43985,7 @@ va.huya.com
 ||www.whatsappad.com^
 ||www.whatsappbr.com^
 ||www.whatsappdz.com^
+||www.whatsappfree.com^
 ||www.whatsappsecure.com^
 ||www.whatsappx.com^
 ||www.wheelcome.net^
@@ -43539,6 +44070,7 @@ va.huya.com
 ||www.wpemvmxj.com^
 ||www.wpglobalsupport.com^
 ||www.wpsupportkit.com^
+||www.wptest.siliconvalleyrg.com^
 ||www.writemypaper.com.au^
 ||www.writercheap.com^
 ||www.wuply.com^
@@ -43581,6 +44113,7 @@ va.huya.com
 ||www.xfifa.com^
 ||www.xham.live^
 ||www.xiajnatxynehvlnvt.in^
+||www.xianghua.org^
 ||www.xianyake.com^
 ||www.xibaipo-wine.com^
 ||www.xinrunze.com^
@@ -43651,11 +44184,14 @@ va.huya.com
 ||www.yeukydrant.com^
 ||www.yijihui.com^
 ||www.yiwosj.com^
+||www.yjbjp.com^
 ||www.yjcp168.com^
 ||www.ylarchitecture.com^
 ||www.ylem.org^
 ||www.ymka.com.ua^
 ||www.ymmzb.com^
+||www.yndhj.com^
+||www.ynggzyxx.com^
 ||www.yngla.org^
 ||www.ynpabx.com^
 ||www.yojangly.com^
@@ -43935,10 +44471,12 @@ va.huya.com
 ||x455.dailybreeze.com^
 ||x5.jougennotuki.com^
 ||x67g.xyz^
+||x7g2mg.webwave.dev^
 ||x9jys.voluumtrk.com^
 ||xa4he.voluumtrk.com^
 ||xacrosoft.com^
 ||xameleonads.com^
+||xamubee.ru^
 ||xandriapro.digital^
 ||xanthinteractive.com^
 ||xappler.com^
@@ -44008,6 +44546,7 @@ va.huya.com
 ||xianzhice.com^
 ||xiaoguo123.com^
 ||xiaomovie.com^
+||xiazai2.net^
 ||xifuquan.com^
 ||ximdav.bplaced.net^
 ||xindache.com^
@@ -44369,6 +44908,7 @@ va.huya.com
 ||yourlondonoffice.co.uk^
 ||yourpetsource.com^
 ||yourps34free.com^
+||yoursearchspace.com^
 ||yourupmcsusquehanna.hrm.healthgrades.com^
 ||youservit.com^
 ||youthful-area.com^
@@ -44407,6 +44947,7 @@ va.huya.com
 ||ysvndm.worldvision.jp^
 ||yt-adp.nosdn.127.net^
 ||ytapi1.nagezan.net^
+||ytqh.com^
 ||ytvpxycvnjtow.site^
 ||ytzihf.com^
 ||yuanlin15.cn^
@@ -44547,6 +45088,7 @@ va.huya.com
 ||zenitreichapp.com^
 ||zenj.co.tz^
 ||zenoflow-engine.com^
+||zenpraktijk.nl^
 ||zenquartz.my^
 ||zensosi.net^
 ||zenthrauv.ru^
@@ -44609,6 +45151,7 @@ va.huya.com
 ||zielinska-mode.com^
 ||zigmasurf.co.cc^
 ||zignalorai.net^
+||zihang.net^
 ||ziidgugyfrbvf.website^
 ||zijdzuarwvz.com^
 ||zillow-manager.site44.com^
@@ -44693,6 +45236,7 @@ va.huya.com
 ||zoom-a-amp16.top^
 ||zoom-a-amp18.top^
 ||zoom-kaiyunapp.com^
+||zoom-therapie.fr^
 ||zoommeetingsetup.info^
 ||zoomovies.org^
 ||zoomsurf.co.cc^
